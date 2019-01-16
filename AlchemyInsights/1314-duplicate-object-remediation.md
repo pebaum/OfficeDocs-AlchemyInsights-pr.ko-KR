@@ -1,0 +1,29 @@
+---
+title: 1314 중복 개체 수정
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 12/8/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
+ms.openlocfilehash: 7dc629afcad312be80f47299d81ed320a11aa40c
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28298901"
+---
+# <a name="duplicate-object-synchronization-errors"></a>중복 개체 동기화 오류
+
+동기화 하는 동안 다음과 같은 오류 중 하나가 표시 합니다.
+  
+- 동일한 프록시 주소와 동기화 된 개체는 Microsoft Online Services 디렉터리에 이미 있습니다.
+    
+- UserPrincipalName에 대 한 유사한 메시지입니다.
+    
+진단 새 AADConnect 상태를 사용 하 여 중복 개체 오류를 해결 합니다. 자세한 내용은 참조 [진단 중복 된 특성 동기화 오류를 수정 하 고](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors)합니다.
+  
+

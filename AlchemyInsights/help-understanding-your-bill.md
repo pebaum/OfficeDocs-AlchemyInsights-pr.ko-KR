@@ -1,0 +1,35 @@
+---
+title: 도움말 청구서 이해 (영문)
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
+ms.date: 2/20/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
+ms.openlocfilehash: 82bf25d69f88699bef2663de5e41a9796ae1ea08
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28299198"
+---
+# <a name="help-understanding-your-bill"></a>도움말 청구서 이해 (영문)
+
+청구 되는 금액 구입한 라이선스 및 필요한 모든 세금/수수료의 수를 곱한 라이선스 가격에 반영 됩니다.
+  
+청구 되는 금액은 다른 몇가지 이유는 다음의 예상 하는 다음이 발생할 수 있습니다.
+  
+- 라이선스 추가 또는 구독에서 제거 합니다. 라이선스는 변경 된 중반 용어,이 다음 송장에 반영 됩니다. 신용 및이 변경에 대 한 계정 하는 이전 서비스 기간에 대 한 청구 다시 표시 될 수 있습니다.
+    
+- 구독을 취소 했습니다. 모든 영화 크레디트 뺀 해결 되지 않은 모든 균형 있는 취소 한 후 송장을 받게 됩니다.
+    
+- 새 용어에 대 한 갱신 구독 및 라이선스 가격 변경 합니다.
+    
+송장에 대 한 자세한 내용은 참조: [청구서 이해](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507)
+  
+

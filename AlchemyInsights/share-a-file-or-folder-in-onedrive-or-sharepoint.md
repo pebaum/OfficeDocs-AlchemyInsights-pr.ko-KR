@@ -1,0 +1,34 @@
+---
+title: 파일 또는 OneDrive 또는 SharePoint 폴더 공유
+ms.author: mikeplum
+author: MikePlumleyMSFT
+manager: scotv
+ms.date: 5/18/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: b6d51993-c6dd-4721-a41f-5c4edcf7c3c7
+ms.openlocfilehash: 18dadbdbfb216522924ddadf6ff019084e3bf93d
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28299192"
+---
+# <a name="share-a-file-or-folder-in-onedrive-or-sharepoint"></a>파일 또는 OneDrive 또는 SharePoint 폴더 공유
+
+1. 파일 또는 폴더를 공유를 선택 하 고 **공유**를 클릭 한 다음 하려는 이동 합니다.
+    
+2. (선택 사항) 링크 보내기 대화 상자에서 연결의 종류를 변경 하려면 아래쪽 화살표를 클릭 합니다. **가 시겠습니까이 링크에 대 한 작동 하도록**, 아래의 링크에 액세스할 수 있는 사용자를 변경 합니다. 사용자를 볼 수 있지만 하지 파일을 편집할 수 있도록을 하려는 경우에 **편집 허용** 확인란의 선택을 취소 합니다. 
+    
+    **적용**을 클릭합니다.
+    
+    > [!NOTE]
+    > 원하는 공유 옵션을 사용할 수 없는 경우 조직 및 사이트 모음에 대해 허용 되 고 있는지 확인 해야 합니다. 이 작업을 수행 하려면 [SharePoint Online에 대 한 설정 또는 해제를 공유 외부 설정](https://go.microsoft.com/fwlink/?linkid=866426)을 참조 합니다. 
+  
+3. 와 공유 하려는 사용자의 이름을 입력 하 고 **보내기**를 클릭 합니다.
+    
+
