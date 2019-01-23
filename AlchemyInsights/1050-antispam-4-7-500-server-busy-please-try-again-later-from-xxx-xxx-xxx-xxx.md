@@ -1,12 +1,21 @@
 ---
-제목: "1050 Antispam\4.7.500 서버 사용 중입니다. [XXX.XXX.XXX.XXX]에서 나중에 다시 시도 하십시오 "ms.author: chrisda 작성자: chrisda 관리자: serdars ms.date: 9/28/2018 ms.audience: it 전문가 ms.topic: 로봇 문서: NOINDEX, NOFOLLOW localization_priority: 우선순위
-
+title: 1050 스팸 방지 4.7.500 서버를 사용 중입니다. [XXX.XXX.XXX.XXX]에서 나중에 다시 시도 하십시오.
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 9/28/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
-
+ms.openlocfilehash: ac54320a5b0b42743d98e493c1637d4d31f77011
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383355"
 ---
-
-
-
 # <a name="47500-server-busy-please-try-again-later"></a>4.7.500 서버를 다른 용무 중, 하십시오 나중에 다시 시도
 
 원본 IP 주소에서 전자 메일 트래픽의 양이 원본 IP 주소는 신뢰도 (또는 신뢰도 부족)에 따라 한도 초과 하는 경우이 오류가 발생 합니다.

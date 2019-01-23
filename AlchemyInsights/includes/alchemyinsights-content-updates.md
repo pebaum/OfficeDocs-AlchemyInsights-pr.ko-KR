@@ -1,9 +1,17 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383357"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
 
 
-## <a name="week-of-january-07-2019"></a>2019 년 1 월 7 일 주간
+## <a name="week-of-january-07-2019"></a>2019년 1월 07일 주
 
 
 | 게시된 날짜 |항목 제목 | 변경 사항 |
@@ -624,3 +632,14 @@
 | 1/11/2019 | [사용자를 삭제합니다.](/AlchemyInsights/deleting-users) | 수정한 날짜 |
 | 1/11/2019 | [원활 하 게 Single Sign-on 배포](/AlchemyInsights/deploy-seamless-single-sign-on) | 수정한 날짜 |
 | 1/11/2019 | [Yammer에 대 한 액세스를 사용 하지 않도록 설정](/AlchemyInsights/disable-access-to-yammer) | 수정한 날짜 |
+
+
+## <a name="week-of-january-14-2019"></a>2019 년 1 월 14 일 주간
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 1/14/2019 | 연금술 개체 틀 | 제거 |
+| 1/14/2019 | 도메인 연금술 추가 | 제거 |
+| 1/14/2019 | [연금술 정보 홈](/AlchemyInsights/index) | 수정한 날짜 |
+| 1/17/2019 | [filename이 가장 동일 [규칙 #-설명]](/AlchemyInsights/1-alchemy-insight-template) | 추가 |
