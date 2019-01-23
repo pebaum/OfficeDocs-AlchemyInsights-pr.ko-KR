@@ -1,16 +1,25 @@
 ---
-<span data-ttu-id="f6682-101">제목: "1051 Antispam\4.7.500 액세스 거부, 하십시오 나중에 다시 시도" ms.author: chrisda 작성자: chrisda 관리자: serdars ms.date: 9/28/2018 ms.audience: it 전문가 ms.topic: 로봇 문서: NOINDEX, NOFOLLOW localization_priority: 우선순위</span><span class="sxs-lookup"><span data-stu-id="f6682-101">title: "1051 Antispam\4.7.500 Access denied, please try again later" ms.author: chrisda author: chrisda manager: serdars ms.date: 9/28/2018 ms.audience: ITPro ms.topic: article ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority</span></span>
-
-<span data-ttu-id="f6682-102">ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e</span><span class="sxs-lookup"><span data-stu-id="f6682-102">ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e</span></span>
-
+title: 1051 스팸 방지 액세스 거부 4.7.500 나중에 다시 시도 하십시오.
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 9/28/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
+ms.openlocfilehash: d777bacb799bbe25c11b8ceaf92e2c3d0262026a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383348"
 ---
+# <a name="47500-access-denied-please-try-again-later"></a><span data-ttu-id="e5c4b-102">4.7.500 액세스 거부, 나중에 다시 시도 하십시오.</span><span class="sxs-lookup"><span data-stu-id="e5c4b-102">4.7.500 Access denied, please try again later</span></span>
 
-
-
-# <a name="47500-access-denied-please-try-again-later"></a><span data-ttu-id="f6682-103">4.7.500 액세스 거부, 나중에 다시 시도 하십시오.</span><span class="sxs-lookup"><span data-stu-id="f6682-103">4.7.500 Access denied, please try again later</span></span>
-
-<span data-ttu-id="f6682-104">원본 IP 주소에서 전자 메일 트래픽의 양이 원본 IP 주소는 신뢰도 (또는 신뢰도 부족)에 따라 한도 초과 하는 경우이 오류가 발생 합니다.</span><span class="sxs-lookup"><span data-stu-id="f6682-104">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
+<span data-ttu-id="e5c4b-103">원본 IP 주소에서 전자 메일 트래픽의 양이 원본 IP 주소는 신뢰도 (또는 신뢰도 부족)에 따라 한도 초과 하는 경우이 오류가 발생 합니다.</span><span class="sxs-lookup"><span data-stu-id="e5c4b-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
   
-<span data-ttu-id="f6682-p101">원본 IP 주소에서 전자 메일을 차단 1 시간 내에 만료 됩니다. 원본 IP 주소에 속해 있는 온-프레미스 전자 메일 서버 이면 메일 흐름 커넥터의 구성을 확인 합니다. 한 시간 이상에 대 한 동작 계속 되 면 원본 IP 주소에 대 한 예외를 요청 하는 지원에 문의 합니다.</span><span class="sxs-lookup"><span data-stu-id="f6682-p101">Blocking email from the source IP address will expire within an hour. If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector. If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
+<span data-ttu-id="e5c4b-p101">원본 IP 주소에서 전자 메일을 차단 1 시간 내에 만료 됩니다. 원본 IP 주소에 속해 있는 온-프레미스 전자 메일 서버 이면 메일 흐름 커넥터의 구성을 확인 합니다. 한 시간 이상에 대 한 동작 계속 되 면 원본 IP 주소에 대 한 예외를 요청 하는 지원에 문의 합니다.</span><span class="sxs-lookup"><span data-stu-id="e5c4b-p101">Blocking email from the source IP address will expire within an hour. If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector. If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
   
 
