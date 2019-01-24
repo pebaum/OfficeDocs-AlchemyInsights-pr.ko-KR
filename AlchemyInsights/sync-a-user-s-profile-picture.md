@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
 ms.openlocfilehash: 88652b7d27ac13cacd9e07aaec5a4a1c38243c7f
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298485"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478337"
 ---
-# <a name="sync-a-users-profile-picture"></a><span data-ttu-id="1bdbb-102">사용자의 프로필 사진와 동기화</span><span class="sxs-lookup"><span data-stu-id="1bdbb-102">Sync a user's profile picture</span></span>
+# <a name="sync-a-users-profile-picture"></a><span data-ttu-id="fff8f-102">사용자의 프로필 사진와 동기화</span><span class="sxs-lookup"><span data-stu-id="fff8f-102">Sync a user's profile picture</span></span>
 
-<span data-ttu-id="1bdbb-p101">SharePoint Online에서 프로필 사진 동기화 자신의 사진의 동기화를 시작 하려면 사용자 작업이 필요 합니다. SharePoint online 사진의 자동 동기화 되지 않음 SharePoint Online Exchange Online에서 Azure Active Directory에서 사진만 동기화합니다.</span><span class="sxs-lookup"><span data-stu-id="1bdbb-p101">Profile Picture Synchronization in SharePoint Online requires a user's action to initiate the sync of their photo. There is no automatic synchronization of photos to SharePoint Online. SharePoint Online only synchronizes photos from Exchange Online, not Azure Active Directory.</span></span>
+<span data-ttu-id="fff8f-p101">SharePoint Online에서 프로필 사진 동기화 자신의 사진의 동기화를 시작 하려면 사용자 작업이 필요 합니다. SharePoint online 사진의 자동 동기화 되지 않음 SharePoint Online Exchange Online에서 Azure Active Directory에서 사진만 동기화합니다.</span><span class="sxs-lookup"><span data-stu-id="fff8f-p101">Profile Picture Synchronization in SharePoint Online requires a user's action to initiate the sync of their photo. There is no automatic synchronization of photos to SharePoint Online. SharePoint Online only synchronizes photos from Exchange Online, not Azure Active Directory.</span></span>
   
-<span data-ttu-id="1bdbb-106">사용자가 동기화를 라는 메시지가 표시 하는 동작을 수행 하지 파일이 나 자신의 프로필 사진 및 SharePoint Online에 표시 되지 않으면 하나는 새 업데이트를 하는 경우 사용자와 동기화 되도록 메시지를 표시 해야 합니다. 어떻게이 작업은 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="1bdbb-106">If a user has never performed an action that would prompt a sync or they have updated their profile picture and the new one doesn't appear in SharePoint Online, the user might need to prompt it to sync. Here's how they can do this:</span></span>
+<span data-ttu-id="fff8f-106">사용자가 동기화를 라는 메시지가 표시 하는 동작을 수행 하지 파일이 나 자신의 프로필 사진 및 SharePoint Online에 표시 되지 않으면 하나는 새 업데이트를 하는 경우 사용자와 동기화 되도록 메시지를 표시 해야 합니다. 어떻게이 작업은 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="fff8f-106">If a user has never performed an action that would prompt a sync or they have updated their profile picture and the new one doesn't appear in SharePoint Online, the user might need to prompt it to sync. Here's how they can do this:</span></span>
   
-1. <span data-ttu-id="1bdbb-107">In-개인 또는 Incognito 세션 및 [Office.com로 이동](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.office.com%2F&amp;data=02%7C01%7C%7Cbad62c504a36446096e108d614dec653%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636719344369977864&amp;sdata=Km7ZnN8FHSouZbxOiEpQAGIKsK82SHr25uYCh3Gc%2F3s%3D&amp;reserved=0)의 웹 브라우저를 엽니다.</span><span class="sxs-lookup"><span data-stu-id="1bdbb-107">Open a web browser in an In-Private or Incognito session and [go to Office.com](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.office.com%2F&amp;data=02%7C01%7C%7Cbad62c504a36446096e108d614dec653%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636719344369977864&amp;sdata=Km7ZnN8FHSouZbxOiEpQAGIKsK82SHr25uYCh3Gc%2F3s%3D&amp;reserved=0).</span></span>
+1. <span data-ttu-id="fff8f-107">In-개인 또는 Incognito 세션 및 [Office.com로 이동](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.office.com%2F&amp;data=02%7C01%7C%7Cbad62c504a36446096e108d614dec653%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636719344369977864&amp;sdata=Km7ZnN8FHSouZbxOiEpQAGIKsK82SHr25uYCh3Gc%2F3s%3D&amp;reserved=0)의 웹 브라우저를 엽니다.</span><span class="sxs-lookup"><span data-stu-id="fff8f-107">Open a web browser in an In-Private or Incognito session and [go to Office.com](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.office.com%2F&amp;data=02%7C01%7C%7Cbad62c504a36446096e108d614dec653%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636719344369977864&amp;sdata=Km7ZnN8FHSouZbxOiEpQAGIKsK82SHr25uYCh3Gc%2F3s%3D&amp;reserved=0).</span></span>
   
-2. <span data-ttu-id="1bdbb-108">OneDrive 또는 SharePoint 타일을 클릭 한 자신의 작업이 나 교육용 계정을 사용 하 여 로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="1bdbb-108">Sign in with their work or school account, and click the OneDrive or SharePoint tile.</span></span>
+2. <span data-ttu-id="fff8f-108">OneDrive 또는 SharePoint 타일을 클릭 한 자신의 작업이 나 교육용 계정을 사용 하 여 로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="fff8f-108">Sign in with their work or school account, and click the OneDrive or SharePoint tile.</span></span>
   
-[<span data-ttu-id="1bdbb-109">Office 365에 프로필 사진 추가</span><span class="sxs-lookup"><span data-stu-id="1bdbb-109">Add your profile photo to Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=875585)
+[<span data-ttu-id="fff8f-109">Office 365에 프로필 사진 추가</span><span class="sxs-lookup"><span data-stu-id="fff8f-109">Add your profile photo to Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=875585)
   
-[<span data-ttu-id="1bdbb-110">Office 365에서 프로필 사진 동기화 하는 방법에 대 한 정보</span><span class="sxs-lookup"><span data-stu-id="1bdbb-110">Info about profile picture synchronization in Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=875586)
+[<span data-ttu-id="fff8f-110">Office 365에서 프로필 사진 동기화 하는 방법에 대 한 정보</span><span class="sxs-lookup"><span data-stu-id="fff8f-110">Info about profile picture synchronization in Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=875586)
   
 

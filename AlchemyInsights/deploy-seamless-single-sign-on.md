@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
 ms.openlocfilehash: 2ff47d6c32a1c9b1867e164073c98ee5f0420904
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298426"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478400"
 ---
-# <a name="enable-seamless-sso"></a><span data-ttu-id="5c048-102">원활 하 게 SSO를 사용 하도록 설정</span><span class="sxs-lookup"><span data-stu-id="5c048-102">Enable Seamless SSO</span></span>
+# <a name="enable-seamless-sso"></a><span data-ttu-id="1ed00-102">원활 하 게 SSO를 사용 하도록 설정</span><span class="sxs-lookup"><span data-stu-id="1ed00-102">Enable Seamless SSO</span></span>
 
-<span data-ttu-id="5c048-103">Azure Active Directory (Azure AD) 원활 하 게 Single Sign-on (원활 하 게 SSO) 자동으로 로그인 사용자가 회사 네트워크에 연결 된 회사 데스크톱에 있을 때 합니다.</span><span class="sxs-lookup"><span data-stu-id="5c048-103">Azure Active Directory (Azure AD) Seamless Single Sign-On (Seamless SSO) automatically signs in users when they are on their corporate desktops that are connected to your corporate network.</span></span>
+<span data-ttu-id="1ed00-103">Azure Active Directory (Azure AD) 원활 하 게 Single Sign-on (원활 하 게 SSO) 자동으로 로그인 사용자가 회사 네트워크에 연결 된 회사 데스크톱에 있을 때 합니다.</span><span class="sxs-lookup"><span data-stu-id="1ed00-103">Azure Active Directory (Azure AD) Seamless Single Sign-On (Seamless SSO) automatically signs in users when they are on their corporate desktops that are connected to your corporate network.</span></span>
   
-[<span data-ttu-id="5c048-104">원활 하 게 SSO를 사용 하도록 설정 하려면이 문서의 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="5c048-104">Follow the steps in this article to enable Seamless SSO</span></span>](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
+[<span data-ttu-id="1ed00-104">원활 하 게 SSO를 사용 하도록 설정 하려면이 문서의 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="1ed00-104">Follow the steps in this article to enable Seamless SSO</span></span>](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   
 
