@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383357"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454436"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -209,7 +209,7 @@ ms.locfileid: "29383357"
 | 1/10/2019 | [워크플로 볼 때 액세스 거부 되었습니다.](/AlchemyInsights/access-denied-when-viewing-a-workflow) | 추가 |
 | 1/10/2019 | [Access Services](/AlchemyInsights/access-services) | 추가 |
 | 1/10/2019 | [제품 키를 가진 새 구독 활성화](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | 추가 |
-| 1/10/2019 | [Office 정품 인증](/AlchemyInsights/activate-office) | 추가 |
+| 1/10/2019 | Office 정품 인증 | 추가 |
 | 1/10/2019 | [Microsoft Office 365 볼륨 라이선스 구독 활성화](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | 추가 |
 | 1/10/2019 | [정품 인증 문제해결](/AlchemyInsights/activation-troubleshooting) | 추가 |
 | 1/10/2019 | [SharePoint 사이트에 그룹 추가](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | 추가 |
@@ -218,7 +218,7 @@ ms.locfileid: "29383357"
 | 1/10/2019 | [추가 하거나 사용자에 대 한 전자 메일 별칭을 제거 합니다.](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | 추가 |
 | 1/10/2019 | [선불된 구독에 시트를 추가 합니다.](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | 추가 |
 | 1/10/2019 | [선불된 구독에 시트를 추가 합니다.](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | 추가 |
-| 1/10/2019 | [Office 365에 사용자 추가](/AlchemyInsights/add-users-to-office-365) | 추가 |
+| 1/10/2019 | Office 365에 사용자 추가 | 추가 |
 | 1/10/2019 | [외부 사용자를 메일 그룹에 추가 합니까?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | 추가 |
 | 1/10/2019 | [외부 사용자 추가 (영문)](/AlchemyInsights/adding-external-users) | 추가 |
 | 1/10/2019 | [ADFS 페더레이션 인증서가 만료](/AlchemyInsights/adfs-federation-certificate-expiring) | 추가 |
@@ -272,11 +272,11 @@ ms.locfileid: "29383357"
 | 1/10/2019 | [SharePoint Online에서 도메인 이름 변경](/AlchemyInsights/change-domain-name-in-sharepoint-online) | 추가 |
 | 1/10/2019 | [지불 하는 빈도 변경 합니다.](/AlchemyInsights/change-how-often-you-pay) | 추가 |
 | 1/10/2019 | [MDM 권한 변경](/AlchemyInsights/change-mdm-authority) | 추가 |
-| 1/10/2019 | [이름 서버 변경](/AlchemyInsights/change-nameservers) | 추가 |
+| 1/10/2019 | Change nameservers | 추가 |
 | 1/10/2019 | [OneDrive 비즈니스 저장소 할당량에 대 한 변경](/AlchemyInsights/change-onedrive-for-business-storage-quota) | 추가 |
 | 1/10/2019 | [결제 방법 변경](/AlchemyInsights/change-payment-method) | 추가 |
 | 1/10/2019 | [SharePoint 목록 또는 라이브러리에 대 한 사용 권한 변경](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | 추가 |
-| 1/10/2019 | [청구 알림에 대한 대체 전자 메일 주소 변경](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | 추가 |
+| 1/10/2019 | 청구 알림에 대한 대체 전자 메일 주소 변경 | 추가 |
 | 1/10/2019 | [UPN 변경](/AlchemyInsights/change-upn) | 추가 |
 | 1/10/2019 | [외부 사용자 액세스에 대 한 변경 내용](/AlchemyInsights/changes-to-external-user-access) | 추가 |
 | 1/10/2019 | [메시지 또는 첨부 파일 크기를 변경합니다.](/AlchemyInsights/changing-message-or-attachment-size) | 추가 |
@@ -303,7 +303,7 @@ ms.locfileid: "29383357"
 | 1/10/2019 | [프로그램 흐름 만들기](/AlchemyInsights/create-a-flow) | 추가 |
 | 1/10/2019 | [현대 팀 사이트 만들기](/AlchemyInsights/create-a-modern-team-site) | 추가 |
 | 1/10/2019 | [공유 사서함 만들기](/AlchemyInsights/create-a-shared-mailbox) | 추가 |
-| 1/10/2019 | [SharePoint 사이트 만들기](/AlchemyInsights/create-a-sharepoint-site) | 추가 |
+| 1/10/2019 | SharePoint 사이트 만들기 | 추가 |
 | 1/10/2019 | [SharePoint Online에서 사이트 만들기](/AlchemyInsights/create-a-site-in-sharepoint-online) | 추가 |
 | 1/10/2019 | [만들기 및 공유 사서함을 사용 하 여](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | 추가 |
 | 1/10/2019 | [만들기 및 공유 사서함을 사용 하 여](/AlchemyInsights/create-and-use-a-shared-mailbox) | 추가 |
@@ -321,7 +321,7 @@ ms.locfileid: "29383357"
 | 1/10/2019 | [거부 된 신용 카드](/AlchemyInsights/declined-credit-card) | 추가 |
 | 1/10/2019 | [하이브리드 환경에서 사용 권한을 위임 된 사서함](/AlchemyInsights/delegated-mailbox-permissions-in-a-hybrid-environment) | 추가 |
 | 1/10/2019 | [통신 사이트 삭제](/AlchemyInsights/delete-a-communication-site) | 추가 |
-| 1/10/2019 | [페이지 삭제](/AlchemyInsights/delete-a-page) | 추가 |
+| 1/10/2019 | 페이지 삭제 | 추가 |
 | 1/11/2019 | [1047 AntiSpam\550 5.7.708 서비스를 사용할 수 없습니다. 액세스 거부 라는 메시지가이 IP에서 수락 하지 트래픽](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | 수정한 날짜 |
 | 1/11/2019 | [1048 5.7.750 서비스를 사용할 수 없습니다. 클라이언트 등록 되지 않은 도메인에서 보내지 못하도록 차단](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | 수정한 날짜 |
 | 1/11/2019 | [1049 AntiSpam\4.5.3 너무 많은 받는 사람 (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | 수정한 날짜 |
@@ -506,7 +506,7 @@ ms.locfileid: "29383357"
 | 1/11/2019 | [워크플로 볼 때 액세스 거부 되었습니다.](/AlchemyInsights/access-denied-when-viewing-a-workflow) | 수정한 날짜 |
 | 1/11/2019 | [Access Services](/AlchemyInsights/access-services) | 수정한 날짜 |
 | 1/11/2019 | [제품 키를 가진 새 구독 활성화](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | 수정한 날짜 |
-| 1/11/2019 | [Office 정품 인증](/AlchemyInsights/activate-office) | 수정한 날짜 |
+| 1/11/2019 | Office 정품 인증 | 수정한 날짜 |
 | 1/11/2019 | [Microsoft Office 365 볼륨 라이선스 구독 활성화](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | 수정한 날짜 |
 | 1/11/2019 | [정품 인증 문제해결](/AlchemyInsights/activation-troubleshooting) | 수정한 날짜 |
 | 1/11/2019 | [SharePoint 사이트에 그룹 추가](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | 수정한 날짜 |
@@ -515,7 +515,7 @@ ms.locfileid: "29383357"
 | 1/11/2019 | [추가 하거나 사용자에 대 한 전자 메일 별칭을 제거 합니다.](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | 수정한 날짜 |
 | 1/11/2019 | [선불된 구독에 시트를 추가 합니다.](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | 수정한 날짜 |
 | 1/11/2019 | [선불된 구독에 시트를 추가 합니다.](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | 수정한 날짜 |
-| 1/11/2019 | [Office 365에 사용자 추가](/AlchemyInsights/add-users-to-office-365) | 수정한 날짜 |
+| 1/11/2019 | Office 365에 사용자 추가 | 수정한 날짜 |
 | 1/11/2019 | [외부 사용자를 메일 그룹에 추가 합니까?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | 수정한 날짜 |
 | 1/11/2019 | [외부 사용자 추가 (영문)](/AlchemyInsights/adding-external-users) | 수정한 날짜 |
 | 1/11/2019 | [ADFS 페더레이션 인증서가 만료](/AlchemyInsights/adfs-federation-certificate-expiring) | 수정한 날짜 |
@@ -569,11 +569,11 @@ ms.locfileid: "29383357"
 | 1/11/2019 | [SharePoint Online에서 도메인 이름 변경](/AlchemyInsights/change-domain-name-in-sharepoint-online) | 수정한 날짜 |
 | 1/11/2019 | [지불 하는 빈도 변경 합니다.](/AlchemyInsights/change-how-often-you-pay) | 수정한 날짜 |
 | 1/11/2019 | [MDM 권한 변경](/AlchemyInsights/change-mdm-authority) | 수정한 날짜 |
-| 1/11/2019 | [이름 서버 변경](/AlchemyInsights/change-nameservers) | 수정한 날짜 |
+| 1/11/2019 | Change nameservers | 수정한 날짜 |
 | 1/11/2019 | [OneDrive 비즈니스 저장소 할당량에 대 한 변경](/AlchemyInsights/change-onedrive-for-business-storage-quota) | 수정한 날짜 |
 | 1/11/2019 | [결제 방법 변경](/AlchemyInsights/change-payment-method) | 수정한 날짜 |
 | 1/11/2019 | [SharePoint 목록 또는 라이브러리에 대 한 사용 권한 변경](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | 수정한 날짜 |
-| 1/11/2019 | [청구 알림에 대한 대체 전자 메일 주소 변경](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | 수정한 날짜 |
+| 1/11/2019 | 청구 알림에 대한 대체 전자 메일 주소 변경 | 수정한 날짜 |
 | 1/11/2019 | [UPN 변경](/AlchemyInsights/change-upn) | 수정한 날짜 |
 | 1/11/2019 | [외부 사용자 액세스에 대 한 변경 내용](/AlchemyInsights/changes-to-external-user-access) | 수정한 날짜 |
 | 1/11/2019 | [메시지 또는 첨부 파일 크기를 변경합니다.](/AlchemyInsights/changing-message-or-attachment-size) | 수정한 날짜 |
@@ -600,7 +600,7 @@ ms.locfileid: "29383357"
 | 1/11/2019 | [프로그램 흐름 만들기](/AlchemyInsights/create-a-flow) | 수정한 날짜 |
 | 1/11/2019 | [현대 팀 사이트 만들기](/AlchemyInsights/create-a-modern-team-site) | 수정한 날짜 |
 | 1/11/2019 | [공유 사서함 만들기](/AlchemyInsights/create-a-shared-mailbox) | 수정한 날짜 |
-| 1/11/2019 | [SharePoint 사이트 만들기](/AlchemyInsights/create-a-sharepoint-site) | 수정한 날짜 |
+| 1/11/2019 | SharePoint 사이트 만들기 | 수정한 날짜 |
 | 1/11/2019 | [SharePoint Online에서 사이트 만들기](/AlchemyInsights/create-a-site-in-sharepoint-online) | 수정한 날짜 |
 | 1/11/2019 | [만들기 및 공유 사서함을 사용 하 여](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | 수정한 날짜 |
 | 1/11/2019 | [만들기 및 공유 사서함을 사용 하 여](/AlchemyInsights/create-and-use-a-shared-mailbox) | 수정한 날짜 |
@@ -618,7 +618,7 @@ ms.locfileid: "29383357"
 | 1/11/2019 | [거부 된 신용 카드](/AlchemyInsights/declined-credit-card) | 수정한 날짜 |
 | 1/11/2019 | [하이브리드 환경에서 사용 권한을 위임 된 사서함](/AlchemyInsights/delegated-mailbox-permissions-in-a-hybrid-environment) | 수정한 날짜 |
 | 1/11/2019 | [통신 사이트 삭제](/AlchemyInsights/delete-a-communication-site) | 수정한 날짜 |
-| 1/11/2019 | [페이지 삭제](/AlchemyInsights/delete-a-page) | 수정한 날짜 |
+| 1/11/2019 | 페이지 삭제 | 수정한 날짜 |
 | 1/11/2019 | [SharePoint 사이트를 삭제 합니다.](/AlchemyInsights/delete-a-sharepoint-site-0) | 수정한 날짜 |
 | 1/11/2019 | [SharePoint 사이트를 삭제 합니다.](/AlchemyInsights/delete-a-sharepoint-site) | 수정한 날짜 |
 | 1/11/2019 | [통신 사이트 삭제](/AlchemyInsights/delete-communication-site) | 수정한 날짜 |
@@ -639,7 +639,7 @@ ms.locfileid: "29383357"
 
 | 게시된 날짜 |항목 제목 | 변경 사항 |
 |------|------------|--------|
-| 1/14/2019 | 연금술 개체 틀 | 제거 |
-| 1/14/2019 | 도메인 연금술 추가 | 제거 |
+| 1/14/2019 | 연금술 개체 틀 | 제거된 항목 |
+| 1/14/2019 | 도메인 연금술 추가 | 제거된 항목 |
 | 1/14/2019 | [연금술 정보 홈](/AlchemyInsights/index) | 수정한 날짜 |
 | 1/17/2019 | [filename이 가장 동일 [규칙 #-설명]](/AlchemyInsights/1-alchemy-insight-template) | 추가 |
