@@ -1,5 +1,5 @@
 ---
-title: 지불 옵션
+title: 선택합니다.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 2130f3fffccdc71e2777991d34ed39402142c23c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299625"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478629"
 ---
- **지불 옵션**
+ 선택합니다.
   
 신용 카드, 은행 계좌 (직접 직불) 및 송장 (검사 하 여 지불 또는 전자식 자금이 체 전송)
   
@@ -32,12 +32,12 @@ ms.locfileid: "28299625"
   
 구독에 대 한 송장으로 지불 하는 경우에 결제 내역을 보려면 준비가 알리는 전자 메일을 얻을 수 있습니다. 이 전자 메일 결제 내역의 복사본을 포함 하지 않습니다. 그러나 [수신 전자 메일에서 결제 내역의 복사본을](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email)선택할 수 있습니다. 결제 내역 지불을 높이기 위한 옵션에 대 한 세부 정보를 포함 합니다. 구독 구입을 구매 주문 (주문서) 번호를 입력 하는 경우 수 결제 내역에 표시 됩니다. 대금 청구 명령문에 액세스 하는 방법에 대 한 정보를 [bill 또는 송장 보기](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide)를 참조 하십시오.
   
- **지불 하는 방법 변경**
+ 결제 방법 변경을 선택합니다.
   
 현재 구독에 대 한 지불 하는 방법을 변경 하려는 경우 지침에 따라 [여기](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide)합니다.
   
  **추가 정보**
   
-[비즈니스 구독에 대 한 Office 365에 대 한 급여](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
+[비즈니스용 Office 365 구독 결제](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
 

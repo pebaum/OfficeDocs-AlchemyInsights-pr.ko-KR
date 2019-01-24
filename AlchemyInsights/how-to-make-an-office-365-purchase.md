@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
 ms.openlocfilehash: 6a6fa89baabb5f952e90c3eed1017c7cbad5ffa0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299563"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478470"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Office 365 구입 하는 방법
 
@@ -32,10 +32,10 @@ Office 365의 구매 관리 센터에서 수행할 수 있습니다. [구독](ht
     
   - 매월 새 총 비용을 참조 하는 계획을 선택 합니다. 주요 정보를 확인 하 고 **다음** 체크아웃을 선택 해야 합니다. 
     
- **추가 리소스**
+ 추가 리소스
   
 - [비즈니스용 Office 365 사용자에게 라이선스 할당](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [비즈니스를 위한 Office 365를 취소 합니다.](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Office 365 비즈니스 에디션 취소](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
 

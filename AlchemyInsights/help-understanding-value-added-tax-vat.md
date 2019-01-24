@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
 ms.openlocfilehash: 3e94932172a2fc2609c8d4074e6331231fbe84fb
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299338"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477783"
 ---
 # <a name="help-understanding-value-added-tax-vat"></a>도움말 이해 값 (부가가치세)를 추가 합니다.
 

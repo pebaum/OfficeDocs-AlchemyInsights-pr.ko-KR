@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
 ms.openlocfilehash: b9a0ca93b15a32d041f3dc7cd1c4c72c979fbf38
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298733"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477772"
 ---
 # <a name="how-to-access-outlookcom-while-traveling"></a>이동 하는 동안 Outlook.com에 액세스 하는 방법
 

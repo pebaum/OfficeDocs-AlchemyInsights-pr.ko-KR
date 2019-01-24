@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
 ms.openlocfilehash: ea8bdfd8b75d4730303394905f9cd190fa9074c4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298977"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478502"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>SharePoint 허브 사이트 만들기
 
@@ -24,7 +24,7 @@ ms.locfileid: "28298977"
 3. 허브 사이트에 대 한 표시 이름을 입력 하 고 개별 사용자 또는 허브 사이트에 연결할 수 있도록 허용 하려는 보안 그룹을 지정 합니다.
     
     > [!NOTE]
-    >  통신 사이트 또는 새 서식 파일을 사용 하는 팀 사이트를 선택 하는 것이 좋습니다. 클래식 팀 사이트를 사용 하는 경우 허브 탐색 현대 페이지에만 나타납니다 및 허브 사이트 설정 현대 페이지에만 표시 됩니다. > 허브 사이트로 이미 사이트에 연결 된 다른 허브를 등록할 수 없습니다. 
+    >  통신 사이트 또는 새 서식 파일을 사용 하는 팀 사이트를 선택 하는 것이 좋습니다. 클래식 팀 사이트를 사용 하는 경우 허브 탐색 현대 페이지에만 나타납니다 및 허브 사이트 설정 현대 페이지에만 표시 됩니다. 허브 사이트로 gt_ 이미 지정 된 연결 된 다른 허브 사이트를 등록할 수 없습니다. 
   
 [허브 사이트에 대 한 자세한 내용은](https://go.microsoft.com/fwlink/?linkid=869149)
   
