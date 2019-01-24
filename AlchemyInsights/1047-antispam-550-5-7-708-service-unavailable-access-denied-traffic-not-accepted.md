@@ -13,13 +13,13 @@ ms.openlocfilehash: 1c10f03dcd105fe80edf3407288bdd551cfed54a
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383350"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454076"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="1fade-103">액세스 거부 라는 메시지가 550 5.7.708,이 ip 트래픽을 수락 하지</span><span class="sxs-lookup"><span data-stu-id="1fade-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="fe4b6-103">액세스 거부 라는 메시지가 550 5.7.708,이 ip 트래픽을 수락 하지</span><span class="sxs-lookup"><span data-stu-id="fe4b6-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
 
-<span data-ttu-id="1fade-104">새 고객에 게에서 일반적으로 사용 되는 IP 주소 알려진, 낮은 신뢰도에서 전자 메일을 보낼 때이 오류가 발생 합니다.</span><span class="sxs-lookup"><span data-stu-id="1fade-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
+<span data-ttu-id="fe4b6-104">새 고객에 게에서 일반적으로 사용 되는 IP 주소 알려진, 낮은 신뢰도에서 전자 메일을 보낼 때이 오류가 발생 합니다.</span><span class="sxs-lookup"><span data-stu-id="fe4b6-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
   
-<span data-ttu-id="1fade-105">라이선스를 구입 하기 전에 이러한 IP 주소에서 전자 메일을 보내야, 라이선스를 구입 하려면 수 있을 때까지 예외를 요청 하는 지원을 문의 하십시오.</span><span class="sxs-lookup"><span data-stu-id="1fade-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
+<span data-ttu-id="fe4b6-105">라이선스를 구입 하기 전에 이러한 IP 주소에서 전자 메일을 보내야, 라이선스를 구입 하려면 수 있을 때까지 예외를 요청 하는 지원을 문의 하십시오.</span><span class="sxs-lookup"><span data-stu-id="fe4b6-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
   
 
