@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 81f4dca4-7ae7-4dc9-929e-7b91b1711118
 ms.openlocfilehash: bff8a8867cc73a54afcec43580868712b427e9c8
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298477"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478284"
 ---
-# <a name="submit-dynamics-365-support-requests"></a><span data-ttu-id="4ad3b-102">Dynamics 365 지원 요청 제출</span><span class="sxs-lookup"><span data-stu-id="4ad3b-102">Submit Dynamics 365 support requests</span></span>
+# <a name="submit-dynamics-365-support-requests"></a><span data-ttu-id="a52a4-102">Dynamics 365 지원 요청 제출</span><span class="sxs-lookup"><span data-stu-id="a52a4-102">Submit Dynamics 365 support requests</span></span>
 
-<span data-ttu-id="4ad3b-103">**Microsoft Dynamics 고객 계약** 고객은 하는 경우 새 [전원 플랫폼 관리 센터를](https://admin.powerplatform.microsoft.com/?ref=officemodern)통해 티켓을 제출 하십시오.</span><span class="sxs-lookup"><span data-stu-id="4ad3b-103">If you are a **Microsoft Dynamics Customer Engagement** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span></span>
+<span data-ttu-id="a52a4-103">**Microsoft Dynamics 고객 계약** 고객은 하는 경우 새 [전원 플랫폼 관리 센터를](https://admin.powerplatform.microsoft.com/?ref=officemodern)통해 티켓을 제출 하십시오.</span><span class="sxs-lookup"><span data-stu-id="a52a4-103">If you are a **Microsoft Dynamics Customer Engagement** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span></span>
   
-<span data-ttu-id="4ad3b-104">새 포털 Dynamics 고객 계약 및 기타 전원 플랫폼 제품에 대해 최적화 된 지원에 대 한 보다 직접적인 경로 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="4ad3b-104">The new portal provides a more direct path to assisted support that is optimized for Dynamics customer engagement and other Power platform products.</span></span>
+<span data-ttu-id="a52a4-104">새 포털 Dynamics 고객 계약 및 기타 전원 플랫폼 제품에 대해 최적화 된 지원에 대 한 보다 직접적인 경로 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="a52a4-104">The new portal provides a more direct path to assisted support that is optimized for Dynamics customer engagement and other Power platform products.</span></span>
   
 

@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2e0be4a5-ece8-461d-a80c-202c5ede5ecf
 ms.openlocfilehash: 2565edeebd7da97d6b4c30128f88eba1927e5f03
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299647"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478412"
 ---
-# <a name="removing-the-last-on-premises-exchange-server"></a><span data-ttu-id="f8b5b-102">마지막 온-프레미스 Exchange 서버를 제거합니다.</span><span class="sxs-lookup"><span data-stu-id="f8b5b-102">Removing the last on-premises Exchange server</span></span>
+# <a name="removing-the-last-on-premises-exchange-server"></a><span data-ttu-id="d99cc-102">마지막 온-프레미스 Exchange 서버를 제거합니다.</span><span class="sxs-lookup"><span data-stu-id="d99cc-102">Removing the last on-premises Exchange server</span></span>
 
-<span data-ttu-id="f8b5b-p101">온-프레미스 조직에서 마지막 Exchange 서버를 제거 하기 전에 다른 목적을 위해 해당 마지막 서버 해야 하는 경우를 결정 하려면이 작업의 의미를 이해 해야 합니다. 자세한 내용은 체크 아웃 [방법 및 하이브리드 배포에서 온-프레미스 Exchange 서버를 해제 하는 경우](https://technet.microsoft.com/en-us/library/dn931280%28v=exchg.150%29.aspx)합니다.</span><span class="sxs-lookup"><span data-stu-id="f8b5b-p101">Before removing the last Exchange server from your on-premises organization, you should make sure you understand the implications of doing this to help you decide if you need that last server for any other purposes. For more information, check out [How and when to decommission your on-premises Exchange servers in a hybrid deployment](https://technet.microsoft.com/en-us/library/dn931280%28v=exchg.150%29.aspx).</span></span>
+<span data-ttu-id="d99cc-p101">온-프레미스 조직에서 마지막 Exchange 서버를 제거 하기 전에 다른 목적을 위해 해당 마지막 서버 해야 하는 경우를 결정 하려면이 작업의 의미를 이해 해야 합니다. 자세한 내용은 체크 아웃 [방법 및 하이브리드 배포에서 온-프레미스 Exchange 서버를 해제 하는 경우](https://technet.microsoft.com/en-us/library/dn931280%28v=exchg.150%29.aspx)합니다.</span><span class="sxs-lookup"><span data-stu-id="d99cc-p101">Before removing the last Exchange server from your on-premises organization, you should make sure you understand the implications of doing this to help you decide if you need that last server for any other purposes. For more information, check out [How and when to decommission your on-premises Exchange servers in a hybrid deployment](https://technet.microsoft.com/en-us/library/dn931280%28v=exchg.150%29.aspx).</span></span>
   
 

@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
 ms.openlocfilehash: c8037f4ab43b37f7340b3d7fa315ba1296adf5d2
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298753"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477996"
 ---
-# <a name="focused-inbox-in-outlook"></a><span data-ttu-id="8d11c-102">Outlook에서 포커스가 받은 편지함</span><span class="sxs-lookup"><span data-stu-id="8d11c-102">Focused Inbox in Outlook</span></span>
+# <a name="focused-inbox-in-outlook"></a><span data-ttu-id="f7fd0-102">Outlook에서 포커스가 받은 편지함</span><span class="sxs-lookup"><span data-stu-id="f7fd0-102">Focused Inbox in Outlook</span></span>
 
-<span data-ttu-id="8d11c-p101">두 탭으로 사용자의 받은 편지함을 구분 하는 집중 된 받은 편지함-집중 된 및 기타 합니다. 나머지 쉽게 액세스할 수 있는 상태로 유지 하는 동안 가장 중요 한 메시지 집중 된 탭에 있는-하지만으로-다른 탭 합니다.</span><span class="sxs-lookup"><span data-stu-id="8d11c-p101">Focused Inbox separates your inbox into two tabs—Focused and Other. Your most important messages are on the Focused tab while the rest remain easily accessible—but out of the way—on the Other tab.</span></span>
+<span data-ttu-id="f7fd0-p101">두 탭으로 사용자의 받은 편지함을 구분 하는 집중 된 받은 편지함-집중 된 및 기타 합니다. 나머지 쉽게 액세스할 수 있는 상태로 유지 하는 동안 가장 중요 한 메시지 집중 된 탭에 있는-하지만으로-다른 탭 합니다.</span><span class="sxs-lookup"><span data-stu-id="f7fd0-p101">Focused Inbox separates your inbox into two tabs—Focused and Other. Your most important messages are on the Focused tab while the rest remain easily accessible—but out of the way—on the Other tab.</span></span>
   
-<span data-ttu-id="8d11c-105">[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | [웹의 Outlook에서](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [Mac 용 Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [메일에 대 한 Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="8d11c-105">[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | [Outlook on the web](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [Outlook 2016 for Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [Mail for Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)</span></span>
+<span data-ttu-id="f7fd0-105">[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | [웹의 Outlook에서](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [Mac 용 Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [메일에 대 한 Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="f7fd0-105">[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | [Outlook on the web](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [Outlook 2016 for Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [Mail for Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)</span></span>
   
-<span data-ttu-id="8d11c-106">자세한 정보:</span><span class="sxs-lookup"><span data-stu-id="8d11c-106">Learn more:</span></span>
+<span data-ttu-id="f7fd0-106">자세한 정보:</span><span class="sxs-lookup"><span data-stu-id="f7fd0-106">Learn more:</span></span>
   
-- [<span data-ttu-id="8d11c-107">작업에 초점을 맞춘 받은 편지함을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="8d11c-107">See Focused Inbox in action</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
+- [<span data-ttu-id="f7fd0-107">작업에 초점을 맞춘 받은 편지함을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="f7fd0-107">See Focused Inbox in action</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
     
-- [<span data-ttu-id="8d11c-108">PowerShell 사용 하면 조직에서 모든 사용자에 대 한 초점을 맞춘 받은 편지함을 구성 합니다.</span><span class="sxs-lookup"><span data-stu-id="8d11c-108">Configure Focused Inbox for everyone in your organization with PowerShell</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
+- [<span data-ttu-id="f7fd0-108">PowerShell 사용 하면 조직에서 모든 사용자에 대 한 초점을 맞춘 받은 편지함을 구성 합니다.</span><span class="sxs-lookup"><span data-stu-id="f7fd0-108">Configure Focused Inbox for everyone in your organization with PowerShell</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
     
 

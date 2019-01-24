@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
 ms.openlocfilehash: 39ef2ce55f4884ac789445c7446e15ba732bbd43
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298909"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478006"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a><span data-ttu-id="e5dfd-102">웹에서 Outlook의 잘못 된 라이선스 오류가 효과적으로 활용?</span><span class="sxs-lookup"><span data-stu-id="e5dfd-102">Getting an invalid license error in Outlook on the web?</span></span>
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a><span data-ttu-id="10b3e-102">웹에서 Outlook의 잘못 된 라이선스 오류가 효과적으로 활용?</span><span class="sxs-lookup"><span data-stu-id="10b3e-102">Getting an invalid license error in Outlook on the web?</span></span>
 
-<span data-ttu-id="e5dfd-p101">웹에서 Outlook을 사용 하 고 있는 **문제가 발생 했음을** 오류 하 게 하는 경우 포함 **X-OWA-오류: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, Exchange Online 라이선스 올바르게 할당 되지 않았거나 최근에 만료 되었습니다. 사용자 관리 다음이 단계를 수행 하 여 사용자 라이선스를 할당할 수 있습니다.:</span><span class="sxs-lookup"><span data-stu-id="e5dfd-p101">If you're using Outlook on the web and you get a **Something went wrong** error that contains **X-OWA-Error: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, your Exchange Online license isn't correctly assigned or has recently expired. Your admin can assign a license to you by following these steps:</span></span>
+<span data-ttu-id="10b3e-p101">웹에서 Outlook을 사용 하 고 있는 **문제가 발생 했음을** 오류 하 게 하는 경우 포함 **X-OWA-오류: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, Exchange Online 라이선스 올바르게 할당 되지 않았거나 최근에 만료 되었습니다. 사용자 관리 다음이 단계를 수행 하 여 사용자 라이선스를 할당할 수 있습니다.:</span><span class="sxs-lookup"><span data-stu-id="10b3e-p101">If you're using Outlook on the web and you get a **Something went wrong** error that contains **X-OWA-Error: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, your Exchange Online license isn't correctly assigned or has recently expired. Your admin can assign a license to you by following these steps:</span></span>
   
-1. <span data-ttu-id="e5dfd-105">[Office 365 관리 센터](https://portal.office.com/adminportal/home#/homepage) 를 열고 **현재 사용자** **사용자를 편집**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e5dfd-105">Open the [Office 365 admin center](https://portal.office.com/adminportal/home#/homepage) and under **Active users**, select **Edit a user**.</span></span>
+1. <span data-ttu-id="10b3e-105">[Office 365 관리 센터](https://portal.office.com/adminportal/home#/homepage) 를 열고 **현재 사용자** **사용자를 편집**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="10b3e-105">Open the [Office 365 admin center](https://portal.office.com/adminportal/home#/homepage) and under **Active users**, select **Edit a user**.</span></span>
     
-2. <span data-ttu-id="e5dfd-p102">표시 되는 **사용자 편집** 페이지에서 사용자를 선택 합니다. 표시 되는 사용자 속성 페이지에서 **제품 라이선스**에 대 한 **편집** 을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="e5dfd-p102">In the **Edit a user** page that opens, select the user. In the user properties page that opens, click **Edit** for **Product licenses**.</span></span>
+2. <span data-ttu-id="10b3e-p102">표시 되는 **사용자 편집** 페이지에서 사용자를 선택 합니다. 표시 되는 사용자 속성 페이지에서 **제품 라이선스**에 대 한 **편집** 을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="10b3e-p102">In the **Edit a user** page that opens, select the user. In the user properties page that opens, click **Edit** for **Product licenses**.</span></span>
     
-3. <span data-ttu-id="e5dfd-p103">표시 되는 **제품 라이선스** 페이지에서 적절 한 **위치** 값을 선택 하 고 Exchange Online 포함 된 라이선스를 할당 (세부 정보를 확인 하려면 라이선스 확장). 완료 되 면, **저장**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="e5dfd-p103">In the **Product licenses** page that opens, select the appropriate **Location** value, and assign a license that contains Exchange Online (expand the license to see its details). When you're finished, click **Save**.</span></span>
+3. <span data-ttu-id="10b3e-p103">표시 되는 **제품 라이선스** 페이지에서 적절 한 **위치** 값을 선택 하 고 Exchange Online 포함 된 라이선스를 할당 (세부 정보를 확인 하려면 라이선스 확장). 완료 되 면, **저장**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="10b3e-p103">In the **Product licenses** page that opens, select the appropriate **Location** value, and assign a license that contains Exchange Online (expand the license to see its details). When you're finished, click **Save**.</span></span>
     
 

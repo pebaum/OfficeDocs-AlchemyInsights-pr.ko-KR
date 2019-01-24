@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
 ms.openlocfilehash: 3ef08c1cc31125795ff6a86da863b26dbc0efb8a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298448"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478090"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a><span data-ttu-id="a1a44-102">SharePoint 사이트에 대 한 설정 또는 해제를 공유 외부 설정</span><span class="sxs-lookup"><span data-stu-id="a1a44-102">Turn external sharing on or off for a SharePoint site</span></span>
+# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a><span data-ttu-id="64ae9-102">SharePoint 사이트에 대 한 설정 또는 해제를 공유 외부 설정</span><span class="sxs-lookup"><span data-stu-id="64ae9-102">Turn external sharing on or off for a SharePoint site</span></span>
 
-<span data-ttu-id="a1a44-103">클래식 사이트 모음:</span><span class="sxs-lookup"><span data-stu-id="a1a44-103">For a classic site collection:</span></span>
+<span data-ttu-id="64ae9-103">클래식 사이트 모음:</span><span class="sxs-lookup"><span data-stu-id="64ae9-103">For a classic site collection:</span></span>
   
-1. <span data-ttu-id="a1a44-104">클래식 SharePoint 관리 센터의 왼쪽된 창에서 **사이트 모음**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="a1a44-104">In the classic SharePoint admin center, in the left pane, click **site collections**.</span></span>
+1. <span data-ttu-id="64ae9-104">클래식 SharePoint 관리 센터의 왼쪽된 창에서 **사이트 모음**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="64ae9-104">In the classic SharePoint admin center, in the left pane, click **site collections**.</span></span>
     
-2. <span data-ttu-id="a1a44-105">사이트 또는 사이트를 선택 하 고 리본 메뉴에서 **공유**를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="a1a44-105">Select the site or sites, and on the ribbon, click **Sharing**.</span></span>
+2. <span data-ttu-id="64ae9-105">사이트 또는 사이트를 선택 하 고 리본 메뉴에서 **공유**를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="64ae9-105">Select the site or sites, and on the ribbon, click **Sharing**.</span></span>
     
-<span data-ttu-id="a1a44-p101">기본적으로 사용자가 만들 모두 (Office 365 그룹에 속한 팀 사이트) 및 통신 사이트는 새 사이트를가지고 동일한 공유를 설정 하면 조직 전체의 설정으로 조직 차원의 설정 하지는 링크를 사용 하 여 파일 공유를 허용 하지 않은 경우 로그인 필요 합니다. 이 경우 사이트에 로그인 하는 기존 및 새 외부 사용자와 공유를 허용 합니다. 특정 사이트에 대 한 설정을 변경 하려면 새 SharePoint 관리 센터 (미리 보기)을 사용 합니다.</span><span class="sxs-lookup"><span data-stu-id="a1a44-p101">By default, new sites that users create (both team sites that belong to Office 365 groups and communication sites) have the same sharing setting as your organization-wide setting, unless the organization-wide setting allows sharing files using links that don't require sign-in. In this case, the sites allow sharing with new and existing external users who sign in. To change the setting for specific sites, use the new SharePoint admin center (preview).</span></span>
+<span data-ttu-id="64ae9-p101">기본적으로 사용자가 만들 모두 (Office 365 그룹에 속한 팀 사이트) 및 통신 사이트는 새 사이트를가지고 동일한 공유를 설정 하면 조직 전체의 설정으로 조직 차원의 설정 하지는 링크를 사용 하 여 파일 공유를 허용 하지 않은 경우 로그인 필요 합니다. 이 경우 사이트에 로그인 하는 기존 및 새 외부 사용자와 공유를 허용 합니다. 특정 사이트에 대 한 설정을 변경 하려면 새 SharePoint 관리 센터 (미리 보기)을 사용 합니다.</span><span class="sxs-lookup"><span data-stu-id="64ae9-p101">By default, new sites that users create (both team sites that belong to Office 365 groups and communication sites) have the same sharing setting as your organization-wide setting, unless the organization-wide setting allows sharing files using links that don't require sign-in. In this case, the sites allow sharing with new and existing external users who sign in. To change the setting for specific sites, use the new SharePoint admin center (preview).</span></span>
   
 > [!NOTE]
-> <span data-ttu-id="a1a44-109">모든 사이트에 대 한 외부 공유 설정을 조직 차원의 설정 보다 더 하지 허용 하지만 조직 차원의 설정에 권한 보다 제한적인 하나일 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a1a44-109">The external sharing setting for any site can be more restrictive than your organization-wide setting, but not more permissive than the organization-wide setting.</span></span> 
+> <span data-ttu-id="64ae9-109">모든 사이트에 대 한 외부 공유 설정을 조직 차원의 설정 보다 더 하지 허용 하지만 조직 차원의 설정에 권한 보다 제한적인 하나일 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="64ae9-109">The external sharing setting for any site can be more restrictive than your organization-wide setting, but not more permissive than the organization-wide setting.</span></span> 
   
 

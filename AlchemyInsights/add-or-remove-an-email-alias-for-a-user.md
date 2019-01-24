@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.openlocfilehash: 7060d993bb216352140d00c9d6de4a8c6dbc3804
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298479"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477924"
 ---
-# <a name="add-or-remove-an-email-address-for-a-user"></a><span data-ttu-id="55c2e-102">추가 또는 사용자에 대 한 전자 메일 주소를 제거 합니다.</span><span class="sxs-lookup"><span data-stu-id="55c2e-102">Add or remove an email address for a user</span></span>
+# <a name="add-or-remove-an-email-address-for-a-user"></a><span data-ttu-id="1f376-102">추가 또는 사용자에 대 한 전자 메일 주소를 제거 합니다.</span><span class="sxs-lookup"><span data-stu-id="1f376-102">Add or remove an email address for a user</span></span>
 
-- <span data-ttu-id="55c2e-103">[시작 하려면 여기로 이동 ](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)합니다.</span><span class="sxs-lookup"><span data-stu-id="55c2e-103">[Go here to get started ](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions).</span></span>
+- <span data-ttu-id="1f376-103">[시작 하려면 여기로 이동 ](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)합니다.</span><span class="sxs-lookup"><span data-stu-id="1f376-103">[Go here to get started ](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions).</span></span>
     
- <span data-ttu-id="55c2e-p101">**참고**: 사용자에 대 한 개 이상의 전자 메일 주소를 포함할 수 있지만 전자 메일을 수신 하는 것에 대 한 추가 *전자 메일 별칭* 만 사용할 수 있습니다. 별칭으로 전자 메일을 전송 해야 하는 경우 [공유 사서함](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)을 만듭니다. 이러한 방식으로 메일을 주고받을에 대 한 별칭을 얻을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="55c2e-p101">**Note**: You can have more than one email address for a user, but additional  *email aliases*  can only be used for receiving email. If you need to send email with an alias, create a [shared mailbox](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9). This way you'll get the alias to send and receive mail.</span></span> 
+ <span data-ttu-id="1f376-p101">**참고**: 사용자에 대 한 개 이상의 전자 메일 주소를 포함할 수 있지만 전자 메일을 수신 하는 것에 대 한 추가 *전자 메일 별칭* 만 사용할 수 있습니다. 별칭으로 전자 메일을 전송 해야 하는 경우 [공유 사서함](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)을 만듭니다. 이러한 방식으로 메일을 주고받을에 대 한 별칭을 얻을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1f376-p101">**Note**: You can have more than one email address for a user, but additional  *email aliases*  can only be used for receiving email. If you need to send email with an alias, create a [shared mailbox](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9). This way you'll get the alias to send and receive mail.</span></span> 
   
 
