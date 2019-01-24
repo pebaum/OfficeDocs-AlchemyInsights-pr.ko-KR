@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: 59f1aefaeec3d655b2388b00e7d58a8c2338504b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298561"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478574"
 ---
 # <a name="conditional-access-with-intune"></a>Intune 사용 하 여 조건부 액세스
 
@@ -25,7 +25,7 @@ ms.locfileid: "28298561"
     
 - **규정 준수 정책** 및 **조건부 액세스 정책** 을 모두을 대상으로 하는 원하는 사용자 그룹에 있는지 확인 합니다. Azure Active Directory에서 사용자의 특정 그룹을 만들고 필요할 수 있습니다. 
     
-자세한 내용:
+추가 정보
   
 - [조건부 액세스 모범 사례](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/best-practices)
     

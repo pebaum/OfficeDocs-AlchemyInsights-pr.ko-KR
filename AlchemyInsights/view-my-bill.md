@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
 ms.openlocfilehash: 6e4f8fbc8382d4f71f1163f97b6dab24fe762742
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299486"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478046"
 ---
 # <a name="view-my-bill"></a>내 bill 보기
 
-1. 관리 센터에서 [요금](https://go.microsoft.com/fwlink/p/?linkid=848039) 페이지로 이동 하거나 **대금 청구** 선택 \> **요금**합니다.
+1. 관리 센터에서 [청구서](https://go.microsoft.com/fwlink/p/?linkid=848039) 페이지로 이동하거나 **청구**\> **청구서**를 선택합니다.
     
 2. 필요한 송장의 월 및 날짜를 선택하고 **보기**를 선택합니다.
     

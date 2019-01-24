@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
 ms.openlocfilehash: 0ceb1737040f0304bfe8b611241ce1deef487652
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298542"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478501"
 ---
  **문제:** 새로 만든 또는 사서함에 Exchange 관리 센터에서 업데이트 된 보존 정책 적용 하지 않는 또는 항목 보관 사서함으로 이동 하거나 삭제 되지 않습니다. 
   
@@ -30,7 +30,7 @@ ms.locfileid: "28298542"
 
 - 이 작업 수 있습니다 **RetentionHold** 의 사서함에서 **사용 하도록 설정** 된 경우에 발생할 수 있습니다. 사서함을 RetentionHold에 배치 된 사서함에 보존 정책은 시간 동안 처리 되지 않습니다. RetentionHold 설정 참조에서 자세한 정보에 대 한: [사서함 보존](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)합니다.
     
-    **해결 방법:**
+    해결 방법
     
   - [EXO powershell](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)에서 특정 사서함의 RetentionHold 설정의 상태를 확인 합니다.
     

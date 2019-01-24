@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
 ms.openlocfilehash: cfd69bab102ac58343ce98db3fb02b594673ea63
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299020"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478624"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>터미널 서버에서 office를 설치 있는 문제에 대 한 솔루션
 
@@ -24,13 +24,13 @@ ms.locfileid: "28299020"
     
 - Office 365 ProPlus 정품 인증이 성공적으로 수행되었는지 확인
     
-- 공유 컴퓨터 정품 인증에 대 한 오류 메시지를 검토 합니다.
+- 공유 컴퓨터 활성화에 대한 오류 메시지 검토
     
-  - "사용자 계정에서 확인 된 결과 제품 공유 컴퓨터 시나리오에서 Office를 정품 인증을 사용할 수 없습니다"
+  - 계정에서 확인된 제품은 공유 컴퓨터 시나리오에서 Office를 인증하는 데 사용할 수 없습니다.
   
 이 오류는 Office 365 ProPlus를 포함 하는 Office 365 계획 없는 의미 합니다.
     
-  - "허가 되지 않은 제품"
+  - 사용 허가되지 않은 제품
     
   - 사용자가 Office 365 ProPlus에 대 한 라이선스를 할당 되어있는지 확인 합니다.
     

@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
 ms.openlocfilehash: 92c9660fda35489bfe94538800cff7060557c9a6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298845"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478005"
 ---
 # <a name="enable-external-sharing"></a>외부 공유를 사용 하도록 설정
 
@@ -33,7 +33,7 @@ ms.locfileid: "28298845"
     
   - "공유를 허용 하는 외부 사용자 모두 허용 초대 및 익명 게스트 링크"
     
-- **개별 사이트 모음**
+- 개별 사이트 모음
     
   - 사이트 모음-문제의 선택한 사이트 모음 및-리본 메뉴에서 공유-를 클릭 한 다음\> 공유 옵션 중 하나는 선택 되어있는지 확인 합니다.
     

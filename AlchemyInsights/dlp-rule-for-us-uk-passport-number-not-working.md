@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
 ms.openlocfilehash: 716d1030d93ce006c36d7925fb132e974ae8feb4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299644"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478286"
 ---
 경우에 문제가 있는 **데이터 손실 방지 (DLP)** 콘텐츠를 포함 하는 것에 대 한 작동 하지는 **미국 / 영국 여권 번호** DLP 중요 한 정보 유형 o 365에서 사용 하는 경우? 그럴 경우 다음을 확인 콘텐츠 포함 DLP 정책이 원하는 내용을 계산 하는 경우에 필요한 정보입니다. 
   

@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
 ms.openlocfilehash: dd5b4e19e8489eca253ef3b7854597770d93c685
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298868"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478205"
 ---
 # <a name="turn-focused-inbox-on-or-off-for-everyone"></a>모든 사용자에 대 한 설정 또는 해제 초점을 맞춘 받은 편지함을 설정 합니다.
 
