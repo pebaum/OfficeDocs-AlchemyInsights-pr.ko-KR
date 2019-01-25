@@ -1,5 +1,5 @@
 ---
-title: 비즈니스 계획에 대 한 서로 다른 Office 365로 전환
+title: 다른 Microsoft Office 365 비즈니스 에디션 요금제로 전환
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
 ms.openlocfilehash: 06ece0f33bc817aa9759cbc3487544ed5b48b946
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298775"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477721"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>비즈니스 계획에 대 한 서로 다른 Office 365로 전환
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>다른 Office 365 비즈니스 에디션 계획으로 전환
 
 비즈니스 변경 내용을 또는 하면 더 많은 Office 365 기능을 할 때 계획을 전환할 수 있습니다.
   

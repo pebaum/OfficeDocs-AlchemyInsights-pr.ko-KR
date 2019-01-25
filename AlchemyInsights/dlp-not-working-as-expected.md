@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
 ms.openlocfilehash: eab000e0a850c522ede5f51ae46ba11b87ba4732
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298794"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477865"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP 예상 대로 작동 하지 않음
 
@@ -36,7 +36,7 @@ Office 365 보안 및 규정 준수 센터의 **기본 제공 중요 한 정보 
     
     중요 한 정보를 사용자 지정 형식을 만들 하려는 경우 다음 문서를 사용자 지정 중요 한 유형을 만드는 방법에 대 한 정보 사용: [사용자 지정 중요 한 정보 유형 만들기](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type).
     
- **보고서:**
+ **보고서**
   
 - 와 중요 한 데이터 정보를 가져올 [DLP 보고서.](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
     
