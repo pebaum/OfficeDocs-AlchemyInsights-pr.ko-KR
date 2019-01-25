@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.openlocfilehash: 90bcf51f4dd2a8e06065a349a39cb1188b4717ce
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299520"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477940"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="3df99-103">5.7.750 클라이언트 등록 되지 않은 도메인에서 보내지 못하도록 차단</span><span class="sxs-lookup"><span data-stu-id="3df99-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="0030d-103">5.7.750 클라이언트 등록 되지 않은 도메인에서 보내지 못하도록 차단</span><span class="sxs-lookup"><span data-stu-id="0030d-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
 
-<span data-ttu-id="3df99-104">큰 경우에 오류가 발생 메시지의 볼륨 (허용된 도메인으로 추가 하 고 유효성을 검사) Office 365에 프로 비전 되지 않은 도메인에서 전송 됩니다.</span><span class="sxs-lookup"><span data-stu-id="3df99-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in Office 365 (added as accepted domains and validated).</span></span>
+<span data-ttu-id="0030d-104">큰 경우에 오류가 발생 메시지의 볼륨 (허용된 도메인으로 추가 하 고 유효성을 검사) Office 365에 프로 비전 되지 않은 도메인에서 전송 됩니다.</span><span class="sxs-lookup"><span data-stu-id="0030d-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in Office 365 (added as accepted domains and validated).</span></span>
   
-<span data-ttu-id="3df99-105">이 오류를 방지 하려면 인증서의 도메인을 프로 비전 된 도메인 또는 모든 보내는 도메인을 프로 비전 할 수 인증서 기반 메일 흐름 커넥터를 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3df99-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
+<span data-ttu-id="0030d-105">이 오류를 방지 하려면 인증서의 도메인을 프로 비전 된 도메인 또는 모든 보내는 도메인을 프로 비전 할 수 인증서 기반 메일 흐름 커넥터를 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="0030d-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
   
 

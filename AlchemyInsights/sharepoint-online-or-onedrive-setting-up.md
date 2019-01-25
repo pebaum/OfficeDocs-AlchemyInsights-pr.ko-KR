@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.openlocfilehash: 7b055df6f3f1e040082792a62a253138aae4dc22
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299417"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478817"
 ---
-<span data-ttu-id="6aa4c-102">"설정"</span><span class="sxs-lookup"><span data-stu-id="6aa4c-102">"Setting up"</span></span>
+<span data-ttu-id="c349b-102">"설정"</span><span class="sxs-lookup"><span data-stu-id="c349b-102">"Setting up"</span></span>
 
-# <a name="sharepoint-online-or-onedrive-setting-up"></a><span data-ttu-id="6aa4c-103">SharePoint Online 또는 OneDrive "설정"</span><span class="sxs-lookup"><span data-stu-id="6aa4c-103">SharePoint Online or OneDrive "Setting up"</span></span>
+# <a name="sharepoint-online-or-onedrive-setting-up"></a><span data-ttu-id="c349b-103">SharePoint Online 또는 OneDrive "설정"</span><span class="sxs-lookup"><span data-stu-id="c349b-103">SharePoint Online or OneDrive "Setting up"</span></span>
 
-<span data-ttu-id="6aa4c-104">기존 Office 365 테 넌 트에 사용자를 추가 하는 경우에 사용 프로 비전 하는 프로세스를 완료 될 때까지 "설정"으로 표시 되는 비즈니스 아이콘에 대 한 SharePoint Online 또는 OneDrive 표시 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="6aa4c-104">When a user is added to an existing Office 365 tenant, they may see the SharePoint Online or OneDrive for Business icons displayed as "Setting up" until the provisioning process has been completed.</span></span>
+<span data-ttu-id="c349b-104">기존 Office 365 테 넌 트에 사용자를 추가 하는 경우에 사용 프로 비전 하는 프로세스를 완료 될 때까지 "설정"으로 표시 되는 비즈니스 아이콘에 대 한 SharePoint Online 또는 OneDrive 표시 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="c349b-104">When a user is added to an existing Office 365 tenant, they may see the SharePoint Online or OneDrive for Business icons displayed as "Setting up" until the provisioning process has been completed.</span></span>
   
-<span data-ttu-id="6aa4c-p101">이 문제를 처음으로 본 이후 24 시간 이상 경과, 기술 지원 요청을 기록 하십시오. 대부분의 경우에는 이미 작업 중인 솔루션을 합니다. 솔루션을 완료 하려면 최소한 24 시간을 보내 주십시오.</span><span class="sxs-lookup"><span data-stu-id="6aa4c-p101">If more than 24 hours have passed since you first saw this issue, please log a support case. In many cases, we're already working on a solution. Please give us at least 24 hours to complete a solution.</span></span>
+<span data-ttu-id="c349b-p101">이 문제를 처음으로 본 이후 24 시간 이상 경과, 기술 지원 요청을 기록 하십시오. 대부분의 경우에는 이미 작업 중인 솔루션을 합니다. 솔루션을 완료 하려면 최소한 24 시간을 보내 주십시오.</span><span class="sxs-lookup"><span data-stu-id="c349b-p101">If more than 24 hours have passed since you first saw this issue, please log a support case. In many cases, we're already working on a solution. Please give us at least 24 hours to complete a solution.</span></span>
   
 

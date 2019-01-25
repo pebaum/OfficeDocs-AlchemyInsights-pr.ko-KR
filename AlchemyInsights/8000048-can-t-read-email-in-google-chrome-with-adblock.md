@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6f48a145-b258-4d47-ac7e-c4c3f76bd1c1
 ms.openlocfilehash: b44d68646e2cf2b372bcf41e61b6c738268af07a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299213"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478784"
 ---
-# <a name="fix-outlookcom-email-sync-issues"></a><span data-ttu-id="6ceb2-102">Outlook.com 전자 메일 동기화 문제 수정</span><span class="sxs-lookup"><span data-stu-id="6ceb2-102">Fix Outlook.com email sync issues</span></span>
+# <a name="fix-outlookcom-email-sync-issues"></a><span data-ttu-id="81ba1-102">Outlook.com 전자 메일 동기화 문제 수정</span><span class="sxs-lookup"><span data-stu-id="81ba1-102">Fix Outlook.com email sync issues</span></span>
 
-<span data-ttu-id="6ceb2-103">보내거나 전자 메일을 받을 수 없는 경우에 먼저 [서비스 상태](https://go.microsoft.com/fwlink/p/?linkid=837482&amp;clcid=0x409)를 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="6ceb2-103">If you can't to send or receive email, first check the [service status](https://go.microsoft.com/fwlink/p/?linkid=837482&amp;clcid=0x409).</span></span>
+<span data-ttu-id="81ba1-103">보내거나 전자 메일을 받을 수 없는 경우에 먼저 [서비스 상태](https://go.microsoft.com/fwlink/p/?linkid=837482&amp;clcid=0x409)를 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="81ba1-103">If you can't to send or receive email, first check the [service status](https://go.microsoft.com/fwlink/p/?linkid=837482&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="6ceb2-104">은행 또는 암호 재설정 메시지와 같은 특정 보낸에서 전자 메일을 받지 않는 하는 경우 먼저 보낸 사람이 [수신 거부 목록](https://go.microsoft.com/fwlink/p/?linkid=873133&amp;clcid=0x409)에 있지 않은지 있는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="6ceb2-104">If you're not receiving email from a specific sender, such as your bank or password reset messages, first make sure that the sender isn't on your [blocked senders list](https://go.microsoft.com/fwlink/p/?linkid=873133&amp;clcid=0x409).</span></span>
+<span data-ttu-id="81ba1-104">은행 또는 암호 재설정 메시지와 같은 특정 보낸에서 전자 메일을 받지 않는 하는 경우 먼저 보낸 사람이 [수신 거부 목록](https://go.microsoft.com/fwlink/p/?linkid=873133&amp;clcid=0x409)에 있지 않은지 있는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="81ba1-104">If you're not receiving email from a specific sender, such as your bank or password reset messages, first make sure that the sender isn't on your [blocked senders list](https://go.microsoft.com/fwlink/p/?linkid=873133&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="6ceb2-p101">보낸사람을 수신된 거부 목록에 없는 경우 발신자에 게 문의 하 고 Outlook.com 계정에서 전자 메일을 수신 되지 않은 경우 알려 줄에 필요 합니다. 보낸 사람이를 참조 하세요. [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135&amp;clcid=0x409), 문제해결, 권장 하는 모범 사례 및 또는 보낸사람 지원팀에 문의에 대 한 링크에 대 한 정보를 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="6ceb2-p101">If the sender isn't on your blocked senders list, you'll need to contact the sender and let them know that you aren't receiving email at your Outlook.com account. Please refer the sender to [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135&amp;clcid=0x409), where they can find information about best practices, recommended troubleshooting, and a link to contact our sender support team.</span></span>
+<span data-ttu-id="81ba1-p101">보낸사람을 수신된 거부 목록에 없는 경우 발신자에 게 문의 하 고 Outlook.com 계정에서 전자 메일을 수신 되지 않은 경우 알려 줄에 필요 합니다. 보낸 사람이를 참조 하세요. [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135&amp;clcid=0x409), 문제해결, 권장 하는 모범 사례 및 또는 보낸사람 지원팀에 문의에 대 한 링크에 대 한 정보를 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="81ba1-p101">If the sender isn't on your blocked senders list, you'll need to contact the sender and let them know that you aren't receiving email at your Outlook.com account. Please refer the sender to [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135&amp;clcid=0x409), where they can find information about best practices, recommended troubleshooting, and a link to contact our sender support team.</span></span>
   
-<span data-ttu-id="6ceb2-107">Outlook.com 계정에는 전혀 전자 메일 수신 되지 않습니다, 하는 경우 [수정 Outlook.com 전자 메일 동기화 문제](https://go.microsoft.com/fwlink/p/?linkid=2001207&amp;clcid=0x409)를 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="6ceb2-107">If your Outlook.com account isn't receiving email at all, see [Fix Outlook.com email sync issues](https://go.microsoft.com/fwlink/p/?linkid=2001207&amp;clcid=0x409).</span></span>
+<span data-ttu-id="81ba1-107">Outlook.com 계정에는 전혀 전자 메일 수신 되지 않습니다, 하는 경우 [수정 Outlook.com 전자 메일 동기화 문제](https://go.microsoft.com/fwlink/p/?linkid=2001207&amp;clcid=0x409)를 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="81ba1-107">If your Outlook.com account isn't receiving email at all, see [Fix Outlook.com email sync issues](https://go.microsoft.com/fwlink/p/?linkid=2001207&amp;clcid=0x409).</span></span>
   
 
