@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
 ms.openlocfilehash: d69b8e0e338f103516e191cf1bd19746a58a0605
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298779"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500072"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Outlook 모바일 응용 프로그램의 전자 메일 설정
 
@@ -34,7 +34,7 @@ ms.locfileid: "28298779"
     
 자세한 설정을 여기 [Android에 대 한 Outlook](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) 또는 [Outlook iOS에 대 한](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) 지침을 얻으십시오. 
   
- **도움이 필요하세요?**
+ 도움이 필요하세요?
   
 - [휴대폰에서 전자 메일 설치 문제를 해결합니다](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
     
