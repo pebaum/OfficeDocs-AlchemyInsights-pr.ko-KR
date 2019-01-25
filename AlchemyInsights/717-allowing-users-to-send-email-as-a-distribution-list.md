@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
 ms.openlocfilehash: 5def8c3d396c1324112bfc9288ad18755142c14d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299342"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29497984"
 ---
 # <a name="allow-users-to-send-email-as-a-distribution-group"></a>사용자가 메일 그룹으로 전자 메일을 보내도록 허용
 
 사용자가 기존 메일 그룹에서 온 것으로 표시 되는 메시지를 보낼 수 있도록 다음이 단계를 따릅니다.
   
-1. [Exchange 관리 센터](https://outlook.office365.com/ecp/) **받는 사람** 에 게 이동 \> **그룹**입니다.
+1. Exchange 관리 센터에서 [받는 사람](https://outlook.office365.com/ecp/) **** \>으로 이동합니다.
     
 2. 수정 하려는 메일 그룹을 선택 하 고 **편집**을 클릭 합니다.
     
