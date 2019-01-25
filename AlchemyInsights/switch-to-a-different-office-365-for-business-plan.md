@@ -1,5 +1,5 @@
 ---
-title: 비즈니스 계획에 대 한 서로 다른 Office 365로 전환
+title: 다른 Microsoft Office 365 비즈니스 에디션 요금제로 전환
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
 ms.openlocfilehash: 06ece0f33bc817aa9759cbc3487544ed5b48b946
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298775"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477721"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a><span data-ttu-id="632e4-102">비즈니스 계획에 대 한 서로 다른 Office 365로 전환</span><span class="sxs-lookup"><span data-stu-id="632e4-102">Switch to a different Office 365 for Business Plan</span></span>
+# <a name="switch-to-a-different-office-365-for-business-plan"></a><span data-ttu-id="2a53c-102">다른 Office 365 비즈니스 에디션 계획으로 전환</span><span class="sxs-lookup"><span data-stu-id="2a53c-102">Switch to a different Office 365 for Business Plan</span></span>
 
-<span data-ttu-id="632e4-103">비즈니스 변경 내용을 또는 하면 더 많은 Office 365 기능을 할 때 계획을 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="632e4-103">When your business changes, or you need more Office 365 features, you can switch plans.</span></span>
+<span data-ttu-id="2a53c-103">비즈니스 변경 내용을 또는 하면 더 많은 Office 365 기능을 할 때 계획을 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2a53c-103">When your business changes, or you need more Office 365 features, you can switch plans.</span></span>
   
-1. <span data-ttu-id="632e4-104">관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동하거나 **청구** \> **구독**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="632e4-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="2a53c-104">관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동하거나 **청구** \> **구독**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2a53c-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="632e4-105">사용할 수 있는 새로운 계획의 목록을 보려면 **스위치 계획** 을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="632e4-105">Choose **Switch plans** to view the list of new plans that are available.</span></span> 
+2. <span data-ttu-id="2a53c-105">사용할 수 있는 새로운 계획의 목록을 보려면 **스위치 계획** 을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="2a53c-105">Choose **Switch plans** to view the list of new plans that are available.</span></span> 
     
-3. <span data-ttu-id="632e4-p101">매월 새 총 비용을 참조 하는 계획을 선택 합니다. 주요 정보를 확인 하 고 **다음** 체크아웃을 선택 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="632e4-p101">Choose a plan to see the new total cost per month. Be sure to read the key information, then choose **Next** to check out.</span></span> 
+3. <span data-ttu-id="2a53c-p101">매월 새 총 비용을 참조 하는 계획을 선택 합니다. 주요 정보를 확인 하 고 **다음** 체크아웃을 선택 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2a53c-p101">Choose a plan to see the new total cost per month. Be sure to read the key information, then choose **Next** to check out.</span></span> 
     
-<span data-ttu-id="632e4-p102">스위치 계획 단추에서 모든 상황에서에서 지원 되지 않습니다. 경우에 따라 계획을 수동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="632e4-p102">The Switch plans button isn't supported in all situations. In some cases, you might be able to switch plans manually.</span></span>
+<span data-ttu-id="2a53c-p102">스위치 계획 단추에서 모든 상황에서에서 지원 되지 않습니다. 경우에 따라 계획을 수동으로 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2a53c-p102">The Switch plans button isn't supported in all situations. In some cases, you might be able to switch plans manually.</span></span>
   
-<span data-ttu-id="632e4-110">**계획 전환** 단추를 사용할 수 없는 경우에 [계획을 수동으로 전환](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209) 하려고 하거나 "보겠습니다를 호출 하면" 옵션을 사용 하 고 지원 엔지니어 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="632e4-110">If the **Switch plans** button isn't available, you can try to [switch plans manually](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209) or use the "Let us call you" option to talk to a support engineer.</span></span> 
+<span data-ttu-id="2a53c-110">**계획 전환** 단추를 사용할 수 없는 경우에 [계획을 수동으로 전환](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209) 하려고 하거나 "보겠습니다를 호출 하면" 옵션을 사용 하 고 지원 엔지니어 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2a53c-110">If the **Switch plans** button isn't available, you can try to [switch plans manually](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209) or use the "Let us call you" option to talk to a support engineer.</span></span> 
   
-<span data-ttu-id="632e4-111">계획 전환의 모든 변형에 대 한 [비즈니스 계획에 대 한 서로 다른 Office 3635 프로그램으로 전환](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2)을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="632e4-111">For all variations of switching plans, see [Switch to a different Office 3635 for Business Plan](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2).</span></span>
+<span data-ttu-id="2a53c-111">계획 전환의 모든 변형에 대 한 [비즈니스 계획에 대 한 서로 다른 Office 3635 프로그램으로 전환](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2)을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="2a53c-111">For all variations of switching plans, see [Switch to a different Office 3635 for Business Plan](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2).</span></span>
   
 
