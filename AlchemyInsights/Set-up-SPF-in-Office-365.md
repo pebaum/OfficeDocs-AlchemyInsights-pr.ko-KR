@@ -10,11 +10,11 @@ localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
 ms.openlocfilehash: fc45050a39de24422426ea1d9ff0bad47eb86264
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299149"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478082"
 ---
 모든 암호 만료 되지 않도록 설정 하려면로 이동 [보안 &amp; 개인정보](https://portal.office.com/adminportal/home#/settings/security)합니다. **암호 정책**, 옆에 있는 **편집** 을 클릭 하 고 **전환**슬라이더를 설정 합니다.
   

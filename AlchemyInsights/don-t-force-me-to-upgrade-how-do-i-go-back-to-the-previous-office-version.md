@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
 ms.openlocfilehash: e34dac731fd80c8b0b66ac2a298b678b30b061cc
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299715"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478782"
 ---
 # <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>하지 업그레이드를 강제 실행 합니다. 어떻게 이동 해야 합니까 다시 이전 Office 버전으로?
 

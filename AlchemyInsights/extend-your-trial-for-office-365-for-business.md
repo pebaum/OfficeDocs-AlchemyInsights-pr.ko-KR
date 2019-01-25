@@ -1,5 +1,5 @@
 ---
-title: 비즈니스를 위한 Office 365에 대 한 평가판을 확장 합니다.
+title: Office 365 비즈니스 에디션의 평가판 연장
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
 ms.openlocfilehash: c325ca115037831d220d9dd5a7b092ab74aee593
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298450"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29477908"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>비즈니스를 위한 Office 365에 대 한 평가판을 확장 합니다.
+# <a name="extend-your-trial-for-office-365-for-business"></a>Office 365 비즈니스 에디션의 평가판 연장
 
 평가판 구독에 만료의 15 일 이내에 평가판 하기 전에 확장 하지 않은 경우에 다른 30 일 동안 평가판을 확장할 수 있습니다. 이 하나씩만 수행할 수 있습니다.
   

@@ -10,11 +10,11 @@ localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
 ms.openlocfilehash: 22ad1b3fb818b40bcd77974031735f931e986968
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299516"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478000"
 ---
 사용자가 Exchange 라이선스 하는 경우 사용자 사서함 공유 사서함을 변환할 수 있습니다. 사서함을 변환한 후에 표시 되려면 활성 사용자 목록에서 해당 목록에는 공유 사서함 포함 되어 있으므로 계속 됩니다. 그러나 변환 된 사서함 공유 사서함 목록에는도 표시 됩니다. 
   

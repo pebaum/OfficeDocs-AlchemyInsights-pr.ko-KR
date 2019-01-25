@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
 ms.openlocfilehash: b92d122b774d97cd2e44cc0880dc5001065b57cc
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298630"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478756"
 ---
 **데이터 손실 방지 (DLP)** Office 365의 중요 한 정보 유형을 사용 하는 경우에 **사회보장 번호 (SSN)를** 포함 하는 콘텐츠에 대 한 작동 하지 않음에 문제가 있을? 그렇다면 콘텐츠 DLP 정책을 찾고이 기능에 대 한 필요한 정보를 포함 되어있는지 확인 합니다. 
   
@@ -36,7 +36,7 @@ ms.locfileid: "28298630"
     
 - **[정의:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** DLP 정책은 이러한 종류의 중요 한 정보를 감지 했습니다 판단 85%에 근접 300 자 내에 있는 경우,: 
     
-  - 다음은 [함수 Func_ssn은](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80) 패턴과 일치 하는 콘텐츠를 찾습니다. 
+  - Func_ssn 함수가 해당 패턴과 일치하는 콘텐츠를 찾습니다. 
     
   - [Keyword_ssn](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn) 에서 키워드를 발견 됩니다. 키워드의 예를 포함: *주민등록, 주민등록 #, Soc 초, SSN* 합니다. 다음 샘플 DLP SSN 정책에 대 한 트리거할 예: **SSN: 489-36-8350**
     

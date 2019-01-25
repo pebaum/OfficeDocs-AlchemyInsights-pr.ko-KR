@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
 ms.openlocfilehash: cd0647aabfd8e3783b1320ced1c2244098eb0257
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28299564"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478741"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>SharePoint 문서 라이브러리에서 항목을 복사 합니다.
 
@@ -35,6 +35,6 @@ ms.locfileid: "28299564"
 3. **여기에 복사**를 클릭 합니다.
     
 > [!NOTE]
->  한번에 최대 500MB의 파일 및 폴더를 복사할 수 있습니다. > 버전 기록 된 문서 **에 복사** 를 사용 하는 경우 최신 버전만 복사 됩니다. 
+>  한번에 최대 500MB의 파일 및 폴더를 복사할 수 있습니다. 버전 기록, 최신 버전에만 있는 문서에 **복사를** 사용 하는 경우 gt_ 복사 됩니다. 
   
 

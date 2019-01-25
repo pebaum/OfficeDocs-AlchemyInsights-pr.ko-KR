@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
 ms.openlocfilehash: c3c078f8fb058a409e0fe4aa427f86e328ae4ce7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28298872"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29478720"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>새 구독 구입을 찾고 있습니까?
 
@@ -32,11 +32,11 @@ ms.locfileid: "28298872"
     
 5. 구매 완료 되 면 라이선스를 다시 할당 하거나 구독을 취소 해야할 수 있습니다. 대체 되는 도움말을 아래의 추가 리소스 섹션을 참조 하십시오.
     
- **추가 리소스:**
+ 추가 리소스
   
 - [비즈니스용 Office 365 사용자에게 라이선스 할당](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [비즈니스를 위한 Office 365를 취소 합니다.](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- Office 365 비즈니스 에디션 취소
     
 - 구독 전환에 관심이 있다면 참조 [사업 계획에 대 한 서로 다른 Office 365 프로그램으로 전환.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)
     
