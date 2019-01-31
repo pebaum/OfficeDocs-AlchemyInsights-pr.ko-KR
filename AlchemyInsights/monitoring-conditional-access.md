@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 06307b57475e8828e6d4e5e01625d5100576f12b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f4153f8a87a138d548c133142b0d48a319bd4b71
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477747"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656573"
 ---
 # <a name="monitoring-conditional-access"></a>조건부 액세스를 모니터링합니다.
 
@@ -35,6 +35,6 @@ ms.locfileid: "29477747"
     
 4. 특정 정책을 다른 사용자를 대상에 **포함** 목록에 추가 합니다. 정책에서 사용자를 생략 하면 되도록 **제외** 목록에 추가 합니다. 
     
-자세한: [장치에 모니터 조건부 액세스 하는 방법](https://docs.microsoft.com/en-us/intune/conditional-access-exchange-monitor)
+자세한: [장치에 모니터 조건부 액세스 하는 방법](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 

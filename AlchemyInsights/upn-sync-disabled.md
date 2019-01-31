@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: d00f10688ec775c22d60a9089e291c265ada46f1
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 027782bb2a6b892df6201f3c3bf55151ef7b9db7
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29478216"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657977"
 ---
 # <a name="upn-sync-disabled"></a>UPN 동기화 사용 안함
 
@@ -26,6 +26,6 @@ ms.locfileid: "29478216"
   
 자동으로 켜거나 2016 년 3 월 30 일 후 Azure AD를 동기화 하는 중 시작 하는 조직에 대 한 UPN 소프트 일치 켜 집니다.
   
-UPN 및 기타 동기화 기능에 대해 부드러운 일치를 사용 하도록 설정 하는 방법에 대 한 자세한 내용은 [Azure AD 연결 동기화 서비스 기능](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)을 참조 하십시오.
+UPN 및 기타 동기화 기능에 대해 부드러운 일치를 사용 하도록 설정 하는 방법에 대 한 자세한 내용은 [Azure AD 연결 동기화 서비스 기능](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)을 참조 하십시오.
   
 

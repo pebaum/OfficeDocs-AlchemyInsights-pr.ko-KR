@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
-ms.openlocfilehash: 81479c4438ce7d981af1312fd4eb7b6ae51ffd42
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 16821181a58da470b37e286e082180d0c6012b2d
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477982"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655853"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>Office 365에서 도메인 이름 서버 업데이트
 
@@ -31,6 +31,6 @@ Office 365에서 도메인을 설정하려면 등록 기관의 이름 서버를 
     
 3. 변경 내용을 저장합니다.
     
-다음 문서에서도 자세한 방법을 확인할 수 있습니다. [도메인 등록 기관에서 이름 서버를 변경하여 Office 365 설정](https://support.office.com/article/https://support.office.com/en-us/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
+다음 문서에서도 자세한 방법을 확인할 수 있습니다. [도메인 등록 기관에서 이름 서버를 변경하여 Office 365 설정](https://support.office.com/article/https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
   
 
