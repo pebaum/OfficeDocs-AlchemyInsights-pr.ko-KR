@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: 115df36605aaef400e6d4eeff7070cc2398bd89c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4b95206e9185f386abafd865ff8c4dc5dd5738d1
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29500756"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655637"
 ---
 # <a name="having-email-delivery-issues"></a>전자 메일 배달 관련 문제가 있습니까?
 
@@ -21,7 +21,7 @@ ms.locfileid: "29500756"
   
 {HealthCheckString}
   
-도메인 (DNS) 설정의 NS 또는 MX 레코드는 Office 365 서비스에 대 한 전자 메일 배달을 위한 올바르게 구성 되지 않습니다. 자세한 내용은 [Office 365의 업데이트 DNS 레코드](https://support.office.com/article/https://support.office.com/en-us/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) 를 참조할 수 있습니다. 
+도메인 (DNS) 설정의 NS 또는 MX 레코드는 Office 365 서비스에 대 한 전자 메일 배달을 위한 올바르게 구성 되지 않습니다. 자세한 내용은 [Office 365의 업데이트 DNS 레코드](https://support.office.com/article/https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) 를 참조할 수 있습니다. 
   
 를 해결 하려면 Office 365 관리 센터에서 [도메인](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/Domains) 페이지로 이동 하십시오 하 고 함께 알아봅니다. 
   

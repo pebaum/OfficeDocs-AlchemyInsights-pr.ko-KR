@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: bf1843d007da336520c47d3a6782fb43d280bcb3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 62876e70201a5df147d1720303d53c951b205058
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477921"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661937"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>사서함 크기가 100GB 이미 경우 수행할 작업
 
@@ -32,6 +32,6 @@ E3 또는 e 5 계획, 사서함 크기는 100GB, 이미 및 글꼴을 늘리는 
     
 4. 몇 분 후에 새 폴더를 호출 하는 Outlook 응용 프로그램 또는 *전체 보관* 라는 웹에서 사용자의 Outlook에 표시 됩니다 *온라인 보관 함- \<이름\> * 합니다. 사용자 끌어서 보관 사서함으로 전자 메일을 놓을 수 있습니다. 
     
-보관에 대 한 저장소 제한 없는 금액을 액세스할 수 있습니다. 자세한 내용은, [무제한 보관을 사용](https://support.office.com/en-us/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e)을 참조 합니다.
+보관에 대 한 저장소 제한 없는 금액을 액세스할 수 있습니다. 자세한 내용은, [무제한 보관을 사용](https://support.office.com/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e)을 참조 합니다.
   
 

@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: dd7166257f2bc17c9b483a95a97a45abd5e99874
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f3e333c752e00e0e8c37d76a3aede09ea47f36e9
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29478433"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660785"
 ---
 # <a name="migrate-public-folder-data-to-office-365"></a>Office 365에 공용 폴더 데이터 마이그레이션
 
@@ -22,7 +22,7 @@ ms.locfileid: "29478433"
   
 Office 365에 공용 폴더를 이동 하는 사용자는 대규모 조직에 대 한 사용할 수 있는 여러 가이드 했습니다.
   
-- [레거시 공용 폴더 마이그레이션](https://technet.microsoft.com/en-us/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 및 이전 버전) 
+- [레거시 공용 폴더 마이그레이션](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 및 이전 버전) 
     
 - [Exchange 2013 공용 폴더 마이그레이션](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
     

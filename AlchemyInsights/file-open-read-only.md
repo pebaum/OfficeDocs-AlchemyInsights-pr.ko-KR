@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 46b2489e86c018b3cbd6feb07a3a2e397de383b6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6c4610a133cf4202310bfd166a61ab84ca6ecdbb
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499532"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661793"
 ---
 # <a name="file-open-read-only"></a>읽기 전용 파일 열기
 
@@ -30,7 +30,7 @@ ms.locfileid: "29499532"
   
  **제한 된 보기에서 콘텐츠를**
   
-인터넷에서 및 기타 잠재적으로 안전 하지 않은 위치에서 파일에는 바이러스, 웜 또는 다른 종류의 사용자의 컴퓨터에 해를 끼칠 수 있는 맬웨어 포함 될 수 있습니다. 경우에는 또한 일반적으로 전자 메일 첨부 파일 또는 다운로드 한 파일입니다. 사용자의 컴퓨터를 보호 하려면 이러한 잠재적으로 안전 하지 않은 위치에서 파일이 제한 된 보기에서 열립니다. 제한 된 보기를 사용 하 여 파일을 읽을 수 있으며 위험을 줄이면서 해당 내용을 확인할 수 있습니다. 제한 된 보기 및 설정을 변경 하는 방법에 대 한 자세한 내용은이 문서를 참조: [제한 된 보기를 란?](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+인터넷에서 및 기타 잠재적으로 안전 하지 않은 위치에서 파일에는 바이러스, 웜 또는 다른 종류의 사용자의 컴퓨터에 해를 끼칠 수 있는 맬웨어 포함 될 수 있습니다. 경우에는 또한 일반적으로 전자 메일 첨부 파일 또는 다운로드 한 파일입니다. 사용자의 컴퓨터를 보호 하려면 이러한 잠재적으로 안전 하지 않은 위치에서 파일이 제한 된 보기에서 열립니다. 제한 된 보기를 사용 하 여 파일을 읽을 수 있으며 위험을 줄이면서 해당 내용을 확인할 수 있습니다. 제한 된 보기 및 설정을 변경 하는 방법에 대 한 자세한 내용은이 문서를 참조: [제한 된 보기를 란?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **OneDrive 꽉?**
   
@@ -38,7 +38,7 @@ ms.locfileid: "29499532"
   
  **Office 활성화**
   
-Office 정품 인증 되지않는 경우 또는 구독이 만료 된 경우 읽기 전용 기능 제한 모드에 있을 수 있습니다. Office 정품 인증 하는 방법에 대 한 정보를 참조 하십시오.: [허가 되지 않은 제품 및 office에서 정품 인증 오류](https://support.office.com/en-us/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)입니다.
+Office 정품 인증 되지않는 경우 또는 구독이 만료 된 경우 읽기 전용 기능 제한 모드에 있을 수 있습니다. Office 정품 인증 하는 방법에 대 한 정보를 참조 하십시오.: [허가 되지 않은 제품 및 office에서 정품 인증 오류](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)입니다.
   
  **모든 시도가 실패 하는 경우...**
   

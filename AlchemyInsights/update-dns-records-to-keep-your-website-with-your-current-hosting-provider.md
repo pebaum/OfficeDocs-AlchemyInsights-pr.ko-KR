@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 58b9b6d4d5de9b9863bf9c2ab0b55e50ca074e45
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f9b7af73137814462b1130b7f377683b80b85d22
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29478428"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655169"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>DNS 레코드를 업데이트하여 현재 호스팅 공급자에 웹 사이트 유지
 
@@ -26,8 +26,8 @@ ms.locfileid: "29478428"
     
 2. 새 호스팅 공급자를 통한 웹사이트를 정렬 하는 정보를 입력 합니다.
     
-자세한 내용은 [현재 호스팅 공급자를 통한 웹사이트를 유지 하려면 업데이트 DNS 레코드](https://support.office.com/en-us/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061)를 참조 합니다. 
+자세한 내용은 [현재 호스팅 공급자를 통한 웹사이트를 유지 하려면 업데이트 DNS 레코드](https://support.office.com/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061)를 참조 합니다. 
   
-공용 사이트 중단 하는 방법에 대 한 자세한 내용은, [SharePoint Online 공개 웹사이트 연결이 끊어질 수](https://support.office.com/en-us/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하십시오. 
+공용 사이트 중단 하는 방법에 대 한 자세한 내용은, [SharePoint Online 공개 웹사이트 연결이 끊어질 수](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하십시오. 
   
 

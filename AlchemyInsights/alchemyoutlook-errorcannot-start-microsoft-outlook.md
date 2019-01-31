@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: 8b072dccffb8b8242a2ff669c3d037eeeea8614e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3d566c95c90a6ebff55a0797650890381da32acc
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29478179"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662297"
 ---
 "Microsoft Outlook을 시작할 수 없습니다"
 
@@ -24,7 +24,7 @@ ms.locfileid: "29478179"
 
 Outlook 2016, Outlook 2013, 또는 Outlook 2010을 시작 하는 문제가 발생 하면 또는 받기를 시작할 수 없습니다 Microsoft Outlook 합니다. Outlook 창을 열 수 없습니다"오류 메시지?
   
-먼저 [이](https://support.office.com/en-us/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) 문서의 문제해결 단계를 사용 하 여 이러한 시작 문제를 해결 하기 위해. 
+먼저 [이](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) 문서의 문제해결 단계를 사용 하 여 이러한 시작 문제를 해결 하기 위해. 
   
 영향을 받는 컴퓨터에 [고급 진단 도구](https://aka.ms/SaRA-OutlookAdvDiagnostics) 를 실행할 수도 있습니다. 
   

@@ -2,20 +2,22 @@
 title: Office를 설치 하는 동안 문제에 대 한 솔루션
 ms.author: janellem
 author: janellem
-ms.date: 12/19/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
-ms.openlocfilehash: ff465b9805fb28be21ce2cc9e8cb8a0eecbdee6e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: bd698704cca91a64e8044514b57ab397cb2d3377
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29478220"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646029"
 ---
 # <a name="solutions-for-issues-while-installing-office"></a>Office를 설치 하는 동안 문제에 대 한 솔루션
+
 
 Office 오류를 해결 하려면 이러한 솔루션 중 하나를 수행 합니다.
   
@@ -31,8 +33,8 @@ Office 오류를 해결 하려면 이러한 솔루션 중 하나를 수행 합�
     
 3. 나머지 음성 안내의 경우와 [Office를 다시](https://portal.office.com/OLS/MySoftware.aspx) 따르거나 길잡이 닫습니다. 
     
-- [오프 라인 설치 관리자는 Office 사용 하 여](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx) Office를 설치 하려면 
+- [오프 라인 설치 관리자는 Office 사용 하 여](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) Office를 설치 하려면 
     
-위의 제안에 대 한 자세한 내용은 참조 하십시오: [Office 오류를 해결 하려면 이러한 솔루션을 시도](https://support.office.com/article/54554bb8-aa94-43c7-a685-408dd9868c0b?wt.mc_id=Alchemy_ClientDIA.aspx)합니다.
+설치 오류에 대 한 자세한 내용은 [Office를 설치 하는 경우 오류 메시지](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages)를 참조 하십시오.
   
 

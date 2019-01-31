@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 5068d2ce7c2bb96551d6eeb6f60044bbe741e1cb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4029a07e1108a515b9dac2def814243ae3c76c22
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477752"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661649"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>스위치는 사서함 크기를 늘리려면 계획
 
 사서함 크기가 100GB 이미 경우 것을 높일 수 없는 방법이 있습니다. 이 경우 [이 지침](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71)을 따르십시오. 
   
-50GB 사서함 크기가 사용 하는 경우 [Office 365 엔터프라이즈 E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) 또는 [Office 365 Enterprise e 5](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software)로 전환 하 여 100GB로 늘릴 수 있습니다. 다른 Office 365 계획으로 전환 하는 단계는 다음과 같습니다.
+50GB 사서함 크기가 사용 하는 경우 [Office 365 엔터프라이즈 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) 또는 [Office 365 Enterprise e 5](https://products.office.com/business/office-365-enterprise-e5-business-software)로 전환 하 여 100GB로 늘릴 수 있습니다. 다른 Office 365 계획으로 전환 하는 단계는 다음과 같습니다.
   
 1. Office 365 관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 하거나 **대금 청구** 선택 \> **구독**합니다.
     

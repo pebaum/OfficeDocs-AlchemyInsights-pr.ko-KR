@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: ee96abfa179c36ebaf43dbd327d4608b849395d3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b8b3e5389778b3aff0fbe2f6506ba2b2fc3abc7e
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29478198"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655673"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>복구 가능한 항목 폴더 꽉 참
 
@@ -34,9 +34,9 @@ Office 365의 Exchange Online 사서함에 대 한 복구 가능한 항목 폴�
   
 - [메시지 검색 및 삭제](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
     
-- Search-Mailbox
+- [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
     
-보류에 있는 사서함에 대해 관리자가 복구 가능한 항목 폴더에서 삭제 된 항목을 수행할 수 있습니다 전에 보류를 제거 해야 합니다. 자세한 내용은 [폴더에 있는 클라우드 기반 사서함의 대기 복구 가능한 항목에서 항목을 삭제](https://docs.microsoft.com/en-us/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)를 참조 하십시오.
+보류에 있는 사서함에 대해 관리자가 복구 가능한 항목 폴더에서 삭제 된 항목을 수행할 수 있습니다 전에 보류를 제거 해야 합니다. 자세한 내용은 [폴더에 있는 클라우드 기반 사서함의 대기 복구 가능한 항목에서 항목을 삭제](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)를 참조 하십시오.
   
 차게에서 복구 가능한 항목 폴더를 방지 하려면 관리자가 복구 가능한 항목 폴더에 있는 사서함에 대 한 유지 하 고 사용자의 보관 사서함을 복구 가능한 항목 폴더에서 항목을 이동 하는 사서함 보존 정책을 설정의 저장 용량 제한 늘릴 수 있습니다. 사서함입니다. [증가에 있는 사서함에 대 한 할당량 대기 복구 가능한 항목을](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold)참조 하십시오.
   

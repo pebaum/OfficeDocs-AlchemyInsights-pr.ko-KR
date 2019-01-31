@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
-ms.openlocfilehash: 73c5fff6fa91df4010a7b96321fd7c6a9ec37769
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: eb3c565aaba3bad2d6844808f933b7fd66ea02fd
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29478003"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660929"
 ---
 # <a name="trying-to-verify-your-domain"></a>도메인을 확인 하려고 합니까?
 
@@ -21,6 +21,6 @@ ms.locfileid: "29478003"
   
 도메인을 확인 하려면 TXT 레코드를 추가 하려면 아래 문서에 대 한 지침을 따릅니다. 도메인에 대 한 특정 지침에 대 한 도메인 등록자를 선택 합니다.
   
-[Office 365용 DNS 레코드 만들기](https://support.office.com/article/https://support.office.com/en-us/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[Office 365용 DNS 레코드 만들기](https://support.office.com/article/https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
   
 

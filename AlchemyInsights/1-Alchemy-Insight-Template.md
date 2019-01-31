@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 9e2a369f4b1bf87da8b12224b5f6e8b1138db9dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
+ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454220"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662936"
 ---
 # <a name="required-customer-facing-h1-h2-doesnt-work"></a>필요한 고객 마주보는 H1, H2 작동 하지 않는 경우
 예제 텍스트 차단-다음이 지침을 따르십시오.
 
-1. **AlchemyInsights** 폴더의 파일은 갈기 같은에서 규칙 ID와 [연금술 파트너 포털](https://alchemyportal.azurewebsites.net) 에서 규칙 이름이 있어야 합니다.
+1. **AlchemyInsights** 폴더의 파일의 파일 이름에서 규칙 ID와 [연금술 파트너 포털](https://alchemyportal.azurewebsites.net) 에서 규칙 이름이 있어야 합니다.
     1. 예: ***976-How-to-enable-litigation-hold***
 1. 서식 파일에으로이 파일의 위쪽에 메타 데이터를 사용 합니다. 다른 nothing이 필요 합니다.
 1. [연금술 파트너 포털](https://alchemyportal.azurewebsites.net)섹션으로 이동 **고객 견해 제목:** 및는 정보에 대 한 H1 제목에 대 한 사용 가리키는 시작 하기만 합니다. 
@@ -34,3 +34,8 @@ ms.locfileid: "29454220"
     1. 링크는 항상 있어야 하거나 **"웹에 대 한 링크" 외부 /** OR **UI 요소를 자세히 링크**, 하지 내부 링크입니다.
 
 및이 이미 실제로 좀더 너무 깁니다. 모범 사례는 약 400 자--
+
+콘텐츠를 수행할 준비가 되 면 라이브 분기를 가져와 합니다. 그런 다음, [연금술 파트너 포털](https://alchemyportal.azurewebsites.net) 에 이동 하 고 url 필드에 파일 이름을 입력 합니다. 필요한 정보를 검토 하 고 게시 "yes" 라고 표시 되어있는지 확인 하 고 업데이트 규칙을 클릭 합니다. (이 보이는지 곧 출시-포털의 새 버전에서 저렇게.)
+
+![url 필드](media/for-content-team.PNG)
+
