@@ -11,21 +11,21 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: edcbab6f-09f6-44d7-9426-a2fcdda265db
-ms.openlocfilehash: 285a63971c8de14b3820282edf581029127caad9
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 11ad0b865104712e6d7dd843505a6b30137da6bf
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498920"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661469"
 ---
-# <a name="changing-public-folder-permissions"></a><span data-ttu-id="6761b-102">공용 폴더 사용 권한 변경</span><span class="sxs-lookup"><span data-stu-id="6761b-102">Changing public folder permissions</span></span>
+# <a name="changing-public-folder-permissions"></a><span data-ttu-id="6e1be-102">공용 폴더 사용 권한 변경</span><span class="sxs-lookup"><span data-stu-id="6e1be-102">Changing public folder permissions</span></span>
 
-<span data-ttu-id="6761b-p101">사용자와 함께 Outlook에서 공용 폴더 사용 권한을 변경할 수 있습니다. 참조 [설정 공용 폴더에 대 한 사용 권한을 변경 또는](https://support.office.com/en-us/article/set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005)합니다. 관리자가 Exchange 관리 센터에서 사용 권한을 변경할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="6761b-p101">You and your users can change Public folder permissions in Outlook. See [Set or change permissions for a public folder](https://support.office.com/en-us/article/set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005). Admins can also change permissions in the Exchange admin center:</span></span>
+<span data-ttu-id="6e1be-p101">사용자와 함께 Outlook에서 공용 폴더 사용 권한을 변경할 수 있습니다. 참조 [설정 공용 폴더에 대 한 사용 권한을 변경 또는](https://support.office.com/article/set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005)합니다. 관리자가 Exchange 관리 센터에서 사용 권한을 변경할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="6e1be-p101">You and your users can change Public folder permissions in Outlook. See [Set or change permissions for a public folder](https://support.office.com/article/set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005). Admins can also change permissions in the Exchange admin center:</span></span>
   
-- <span data-ttu-id="6761b-106">Office 365 관리 센터에서 **관리 센터** 로 이동 \> **Exchange**합니다.</span><span class="sxs-lookup"><span data-stu-id="6761b-106">In the Office 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
+- <span data-ttu-id="6e1be-106">Office 365 관리 센터에서 **관리 센터** 로 이동 \> **Exchange**합니다.</span><span class="sxs-lookup"><span data-stu-id="6e1be-106">In the Office 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
     
-- <span data-ttu-id="6761b-107">**공용 폴더**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="6761b-107">Choose **Public folders**.</span></span>
+- <span data-ttu-id="6e1be-107">**공용 폴더**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="6e1be-107">Choose **Public folders**.</span></span>
     
-<span data-ttu-id="6761b-p102">여기에서 사용 권한 관리로 보안 그룹의 사용자를 할당 하 여 개별 공용 폴더에 대 한 사용 권한을 변경할 수 있습니다. 공용 폴더에 대 한 사용 권한을 변경 하려면 것의 소유자가 되도록 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="6761b-p102">From there, you can change permissions for individual public folders by assigning users of security groups to Permissions. To change permissions for a public folder, you need to be an Owner of it.</span></span>
+<span data-ttu-id="6e1be-p102">여기에서 사용 권한 관리로 보안 그룹의 사용자를 할당 하 여 개별 공용 폴더에 대 한 사용 권한을 변경할 수 있습니다. 공용 폴더에 대 한 사용 권한을 변경 하려면 것의 소유자가 되도록 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="6e1be-p102">From there, you can change permissions for individual public folders by assigning users of security groups to Permissions. To change permissions for a public folder, you need to be an Owner of it.</span></span>
   
 
