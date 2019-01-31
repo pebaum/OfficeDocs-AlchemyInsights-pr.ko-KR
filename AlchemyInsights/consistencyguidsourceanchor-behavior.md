@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: 80516ed9e15040475a8b65a1af98a1b561704d49
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 010474bcc4cc6f97bcaafef9dfe6f4accfed4247
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498524"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659597"
 ---
 # <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid / sourceAnchor 동작
 
@@ -28,6 +28,6 @@ Azure AD 연결 (버전 1.1.524.0 여운 및) 이제 sourceAnchor 특성으로�
     
  **참고:** 한번 온-프레미스 AD 개체는 (즉, AD 커넥터 공간으로 가져오기 및 Metaverse로 프로젝션) Azure AD 연결으로 가져올, 더이상 sourceAnchor 값을 변경할 수 없습니다. 에 대 한 sourceAnchor 값을 지정 하는 온-프레미스 주어진 AD 개체, Azure AD 연결을 가져오면 전에 해당은 ConsistencyGuid 특성을 구성 합니다. 
   
-SourceAnchor 및 ConsistencyGuid에 대 한 자세한 내용은 다음 참조: [Azure AD 연결: 개념 디자인](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+SourceAnchor 및 ConsistencyGuid에 대 한 자세한 내용은 다음 참조: [Azure AD 연결: 개념 디자인](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 

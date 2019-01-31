@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: 9b8dc5780cdf1ef83f352ebafe0b0045c117cc44
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 769b3b7336bade3f702e2b6859107c8127d06ad9
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477750"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29658265"
 ---
 # <a name="hybrid-configuration-wizard"></a>하이브리드 구성 마법사
 
 하이브리드 구성 마법사는 온-프레미스 Exchange 조직과 Office 365 사이 새 하이브리드 배포를 설정 하는데 도움이 되는 응용 프로그램입니다. 이미 하이브리드 배포를 설정 하는 경우 마법사를 사용 하면 하이브리드 배포 설정을 업데이트 합니다. 자세한 내용은으로 체크아웃 합니다.
   
-- [하이브리드 구성 마법사 실행](https://technet.microsoft.com/en-us/library/mt595788%28v=exchg.150%29.aspx)
+- [하이브리드 구성 마법사 실행](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
     
-- [하이브리드 구성 마법사](https://technet.microsoft.com/en-us/library/hh529921%28v=exchg.150%29.aspx)
+- [하이브리드 구성 마법사](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
     
-- [하이브리드 구성 마법사 FAQ](https://technet.microsoft.com/en-us/library/mt488940%28v=exchg.150%29.aspx)
+- [하이브리드 구성 마법사 FAQ](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
     
 
