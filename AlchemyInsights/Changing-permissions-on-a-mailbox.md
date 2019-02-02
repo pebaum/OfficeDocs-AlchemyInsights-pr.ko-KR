@@ -9,13 +9,15 @@ ms.service: o365-administration
 localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0bae85bc-2a1f-436b-af07-82d0eb79cb8b
-ms.openlocfilehash: ec22ba79980779e7f218607e3b4ca7012eb8d35f
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 49f7849f780de3348a73c8530ee99682dbbe354f
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657941"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697172"
 ---
+# <a name="changing-permissions-on-a-mailbox"></a>사서함에 대 한 권한 변경
+
 사용자가 필요한 이외의 자신의 사서함에 대 한 액세스 하는 경우 해당 사서함이 있는 작업할 수 있는 권한을 부여 해야 합니다. 이러한 사용 권한을 할당 하는 방법 사서함 유형에 따라 다릅니다. 사용자에 대 한 액세스 필요 합니다.
   
 - 다른 사용자의 사서함- [Office 365에서 다른 사용자에 게 사서함 사용 권한 부여](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8)를 참조 하십시오.
