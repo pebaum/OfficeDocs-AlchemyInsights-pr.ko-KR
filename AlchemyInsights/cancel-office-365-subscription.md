@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 773805beea21453c2aeb0682d026afd3cfd8ccb9
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 01900178c853e516bb1480af434db0735f2cb11b
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656321"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759394"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Office 365 구독을 취소 하 시겠습니까?
 
@@ -24,10 +24,10 @@ ms.locfileid: "29656321"
   
 - 평가판 고객 인 경우 취소 것이 없습니다. 평가판 구독 지불 메서드를 제공 하지 않으면 자동으로 만료 됩니다.
     
-- 사용자 수가 25 할당 된 라이선스를 사용 하는 경우에 온라인으로 구독을 취소할 수 있습니다. [대금 청구](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/subscriptions) 로 이동 \> **구독**을 **더 많은 작업** 을 선택 하 고 \> **구독을 취소**합니다.
+- 사용자 수가 25 할당 된 라이선스를 사용 하는 경우에 온라인으로 구독을 취소할 수 있습니다. [대금 청구](https://admin.microsoft.com/adminportal/home#/subscriptions) 로 이동 \> **구독**을 **더 많은 작업** 을 선택 하 고 \> **구독을 취소**합니다.
     
 - 25 개 이상의 할당 된 라이선스를 사용 하는 경우 지원 엔지니어에 게 문의 하기 "보겠습니다를 호출 하면" 옵션을 사용 하거나 미만의 25 했는지 때까지 하거나 사용자를 제거할 수 있습니다.
     
-- 에 대 한 단계별 지침은 또는 구독을 취소 하는 방법에 대 한 자세한 내용을 보려면 [비즈니스용 Office 365 취소](https://support.office.com/article/https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx)를 참조 하십시오.
+- 에 대 한 단계별 지침은 또는 구독을 취소 하는 방법에 대 한 자세한 내용을 보려면 [비즈니스용 Office 365 취소](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx)를 참조 하십시오.
     
 

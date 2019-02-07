@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cfacdcac-8b59-4d81-a8b1-0d16b712df25
-ms.openlocfilehash: f6d93a59996009e070438d942afd92204f636abf
-ms.sourcegitcommit: 3fd1c87a75450e598de6ea10d9a5937ceaf51d20
+ms.openlocfilehash: d80072c3cdbeb97d7b73520267c64ca8447bee4b
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2019
-ms.locfileid: "29735302"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758566"
 ---
 # <a name="add-a-user-to-office-365"></a>Office 365에 사용자 추가
 
 Office 365에 사용자를 추가하려면 다음 단계를 사용합니다.
   
-1. [현재 사용자](https://portal.office.com/adminportal/home.aspx#/users) 에 게 이동 (왼쪽된 탐색에서 **사용자** 를 선택 하거나 \> **활성 사용자**).
+1. [현재 사용자](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) 에 게 이동 (왼쪽된 탐색에서 **사용자** 를 선택 하거나 \> **활성 사용자**).
     
 2. **사용자 추가**를 클릭합니다.
     

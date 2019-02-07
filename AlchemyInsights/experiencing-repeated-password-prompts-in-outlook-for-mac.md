@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: 400d7c269d4dc0dd43cf98ce4662c4c126e4570a
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: eb852d5587dfb948042992e5d931e195595bc11b
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29654138"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758818"
 ---
 # <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Mac 용 Outlook에서 암호 안내를 반복 하 실습?
 
@@ -21,6 +21,6 @@ ms.locfileid: "29654138"
   
 Outlook을 열고 **도움말** 에서 클릭에 영향을 받는 사용자의 Mac를 방문 하십시오 \> **지원부에 문의 하십시오**.
   
-Mac 응용 프로그램에서 고객 지원에 대 한 Outlook을 사용 하는 방법에 대 한 자세한 내용은,이 문서를 참조: [Mac 용 Outlook 2016에서 새 연락처를 지원 기능](https://support.office.com/article/https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+Mac 응용 프로그램에서 고객 지원에 대 한 Outlook을 사용 하는 방법에 대 한 자세한 내용은,이 문서를 참조: [Mac 용 Outlook 2016에서 새 연락처를 지원 기능](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
   
 
