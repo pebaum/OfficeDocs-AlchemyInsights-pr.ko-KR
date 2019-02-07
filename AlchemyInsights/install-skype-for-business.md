@@ -11,15 +11,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
-ms.openlocfilehash: 10334e96d30796cb36aedba38fb48f1fe41513ff
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 2224255e125675814ca3583cd855483109828c75
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29655349"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29757594"
 ---
-# <a name="install-skype-for-business"></a><span data-ttu-id="c19f5-102">비즈니스용 Skype 설치</span><span class="sxs-lookup"><span data-stu-id="c19f5-102">Install Skype for Business</span></span>
+# <a name="install-skype-for-business"></a><span data-ttu-id="39960-102">비즈니스용 Skype 설치</span><span class="sxs-lookup"><span data-stu-id="39960-102">Install Skype for Business</span></span>
 
-<span data-ttu-id="c19f5-103">이 문서의 단계를 수행 하 여 비즈니스를 위한 Skype를 설치할 수: [비즈니스에 대 한 설치 Skype](https://support.office.com/article/https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)</span><span class="sxs-lookup"><span data-stu-id="c19f5-103">You can install Skype for Business by following the steps in this article: [Install Skype for Business](https://support.office.com/article/https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)</span></span>
+<span data-ttu-id="39960-103">이 문서의 단계를 수행 하 여 비즈니스를 위한 Skype를 설치할 수: [비즈니스에 대 한 설치 Skype](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)</span><span class="sxs-lookup"><span data-stu-id="39960-103">You can install Skype for Business by following the steps in this article: [Install Skype for Business](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)</span></span>
   
 
