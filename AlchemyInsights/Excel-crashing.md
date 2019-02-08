@@ -9,13 +9,15 @@ ms.service: o365-administration
 localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba48253-6088-4c95-94d8-815753c46c4c
-ms.openlocfilehash: f1e83d9a3f4927bc711dadd0bd32d6d847140f30
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: aeeb3f4394e4377074b0dd7f330d737ca9c75a6d
+ms.sourcegitcommit: f027e6f083dc07776ceaf1c5240f5a48fac6fc66
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661423"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29768189"
 ---
+# <a name="frequent-excel-crashes"></a>Excel 작동 중단을 자주?
+
 Excel에서 자주 중단 잘못 된 추가 기능에 의해 발생할 수 있습니다. 이러한 지침을 수행 하 여 Excel 추가 기능을 비활성화할 수 있습니다.
   
 1. **파일** 선택 \> **옵션**을 \> **추가 기능**입니다.
