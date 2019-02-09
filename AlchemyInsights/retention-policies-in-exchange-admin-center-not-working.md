@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 6c69511f6bcdad5793cd2473a20a2d168d2ac260
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 73e8db432afccb73b872ec7a3ce84c25f1ba7f25
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29660713"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786776"
 ---
+# <a name="retention-policies-in-exchange-admin-center"></a>Exchange 관리 센터의 보존 정책
+
  **문제:** 새로 만든 또는 사서함에 Exchange 관리 센터에서 업데이트 된 보존 정책 적용 하지 않는 또는 항목 보관 사서함으로 이동 하거나 삭제 되지 않습니다. 
   
  **루트 원인은 다음과 같습니다.**

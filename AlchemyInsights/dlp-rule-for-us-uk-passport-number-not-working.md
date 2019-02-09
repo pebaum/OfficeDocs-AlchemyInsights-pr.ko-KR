@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 5722f7b6c9a2f905fed2ef4164787e020260edf7
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: ec7f11676982b56a46c83bf276c2212ce765ba6f
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656429"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786704"
 ---
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>DLP-문제가 미국 / 영국 여권 번호
+
 경우에 문제가 있는 **데이터 손실 방지 (DLP)** 콘텐츠를 포함 하는 것에 대 한 작동 하지는 **미국 / 영국 여권 번호** DLP 중요 한 정보 유형 o 365에서 사용 하는 경우? 그럴 경우 다음을 확인 콘텐츠 포함 DLP 정책이 원하는 내용을 계산 하는 경우에 필요한 정보입니다. 
   
 예: 프로그램 **미국 / 영국 여권 번호** 75%의 신뢰 수준으로 구성 된 정책, 계산 되 하 고 다음을 트리거하려면 규칙에 대 한 검색 해야 합니다 

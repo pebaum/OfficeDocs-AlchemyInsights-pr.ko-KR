@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: c59fb005168e02b4aa8dda26b335ac763ab61aa0
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f7dfc010c3624b2192da01d9e50e58dd6bb653df
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657766"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786740"
 ---
+# <a name="dlp-policy-tip-issues"></a>DLP 정책 팁 문제
+
 **DLP 정책**을 사용 하는 경우 사용자는 **정책 설명이**있는 정책 위반의 알림을 받을 수 있습니다. 관리자의 DLP 정책을 테스트 하는 동안 또는 정책 전체 적용 모드에 있을 때 표시 하려면 정책 팁을 구성할 수 있습니다. 
   
 전체 적용 모드에서 보안 및 규정 준수 센터의 DLP 정책에 대 한 팁 정책을 구성 하려면 다음을 수행 합니다.
