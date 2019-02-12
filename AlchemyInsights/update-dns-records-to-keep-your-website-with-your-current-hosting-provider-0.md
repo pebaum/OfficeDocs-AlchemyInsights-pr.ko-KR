@@ -7,43 +7,43 @@ ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: a79302259e294ea5bf3b1d29393a412edb27a388
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e0dadba1e3ffd1cf0d49c0a76ec2efbbc6ae92db
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29478204"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29906126"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="e1530-102">DNS 레코드를 업데이트하여 현재 호스팅 공급자에 웹 사이트 유지</span><span class="sxs-lookup"><span data-stu-id="e1530-102">Update DNS records to keep your website with your current hosting provider</span></span>
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="3a280-102">DNS 레코드를 업데이트하여 현재 호스팅 공급자에 웹 사이트 유지</span><span class="sxs-lookup"><span data-stu-id="3a280-102">Update DNS records to keep your website with your current hosting provider</span></span>
 
-1. <span data-ttu-id="e1530-103">[도메인](https://portal.office.com/adminportal/home#/Domains) 페이지의 도메인 목록에서 웹 사이트에 사용 중인 도메인을 선택한 다음 관리 창에서 **DNS 설정** 을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="e1530-103">On the [Domains](https://portal.office.com/adminportal/home#/Domains) page, in the list of domains, select the domain you're using for your website, and then select **DNS settings** in the management pane.</span></span> 
+1. <span data-ttu-id="3a280-103">[도메인](https://portal.office.com/adminportal/home#/Domains) 페이지의 도메인 목록에서 웹 사이트에 사용 중인 도메인을 선택한 다음 관리 창에서 **DNS 설정** 을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="3a280-103">On the [Domains](https://portal.office.com/adminportal/home#/Domains) page, in the list of domains, select the domain you're using for your website, and then select **DNS settings** in the management pane.</span></span> 
     
-2. <span data-ttu-id="e1530-104">**+ 새 사용자 지정 레코드** 를 선택하고 다음을 입력합니다.</span><span class="sxs-lookup"><span data-stu-id="e1530-104">Select **+ New custom record** and enter the following:</span></span> 
+2. <span data-ttu-id="3a280-104">**+ 새 사용자 지정 레코드** 를 선택하고 다음을 입력합니다.</span><span class="sxs-lookup"><span data-stu-id="3a280-104">Select **+ New custom record** and enter the following:</span></span> 
     
-  - <span data-ttu-id="e1530-105">**DNS 유형** 에 대해 다음을 입력합니다. **A(주소)**</span><span class="sxs-lookup"><span data-stu-id="e1530-105">For **DNS type** enter: **A (Address)**</span></span>
+  - <span data-ttu-id="3a280-105">**DNS 유형** 에 대해 다음을 입력합니다. **A(주소)**</span><span class="sxs-lookup"><span data-stu-id="3a280-105">For **DNS type** enter: **A (Address)**</span></span>
     
-  - <span data-ttu-id="e1530-106">**호스트 이름 또는 별칭** 에는 **@** 을 입력합니다.</span><span class="sxs-lookup"><span data-stu-id="e1530-106">For **Host name or Alias**, type the following: **@**</span></span>
+  - <span data-ttu-id="3a280-106">**호스트 이름 또는 별칭** 에는 **@** 을 입력합니다.</span><span class="sxs-lookup"><span data-stu-id="3a280-106">For **Host name or Alias**, type the following: **@**</span></span>
     
-  - <span data-ttu-id="e1530-107">**IP 주소** 에는 현재 호스팅되는 웹 사이트의 고정 IP 주소를 입력합니다(예: 172.16.140.1).</span><span class="sxs-lookup"><span data-stu-id="e1530-107">For **IP Address**, type the static IP address for your website where it's currently hosted (for example, 172.16.140.1).</span></span> 
+  - <span data-ttu-id="3a280-107">**IP 주소** 에는 현재 호스팅되는 웹 사이트의 고정 IP 주소를 입력합니다(예: 172.16.140.1).</span><span class="sxs-lookup"><span data-stu-id="3a280-107">For **IP Address**, type the static IP address for your website where it's currently hosted (for example, 172.16.140.1).</span></span> 
     
-    <span data-ttu-id="e1530-p101">이 IP 주소는  *동적*  IP 주소가 아니라 웹 사이트의  *고정*  IP 주소여야 합니다. 웹 사이트가 호스트되는 사이트에서 공개 웹 사이트의 고정 IP 주소를 가져올 수 있는지 확인합니다.</span><span class="sxs-lookup"><span data-stu-id="e1530-p101">This must be a  *static*  IP address for the website, not a  *dynamic*  IP address. Check with site where your website is hosted to make sure you can get a static IP address for your public website.</span></span> 
+    <span data-ttu-id="3a280-p101">이 IP 주소는  *동적*  IP 주소가 아니라 웹 사이트의  *고정*  IP 주소여야 합니다. 웹 사이트가 호스트되는 사이트에서 공개 웹 사이트의 고정 IP 주소를 가져올 수 있는지 확인합니다.</span><span class="sxs-lookup"><span data-stu-id="3a280-p101">This must be a  *static*  IP address for the website, not a  *dynamic*  IP address. Check with site where your website is hosted to make sure you can get a static IP address for your public website.</span></span> 
     
-3. <span data-ttu-id="e1530-110">**저장** 을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="e1530-110">Select **Save**.</span></span> 
+3. <span data-ttu-id="3a280-110">**저장** 을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="3a280-110">Select **Save**.</span></span> 
     
-<span data-ttu-id="e1530-111">추가로, 고객이 쉽게 사용자의 웹 사이트를 찾을 수 있도록 CNAME 레코드를 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="e1530-111">In addition, you can create a CNAME record to help customers find your website.</span></span>
+<span data-ttu-id="3a280-111">추가로, 고객이 쉽게 사용자의 웹 사이트를 찾을 수 있도록 CNAME 레코드를 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3a280-111">In addition, you can create a CNAME record to help customers find your website.</span></span>
   
-1. <span data-ttu-id="e1530-112">**+ 새 사용자 지정 레코드** 를 선택하고 다음을 입력합니다.</span><span class="sxs-lookup"><span data-stu-id="e1530-112">Select **+ New custom record** and enter the following:</span></span> 
+1. <span data-ttu-id="3a280-112">**+ 새 사용자 지정 레코드** 를 선택하고 다음을 입력합니다.</span><span class="sxs-lookup"><span data-stu-id="3a280-112">Select **+ New custom record** and enter the following:</span></span> 
     
-  - <span data-ttu-id="e1530-113">**DNS 유형** 에 대해 다음을 입력합니다. **CNAME(별칭)**</span><span class="sxs-lookup"><span data-stu-id="e1530-113">For **DNS type** enter: **CNAME (Alias)**</span></span>
+  - <span data-ttu-id="3a280-113">**DNS 유형** 에 대해 다음을 입력합니다. **CNAME(별칭)**</span><span class="sxs-lookup"><span data-stu-id="3a280-113">For **DNS type** enter: **CNAME (Alias)**</span></span>
     
-  - <span data-ttu-id="e1530-114">**호스트 이름 또는 별칭** 에는 **www** 를 입력합니다.</span><span class="sxs-lookup"><span data-stu-id="e1530-114">For **Host name or Alias**, type the following: **www**</span></span>
+  - <span data-ttu-id="3a280-114">**호스트 이름 또는 별칭** 에는 **www** 를 입력합니다.</span><span class="sxs-lookup"><span data-stu-id="3a280-114">For **Host name or Alias**, type the following: **www**</span></span>
     
-  - <span data-ttu-id="e1530-115">**대상 주소** 에 웹 사이트의 FQDN(정규화된 도메인 이름)을 contoso.com과 같이 입력합니다.</span><span class="sxs-lookup"><span data-stu-id="e1530-115">For **Points to address**, type the fully qualified domain name (FQDN) for your website (for example, contoso.com).</span></span> 
+  - <span data-ttu-id="3a280-115">**대상 주소** 에 웹 사이트의 FQDN(정규화된 도메인 이름)을 contoso.com과 같이 입력합니다.</span><span class="sxs-lookup"><span data-stu-id="3a280-115">For **Points to address**, type the fully qualified domain name (FQDN) for your website (for example, contoso.com).</span></span> 
     
-2. <span data-ttu-id="e1530-116">**저장** 을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="e1530-116">Select **Save**.</span></span> 
+2. <span data-ttu-id="3a280-116">**저장** 을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="3a280-116">Select **Save**.</span></span> 
     
 
