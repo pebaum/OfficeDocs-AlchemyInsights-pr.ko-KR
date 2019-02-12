@@ -7,29 +7,29 @@ ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 11941c07ea7185b8fe3f23b0d64d8634890fc60b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c5163e1a4fa13a4aeccc9506c798d6df1654ad53
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29478503"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29940650"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a><span data-ttu-id="cd3d6-102">Microsoft Office 365 볼륨 라이선스 구독 활성화</span><span class="sxs-lookup"><span data-stu-id="cd3d6-102">Activating a Microsoft Office 365 Volume License Subscription</span></span>
+# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a><span data-ttu-id="e3cc1-102">Microsoft Office 365 볼륨 라이선스 구독 활성화</span><span class="sxs-lookup"><span data-stu-id="e3cc1-102">Activating a Microsoft Office 365 Volume License Subscription</span></span>
 
-1. <span data-ttu-id="cd3d6-103">[볼륨 라이선스 서비스 센터 (VLSC) 포털](http://go.microsoft.com/fwlink/p/?LinkId=329762)에 로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="cd3d6-103">Sign in to your [Volume Licensing Service Center (VLSC) portal](http://go.microsoft.com/fwlink/p/?LinkId=329762).</span></span>
+1. <span data-ttu-id="e3cc1-103">[볼륨 라이선스 서비스 센터 (VLSC) 포털](http://go.microsoft.com/fwlink/p/?LinkId=329762)에 로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="e3cc1-103">Sign in to your [Volume Licensing Service Center (VLSC) portal](http://go.microsoft.com/fwlink/p/?LinkId=329762).</span></span>
     
-2. <span data-ttu-id="cd3d6-104">Office 365 구독을 찾아 **활성화**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="cd3d6-104">Navigate to your Office 365 subscription and choose **Activate**.</span></span>
+2. <span data-ttu-id="e3cc1-104">Office 365 구독을 찾아 **활성화**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e3cc1-104">Navigate to your Office 365 subscription and choose **Activate**.</span></span>
     
-3. <span data-ttu-id="cd3d6-105">전자 메일 프로그램 OLS (온라인 서비스) 대화 상대에 게 전송 됩니다.</span><span class="sxs-lookup"><span data-stu-id="cd3d6-105">An email will be sent to your Online Services (OLS) Contact.</span></span>
+3. <span data-ttu-id="e3cc1-105">전자 메일 프로그램 OLS (온라인 서비스) 대화 상대에 게 전송 됩니다.</span><span class="sxs-lookup"><span data-stu-id="e3cc1-105">An email will be sent to your Online Services (OLS) Contact.</span></span>
     
-4. <span data-ttu-id="cd3d6-p101">정품 인증 전자 메일 두 옵션을 제공 합니다: **등록 (영문)**, 또는 **로그인**합니다. 이전에 만든 평가판을 하는 경우 **로그인**을 선택 합니다. Office 365 테 넌 트를 아직 설치 하지 않은 경우에 **등록 (영문)를**선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="cd3d6-p101">The activation email will provide you with two options: **Sign up**, or **Sign in**. If you have previously created a trial, choose **Sign in**. If you don't yet have an Office 365 tenant, choose **Sign up**.</span></span>
+4. <span data-ttu-id="e3cc1-p101">정품 인증 전자 메일 두 옵션을 제공 합니다: **등록 (영문)**, 또는 **로그인**합니다. 이전에 만든 평가판을 하는 경우 **로그인**을 선택 합니다. Office 365 테 넌 트를 아직 설치 하지 않은 경우에 **등록 (영문)를**선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e3cc1-p101">The activation email will provide you with two options: **Sign up**, or **Sign in**. If you have previously created a trial, choose **Sign in**. If you don't yet have an Office 365 tenant, choose **Sign up**.</span></span>
     
-5. <span data-ttu-id="cd3d6-p102">Office 365에 로그인 ([https://portal.office.com](https://portal.office.com)) 기존 Office 365 관리자 자격 증명을 사용 하 여 합니다. 로그인 한 후 성공적으로, 구매를 확인 하는 다른 전자 메일을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="cd3d6-p102">Sign in to Office 365 ([https://portal.office.com](https://portal.office.com)) using your existing Office 365 administrator credentials. After you successfully sign in, you'll receive another email confirming your purchase.</span></span>
+5. <span data-ttu-id="e3cc1-p102">Office 365에 로그인 ([https://portal.office.com](https://portal.office.com)) 기존 Office 365 관리자 자격 증명을 사용 하 여 합니다. 로그인 한 후 성공적으로, 구매를 확인 하는 다른 전자 메일을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="e3cc1-p102">Sign in to Office 365 ([https://portal.office.com](https://portal.office.com)) using your existing Office 365 administrator credentials. After you successfully sign in, you'll receive another email confirming your purchase.</span></span>
     
-6. <span data-ttu-id="cd3d6-p103">했을 때 로그인 후,이 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 하거나 **대금 청구** 를 선택할 수 있습니다 - \> 테 넌 트 내에서 구입한 Office 365 구독 활성화 되었는지 확인 하려면 **구독** 합니다. (선택할 수 있습니다 또한 **구독** 탭에서 구독 한 조치로 확인 (영문) 세부 정보를 보려면 VLSC.)</span><span class="sxs-lookup"><span data-stu-id="cd3d6-p103">After you've signed in, you can go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** -\> **Subscriptions** to verify that your purchased Office 365 Subscriptions are activated within your tenant. (You can also choose the **Subscription** tab in the VLSC to view details verifying that your subscription has been deposited.)</span></span> 
+6. <span data-ttu-id="e3cc1-p103">했을 때 로그인 후,이 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 하거나 **대금 청구** 를 선택할 수 있습니다 - \> 테 넌 트 내에서 구입한 Office 365 구독 활성화 되었는지 확인 하려면 **구독** 합니다. (선택할 수 있습니다 또한 **구독** 탭에서 구독 한 조치로 확인 (영문) 세부 정보를 보려면 VLSC.)</span><span class="sxs-lookup"><span data-stu-id="e3cc1-p103">After you've signed in, you can go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** -\> **Subscriptions** to verify that your purchased Office 365 Subscriptions are activated within your tenant. (You can also choose the **Subscription** tab in the VLSC to view details verifying that your subscription has been deposited.)</span></span> 
     
 
