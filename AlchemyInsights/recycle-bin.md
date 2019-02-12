@@ -7,16 +7,16 @@ ms.date: 3/1/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: a4b1ce6c6a454939bb47fcfb183914fb26b1f6c5
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 20c5ae457544a5bbf00134e9ae17097eb5a94c55
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29500360"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29940721"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>SharePoint Online에서 항목 복원
 
@@ -30,6 +30,6 @@ SharePoint Online에서 항목을 삭제할 때 93 일의 합계에 대 한 보�
     
 3. **복원**을 클릭합니다.
     
-[사이트 모음 휴지통에서 삭제된 항목 복원](https://go.microsoft.com/fwlink/?linkid=866439)
+[사이트 모음 휴지통에서 삭제 된 항목 복원](https://go.microsoft.com/fwlink/?linkid=866439)
   
 
