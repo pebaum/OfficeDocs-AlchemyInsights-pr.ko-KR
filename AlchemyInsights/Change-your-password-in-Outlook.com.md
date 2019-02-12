@@ -6,16 +6,16 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0bd18328-35e4-4e4a-94c3-48430e8e2e77
-ms.openlocfilehash: 9124d20404cb673dbac1a25cc0ccac054ac26d34
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5b1da07d0f255fc12af5eadbcb89ea53273537c1
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29478785"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29940689"
 ---
 암호를 잊으셨습니까 하는 경우 [암호 페이지를 다시 설정 하는 Microsoft 계정](https://go.microsoft.com/fwlink/p/?linkid=841909)으로 이동 합니다. 그렇지 않은 경우 다음 지침을 따릅니다.
   
