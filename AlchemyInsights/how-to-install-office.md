@@ -8,35 +8,35 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
-ms.openlocfilehash: 89dd1d74026dbd3bf78a315b87a4ef7bd17cf144
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: 3b145e56d8c29623d307ef9254157d4134598c2e
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29645641"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29906034"
 ---
-# <a name="how-to-install-office"></a><span data-ttu-id="35849-102">Office를 설치 하는 방법</span><span class="sxs-lookup"><span data-stu-id="35849-102">How to install Office</span></span>
+# <a name="how-to-install-office"></a><span data-ttu-id="adc0b-102">Office를 설치 하는 방법</span><span class="sxs-lookup"><span data-stu-id="adc0b-102">How to install Office</span></span>
 
 
-<span data-ttu-id="35849-103">Office 클라이언트 응용 프로그램을 설치 하려면 Office 365 프리미엄, Office 365 비즈니스 또는 Office 365 교육 예: 비즈니스 구독 했는지를 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="35849-103">To install the Office client apps, ensure you have a business subscription such as Office 365 Business Premium, Office 365 Business, or Office 365 Education.</span></span>
+<span data-ttu-id="adc0b-103">Office 클라이언트 응용 프로그램을 설치 하려면 Office 365 프리미엄, Office 365 비즈니스 또는 Office 365 교육 예: 비즈니스 구독 했는지를 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="adc0b-103">To install the Office client apps, ensure you have a business subscription such as Office 365 Business Premium, Office 365 Business, or Office 365 Education.</span></span>
   
 > [!NOTE]
-> <span data-ttu-id="35849-104">[Office Home and Business 2016는](https://products.office.com/home-and-business) 는 [홈에 대 한 Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) 제품 및 비즈니스 구독의 일부가 아닌 합니다.</span><span class="sxs-lookup"><span data-stu-id="35849-104">[Office Home and Business 2016](https://products.office.com/home-and-business) is an [Office for home](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) product and not part of a business subscription.</span></span> 
+> <span data-ttu-id="adc0b-104">[Office Home and Business 2016는](https://products.office.com/home-and-business) 는 [홈에 대 한 Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) 제품 및 비즈니스 구독의 일부가 아닌 합니다.</span><span class="sxs-lookup"><span data-stu-id="adc0b-104">[Office Home and Business 2016](https://products.office.com/home-and-business) is an [Office for home](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) product and not part of a business subscription.</span></span> 
   
-- <span data-ttu-id="35849-p101">사용자 계정을 만들고 도메인을 추가 합니다. 사용자에 게 [라이선스 할당](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA)되어있는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="35849-p101">Create the user accounts and add your domain. Make sure the user has an [assigned license](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).</span></span>
+- <span data-ttu-id="adc0b-p101">사용자 계정을 만들고 도메인을 추가 합니다. 사용자에 게 [라이선스 할당](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA)되어있는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="adc0b-p101">Create the user accounts and add your domain. Make sure the user has an [assigned license](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).</span></span>
     
-- <span data-ttu-id="35849-107">각 사용자에 게:</span><span class="sxs-lookup"><span data-stu-id="35849-107">Have each user:</span></span>
+- <span data-ttu-id="adc0b-107">각 사용자에 게:</span><span class="sxs-lookup"><span data-stu-id="adc0b-107">Have each user:</span></span>
     
-1. <span data-ttu-id="35849-108">포털 페이지로 이동: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)합니다.</span><span class="sxs-lookup"><span data-stu-id="35849-108">Go to the portal page: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+1. <span data-ttu-id="adc0b-108">포털 페이지로 이동: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)합니다.</span><span class="sxs-lookup"><span data-stu-id="adc0b-108">Go to the portal page: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
     
-2. <span data-ttu-id="35849-109">로그인 하지 않은 경우 사용자의 작업이 나 교육용 계정을 사용 하 여 로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="35849-109">Sign in with their work or school account if not already signed in.</span></span>
+2. <span data-ttu-id="adc0b-109">로그인 하지 않은 경우 사용자의 작업이 나 교육용 계정을 사용 하 여 로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="adc0b-109">Sign in with their work or school account if not already signed in.</span></span>
     
-3. <span data-ttu-id="35849-p102">Office 섹션에서 언어를 선택 합니다. 32 비트 버전 또는 64 비트 버전을 선택 하려면 **고급** 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="35849-p102">Under the Office section, select the language. Select **Advanced** to choose the 32-bit version or 64-bit version.</span></span> 
+3. <span data-ttu-id="adc0b-p102">Office 섹션에서 언어를 선택 합니다. 32 비트 버전 또는 64 비트 버전을 선택 하려면 **고급** 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="adc0b-p102">Under the Office section, select the language. Select **Advanced** to choose the 32-bit version or 64-bit version.</span></span> 
     
-4. <span data-ttu-id="35849-112">**설치**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="35849-112">Select **Install**.</span></span>
+4. <span data-ttu-id="adc0b-112">**설치**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="adc0b-112">Select **Install**.</span></span>
     
-    <span data-ttu-id="35849-113">세부 단계 및 Office를 설치 하는 경우 문제해결 솔루션에 대 한 참조: [다운로드 및 설치 또는 PC 또는 Mac에 Office를 다시 설치](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)합니다.</span><span class="sxs-lookup"><span data-stu-id="35849-113">For detailed steps and troubleshooting solutions when installing Office, see: [Download and install or reinstall Office on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span></span>
+    <span data-ttu-id="adc0b-113">세부 단계 및 Office를 설치 하는 경우 문제해결 솔루션에 대 한 참조: [다운로드 및 설치 또는 PC 또는 Mac에 Office를 다시 설치](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)합니다.</span><span class="sxs-lookup"><span data-stu-id="adc0b-113">For detailed steps and troubleshooting solutions when installing Office, see: [Download and install or reinstall Office on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span></span>
     
 

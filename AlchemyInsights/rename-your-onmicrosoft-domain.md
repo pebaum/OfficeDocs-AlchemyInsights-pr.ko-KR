@@ -7,21 +7,21 @@ ms.date: 2/26/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 6144aadb7df39bff7471d4ee3aca920355d961f4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 56d0c2579b10c5e81296fc84b92f15c76afd6f6b
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477857"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29930463"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a><span data-ttu-id="fc990-102">Onmicrosoft.com 도메인 이름바꾸기</span><span class="sxs-lookup"><span data-stu-id="fc990-102">Rename your onmicrosoft.com domain</span></span>
+# <a name="rename-your-onmicrosoftcom-domain"></a><span data-ttu-id="a5c6b-102">Onmicrosoft.com 도메인 이름바꾸기</span><span class="sxs-lookup"><span data-stu-id="a5c6b-102">Rename your onmicrosoft.com domain</span></span>
 
- <span data-ttu-id="fc990-p101">**후 onmicrosoft 도메인 이름을 바꿀 수 없습니다 등록.** 등 선택한 초기 도메인 했으므로 *fourthcoffee.onmicrosoft.com* , *fabrikam.onmicrosoft.com* 을 변경할 수 없습니다. 다른 onmicrosoft.com 도메인을 사용 하려면 Office 365와 함께 새 구독을 시작 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="fc990-p101">**You can't rename the onmicrosoft domain after sign-up.** For example, if the initial domain you chose was  *fourthcoffee.onmicrosoft.com*  , you can't change it to be  *fabrikam.onmicrosoft.com*  . To use a different onmicrosoft.com domain, you'd have to start a new subscription with Office 365.</span></span> 
+ <span data-ttu-id="a5c6b-p101">**후 onmicrosoft 도메인 이름을 바꿀 수 없습니다 등록.** 등 선택한 초기 도메인 했으므로 *fourthcoffee.onmicrosoft.com* , *fabrikam.onmicrosoft.com* 을 변경할 수 없습니다. 다른 onmicrosoft.com 도메인을 사용 하려면 Office 365와 함께 새 구독을 시작 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="a5c6b-p101">**You can't rename the onmicrosoft domain after sign-up.** For example, if the initial domain you chose was  *fourthcoffee.onmicrosoft.com*  , you can't change it to be  *fabrikam.onmicrosoft.com*  . To use a different onmicrosoft.com domain, you'd have to start a new subscription with Office 365.</span></span> 
   
-<span data-ttu-id="fc990-106">*Contoso.com* 와 같은 사용자 지정 도메인을 사용 하려는 경우 [소유 하 고 하나를 추가](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) 하거나 [Microsoft에서 구입할](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d)수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fc990-106">If you want to use a custom domain like  *contoso.com*  , you can [add one you own](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) or [buy one from Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).</span></span>
+<span data-ttu-id="a5c6b-106">*Contoso.com* 와 같은 사용자 지정 도메인을 사용 하려는 경우 [소유 하 고 하나를 추가](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) 하거나 [Microsoft에서 구입할](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d)수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a5c6b-106">If you want to use a custom domain like  *contoso.com*  , you can [add one you own](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) or [buy one from Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).</span></span>
   
 
