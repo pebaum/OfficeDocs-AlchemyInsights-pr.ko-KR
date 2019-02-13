@@ -7,33 +7,33 @@ ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: 2d1707a2b1b7d47150585cf331707231bbf9a738
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477935"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29938238"
 ---
-# <a name="app-passwords"></a><span data-ttu-id="d4c38-102">앱 암호</span><span class="sxs-lookup"><span data-stu-id="d4c38-102">App passwords</span></span>
+# <a name="app-passwords"></a><span data-ttu-id="e1e7f-102">앱 암호</span><span class="sxs-lookup"><span data-stu-id="e1e7f-102">App passwords</span></span>
 
-<span data-ttu-id="d4c38-p101">앱 암호는 Office 365 계정에 액세스할 수 있는 응용 프로그램 또는 장치 권한을 부여 하는 코드입니다. 사용자 관리, 조직에 대해 다단계 인증을 설정한 경우 Office 365 계정에 연결 된 응용 프로그램을 사용 하는 응용 프로그램은 Office 365에 연결할 수 있도록 앱 암호를 생성 하는데 필요 합니다. 예, Outlook 2016를 사용 하는 경우 또는 이전 버전 Office 365와 함께, 앱 암호를 만들려면 필요 합니다.</span><span class="sxs-lookup"><span data-stu-id="d4c38-p101">An app password is a code that gives an app or device permission to access your Office 365 account. If your admin has turned on multi-factor authentication for your organization, and you're using apps that connect to your Office 365 account, you'll need to generate an app password so the app can connect to Office 365. For example, if you're using Outlook 2016 or earlier with Office 365, you'll need to create an app password.</span></span>
+<span data-ttu-id="e1e7f-p101">앱 암호는 Office 365 계정에 액세스할 수 있는 응용 프로그램 또는 장치 권한을 부여 하는 코드입니다. 사용자 관리, 조직에 대해 다단계 인증을 설정한 경우 Office 365 계정에 연결 된 응용 프로그램을 사용 하는 응용 프로그램은 Office 365에 연결할 수 있도록 앱 암호를 생성 하는데 필요 합니다. 예, Outlook 2016를 사용 하는 경우 또는 이전 버전 Office 365와 함께, 앱 암호를 만들려면 필요 합니다.</span><span class="sxs-lookup"><span data-stu-id="e1e7f-p101">An app password is a code that gives an app or device permission to access your Office 365 account. If your admin has turned on multi-factor authentication for your organization, and you're using apps that connect to your Office 365 account, you'll need to generate an app password so the app can connect to Office 365. For example, if you're using Outlook 2016 or earlier with Office 365, you'll need to create an app password.</span></span>
   
-1. <span data-ttu-id="d4c38-p102">Office 365 관리자 계정에 대해 다단계 인증 설정가 있는지 여부를 확인 합니다. 자신이 하지 않은 경우 하려고 하면 이러한 단계를 수행 Office 365에서 옵션을 볼 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="d4c38-p102">Check whether your Office 365 admin has turned on multi-factor authentication for your account. If they haven't, when you try to do these steps you won't see the options in Office 365.</span></span>
+1. <span data-ttu-id="e1e7f-p102">Office 365 관리자 계정에 대해 다단계 인증 설정가 있는지 여부를 확인 합니다. 자신이 하지 않은 경우 하려고 하면 이러한 단계를 수행 Office 365에서 옵션을 볼 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="e1e7f-p102">Check whether your Office 365 admin has turned on multi-factor authentication for your account. If they haven't, when you try to do these steps you won't see the options in Office 365.</span></span>
     
-2. <span data-ttu-id="d4c38-p103">사용자는 평소와 동일 하 게 암호를 사용 하 여 작업이 나 교육용 계정 사용 하는 Office 365에 로그인 합니다. **로그인**을 선택한 후 페이지가 사용자 이름 및 옵션에는 몇 나타납니다.</span><span class="sxs-lookup"><span data-stu-id="d4c38-p103">Sign in to Office 365 with your work or school account with your password like you normally do. After you choose **Sign in**, you'll see a page with your user name and a few options</span></span> 
+2. <span data-ttu-id="e1e7f-p103">사용자는 평소와 동일 하 게 암호를 사용 하 여 작업이 나 교육용 계정 사용 하는 Office 365에 로그인 합니다. **로그인**을 선택한 후 페이지가 사용자 이름 및 옵션에는 몇 나타납니다.</span><span class="sxs-lookup"><span data-stu-id="e1e7f-p103">Sign in to Office 365 with your work or school account with your password like you normally do. After you choose **Sign in**, you'll see a page with your user name and a few options</span></span> 
     
-3. <span data-ttu-id="d4c38-110">**지금 설정**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="d4c38-110">Choose **Set it up now**.</span></span> 
+3. <span data-ttu-id="e1e7f-110">**지금 설정**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e1e7f-110">Choose **Set it up now**.</span></span> 
     
-4. <span data-ttu-id="d4c38-111">인증 방법을 선택 하 고 페이지에 표시 되는 지침을 따릅니다.</span><span class="sxs-lookup"><span data-stu-id="d4c38-111">Select your authentication method and then follow the prompts on the page.</span></span>
+4. <span data-ttu-id="e1e7f-111">인증 방법을 선택 하 고 페이지에 표시 되는 지침을 따릅니다.</span><span class="sxs-lookup"><span data-stu-id="e1e7f-111">Select your authentication method and then follow the prompts on the page.</span></span>
     
-5. <span data-ttu-id="d4c38-112">대체 연락처 메서드를 확인 한 후 **다음**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="d4c38-112">After you verify your alternate contact method, choose **Next**.</span></span> 
+5. <span data-ttu-id="e1e7f-112">대체 연락처 메서드를 확인 한 후 **다음**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e1e7f-112">After you verify your alternate contact method, choose **Next**.</span></span> 
     
-6. <span data-ttu-id="d4c38-p104">Outlook, Apple 메일 등 함께 사용할 수 있는 응용 프로그램 암호를 얻을 수 있습니다. 암호를 클립보드로 복사 하려면 복사 아이콘을 선택 합니다. 이 암호를 기억할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="d4c38-p104">You'll get an app password that you can use with Outlook, Apple Mail, etc. Choose the copy icon to copy the password to your clipboard. You won't need to memorize this password.</span></span> 
+6. <span data-ttu-id="e1e7f-p104">Outlook, Apple 메일 등 함께 사용할 수 있는 응용 프로그램 암호를 얻을 수 있습니다. 암호를 클립보드로 복사 하려면 복사 아이콘을 선택 합니다. 이 암호를 기억할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="e1e7f-p104">You'll get an app password that you can use with Outlook, Apple Mail, etc. Choose the copy icon to copy the password to your clipboard. You won't need to memorize this password.</span></span> 
     
-7. <span data-ttu-id="d4c38-115">Outlook (또는 다른 응용 프로그램)를 Office 365는 전자 메일 계정을 추가 하 고 과거의 암호 상자에 계정 암호를 입력 하는 대신에이 응용 프로그램 암호는 암호에 대 한 메시지가 표시 되는 경우.</span><span class="sxs-lookup"><span data-stu-id="d4c38-115">When you add your Office 365 email account to Outlook (or another app), and you're prompted for a password, past this app password into the Password box, instead of typing your account password.</span></span> 
+7. <span data-ttu-id="e1e7f-115">Outlook (또는 다른 응용 프로그램)를 Office 365는 전자 메일 계정을 추가 하 고 과거의 암호 상자에 계정 암호를 입력 하는 대신에이 응용 프로그램 암호는 암호에 대 한 메시지가 표시 되는 경우.</span><span class="sxs-lookup"><span data-stu-id="e1e7f-115">When you add your Office 365 email account to Outlook (or another app), and you're prompted for a password, past this app password into the Password box, instead of typing your account password.</span></span> 
     
 
