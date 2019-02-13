@@ -7,14 +7,14 @@ ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: 4b8897c5cc8286bc4bd49860658a5a94ad17380d
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: e1d60c493a27efb7f724d57051e21fad5bd0242f
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657473"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29919086"
 ---
 **데이터 손실 방지 (DLP)** DLP 중요 한 정보 유형 o 365에서 사용 하는 경우에 **신용 카드 번호** 를 포함 하는 콘텐츠에 대 한 작동 하지 않음에 문제가 있을? 그렇다면 콘텐츠 트리거 하는데 필요한 정보를 포함 되어있는지 확인은 계산 하는 경우 DLP 정책입니다. 등 **신용 카드 정책** 85%의 신뢰도 사용 하 여 구성에 대 한 다음 계산 되 및 트리거 규칙에 대 한 검색 해야: 
   

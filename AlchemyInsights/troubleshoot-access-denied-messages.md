@@ -6,14 +6,14 @@ ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 3973f5bf584343d3353e7389f22bc727827b5c35
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f1a4803838b6511ef4fe7f03cafa4aa13b3c9734
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29477719"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29916458"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>액세스 거부 메시지 해결
 
@@ -21,7 +21,7 @@ ms.locfileid: "29477719"
   
 1. 사이트에 찾아보고 설정 아이콘을 클릭 한 다음 **사이트 설정**을 클릭 합니다.
     
-2. 사이트 모음 관리에서 사이트 모음 기능을 클릭합니다.
+2. **사이트 모음 관리**에서 **사이트 모음 기능**을 클릭합니다.
     
 3. **제한 된 액세스 사용자 권한 잠금 모드**옆에 있는 **비활성화**를 클릭 합니다.
     
