@@ -6,19 +6,19 @@ ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 1fce7ae1e127f5318dcdf7edd245cab88f89c0ff
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1490255d19a6eb62403f9c923438579b6a29480b
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29478609"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29922779"
 ---
-# <a name="manage-search-dictionaries"></a><span data-ttu-id="44d9c-102">검색 디렉터리 관리</span><span class="sxs-lookup"><span data-stu-id="44d9c-102">Manage search dictionaries</span></span>
+# <a name="manage-search-dictionaries"></a><span data-ttu-id="54107-102">검색 디렉터리 관리</span><span class="sxs-lookup"><span data-stu-id="54107-102">Manage search dictionaries</span></span>
 
-<span data-ttu-id="44d9c-p101">검색의에서 사전은 SharePoint 온라인 클래식 SharePoint Online 관리 센터에 있는 SharePoint Online 용어 저장소에서 관리 됩니다. 추가 또는 검색 사전을 편집 하는 방법에 대 한 자세한 내용은 [Manage 검색 사전](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="44d9c-p101">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the classic SharePoint Online Admin Center. For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
+<span data-ttu-id="54107-p101">검색의에서 사전은 SharePoint 온라인 클래식 SharePoint Online 관리 센터에 있는 SharePoint Online 용어 저장소에서 관리 됩니다. 추가 또는 검색 사전을 편집 하는 방법에 대 한 자세한 내용은 [Manage 검색 사전](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="54107-p101">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the classic SharePoint Online Admin Center. For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="44d9c-p102">검색 사전의 용어 집합으로 표시 되지 않으면 용어 저장소에 표시 되는, 24 시간 동안 기다리십시오. 여전히 24 시간 후 나타나지 않는 사전 지원 티켓 로그 하십시오.</span><span class="sxs-lookup"><span data-stu-id="44d9c-p102">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours. If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
+<span data-ttu-id="54107-p102">검색 사전의 용어 집합으로 표시 되지 않으면 용어 저장소에 표시 되는, 24 시간 동안 기다리십시오. 여전히 24 시간 후 나타나지 않는 사전 지원 티켓 로그 하십시오.</span><span class="sxs-lookup"><span data-stu-id="54107-p102">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours. If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
   
 
