@@ -7,22 +7,22 @@ ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 61adcd2ba21a98793d072d3fad2d9d2e68fa3c20
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c1789c2eb11241b204f069f9b8231cd51b655c4b
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29478667"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29935682"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>사용자에 게 라이선스를 할당 하는 방법
 
 사용자는 서비스에 액세스할 수 있도록 라이선스가 필요 합니다. 다음은 추가, 변경 또는 사용자에 게 서 라이선스를 제거 하는 단계입니다.
   
-1. 관리 센터에서 [활성 사용자](https://go.microsoft.com/fwlink/p/?linkid=834822) 페이지로 이동하거나 **사용자** \> **활성 사용자**를 선택합니다.
+1. 관리 센터에서 [활성 사용자](https://go.microsoft.com/fwlink/p/?linkid=834822) 페이지로 이동 하거나 **사용자** 선택 \> **활성 사용자**입니다.
     
 2. 할당, 변경 또는 라이선스를 제거 하려면 제거할 사용자의 이름 옆에 있는 상자를 선택 합니다.
     
