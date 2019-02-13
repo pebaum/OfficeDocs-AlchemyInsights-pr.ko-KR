@@ -1,5 +1,5 @@
 ---
-title: 삭제된 Office 365 그룹 복원
+title: 삭제 된 Office 365 그룹 복원
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -7,18 +7,18 @@ ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 1255024a84d9610f71757ad7caccc36a1601704a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: dc11334c20996e7ae31bcbd363208d94014b9073
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499424"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29942126"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>삭제된 Office 365 그룹 복원
+# <a name="restore-a-deleted-office-365-group"></a>삭제 된 Office 365 그룹 복원
 
 삭제 된 그룹은 30 일 동안 보관 됩니다. 삭제 된 그룹으로 되돌아갑니다.
   

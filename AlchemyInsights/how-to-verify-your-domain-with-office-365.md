@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 11f7503b-c802-437f-bc1d-ce13bb4d9bb2
-ms.openlocfilehash: 4eddcede7479d1ed7d44037a07f93428ec2aba8d
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 4259ab5ee7a76193b435aa518c28fe3c64a8178f
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29658229"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29903462"
 ---
 # <a name="how-to-verify-your-domain-with-office-365"></a>Office 365에 도메인을 확인 하는 방법
 

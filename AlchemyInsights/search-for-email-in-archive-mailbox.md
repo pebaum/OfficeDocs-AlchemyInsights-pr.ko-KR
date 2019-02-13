@@ -7,14 +7,14 @@ ms.date: 11/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 6146c6ea9c6a67ab03f8cda7e1fae627698a05e9
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 5ea256a03def0cf07503efc77885dc3ff7a67b66
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656162"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29915442"
 ---
 보관 사서함 사용 하는 경우 모든 기본 및 보관 사서함의 콘텐츠를 검색 하려면 **eDiscovery 검색 및 내보내기에** 사용할 수 있습니다. **검색 내보내기 eDiscovery** 를 사용 하 여 해당 콘텐츠를 찾을에 대 한 내용은은 단계 다단계 번호 매기기 [여기](https://docs.microsoft.com/office365/securitycompliance/export-search-results)를 따릅니다.
   
