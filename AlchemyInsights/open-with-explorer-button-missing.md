@@ -7,22 +7,22 @@ ms.date: 12/18/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
-ms.openlocfilehash: 9b1d02df877c9a8e794b4ed4b67a8f2f7e09306a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 321bc01462306f85d21b028a321875eb6e64fbe4
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499568"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29912137"
 ---
-# <a name="the-open-with-explorer-button-is-missing"></a><span data-ttu-id="17218-102">탐색기 단추 열기 누락 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="17218-102">The Open with Explorer button is missing</span></span>
+# <a name="the-open-with-explorer-button-is-missing"></a><span data-ttu-id="2eb65-102">탐색기 단추 열기 누락 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="2eb65-102">The Open with Explorer button is missing</span></span>
 
-<span data-ttu-id="17218-p101">**탐색기에서 열기** 단추는 SharePoint 및 OneDrive 현대 경험에 나타나지 않습니다. 문서 라이브러리에서 파일 탐색기를 열려면 Internet Explorer에서 이동 하 고 보기 메뉴를 선택 \> **파일 탐색기의 보기**입니다. **파일 탐색기에서 보기** 옵션을 Microsoft에 지, Google Chrome 또는 Firefox에서 사용할 수 없는 경우</span><span class="sxs-lookup"><span data-stu-id="17218-p101">The **Open with Explorer** button doesn't appear in the modern experience of SharePoint and OneDrive. To open a document library in File Explorer, browse to it in Internet Explorer and select the view menu \> **View in File Explorer**. The **View in File Explorer** option is not available in Microsoft Edge, Google Chrome or Firefox.</span></span> 
+<span data-ttu-id="2eb65-p101">**탐색기에서 열기** 단추는 SharePoint 및 OneDrive 현대 경험에 나타나지 않습니다. 문서 라이브러리에서 파일 탐색기를 열려면 Internet Explorer에서 이동 하 고 보기 메뉴를 선택 \> **파일 탐색기의 보기**입니다. **파일 탐색기에서 보기** 옵션을 Microsoft에 지, Google Chrome 또는 Firefox에서 사용할 수 없는 경우</span><span class="sxs-lookup"><span data-stu-id="2eb65-p101">The **Open with Explorer** button doesn't appear in the modern experience of SharePoint and OneDrive. To open a document library in File Explorer, browse to it in Internet Explorer and select the view menu \> **View in File Explorer**. The **View in File Explorer** option is not available in Microsoft Edge, Google Chrome or Firefox.</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="17218-p102">탐색기 열기 Internet Explorer를 통해서만 지원 됩니다. 대신, [새 OneDrive 동기화 클라이언트와 SharePoint 파일을 동기화](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) [주문형 파일을](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)제공 합니다. 로컬 저장 공간을 사용 하지 않고 OneDrive에서 모든 파일에 액세스 합니다.</span><span class="sxs-lookup"><span data-stu-id="17218-p102">Open with Explorer is supported only through Internet Explorer. Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which provides [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Access all your files in OneDrive without using local storage space.</span></span> 
+> <span data-ttu-id="2eb65-p102">탐색기 열기 Internet Explorer를 통해서만 지원 됩니다. 대신, [새 OneDrive 동기화 클라이언트와 SharePoint 파일을 동기화](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) [주문형 파일을](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)제공 합니다. 로컬 저장 공간을 사용 하지 않고 OneDrive에서 모든 파일에 액세스 합니다.</span><span class="sxs-lookup"><span data-stu-id="2eb65-p102">Open with Explorer is supported only through Internet Explorer. Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which provides [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Access all your files in OneDrive without using local storage space.</span></span> 
   
 
