@@ -1,7 +1,7 @@
 ---
 title: 1800001 프로필 삭제
 ms.author: pdigia
-author: pdigia
+author: pebaum
 manager: jackiesm
 ms.date: 8/29/2018
 ms.audience: Admin
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: 3c8aa996cc96152c67e0551373aeb429d1710baa
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: eed83276e7ef0602b1c1a5b7b095109bd76b5975
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29908927"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29969611"
 ---
 프로필을 삭제 하려면 다음 단계를 사용 합니다.
   
