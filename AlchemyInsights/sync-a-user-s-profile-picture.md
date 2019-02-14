@@ -1,32 +1,32 @@
 ---
 title: 사용자의 프로필 사진와 동기화
 ms.author: ponincev
-author: ponincev
+author: pebaum
 ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: fd0b0a6630d1ba71b54d85e919421a8312f45d0a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0ee818002cf89ab0b2e5c94f8718b3df602d529d
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29908908"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29969503"
 ---
-# <a name="sync-a-users-profile-picture"></a><span data-ttu-id="44aa8-102">사용자의 프로필 사진와 동기화</span><span class="sxs-lookup"><span data-stu-id="44aa8-102">Sync a user's profile picture</span></span>
+# <a name="sync-a-users-profile-picture"></a><span data-ttu-id="b0135-102">사용자의 프로필 사진와 동기화</span><span class="sxs-lookup"><span data-stu-id="b0135-102">Sync a user's profile picture</span></span>
 
-<span data-ttu-id="44aa8-p101">SharePoint Online에서 프로필 사진 동기화 자신의 사진의 동기화를 시작 하려면 사용자 작업이 필요 합니다. SharePoint online 사진의 자동 동기화 되지 않음 SharePoint Online Exchange Online에서 Azure Active Directory에서 사진만 동기화합니다.</span><span class="sxs-lookup"><span data-stu-id="44aa8-p101">Profile Picture Synchronization in SharePoint Online requires a user's action to initiate the sync of their photo. There is no automatic synchronization of photos to SharePoint Online. SharePoint Online only synchronizes photos from Exchange Online, not Azure Active Directory.</span></span>
+<span data-ttu-id="b0135-p101">SharePoint Online에서 프로필 사진 동기화 자신의 사진의 동기화를 시작 하려면 사용자 작업이 필요 합니다. SharePoint online 사진의 자동 동기화 되지 않음 SharePoint Online Exchange Online에서 Azure Active Directory에서 사진만 동기화합니다.</span><span class="sxs-lookup"><span data-stu-id="b0135-p101">Profile Picture Synchronization in SharePoint Online requires a user's action to initiate the sync of their photo. There is no automatic synchronization of photos to SharePoint Online. SharePoint Online only synchronizes photos from Exchange Online, not Azure Active Directory.</span></span>
   
-<span data-ttu-id="44aa8-106">사용자가 동기화를 라는 메시지가 표시 하는 동작을 수행 하지 파일이 나 자신의 프로필 사진 및 SharePoint Online에 표시 되지 않으면 하나는 새 업데이트를 하는 경우 사용자와 동기화 되도록 메시지를 표시 해야 합니다. 어떻게이 작업은 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="44aa8-106">If a user has never performed an action that would prompt a sync or they have updated their profile picture and the new one doesn't appear in SharePoint Online, the user might need to prompt it to sync. Here's how they can do this:</span></span>
+<span data-ttu-id="b0135-106">사용자가 동기화를 라는 메시지가 표시 하는 동작을 수행 하지 파일이 나 자신의 프로필 사진 및 SharePoint Online에 표시 되지 않으면 하나는 새 업데이트를 하는 경우 사용자와 동기화 되도록 메시지를 표시 해야 합니다. 어떻게이 작업은 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="b0135-106">If a user has never performed an action that would prompt a sync or they have updated their profile picture and the new one doesn't appear in SharePoint Online, the user might need to prompt it to sync. Here's how they can do this:</span></span>
   
-1. <span data-ttu-id="44aa8-107">In-개인 또는 Incognito 세션 및 [Office.com로 이동](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.office.com%2F&amp;data=02%7C01%7C%7Cbad62c504a36446096e108d614dec653%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636719344369977864&amp;sdata=Km7ZnN8FHSouZbxOiEpQAGIKsK82SHr25uYCh3Gc%2F3s%3D&amp;reserved=0)의 웹 브라우저를 엽니다.</span><span class="sxs-lookup"><span data-stu-id="44aa8-107">Open a web browser in an In-Private or Incognito session and [go to Office.com](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.office.com%2F&amp;data=02%7C01%7C%7Cbad62c504a36446096e108d614dec653%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636719344369977864&amp;sdata=Km7ZnN8FHSouZbxOiEpQAGIKsK82SHr25uYCh3Gc%2F3s%3D&amp;reserved=0).</span></span>
+1. <span data-ttu-id="b0135-107">In-개인 또는 Incognito 세션 및 [Office.com로 이동](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.office.com%2F&amp;data=02%7C01%7C%7Cbad62c504a36446096e108d614dec653%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636719344369977864&amp;sdata=Km7ZnN8FHSouZbxOiEpQAGIKsK82SHr25uYCh3Gc%2F3s%3D&amp;reserved=0)의 웹 브라우저를 엽니다.</span><span class="sxs-lookup"><span data-stu-id="b0135-107">Open a web browser in an In-Private or Incognito session and [go to Office.com](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.office.com%2F&amp;data=02%7C01%7C%7Cbad62c504a36446096e108d614dec653%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636719344369977864&amp;sdata=Km7ZnN8FHSouZbxOiEpQAGIKsK82SHr25uYCh3Gc%2F3s%3D&amp;reserved=0).</span></span>
   
-2. <span data-ttu-id="44aa8-108">OneDrive 또는 SharePoint 타일을 클릭 한 자신의 작업이 나 교육용 계정을 사용 하 여 로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="44aa8-108">Sign in with their work or school account, and click the OneDrive or SharePoint tile.</span></span>
+2. <span data-ttu-id="b0135-108">OneDrive 또는 SharePoint 타일을 클릭 한 자신의 작업이 나 교육용 계정을 사용 하 여 로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="b0135-108">Sign in with their work or school account, and click the OneDrive or SharePoint tile.</span></span>
   
-[<span data-ttu-id="44aa8-109">Office 365에 프로필 사진 추가</span><span class="sxs-lookup"><span data-stu-id="44aa8-109">Add your profile photo to Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=875585)
+[<span data-ttu-id="b0135-109">Office 365에 프로필 사진 추가</span><span class="sxs-lookup"><span data-stu-id="b0135-109">Add your profile photo to Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=875585)
   
-[<span data-ttu-id="44aa8-110">Office 365에서 프로필 사진 동기화 하는 방법에 대 한 정보</span><span class="sxs-lookup"><span data-stu-id="44aa8-110">Info about profile picture synchronization in Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=875586)
+[<span data-ttu-id="b0135-110">Office 365에서 프로필 사진 동기화 하는 방법에 대 한 정보</span><span class="sxs-lookup"><span data-stu-id="b0135-110">Info about profile picture synchronization in Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=875586)
   
 
