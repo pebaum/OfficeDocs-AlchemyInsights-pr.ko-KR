@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
-ms.openlocfilehash: 4abb2f5b1644b651c8a137feb01aace69257d2bb
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1d9c0009e743e2cb514124ba5b9c3292580d9a88
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920022"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207979"
 ---
 # <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Office 365 비즈니스 구독에 대 한 라이선스를 구입 하는 방법
 
-사용자에 게 Office 365 라이선스를 할당 하는 경우 추가 라이선스를 구입 필요 없는 경우가 있습니다. 이 작업을 수행 합니다.
+사용자에 게 Office 365 라이선스를 할당할 때 라이선스를 추가로 구입할 필요가 있을 수 있습니다. 이렇게 하려면 다음을 수행 합니다.
   
-- Office 365 관리 센터에서 [구독]( https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 하거나 **대금 청구** 선택 \> **구독**합니다.
+- Microsoft 365 관리 센터에서 [구독]( https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 하거나 **대금 청구** \> **구독**을 선택 합니다.
     
 - **구독** 페이지에서 라이선스를 추가할 구독을 선택한 다음 **라이선스 추가/제거**를 선택합니다.
     
 - **총 라이선스 수** 상자에 이 구독에 필요한 총 라이선스 수를 입력한 다음 **제출** \> **닫기**를 선택합니다. 예를 들어 100개의 라이선스가 있는데 5개를 더 추가해야 하는 경우 105를 입력합니다.
     
-자세한 내용은: [비즈니스 구독에 대 한 Office 365에 대 한 라이선스를 구입 합니다](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1) .
+자세한 내용은 [Office 365 for business 구독에 대 한 라이선스 구입](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
   
 

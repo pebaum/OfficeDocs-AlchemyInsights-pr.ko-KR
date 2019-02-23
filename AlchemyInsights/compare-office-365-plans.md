@@ -1,5 +1,5 @@
 ---
-title: Office 365 계획을 비교
+title: Office 365 요금제 비교
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 8fe5e7ca24f8d3ddeb9c38090ad098eed1dbb32b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5434c0e01c65687269c8f3fa37bbe903f15dd3f0
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919446"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208089"
 ---
-# <a name="compare-office-365-plans"></a>Office 365 계획을 비교
+# <a name="compare-office-365-plans"></a>Office 365 요금제 비교
 
-비교, 스위치 또는 Office 365 계획을 구입
+Office 365 요금제 비교, 전환 또는 구매
   
-[비즈니스](https://products.office.com/compare-all-microsoft-office-products?tab=2)및 [엔터프라이즈 수준 기업용](https://products.office.com/business/compare-more-office-365-for-business-plans)office 365 계획 수 있습니다. 또한, Office 365 [교육 기관](https://products.office.com/academic/compare-office-365-education-plans), [정부 조직](https://products.office.com/government/compare-office-365-government-plans)및 [비영리](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)에 게 제공 됩니다.
+Office 365 계획은 [비즈니스](https://products.office.com/compare-all-microsoft-office-products?tab=2)및 [엔터프라이즈 수준 비즈니스](https://products.office.com/business/compare-more-office-365-for-business-plans)에 사용할 수 있습니다. 또한 Office 365는 [교육 기관](https://products.office.com/academic/compare-office-365-education-plans), [정부 조직](https://products.office.com/government/compare-office-365-government-plans)및 [비 수익](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)에도 사용할 수 있습니다.
   
-모든 계획 비교 (영문) 및 가격에 관심이 있는 조직의 경우에 [모든 Office 365 계획을 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)검토 합니다.
+조직이 모든 계획 및 가격 산정을 비교 하는 데 관심이 있는 경우 [모든 Office 365 요금제 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)를 검토 하세요.
   
-조직에 Office 365 계획을 이미 구매 하 고 수 있도록 Office 365 관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054)이동 않거나 **대금 청구** 를 선택 하는 다른 계획으로 전환에 관심이 있는 경우 \> **구독**합니다. 사용할 수 있는 새로운 계획의 목록을 보려면 **스위치 계획** 을 선택 합니다. 
+조직에서 이미 Office 365 계획을 구매한 경우 Microsoft 365 관리 센터에서이를 수행할 수 있는 다른 요금제로 전환 하려는 경우 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054)으로 이동 하거나 **대금 청구** \> **구독**을 선택 합니다. 사용할 수 있는 새 요금제 목록을 보려면 **요금제 전환을** 선택 합니다. 
   
-또한 조직을 혼합 하 고 사용자의 기능 요구 사항과 필요를 충족 하기 위해 Office 365 계획을 일치 수 있습니다. Office 365 관리에서 [서비스 구매](https://go.microsoft.com/fwlink/p/?linkid=868433) 페이지로 이동 하거나 **대금 청구** 선택 \> **서비스 구매**합니다.
+또한 조직은 Office 365 계획을 혼합 하 고 일치 시켜 사용자의 요구 및 기능 요구 사항을 충족할 수 있습니다. Office 365 관리자에서 [서비스 구매](https://go.microsoft.com/fwlink/p/?linkid=868433) 페이지로 이동 하거나 **대금 청구** \> **구매 서비스**를 선택 합니다.
   
 

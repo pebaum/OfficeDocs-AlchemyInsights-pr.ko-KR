@@ -1,5 +1,5 @@
 ---
-title: SharePoint에 대 한 설정 또는 해제를 공유 외부 설정
+title: SharePoint에 대해 외부 공유 설정 또는 해제
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 91bbdb6b3dbdc73e61405dc27cbced188198ada9
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1e1e80839b167fc7c99ad94daca10c9affa427a1
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938202"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209779"
 ---
-# <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>SharePoint에 대 한 설정 또는 해제를 공유 외부 설정
+# <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>SharePoint에 대해 외부 공유 설정 또는 해제
 
-1. Office 365 관리 센터에서로 이동 [서비스 &amp; 추가 기능 페이지](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), **사이트**를 클릭 하 고 있습니다.
+1. Microsoft 365 관리 센터에서 [서비스 &amp; 추가 기능 페이지로](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)이동 하 여 **사이트**를 클릭 합니다.
     
-2. 설정을 설정 또는 해제 하거나가 설정 된 경우 공유 옵션을 선택 합니다.
+2. 설정 또는 해제를 선택 하거나 공유 옵션을 설정 합니다.
     
 > [!NOTE]
-> SharePoint에 대 한 공유 해제 해제 하는 것 onedrive 합니다. 외부 사이트에서 공유를 허용 하려면 조직 차원의 설정에 있어야 합니다. gt_ OneDrive 또는 모든 개별 SharePoint 사이트에 대 한 공유 외부 수 있도록 SharePoint에 대 한 조직 차원에서 설정 해야 합니다. 또한 특정 사이트 모음에 대 한 설정 다음 합니다. 통신 사이트 및 Office 365 그룹에 속해 있는 사이트에 대 한 외부 공유 설정의 관리 하려면 새 SharePoint 관리 센터 (미리 보기) 또는 PowerShell을 사용 하 여 지정 해야 합니다. 외부 공유 설정을 관리 하는 방법에 대 한 자세한 정보를 [설정 또는 해제를 공유 외부](https://go.microsoft.com/fwlink/?linkid=866426)을 참조 하십시오. 
+> SharePoint에 대해 공유를 끄면 OneDrive에서 꺼집니다. 모든 사이트에서 외부 공유를 허용 하려면 조직 전체 설정이 설정 되어 있어야 합니다. > OneDrive 또는 개별 SharePoint 사이트에 대 한 외부 공유를 허용 하려면 sharepoint에 대해 조직 전체에 대해 설정 해야 합니다. 그런 다음 특정 사이트 모음에 대해이 기능을 해제할 수 있습니다. Office 365 그룹에 속하는 통신 사이트 및 사이트에 대 한 외부 공유 설정을 관리 하려면 새 SharePoint 관리 센터 (미리 보기) 또는 PowerShell을 사용 해야 합니다. 외부 공유 설정을 관리 하는 방법에 대 한 자세한 내용은 [Turn 외부 공유 설정 또는 해제](https://go.microsoft.com/fwlink/?linkid=866426)를 참조 하세요. 
   
-[SharePoint에서 외부 공유 하는 방법에 대 한 자세한 내용은](https://go.microsoft.com/fwlink/?linkid=734908)
+[SharePoint의 외부 공유에 대 한 자세한 정보](https://go.microsoft.com/fwlink/?linkid=734908)
   
 

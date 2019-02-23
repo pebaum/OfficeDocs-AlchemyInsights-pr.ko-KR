@@ -10,25 +10,25 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
-ms.openlocfilehash: f27198496cbcbef502e33f6c4c3125077bd3f23e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ec58c6fb06047ee25b867127838e14fbc626e87f
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29909463"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207799"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Mac 사용자에 게 Office 라이선스를 할당 하는 방법
 
-- Office 365 관리 센터에서 [활성 사용자](https://go.microsoft.com/fwlink/p/?linkid=834822) 페이지로 이동 하거나 **사용자** 선택 \> **활성 사용자**입니다.
+- Microsoft 365 관리 센터에서 [활성 사용자](https://go.microsoft.com/fwlink/p/?linkid=834822) 페이지로 이동 하거나 **사용자** \> **활성 사용자**를 선택 합니다.
     
 - 라이선스를 할당하려는 사용자의 이름 옆에 있는 상자를 선택합니다.
     
 - **제품 라이선스** 행에서 오른쪽에 있는 **편집**을 선택합니다.
     
-- **제품 사용권의**창에서이 사용자에 게 할당할 라이선스 **에** 위치 하는 토글을 전환 합니다. 
+- **제품 라이선스**s 창에서이 사용자에 게 할당 하려는 라이선스 **** 에 대 한 설정 위치로 전환 합니다. 
     
 - **제품 라이선스** 창의 아래쪽에서 **저장** \> **닫기** \> **닫기**를 선택합니다.
     
-자세한 내용은: [비즈니스를 위한 Office 365에서 사용자에 게 라이선스 할당](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+자세한 내용: [비즈니스용 Office 365의 사용자에 게 라이선스 할당](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   
 

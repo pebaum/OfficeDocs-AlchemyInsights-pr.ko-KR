@@ -1,5 +1,5 @@
 ---
-title: 구독을 다시 활성화
+title: 구독 다시 활성화
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 78dd997b1e8870fc5a06fc6560753717b8d7e39d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e15b6e7c958d3efdfe8baa21494c356c7b7d7614
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905334"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209455"
 ---
-# <a name="reactivate-a-subscription"></a>구독을 다시 활성화
+# <a name="reactivate-a-subscription"></a>구독 다시 활성화
 
-구독이 만료 되는 경우, Microsoft에서 비활성화 되었습니다 또는 구독 용어 중에 취소 하면, Office 365 관리 센터에서 다시 활성화할 수 있습니다.
+구독 만료, microsoft에 의해 사용 하지 않도록 설정 된 경우 또는 구독 기간 중에이를 취소 한 경우 microsoft 365 관리 센터에서 다시 활성화할 수 있습니다.
   
 1. 관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동하거나 **청구** \> **구독**을 선택합니다.
     
-2. 를 다시 활성화 하 고 **다시 활성화**를 선택 하려는 구독을 선택 합니다.
+2. 다시 활성화할 구독을 선택한 다음 **다시 활성화**를 선택 합니다.
     
-    이 표시 되지 않으면 **다시 활성화** 는 사용 가능한 동작을 하 고 구독을 다시 활성화 하려면 지원 엔지니어 "보겠습니다를 호출 하면" 옵션을 사용 합니다. 
+    사용 가능한 동작으로 **다시 활성화** 가 표시 되지 않는 경우 "사용자에 게 전화를 걸어 주시기 바랍니다." 옵션을 사용 하 여 지원 엔지니어가 구독을 다시 활성화 합니다. 
     
-3. 지불 정보를 입력 합니다. 여기에 기존 지불 정보를 업데이트할 수 있습니다.
+3. 결제 정보를 입력 합니다. 여기에서 기존 결제 정보를 업데이트할 수 있습니다.
     
 

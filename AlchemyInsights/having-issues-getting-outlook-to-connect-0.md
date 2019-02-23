@@ -1,5 +1,5 @@
 ---
-title: Outlook 연결 시작 관련 문제가 있습니까?
+title: 연결 하기 위해 Outlook을 실행 하는 데 문제가 있나요?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: cbd3893c439c2e1f24ac959374db51919e753f0c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0a7522f25b2aa4e26e9686040de009bc83fc4a39
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918402"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209275"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a>Outlook 연결 시작 관련 문제가 있습니까?
+# <a name="having-issues-getting-outlook-to-connect"></a>연결 하기 위해 Outlook을 실행 하는 데 문제가 있나요?
 
-Outlook 다음 도메인에서 제대로 작동 하도록 구성 되지 않았습니다는 하는데이 했을 때:
+Outlook이 다음 도메인에서 올바르게 작동 하도록 구성 되지 않았습니다.
   
 {HealthCheckString}
   
-NS 또는 CNAME 레코드 (DNS) 도메인 설정을 올바르게 설정 되지 않습니다. 자세한 내용은 [Office 365의 업데이트 DNS 레코드](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) 를 참조할 수 있습니다. 
+도메인 (DNS) 설정에 대 한 NS 또는 CNAME 레코드가 올바르게 설정 되지 않았습니다. 자세한 지침은 [Office 365에서 DNS 레코드를 업데이트 하는](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) 방법을 참조할 수 있습니다. 
   
-를 해결 하려면 Office 365 관리 센터에서 [도메인](https://admin.microsoft.com/adminportal/home#/Domains) 페이지로 이동 하십시오 하 고 함께 알아봅니다. 
+문제를 해결 하려면 Microsoft 365 관리 센터의 [도메인](https://admin.microsoft.com/adminportal/home#/Domains) 페이지로 이동 하 여 해당 정보를 보내 주시기 바랍니다. 
   
-다른 일반적인 솔루션에 대 한 [도메인 FAQ를 확인](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) 합니다. 
+다른 일반적인 솔루션에 대 한 자세한 [도메인 FAQ를 확인 하세요](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) . 
   
 

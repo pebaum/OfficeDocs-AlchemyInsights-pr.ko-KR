@@ -1,5 +1,5 @@
 ---
-title: OneDrive 및 SharePoint 사용 현황 및 활동을 모니터링 합니다.
+title: OneDrive 및 SharePoint 사용 현황 및 활동 모니터링
 ms.author: kaarins
 author: kaarins
 ms.date: 6/10/2018
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 3d5e3e5708f9ee6b9bec8cb13d0f9b23cbcf6610
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 66188c1065ea9b844673af1214995be2da7fd810
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933918"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208051"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>OneDrive 및 SharePoint 작업 및 사용 현황 보고서 보기
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>OneDrive 및 SharePoint 활동 및 사용 현황에 대 한 보고서 보기
 
-[Office 365 관리 센터에서 사용 현황 보고서 페이지](https://admin.microsoft.com/AdminPortal/Home)로 이동 합니다. **보고서를 선택**하십시오 아래에서 OneDrive 또는 SharePoint 작업이 나 사용 현황 보고서를 선택 합니다. 
+[Microsoft 365 관리 센터의 사용 현황 보고서 페이지로](https://admin.microsoft.com/AdminPortal/Home)이동 합니다. **보고서 선택**에서 OneDrive 또는 SharePoint 활동 또는 사용 현황 보고서를 선택 합니다. 
   
-[OneDrive 보고서에 대 한 추가 정보](https://go.microsoft.com/fwlink/?linkid=875239)
+[OneDrive 보고서에 대 한 자세한 정보](https://go.microsoft.com/fwlink/?linkid=875239)
   
-[SharePoint 보고서에 대 한 추가 정보](https://go.microsoft.com/fwlink/?linkid=875240)
+[SharePoint 보고서에 대 한 자세한 정보](https://go.microsoft.com/fwlink/?linkid=875240)
   
 

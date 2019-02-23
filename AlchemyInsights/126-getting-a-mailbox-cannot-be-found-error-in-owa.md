@@ -1,5 +1,5 @@
 ---
-title: 사서함을 시작 하는 126 OWA에서 오류 찾을 수 없습니다?
+title: 126 OWA에서 사서함 가져오기 오류를 찾을 수 없습니까?
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 808b36c247458123da6ee43500c1380f6407e7cd
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b7d54e9fb29bf94ec540e6059e932ec33f326495
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904650"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209815"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Outlook에서 웹에 오류를 찾을 수 없음 사서함 가져오기?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>웹용 Outlook에서 사서함을 찾을 수 없음 오류가 발생 했습니까?
 
-웹에서 Outlook을 사용 하는 경우 **에 대 한 사서함을 찾을 수 없는** 오류가 웹에서 Outlook에 연결할 때 사용 하는 계정에는 Exchange Online 라이선스 없으면 이며 따라서 사서함이 없는지 계정과 연결 합니다. 사용자 관리 다음이 단계를 수행 하 여 사용자의 계정에 라이선스를 할당할 수 있습니다. 
+웹에서 outlook을 사용 하는 경우 오류 **에 대해 사서함을 찾을 수** 없는 경우에는 웹에서 outlook에 연결 하는 데 사용한 계정에 Exchange Online 라이선스가 없으며, 따라서 해당 계정과 연결 된 사서함이 없습니다. 관리자는 다음 단계를 수행 하 여 사용자 계정에 라이선스를 할당할 수 있습니다. 
   
-1. [Office 365 관리 센터](https://portal.office.com/adminportal/home#/homepage) 를 열고 **현재 사용자** **사용자를 편집**을 선택 합니다.
+1. [Microsoft 365 관리 센터](https://portal.office.com/adminportal/home#/homepage) 를 열고 **활성 사용자**에서 **사용자 편집**을 선택 합니다.
     
-2. 표시 되는 **사용자 편집** 페이지에서 사용자를 선택 합니다. 표시 되는 사용자 속성 페이지에서 **제품 라이선스**에 대 한 **편집** 을 클릭 합니다.
+2. **사용자 편집** 페이지가 열리면 해당 사용자를 선택 합니다. 사용자 속성 페이지가 열리면 **제품 라이선스**에 대 한 **편집** 을 클릭 합니다.
     
-3. 표시 되는 **제품 라이선스** 페이지에서 적절 한 **위치** 값을 선택 하 고 Exchange Online 포함 된 라이선스를 할당 (세부 정보를 확인 하려면 라이선스 확장). 완료 되 면, **저장**을 클릭 합니다.
+3. **제품 라이선스** 페이지가 열리면 적절 한 **위치** 값을 선택 하 고 Exchange Online이 포함 된 라이선스 (세부 정보를 보려면 라이선스 확장)를 할당 합니다. 작업이 끝나면 **저장**을 클릭 합니다.
     
 

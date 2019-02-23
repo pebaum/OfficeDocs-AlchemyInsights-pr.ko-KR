@@ -1,5 +1,5 @@
 ---
-title: O365 비즈니스 Essentials 구독 설정
+title: O365 Business Essentials 구독 설정
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 5/3/2018
@@ -8,30 +8,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 4d375f6357539db79c870c5c32e7201bc93081b8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f32262a370abf8b6e0801cd0741f827a9d4be707
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915306"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207871"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>O365 비즈니스 Essentials 구독 설정
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>O365 Business Essentials 구독 설정
 
-Office 365 계정 만들기 및 사용자의 도메인 추가
+Office 365 계정 만들기 및 도메인 추가
   
-- 이 단계에서 사용자를 위한 Office 365 계정 만들기 및 사용자의 도메인을 추가 하려면 설치 마법사를 사용 합니다. 마법사를 사용 하면 모든 사용자의 사용자 ID 및 [rob@contoso.com](mailto:rob@contoso.com)같은 비즈니스에 대 한 전자 메일을 개인 설정할 수 있습니다.
+- 이 단계에서는 설치 마법사를 사용 하 여 사용자에 대 한 Office 365 계정을 만들고 자체 도메인을 추가 합니다. 이 마법사를 사용 하면 [rob@contoso.com](mailto:rob@contoso.com)와 같이 모든 사용자의 비즈니스 ID와 전자 메일을 개인 설정할 수 있습니다.
     
-- [Office 365 관리 센터](https://login.partner.microsoftonline.cn/)로 이동합니다.
+- [Microsoft 365 관리 센터로](https://login.partner.microsoftonline.cn/)이동 합니다.
     
-- 마법사를 시작 하려면 **설치로 이동**합니다.를 선택 합니다. 자세한 내용은, [사용자 추가 및 Office 365에 도메인을](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)참조 하십시오.
+- 마법사를 시작 하려면 설정으로 **이동을**선택 합니다. 자세한 내용은 [Office 365에 사용자 및 도메인 추가](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)를 참조 하세요.
     
 전자 메일 가져오기
   
-- 이동 기존 전자 메일 및 연락처 다른 전자 메일 시스템에서 Office 365 사서함에 모두 한 곳에에서 볼 수 있도록 합니다. 마이그레이션 옵션, [전자 메일 마이그레이션 및 Office 365에는 연락처에](https://support.office.com/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e)대 한
+- 기존 전자 메일 및 연락처를 다른 전자 메일 시스템에서 Office 365 사서함으로 이동 하 여 모든 항목을 한 곳에 볼 수 있도록 합니다. 마이그레이션 옵션의 경우 [전자 메일 및 연락처를 Office 365로 마이그레이션합니다](https://support.office.com/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e).
     
-- 전자 메일 계정에 연결
+- 전자 메일 계정 연결
     
-  - Outlook에서 Office 365 전자 메일을 관리 하는 경우, 외에도 여 Gmail 및 yahoo 계정 등 다른 전자 메일 계정을 Outlook에를 너무, 연결할 수 있습니다. 이렇게 하면 모든 한곳에서 전자 메일을 관리할 수 있습니다. 최대 5 개의 전자 메일 계정을 Outlook에 연결할 수 있습니다. 자세한 내용은 [웹 (Office 365)에 Outlook에서 전자 메일 계정 연결을](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) 참조 하십시오. 
+  - outlook에서 Office 365 전자 메일을 관리할 뿐만 아니라 Gmail 및 Yahoo 계정과 같은 다른 전자 메일 계정을 outlook에 연결할 수도 있습니다. 이렇게 하면 모든 전자 메일을 한 곳에서 관리할 수 있습니다. 최대 5 개의 전자 메일 계정을 Outlook에 연결할 수 있습니다. 자세한 내용은 [웹용 Outlook에서 전자 메일 계정 연결 (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) 을 참조 하십시오. 
     
 비즈니스용 Skype 설치
   
@@ -39,8 +39,8 @@ Office 365 계정 만들기 및 사용자의 도메인 추가
     
 온라인에 파일 저장
   
-- 저장소 위치는 비즈니스에 가장 적합 한 알아보려면 [Office 365에서 파일을 저장할 수 있는](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx)참조 하십시오. 모든 사람을 가져옵니다 **OneDrive** 클라우드 저장소 위치를 자동으로 하 여 Office 365 계정을 만들 경우. Onedrive, 컴퓨터, 전화, 및 태블릿 전반에 걸쳐 파일을 액세스할 수 있습니다. 
+- 비즈니스에 가장 적합 한 저장소 위치를 알아보려면 [Office 365에서 파일을 저장할 수 있는 위치](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx)를 참조 하세요. 모든 사용자가 Office 365 계정을 만들 때 자동으로 **OneDrive** 클라우드 저장소 위치를 가져옵니다. OneDrive를 사용 하면 컴퓨터, 휴대폰 및 태블릿에서 파일에 액세스할 수 있습니다. 
     
-[이 문서](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials)에서 사용 하 여 설치에 대 한 자세한 단계를 확인할 수 있습니다.
+설치에 대 한 자세한 단계는 [이 문서](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials)에서 찾을 수 있습니다.
   
 
