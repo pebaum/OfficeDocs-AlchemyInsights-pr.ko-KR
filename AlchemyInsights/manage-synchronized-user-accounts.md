@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
-ms.openlocfilehash: 3e1eb0f00f829b7a0657a652d2c50309b944a72c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c052fac9434738c987fcbc2566943f5f117aef2d
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940038"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209311"
 ---
-# <a name="manage-synchronized-user-accounts"></a><span data-ttu-id="709a7-102">동기화 된 사용자 계정 관리</span><span class="sxs-lookup"><span data-stu-id="709a7-102">Manage synchronized user accounts</span></span>
+# <a name="manage-synchronized-user-accounts"></a><span data-ttu-id="c03dc-102">동기화 된 사용자 계정 관리</span><span class="sxs-lookup"><span data-stu-id="c03dc-102">Manage synchronized user accounts</span></span>
 
-<span data-ttu-id="709a7-p101">Office 365 관리 센터를 사용 하 여 추가 하 고 사용자 계정을 변경 하는 일반적으로 합니다. 그러나 디렉터리 동기화 또는 SSO를 사용할 수 있는지를 사용할 수 없습니다. [Office 365 PowerShell을 사용한 사용자 계정 속성 구성에서](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell )에서 설명한 대로 대신 Windows PowerShell을 사용한 사용자를 관리 합니다.</span><span class="sxs-lookup"><span data-stu-id="709a7-p101">Typically, you use the Office 365 admin center to add and change user accounts. However, you can't use it if directory sychronization or SSO are enabled. Instead, manage your users with Windows PowerShell as described in [Configure user account properties with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ).</span></span> 
+<span data-ttu-id="c03dc-p101">일반적으로 Microsoft 365 관리 센터를 사용 하 여 사용자 계정을 추가 하 고 변경 합니다. 하지만 디렉터리 sychronization 또는 SSO를 사용 하는 경우에는이 옵션을 사용할 수 없습니다. 대신 [Office 365 PowerShell을 사용 하 여 사용자 계정 속성 구성](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell )에 설명 된 대로 Windows PowerShell을 사용 하 여 사용자를 관리 합니다.</span><span class="sxs-lookup"><span data-stu-id="c03dc-p101">Typically, you use the Microsoft 365 admin center to add and change user accounts. However, you can't use it if directory sychronization or SSO are enabled. Instead, manage your users with Windows PowerShell as described in [Configure user account properties with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ).</span></span> 
   
 

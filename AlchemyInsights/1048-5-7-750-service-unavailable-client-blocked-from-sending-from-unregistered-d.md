@@ -1,5 +1,5 @@
 ---
-title: 1048 5.7.750 서비스를 사용할 수 없습니다. 클라이언트 등록 되지 않은 도메인에서 보내지 못하도록 차단
+title: 1048 5.7.750 서비스를 사용할 수 없습니다. 클라이언트가 등록 되지 않은 도메인에서 보내지 못하도록 차단 됨
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
-ms.openlocfilehash: 5fe5b343d89c49e1805e4d0cac6698ef35e1dd30
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 356bb008da3b08c320e6afde84c310629cc3be81
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29921930"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208987"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="9427f-103">5.7.750 클라이언트 등록 되지 않은 도메인에서 보내지 못하도록 차단</span><span class="sxs-lookup"><span data-stu-id="9427f-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="7404a-103">등록 되지 않은 도메인에서 5.7.750 클라이언트의 송신이 차단 됨</span><span class="sxs-lookup"><span data-stu-id="7404a-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
 
-<span data-ttu-id="9427f-104">큰 경우에 오류가 발생 메시지의 볼륨 (허용된 도메인으로 추가 하 고 유효성을 검사) Office 365에 프로 비전 되지 않은 도메인에서 전송 됩니다.</span><span class="sxs-lookup"><span data-stu-id="9427f-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in Office 365 (added as accepted domains and validated).</span></span>
+<span data-ttu-id="7404a-104">이 오류는 많은 양의 메시지가 Office 365에서 프로 비전 되지 않은 도메인 (허용 도메인으로 추가 및 유효성 검사)으로 전송 될 때 발생 합니다.</span><span class="sxs-lookup"><span data-stu-id="7404a-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in Office 365 (added as accepted domains and validated).</span></span>
   
-<span data-ttu-id="9427f-105">이 오류를 방지 하려면 인증서의 도메인을 프로 비전 된 도메인 또는 모든 보내는 도메인을 프로 비전 할 수 인증서 기반 메일 흐름 커넥터를 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9427f-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
+<span data-ttu-id="7404a-105">이 오류가 발생 하지 않도록 하려면 인증서의 도메인이 프로 비전 된 도메인인 인증서 기반 메일 흐름 커넥터를 사용 하거나 모든 보낸 도메인을 프로 비전 할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7404a-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
   
 
