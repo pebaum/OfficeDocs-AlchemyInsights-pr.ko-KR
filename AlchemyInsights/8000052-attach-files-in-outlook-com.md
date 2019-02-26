@@ -1,5 +1,5 @@
 ---
-title: Outlook.com에서 8000052 첨부 파일
+title: 8000052 Outlook.com에서 파일 첨부
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
-ms.openlocfilehash: e3f1b2692af4d70167133c7a4f913338e491d242
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e6709cc7b29922b3af919ed1a813cdd701d4a424
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941010"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244299"
 ---
-# <a name="how-to-attach-files"></a><span data-ttu-id="b5ea2-102">파일을 첨부 하는 방법</span><span class="sxs-lookup"><span data-stu-id="b5ea2-102">How to attach files</span></span>
+# <a name="how-to-attach-files"></a><span data-ttu-id="2eacf-102">파일을 연결 하는 방법</span><span class="sxs-lookup"><span data-stu-id="2eacf-102">How to attach files</span></span>
 
-<span data-ttu-id="b5ea2-103">파일을 첨부 클래식 Outlook.com에서:</span><span class="sxs-lookup"><span data-stu-id="b5ea2-103">To attach files in classic Outlook.com:</span></span>
+<span data-ttu-id="2eacf-103">클래식 Outlook.com에서 파일을 첨부 하려면 다음을 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="2eacf-103">To attach files in classic Outlook.com:</span></span>
   
-1. <span data-ttu-id="b5ea2-104">새 메시지 또는 메시지에 회신을 작성 합니다.</span><span class="sxs-lookup"><span data-stu-id="b5ea2-104">Compose a new message or reply to a message.</span></span>
+1. <span data-ttu-id="2eacf-104">새 메시지를 작성 하거나 메시지에 회신 합니다.</span><span class="sxs-lookup"><span data-stu-id="2eacf-104">Compose a new message or reply to a message.</span></span>
     
-2. <span data-ttu-id="b5ea2-105">작성 창 위쪽에 **연결**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="b5ea2-105">At the top of the compose pane, select **Attach**.</span></span> 
+2. <span data-ttu-id="2eacf-105">작성 창 위쪽에서 **연결**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="2eacf-105">At the top of the compose pane, select **Attach**.</span></span> 
     
-<span data-ttu-id="b5ea2-106">파일을 첨부 하는 Outlook.com 베타에서:</span><span class="sxs-lookup"><span data-stu-id="b5ea2-106">To attach files in the Outlook.com beta:</span></span>
+<span data-ttu-id="2eacf-106">Outlook.com beta에서 파일을 첨부 하려면 다음을 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="2eacf-106">To attach files in the Outlook.com beta:</span></span>
   
-1. <span data-ttu-id="b5ea2-107">새 메시지 또는 메시지에 회신을 작성 합니다.</span><span class="sxs-lookup"><span data-stu-id="b5ea2-107">Compose a new message or reply to a message.</span></span>
+1. <span data-ttu-id="2eacf-107">새 메시지를 작성 하거나 메시지에 회신 합니다.</span><span class="sxs-lookup"><span data-stu-id="2eacf-107">Compose a new message or reply to a message.</span></span>
     
-2. <span data-ttu-id="b5ea2-108">아래쪽 작성 창에 선택</span><span class="sxs-lookup"><span data-stu-id="b5ea2-108">At the bottom of the compose pane, select</span></span> ![연결](media/da223d01-5fe6-448c-a3a3-e2b5262da4b9.png)<span data-ttu-id="b5ea2-110">.</span><span class="sxs-lookup"><span data-stu-id="b5ea2-110"></span></span>
+2. <span data-ttu-id="2eacf-108">작성 창 아래쪽에서 클립 아이콘을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="2eacf-108">At the bottom of the compose pane, select the paperclip icon.</span></span>
     
-<span data-ttu-id="b5ea2-111">[Outlook.com에서 파일을 첨부 하는 방법](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409)에 대해 알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="b5ea2-111">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
+<span data-ttu-id="2eacf-109">자세한 내용은 [Outlook.com에서 파일을 첨부 하는 방법을](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409)확인 하세요.</span><span class="sxs-lookup"><span data-stu-id="2eacf-109">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
   
 
