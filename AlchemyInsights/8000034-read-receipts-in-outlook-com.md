@@ -1,5 +1,5 @@
 ---
-title: Outlook.com에서 8000034 읽음 확인
+title: 8000034 Outlook.com의 읽음 확인
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
-ms.openlocfilehash: 9f3a47f27099c5e53e251ed9d80a18dd643069f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 251ffb13eb2c0042b9c077acc8845f89c06ab2d7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898530"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243975"
 ---
-# <a name="read-receipts-in-outlookcom"></a>Outlook.com에서 읽음 확인입니다.
+# <a name="read-receipts-in-outlookcom"></a>Outlook.com에서 읽음 확인
 
-Outlook.com에서 읽음 확인을 요청할 수 있지만 Outlook에 대 한 Windows를 사용 하 여 보낸 Outlook.com 메시지에 대 한 읽음을 요청할 수 있습니다. 자세한 방법, [추가 하 고 읽음 확인 및 배달 알림 요청을](https://go.microsoft.com/fwlink/p/?linkid=874355)참조 하십시오.
+Outlook.com에서 읽음 확인을 요청할 수는 없지만 Windows 용 Outlook을 사용 하 여 보낸 Outlook.com 메시지에 대해 읽음 알림을 요청할 수도 있습니다. 자세한 내용은 [Add and request read 수령액 및 delivery 알림의](https://go.microsoft.com/fwlink/p/?linkid=874355)를 참조 하세요.
   
-Outlook.com 읽음 확인 요청에 응답 하는 방법을 선택 하려면 **설정**으로 이동![설정](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **옵션** \> **메일** \> **자동 처리** \> **읽음 확인**합니다. 
+Outlook.com가 읽음 확인 요청에 응답 하는 방법을 선택 하려면 **설정** \> **옵션** \> **메일** \> **자동 처리** \> **읽음**확인으로 이동 합니다. 
   
-Outlook.com 베타에서 **설정**을 선택![설정](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) 및 **읽음 확인**에 대 한 검색 합니다. 
+Outlook.com 베타에서 **설정을** 선택 하 고 읽음 확인을 **** 검색 합니다. 
   
 

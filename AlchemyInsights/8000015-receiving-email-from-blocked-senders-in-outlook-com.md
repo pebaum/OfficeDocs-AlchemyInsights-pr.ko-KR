@@ -1,5 +1,5 @@
 ---
-title: 8000015 Outlook.com의 보낸 사람이 차단에서 전자 메일 받기
+title: 8000015 Outlook.com의 차단 된 보낸 사람 으로부터 전자 메일 받기
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46a04853-e422-41cc-9bb7-a46d6b6f8aa0
-ms.openlocfilehash: f58b61fc6bef7cf759cac7a5ea13a455f80301f3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9fd6dfc057ff592bdb9609096ba3115be6264aa7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920420"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244083"
 ---
-# <a name="receiving-email-from-blocked-senders"></a>차단 된 사람이 보낸에서 전자 메일 받기
+# <a name="receiving-email-from-blocked-senders"></a>차단 된 보낸 사람 으로부터 전자 메일 받기
 
-차단 된 사용자가 보낸에서 전자 메일 사용자의 받은 편지함에 여전히 나타나는 경우, 보낸 자신의 실제 전자 메일 주소를 숨어 있을 수 있습니다.
+차단 된 보낸 사람의 전자 메일이 받은 편지함에 여전히 표시 되는 경우 보낸 사람이 실제 전자 메일 주소를 숨길 수 있습니다.
   
-보낸 사람의 실제 전자 메일 주소를 확인 합니다.
+보낸 사람의 실제 전자 메일 주소를 확인 하려면:
   
-1. 선택 ![더 많은 작업](media/11884972-7ebb-4afe-8b50-63efefb7cca8.png) 위쪽에 메시지 창 및 **메시지 원본 보기**를 선택 합니다.
+1. 메시지 창 위쪽에서 봉투 아이콘을 선택 하 고 **메시지 원본 보기**를 선택 합니다.
     
-2. **메시지 원본** 아래로 스크롤하여 **에서** 필드를 찾습니다. 
+2. **보낸 사람** 필드를 찾을 때까지 **메시지 원본을** 아래로 스크롤합니다. 
     
-3. 내에 포함 된 전자 메일 주소를 강조 표시 \< \> **복사본** 을 마우스 오른쪽 단추로 클릭 하 고
+3. 에 \< \> 포함 된 전자 메일 주소를 강조 표시 하 고 마우스 오른쪽 단추를 클릭 하 여 **복사** 합니다.
     
-4. 보낸사람 차단 하려면이 실제 전자 메일 주소를 사용 합니다. 어떻게 읽기 [보낸사람 차단](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e.aspx)또는 Outlook.com의 보낸 사람이 차단 해제 합니다.
+4. 이 실제 전자 메일 주소를 사용 하 여 보낸 사람을 차단 합니다. Outlook.com에서 보낸 사람을 [차단 하거나 메시지를 차단 해제](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e.aspx)하는 방법을 읽습니다.
     
-자세한 내용은 [차단 된 사람이 보낸에서 전자 메일을 수신](https://go.microsoft.com/fwlink/p/?linkid=2002011&amp;clcid=0x409)하 고 있는 경우 수행할 작업을 참조 하세요.
+자세한 내용은 [차단 된 보낸 사람 으로부터 전자 메일을 받는](https://go.microsoft.com/fwlink/p/?linkid=2002011&amp;clcid=0x409)경우 수행할 작업을 읽어 보세요.
   
 
