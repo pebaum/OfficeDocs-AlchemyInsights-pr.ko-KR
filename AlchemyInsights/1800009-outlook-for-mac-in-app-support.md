@@ -1,5 +1,5 @@
 ---
-title: Mac에서 응용 프로그램 지원에 대 한 1800009Outlook
+title: Mac의 1800009outlook for app 지원
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: 6b7d48292f7dfd68bb4995b22abbeb9d627f5336
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0e35172668353737d860f7a212101539b1e4e6f1
+ms.sourcegitcommit: 47bdacaa8fcfce06f159a7ddbc114f2d1a70bc2c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926574"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "30361679"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>Mac 용 Outlook의 응용 프로그램에서 지원
+# <a name="in-app-support-in-outlook-for-mac"></a>Mac 용 Outlook의 앱 내 지원
 
-Mac 문제에 대 한 Outlook 용 앱의 지원을 수신 하려면 Outlook을 열고 도움말을 클릭 \> 대화 상대를 지원 합니다. 질문을 입력 하 고 사용자와 Mac 지원팀에 대 한 Outlook 구성원 받아볼 키를 누릅니다. [Mac 용 Outlook에 대 한 지원 문의](https://go.microsoft.com/fwlink/?linkid=2002400&amp;clcid=0x409)
-  
-
+outlook for Mac 문제에 대 한 앱에서 지원을 받으려면 outlook을 열고 지원 \> 서비스에 문의를 클릭 합니다. 질문을 입력 하면 Outlook for Mac 지원 팀의 구성원이 연락 받을 수 있습니다. [Mac 용 Outlook의 지원 서비스에 문의](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
