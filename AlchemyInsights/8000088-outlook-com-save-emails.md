@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
-ms.openlocfilehash: 800fde849db0f1d3673a7144bc83b83e0ee7ace8
-ms.sourcegitcommit: e3df67530bd5205410acf5beba4a07acab9692f0
+ms.openlocfilehash: 27f7c36576c7be4fab824df1a22bf0bde7047341
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30347413"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376078"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Outlook.com에서 메시지 저장
 
@@ -29,4 +29,4 @@ Windows 10에 포함 된 Microsoft pdf로 인쇄 유틸리티를 사용 하면 p
 4. **인쇄**를 선택 합니다.
 5. 파일 이름을 입력 한 다음 **저장**을 선택 합니다.
 
-참고: 다른 사용자가 PC에 저장 하 고 삭제 하지는 않는 모든 pdf에 액세스할 수 있으므로 공유 또는 공용 컴퓨터에서는이 방법은 사용 하지 않는 것이 좋습니다.
+**참고:** 다른 사용자가 PC에 저장 하 고 삭제 하지 않고 모든 pdf에 액세스할 수 있으므로 공유 또는 공용 컴퓨터에는이 방법이 권장 되지 않습니다.

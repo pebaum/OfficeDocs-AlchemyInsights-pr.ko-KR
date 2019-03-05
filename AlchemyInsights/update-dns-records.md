@@ -7,16 +7,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
-ms.openlocfilehash: faa946a845c4e3b59fb33c6bf12de555e49777b6
-ms.sourcegitcommit: e4128331c72e8bc9aa1d627aec2a41b8da0f5dbd
+ms.openlocfilehash: 0e9b08f456483e7177190b1dc32454611bc0daf0
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "30049809"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405365"
 ---
 # <a name="update-dns-records"></a>DNS 레코드 업데이트
 사용자 지정 도메인 이름으로 Office 365 구독을 사용 하려면 DNS 레코드를 설정 하는 것이 중요 합니다. 아래 링크를 사용 하 여 DNS 레코드를 추가 하거나 업데이트 합니다.
