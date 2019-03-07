@@ -1,5 +1,5 @@
 ---
-title: Microsoft 팀을 사용 하도록 설정
+title: Microsoft 팀 사용
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: e00c589059b2f02ce9d6a77ca2a2ffb9d90771dc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 98a7a07a85506f8f94b5a55ebf0e797443a0260a
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917214"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468921"
 ---
-# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="a9bd0-102">사용 하도록 설정 하 고 Microsoft 팀의 사용</span><span class="sxs-lookup"><span data-stu-id="a9bd0-102">Enable and Use Microsoft Teams</span></span>
+# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="47f07-102">Microsoft 팀 사용 및 사용</span><span class="sxs-lookup"><span data-stu-id="47f07-102">Enable and Use Microsoft Teams</span></span>
 
-<span data-ttu-id="a9bd0-103">이러한 문서를 사용 하도록 설정 하 고 Microsoft 팀의 사용을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a9bd0-103">You can use these articles to enable and use Microsoft Teams:</span></span>
-  
-- [<span data-ttu-id="a9bd0-104">Microsoft 팀에 대 한 액세스를 가져오는 방법</span><span class="sxs-lookup"><span data-stu-id="a9bd0-104">How do I get access to Microsoft Teams?</span></span>](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
-    
-- [<span data-ttu-id="a9bd0-105">Microsoft 팀에 대 한 관리자 설정</span><span class="sxs-lookup"><span data-stu-id="a9bd0-105">Administrator settings for Microsoft Teams</span></span>](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)
-    
+
+<span data-ttu-id="47f07-103">microsoft 팀에 액세스할 수 없는 경우 [microsoft 팀에 대 한 액세스 권한을 얻으려면 어떻게 해야 합니까?](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx) 를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="47f07-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span></span>
+
+<span data-ttu-id="47f07-104">microsoft 팀이 이미 있고이를 구성 및 관리 하는 방법을 알고 있어야 하는 경우 [microsoft 팀에 대 한 관리자 설정](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx) 를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="47f07-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Administrator settings for Microsoft Teams](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span></span>
 

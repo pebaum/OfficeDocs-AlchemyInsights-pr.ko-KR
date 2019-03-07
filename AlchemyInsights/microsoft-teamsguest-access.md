@@ -9,18 +9,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e9b8b86c5e00dc23e78d204d6e375554f96f805f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941586"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468489"
 ---
-# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="f51ad-102">Microsoft 팀-게스트 액세스</span><span class="sxs-lookup"><span data-stu-id="f51ad-102">Microsoft Teams - Guest Access</span></span>
+# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="cd810-102">Microsoft 팀-게스트 액세스</span><span class="sxs-lookup"><span data-stu-id="cd810-102">Microsoft Teams - Guest Access</span></span>
 
+<span data-ttu-id="cd810-103">Microsoft 팀에서 게스트 액세스 기능을 켜고 설정 하는 데 도움이 필요 하십니까?</span><span class="sxs-lookup"><span data-stu-id="cd810-103">Do you need help turning on and setting up the Guest Access feature in Microsoft Teams?</span></span>
 
-<span data-ttu-id="f51ad-103">있다고 수에 대 한 단계별 지침을 사용 하도록 설정 하거나 팀이 Microsoft에서 게스트 액세스 역할을 구성 해야 하는 경우: [게스트 액세스 검사 목록](https://docs.microsoft.com/microsoftteams/guest-access-checklist)</span><span class="sxs-lookup"><span data-stu-id="f51ad-103">If you need to enable or configure the Guest Access Role in Microsoft Teams, we have a step-by-step instruction guide for you: [Guest Access Checklist](https://docs.microsoft.com/microsoftteams/guest-access-checklist)</span></span>
-  
-<span data-ttu-id="f51ad-104">팀 구성 변경 사항을 적용 하려면 24 시간까지 대기 해야할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f51ad-104">You may need to wait up to 24 hours for Teams configuration changes to take effect.</span></span>
-  
+<span data-ttu-id="cd810-104">수행 해야 하는 작업은 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="cd810-104">Here's what you need to do:</span></span>
+
+1. <span data-ttu-id="cd810-105">게스트 액세스 권한을 부여 합니다.</span><span class="sxs-lookup"><span data-stu-id="cd810-105">Authorize guest access.</span></span>
+1. <span data-ttu-id="cd810-106">게스트 사용자를 팀에 추가 합니다.</span><span class="sxs-lookup"><span data-stu-id="cd810-106">Add guest users to your team.</span></span>
+1. <span data-ttu-id="cd810-107">게스트 사용자 권한을 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="cd810-107">Set up guest user permissions.</span></span>
+
+<span data-ttu-id="cd810-108">방법 비디오를 비롯 한 자세한 내용은 [Microsoft 팀의 게스트 액세스](https://docs.microsoft.com/en-us/microsoftteams/guest-access)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="cd810-108">For more information, including how-to videos, see [Guest access in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/guest-access).</span></span>
 

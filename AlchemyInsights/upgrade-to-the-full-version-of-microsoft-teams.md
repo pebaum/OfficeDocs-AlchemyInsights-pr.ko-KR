@@ -1,5 +1,5 @@
 ---
-title: Microsoft 팀의 정식 버전으로 업그레이드
+title: 전체 버전의 Microsoft 팀으로 업그레이드
 ms.author: pebaum
 author: pebaum
 ms.date: 6/6/2018
@@ -8,19 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: a48883d8c6471d7830723cf0ff3d2a063246aefe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904866"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468993"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="a26c4-102">Microsoft 팀의 정식 버전으로 업그레이드</span><span class="sxs-lookup"><span data-stu-id="a26c4-102">Upgrade to the full version of Microsoft Teams</span></span>
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="d4403-102">전체 버전의 Microsoft 팀으로 업그레이드</span><span class="sxs-lookup"><span data-stu-id="d4403-102">Upgrade to the full version of Microsoft Teams</span></span>
 
-<span data-ttu-id="a26c4-103">준비가 Microsoft 팀의 정식 버전을 Microsoft 팀의 (무료)에서 업그레이드할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a26c4-103">You can upgrade from Microsoft Teams (free) to the full version of Microsoft Teams whenever you're ready.</span></span>
-  
-<span data-ttu-id="a26c4-104">업그레이드 프로세스를 시작 하는 가장 좋은 방법은 **보겠습니다 사용자를 호출 하도록** 아래를 클릭 하는 것입니다.</span><span class="sxs-lookup"><span data-stu-id="a26c4-104">The best way to start the upgrade process is to click **Let us call you** below.</span></span> 
-  
-<span data-ttu-id="a26c4-105">지원 에이전트 및 Office 365 계획을 선택, 대화 상대 및 결제 정보를 입력 하 고, 사용자의 조직 도메인 이름을 선택 구성원 명단 업그레이드 도움말와 연락 합니다.</span><span class="sxs-lookup"><span data-stu-id="a26c4-105">A support agent will contact you and help you select an Office 365 plan, enter your contact and payment info, select your org domain name, and upgrade your member roster.</span></span>
-  
+<span data-ttu-id="d4403-103">무료에서 전체 버전의 Microsoft 팀으로 업그레이드 해야 하나요?</span><span class="sxs-lookup"><span data-stu-id="d4403-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="d4403-104">[Microsoft 팀 무료으로 Office 365 구독 버전 업그레이드를](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium) 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="d4403-104">See [Upgrade Microsoft Teams free to Office 365 subscription version](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)</span></span>
+
+<span data-ttu-id="d4403-105">다음 요구 사항을 충족 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="d4403-105">You’ll need to meet these requirements:</span></span>
+- <span data-ttu-id="d4403-106">현재 무료 버전의 팀에 등록 한 사용자입니다.</span><span class="sxs-lookup"><span data-stu-id="d4403-106">You’re the person who signed up for the current free version of Teams.</span></span>
+- <span data-ttu-id="d4403-107">자체 도메인을 사용 하는 경우에는 Azure Active Directory와 이미 연결할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="d4403-107">If you have your own domain, it can’t already be associated with Azure Active Directory.</span></span>
+- <span data-ttu-id="d4403-108">업그레이드할 때 데이터를 전송 하려면 업그레이드 프로세스 중에 구독 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="d4403-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="d4403-109">업그레이드 프로세스 외에 Office 365을 구매한 경우에는 데이터를 전송할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="d4403-109">If you bought Office 365 outside of the upgrade process, you can’t transfer data.</span></span>
+
 
