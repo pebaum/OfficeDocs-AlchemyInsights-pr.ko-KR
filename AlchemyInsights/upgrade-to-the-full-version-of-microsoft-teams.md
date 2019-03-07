@@ -1,5 +1,5 @@
 ---
-title: Microsoft 팀의 정식 버전으로 업그레이드
+title: 전체 버전의 Microsoft 팀으로 업그레이드
 ms.author: pebaum
 author: pebaum
 ms.date: 6/6/2018
@@ -8,19 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: a48883d8c6471d7830723cf0ff3d2a063246aefe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904866"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468993"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Microsoft 팀의 정식 버전으로 업그레이드
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>전체 버전의 Microsoft 팀으로 업그레이드
 
-준비가 Microsoft 팀의 정식 버전을 Microsoft 팀의 (무료)에서 업그레이드할 수 있습니다.
-  
-업그레이드 프로세스를 시작 하는 가장 좋은 방법은 **보겠습니다 사용자를 호출 하도록** 아래를 클릭 하는 것입니다. 
-  
-지원 에이전트 및 Office 365 계획을 선택, 대화 상대 및 결제 정보를 입력 하 고, 사용자의 조직 도메인 이름을 선택 구성원 명단 업그레이드 도움말와 연락 합니다.
-  
+무료에서 전체 버전의 Microsoft 팀으로 업그레이드 해야 하나요? [Microsoft 팀 무료으로 Office 365 구독 버전 업그레이드를](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium) 참조 하세요.
+
+다음 요구 사항을 충족 해야 합니다.
+- 현재 무료 버전의 팀에 등록 한 사용자입니다.
+- 자체 도메인을 사용 하는 경우에는 Azure Active Directory와 이미 연결할 수 없습니다.
+- 업그레이드할 때 데이터를 전송 하려면 업그레이드 프로세스 중에 구독 해야 합니다. 업그레이드 프로세스 외에 Office 365을 구매한 경우에는 데이터를 전송할 수 없습니다.
+
 
