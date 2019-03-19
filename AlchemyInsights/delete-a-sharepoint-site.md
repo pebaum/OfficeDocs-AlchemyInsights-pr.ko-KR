@@ -1,5 +1,5 @@
 ---
-title: SharePoint 사이트를 삭제 합니다.
+title: SharePoint 사이트 삭제
 ms.author: kirks
 author: Techwriter40
 ms.date: 1/24/2019
@@ -9,23 +9,23 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: f6ee16a20f2280ba4d8d28ab3fdb4672cd9963b5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d958f0a7587eb1eb2c91004e34a7cc36fc93abfa
+ms.sourcegitcommit: cecbf70b171a9de32ffa067372be1c017e8dd5ac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927582"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30664427"
 ---
-# <a name="delete-a-sharepoint-site"></a>SharePoint 사이트를 삭제 합니다.
- **새 SharePoint 관리 센터에서 사이트를 삭제 합니다.**
+# <a name="delete-a-sharepoint-site"></a>SharePoint 사이트 삭제
+ **새 SharePoint 관리 센터에서 사이트 삭제**
   
-활성 사이트를 삭제 하려면 현재 SharePoint 관리 센터 이동, "지금 시도" 오른쪽 위에 있는 클릭 합니다. **활성 사이트**, 사이트를 선택한 다음 **삭제**를 선택 합니다. [보기 및 복원 새 SharePoint 관리 센터에서 사이트를 삭제](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)하려면 **삭제 된 사이트를**선택 합니다. 자세한 정보에 대 한 [새 SharePoint 관리 센터에서 관리 사이트](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)를 참조 하십시오.
+새 SharePoint 관리 센터를 사용 하 여 클래식 및 최신 사이트를 모두 삭제할 수 있습니다. **활성 사이트**를 선택 하 고 사이트를 선택한 다음 **삭제**를 선택 합니다. [새 SharePoint 관리 센터에서 삭제 된 사이트를 보거나 복원](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)하려면 삭제 된 **사이트**를 선택 합니다. 자세한 내용은 [새 SharePoint 관리 센터에서 사이트 삭제](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center)를 참조 하세요.
   
-**중요:** 사이트는 보존 정책의 일부를 하는 경우에 사이트에서 제거 될 때까지 삭제할 수 하지는 [보안 &amp; 규정 준수 관리 센터](https://protection.office.com/?rfr=AdminCenter#/homepage)합니다. 추가 정보에 대 한 [보존 정책 개요를](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) 참조 하십시오. 
+**중요:** 사이트가 보존 정책의 일부인 경우 사이트를 [보안 &amp; 준수 관리 센터 정책](https://protection.office.com/?rfr=AdminCenter#/homepage)에서 제거할 때까지 해당 사이트를 삭제 하지 못할 수 있습니다. 자세한 내용은 [보존 정책 개요](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) 를 참조 하세요. 
   
-팁:
-- 전역 관리자 및 SharePoint 관리자는 **Office 365 그룹**에 속한 사이트 이제 삭제할 수 있습니다. 이 그룹 및 Outlook 사서함 및 일정 및 모든 팀이 채널을 포함 하 여 모든 리소스를 삭제 됩니다. 자세한 정보에 대 한 [SharePoint 사이트를 삭제](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) 를 참조합니다
-- 93 일에 대 한 삭제 된 사이트를 복구할 수 있습니다. Note 삭제 된 그룹 30 일 이내에 복원 되어야 합니다. 자세한 정보 [보기 및 복원 삭제 된 사이트를](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)참조 하십시오.
-- Powershell 사용 하 여 사이트를 완전히 제거 하려면 [제거 SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet 예제를 참조 하십시오. 
+정보
+- 이제 SharePoint 관리자가 **Office 365 그룹**에 속하는 사이트를 삭제할 수 있습니다. 이렇게 하면 Outlook 사서함과 일정, 모든 팀 채널을 포함 하 여 그룹 및 해당 자원의 모든 리소스가 삭제 됩니다. 자세한 내용은 [SharePoint 사이트 삭제](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) 를 참조 하세요.
+- 93 일 동안 삭제 된 사이트를 복구할 수 있습니다. 삭제 된 그룹은 30 일 이내에 복원 해야 합니다. 자세한 내용은 [삭제 된 사이트 보기 및 복원을](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)참조 하세요.
+- 사이트를 영구적으로 제거 하려면 [사이트 영구 삭제](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#permanently-delete-a-site)를 참조 하십시오. URL을 다시 사용 하려는 경우이 단계를 수행 해야 합니다. 
+- 하위 사이트를 제거 하려면 [삭제 a site 또는 하위 사이트 빠른 단계](https://support.office.com/en-us/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut) 를 참조 하세요.
   
-
