@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: 7b98b68fabff6c048f1bab6cf506355114d18658
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7fc1190fb7b93dce945e366cf8b90112a97a2f3f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916530"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766030"
 ---
 # <a name="error-attributevaluemustbeunique"></a>오류: AttributeValueMustBeUnique
 
-AttributeValueMustBeUnique 오류에 대 한 가장 일반적인 이유는 서로 다른 SourceAnchor (immutableId)와 두 개체의 ProxyAddresses 및/또는 UserPrincipalName 특성에 대 한 같은 값을가지고 있습니다. AttributeValueMustBeUnique 오류를 수정 합니다.
+AttributeValueMustBeUnique 오류가 발생 하는 가장 일반적인 원인은 ProxyAddresses 및/또는 UserPrincipalName 특성에 대해 다른 sourceanchor (immutableId)의 값이 같은 개체 두 개를 사용 하는 것입니다. AttributeValueMustBeUnique 오류를 해결 하려면
   
-1. 복제 된 proxyAddresses, userPrincipalName 또는 오류를 발생 하는 다른 특성 값을 식별할 수 있습니다. 또한 두 (또는 그 이상) 개체는 충돌에 관련 된 식별할 수 있습니다. 동기화를 위한 Azure AD 연결 상태에서 생성 된 보고서를 사용 하는 두 개체를 식별 할 수 있습니다.
+1. 중복 되는 proxyAddresses, userPrincipalName 또는 기타 특성 값을 식별 하 여 오류를 발생 시킵니다. 또한 충돌에 관여 하는 두 개 이상의 개체를 식별 합니다. 동기화를 위해 Azure AD Connect Health에서 생성 한 보고서는 두 개체를 식별 하는 데 도움이 될 수 있습니다.
     
-2. 어떤 개체에 중복 된 값을 설정할 계속 해야 하 고 있는 개체 되어서는 안을 식별 합니다.
+2. 계속 해 서 복제 되는 값과 사용할 수 없어야 하는 개체를 식별 합니다.
     
-3. 해당 값이 없는 해야 하는 개체에서 중복 된 값을 제거 합니다. Note 개체에서 원본으로 하는 디렉터리에서 변경을 확인 해야 합니다. 경우에 따라 충돌에 있는 개체 중 하나를 삭제 해야할 수 있습니다.
+3. 해당 값이 없어야 하는 개체에서 중복 된 값을 제거 합니다. 개체를 원본으로 하는 디렉터리에서 변경 작업을 수행 해야 합니다. 경우에 따라 충돌이 발생 하는 개체 중 하나를 삭제 해야 할 수 있습니다.
     
-4. 온-프레미스 AD에서에서 변경을 수행한 경우에 고정 가져오기에 대 한 오류에 대 한 변경 내용을 동기화 Azure AD 연결 수 있도록 합니다.
+4. 온-프레미스 AD에서 변경을 수행한 경우 Azure AD Connect에서 오류에 대 한 변경 사항을 동기화 하 여 수정 합니다.
     
 

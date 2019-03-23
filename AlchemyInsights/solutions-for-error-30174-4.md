@@ -1,5 +1,5 @@
 ---
-title: 30174-4 오류에 대 한 솔루션
+title: 오류 30174-4 해결 방법
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -10,25 +10,25 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: ffe51d8f6ebce4db094ad09a703f073b18ef4925
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: bf6bfc5f24ebcb1c2ec60de32eb12812a1044020
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928086"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765922"
 ---
-# <a name="error-code-30174-4-when-installing-office"></a>오류 코드 30174-4 Office를 설치 하는 경우
+# <a name="error-code-30174-4-when-installing-office"></a>Office를 설치할 때 발생 하는 오류 코드 30174-4
 
-바이러스 백신 소프트웨어, 방화벽, 프록시 설정 또는 연결 Office를 설치에서 차단 하는 경우이 오류가 나타날 수 있습니다. 일부의 문제를 해결 하려면 시킬 수 있습니다.
+바이러스 백신 소프트웨어, 방화벽, 프록시 설정 또는 연결로 인해 Office를 설치할 수 없는 경우이 오류가 표시 될 수 있습니다. Here are some things you can try to fix the problem.
   
-- 유선된 연결을 사용 하 여
+- 유선 연결 사용
     
 - 일시적으로 프록시 설정 해제
     
-- 바이러스 백신 소프트웨어를 일시적으로 해제
+- 바이러스 백신 소프트웨어 일시적으로 끄기
     
-[오류 코드 30174-4 Office를 설치 하는 경우](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
+[Office를 설치할 때 발생 하는 오류 코드 30174-4](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
   
 
