@@ -1,5 +1,5 @@
 ---
-title: Office 365 구독을 취소 하는?
+title: Office 365 구독을 취소 하 시겠습니까?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: b538d7de1b8dae14b55b799dd02055c311c31207
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7464784fb11b872c395c206a510577c2a4c33835
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902310"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758616"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Office 365 구독을 취소 하는?
+# <a name="canceling-your-office-365-subscription"></a>Office 365 구독을 취소 하 시겠습니까?
 
-이동 보면 사과 하세요?
+죄송 합니다.
   
-조직 데이터에 따르면 25 개 이상의 할당 된 라이선스를 보유 하는 모든 현재 구독 것입니다. 25 미만인 다음 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 했거나 **대금 청구** 로 이동 될 때까지 사용자를 제거할 수 \> **구독**을 **더 많은 작업** 을 선택 하 고 \> **구독을 취소**합니다.
+조직 데이터를 기반으로 모든 현재 구독에 25 개 이상의 라이선스가 할당 되었다고 생각 합니다. 사용자를 제거 하려면 25 개 미만으로 이동한 다음 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 하거나 **대금 청구** \> **구독**으로 이동한 다음 **기타 작업** \> **취소**를 선택 합니다.
   
-또는 "보겠습니다를 호출 하면" 옵션을 사용 하 여 하 고 지원 엔지니어입니다.
+또는 "사용자에 게 전화를 걸 수 있습니다." 옵션을 사용 하 여 지원 엔지니어와 의견을 보내주시기 바랍니다.
   
-에 대 한 단계별 지침은 또는 구독 취소 하는 방법에 대 한 자세한 내용을 보려면이 문서를 참조: [비즈니스를 위한 Office 365 취소](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+구독 취소 또는 단계별 지침에 대 한 자세한 내용은이 문서: [비즈니스용 Office 365 취소](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a) 를 참조 하세요.
   
 

@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online 공개 웹사이트를 중단 하는
+title: SharePoint Online 공개 웹 사이트가 중단 됩니다.
 ms.author: clake
 author: spowriter
 manager: scotv
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 44bbef0b4df8d504c6a1039691f9a3207a5a387d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1c63fd905448d48bb8823ebcfcb4900c4aab86ff
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913422"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761315"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Online 공개 웹사이트를 중단 하는
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Online 공개 웹 사이트가 중단 됩니다.
 
-SharePoint Online 공개 웹사이트를 만든 경우 사용 하 여 2018 년 3 월 31 때까지 계속 수 있습니다. 공용 웹사이트 필요 없이 계속 하려면 새 공급자를 사용 하 여 새 만드십시오 해야 합니다. 유지 하려는 모든 콘텐츠를 복사 해야 하므로 SharePoint Online 공개 웹사이트에서 콘텐츠 삭제 됩니다.
+SharePoint Online 공개 웹 사이트를 만든 경우에는 2018 년 3 월 31 일까 지 계속 사용할 수 있습니다. 계속 해 서 공개 웹 사이트를 만들려면 새 공급자를 사용 하 여 새로 만들어야 합니다. SharePoint Online 공개 웹 사이트의 콘텐츠는 삭제 되므로 보관 하려는 콘텐츠를 복사 해야 합니다.
   
-배너는 이제 알림 사이트를 제거할으로 SharePoint Online 공개 웹사이트의 위쪽에 나타납니다. 이 배너를 해제할 수 없습니다. 저장 및 파트너 웹사이트에 콘텐츠를 복사 하는 방법에 대 한 정보를 [기능 중단 프로세스에 대 한 자세한 내용은](https://go.microsoft.com/fwlink/?linkid=866980)참조 하십시오. 
+이제 사이트가 제거 된다는 알림으로 SharePoint Online 공개 웹 사이트의 맨 위에 배너가 표시 됩니다. 이 배너를 끌 수 없습니다. 콘텐츠를 파트너 웹 사이트로 저장 하 고 복사 하는 방법에 대 한 자세한 내용은 [기능 단종 프로세스에 대 한 세부 정보](https://go.microsoft.com/fwlink/?linkid=866980)를 참조 하십시오. 
   
 

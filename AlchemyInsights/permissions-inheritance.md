@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
-ms.openlocfilehash: 64a373f93ec3bc642c3a9cb0e64b2e051fcc1153
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5a72a74710a01cf958fa468b80ee67a4034c4383
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911922"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752208"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>SharePoint에서 사용 권한 상속을 작동 하는 방법
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>SharePoint에서 사용 권한 상속이 작동 하는 방식
 
-기본적으로 계층 구조에 더 높은 위쪽에서 sharepoint에서 사용 권한 상속 됩니다. 따라서 파일을 사이트 모음에서 사용 권한을 상속 하는 사이트에서 사용 권한을 상속 하는 라이브러리에서 사용 권한을 상속 하는 폴더에서 사용 권한을 상속 합니다.
+기본적으로 SharePoint의 사용 권한은 계층 구조에서 위쪽 으로부터 상속 됩니다. 따라서 파일은 해당 폴더에서 사용 권한을 상속 하며, 사이트에서 사용 권한을 상속 하며, 사이트 모음에서 사용 권한을 상속 합니다.
   
-고유한 사용 권한을 제거 하 고 상속을 복원 하는 방법에 대 한 정보를 [편집 하 고 목록 또는 라이브러리에 대 한 사용 권한 관리](https://go.microsoft.com/fwlink/?linkid=869946)를 참조 하십시오.
+고유한 사용 권한을 제거 하 고 상속을 복원 하는 방법에 대 한 자세한 내용은 [목록 또는 라이브러리의 사용 권한 편집 및 관리](https://go.microsoft.com/fwlink/?linkid=869946)를 참조 하십시오.
   
 

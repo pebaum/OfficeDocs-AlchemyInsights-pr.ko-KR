@@ -1,5 +1,5 @@
 ---
-title: Microsoft 작업에 대 한 필수 라이센스
+title: Microsoft ToDo에 필요한 라이선스
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,30 +9,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 7fc665d0af708f0dbcb9241de8102a976459436a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c492b46fa507c75a166eb4a8cfa48019a3ec7d4c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926970"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757860"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Microsoft 작업에 대 한 필요한 라이선스
+# <a name="required-licenses-for-microsoft-todo"></a>Microsoft ToDo에 필요한 라이선스
 
-[Microsoft 작업에 대 한 필요한 라이선스](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Microsoft ToDo에 필요한 라이선스](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-사용자는 Microsoft 할 일을 사용 하 여 다음 라이센스 중 하나가 있어야 합니다.
+사용자가 Microsoft ToDo를 사용 하려면 다음 라이선스 중 하나가 있어야 합니다.
   
 - Business Essentials
     
 - Business Premium
     
-- Microsoft 365 Firstline F1
+- Microsoft 365 firstline F1
     
-- 모든 Office 365 Enterprise 계획
+- 모든 Office 365 Enterprise 요금제
     
-- 생산성을 비즈니스를 보호 합니다.
+- 안전 하 고 생산적인 비즈니스
     
 - Secure Productive Enterprise E3
     
@@ -44,7 +44,7 @@ ms.locfileid: "29926970"
     
 - Microsoft 365 A5
     
-유효한 제품 라이선스 외에도 수 있도록 사용자 데이터를 동기화 하는 작업에 필요한 Exchange Online의 다음 버전 중 하나: 
+유효한 제품 라이선스 외에도 ToDo가 사용자 데이터를 동기화 하려면 다음 버전의 Exchange Online 중 하나가 필요 합니다. 
   
 - Exchange Online 요금제 1
     

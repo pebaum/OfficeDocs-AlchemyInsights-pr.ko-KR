@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
-ms.openlocfilehash: 8cbb56016643502838e33ab4a6482e84c2b26212
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: c97444d0afa001f20e7c0edcd798501cc21bda46
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969683"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759444"
 ---
 # <a name="fix-onedrive-sync-problems"></a>OneDrive 동기화 문제 해결
 
-- OneDrive에 액세스할 수 있는지 확인 온라인 계정: 왼쪽 위에 있는 응용 프로그램 시작 관리자 아이콘을 클릭 한 다음 OneDrive를 클릭 합니다.
+- 온라인에서 onedrive 계정에 액세스할 수 있는지 확인: 왼쪽 위에 있는 앱 시작 관리자 아이콘을 클릭 한 다음 OneDrive를 클릭 합니다.
     
-- 사용자의 컴퓨터 최신 상태 인지 확인: [최신 Windows 업데이트를 다운로드](http://go.microsoft.com/fwlink/p/?LinkId=825773), [OneDrive의 최신 버전을 다운로드](https://go.microsoft.com/fwlink/p/?linkid=844652)
+- 컴퓨터의 최신 버전을 [다운로드](http://go.microsoft.com/fwlink/p/?LinkId=825773)하 고 최신 [버전인 OneDrive를 다운로드](https://go.microsoft.com/fwlink/p/?linkid=844652) 하세요.
     
-- OneDrive의 연결을 해제 하 고 OneDrive 설치 프로그램을 다시 실행: 작업 표시줄의 맨 오른쪽에 있는 알림 영역에 있는 파란색 OneDrive 클라우드 아이콘을 마우스 오른쪽 단추로 클릭 합니다. **설정**을 클릭 한 다음 **이 PC 연결 끊기**를 클릭 합니다. 비즈니스용 OneDrive를 다시 설정 하려면 OneDrive 마법사를 시작의 단계를 수행 합니다.
+- onedrive 연결을 끊고 onedrive 설치 프로그램을 다시 실행 하십시오: 작업 표시줄의 맨 오른쪽에 있는 알림 영역에서 파란색 OneDrive 클라우드 아이콘을 마우스 오른쪽 단추로 클릭 합니다. **설정을**클릭 하 고 **이 PC 연결 끊기를**클릭 합니다. onedrive 시작 마법사의 단계에 따라 onedrive를 다시 설정 합니다.
     
-[동기화 문제를 해결 하는 것에 대 한 자세한 단계](https://go.microsoft.com/fwlink/?linkid=866431)
+[동기화 문제 해결을 위한 추가 단계](https://go.microsoft.com/fwlink/?linkid=866431)
   
 

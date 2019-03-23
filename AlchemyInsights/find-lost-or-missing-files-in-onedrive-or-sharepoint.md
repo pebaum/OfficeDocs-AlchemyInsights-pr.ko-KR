@@ -1,5 +1,5 @@
 ---
-title: OneDrive 또는 SharePoint에서 분실 또는 누락 된 파일 찾기
+title: OneDrive 또는 SharePoint에서 손실 되거나 누락 된 파일 찾기
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 7327d570ab76c8dc0581c004b8701b1f4270d425
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: 3da4aab8de8ac36d87a51f101d6da304e1b383f5
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968171"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757608"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>OneDrive 또는 SharePoint에서 분실 또는 누락 된 파일 찾기
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>OneDrive 또는 SharePoint에서 손실 되거나 누락 된 파일 찾기
 
-- OneDrive 또는 웹에 있는 SharePoint 사이트를 탐색 하 고 왼쪽된 창에서 휴지통을 클릭 하 여 휴지통을 확인 합니다. (Recycle bin에 표시 되지 않으면 왼쪽된 창 설정 아이콘을 클릭 하 고 **사이트 콘텐츠**를 선택 합니다. **휴지통** 에 있는 경우 맨 오른쪽 맨 위쪽에 명령 모음) 
+- 웹에서 OneDrive 또는 SharePoint 사이트를 검색 하 고 왼쪽 창에서 휴지통을 클릭 하 여 휴지통을 확인 합니다. 왼쪽 창에 휴지통이 표시 되지 않으면 설정 아이콘을 클릭 한 다음 **사이트 콘텐츠**를 선택 합니다. **휴지통** 은 명령 모음의 맨 오른쪽에 있습니다. 
     
-- 사용자의 컴퓨터에 파일을와 동기화 하는 경우 사용자의 컴퓨터에서 휴지통을 확인 합니다. 
+- 컴퓨터의 파일을 동기화 하는 경우 컴퓨터의 휴지통을 확인 합니다. 
     
-- 찾을 수 없으면 해당 항목을 찾는 하 고 최근에 삭제 된, 사이트 모음 관리자 사이트 모음 휴지통에서 복원 할 수 있습니다. 사이트 모음 관리자 인 경우에 [삭제 된 사이트 모음 휴지통에서 항목 복원을](https://go.microsoft.com/fwlink/?linkid=866439)참조 합니다.
+- 찾으려는 항목이 표시 되지 않고 최근에 삭제 된 경우 사이트 모음 관리자가 사이트 모음 휴지통에서 해당 항목을 복원할 수 있습니다. 사이트 모음 관리자는 [사이트 모음 휴지통에서 삭제 된 항목 복원을](https://go.microsoft.com/fwlink/?linkid=866439)참조 하세요.
     
-[복원 하는 더 많은 도움이 OneDrive의 파일 및 폴더 삭제](https://go.microsoft.com/fwlink/?linkid=872872)
+[OneDrive에서 삭제 된 파일 및 폴더 복원에 대 한 추가 도움말](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

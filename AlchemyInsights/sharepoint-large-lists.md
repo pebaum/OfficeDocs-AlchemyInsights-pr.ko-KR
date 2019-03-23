@@ -1,5 +1,5 @@
 ---
-title: SharePoint 큰 목록
+title: SharePoint 대규모 목록
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
-ms.openlocfilehash: e4648b986d34cbedd55e1ce61fcf9f57e71fbde1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9390d428061b8450126c1573f608e69862c7d1b5
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935466"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755196"
 ---
-# <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>큰 목록 및 SharePoint의 라이브러리
+# <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>SharePoint에서 큰 목록 및 라이브러리에 대 한 작업
 
-SharePoint 목록 및 라이브러리 최대 30 백만 항목을 포함할 수 있지만 5, 000 개 이상의 항목을가지고 있을 때 작업할 하려고 하면 목록 보기 임계값 오류 메시지가 나타날 수 있습니다. 이 임계값 서비스의 성능을 유지 하기 위해 마련 되었습니다. 변경할 수 없습니다. 이 임계값을 방문를 방지 하려면 할 수 있습니다 [는 인덱스를 추가](https://go.microsoft.com/fwlink/?linkid=867784), [보기를 변경 하려면 사용자 필터](https://go.microsoft.com/fwlink/?linkid=867786), 폴더, 항목을 구성 또는 사용자의 컴퓨터에서 로컬로 동기화 된 문서 라이브러리와 함께 작동 합니다. 
+SharePoint 목록 및 라이브러리에는 최대 3000만 개의 항목이 포함 될 수 있지만, 항목이 5000 개를 초과 하면 작업을 수행 하려고 할 때 목록 보기 임계값 오류가 표시 될 수 있습니다. 이 임계값은 서비스의 성능을 유지 하기 위한 것입니다. 변경할 수 없습니다. 이 임계값을 초과 하지 않도록 하려면 인덱스, [사용자 필터](https://go.microsoft.com/fwlink/?linkid=867786)를 [추가](https://go.microsoft.com/fwlink/?linkid=867784)하 여 보기를 변경 하거나, 항목을 폴더로 구성 하거나, 동기화 된 문서 라이브러리를 컴퓨터에서 로컬로 사용 하 여 작업할 수 있습니다. 
   
-[목록 보기 임계값 내에서 작업에 대 한 자세한 팁](https://go.microsoft.com/fwlink/?linkid=867787)
+[목록 보기 임계값에서의 작업에 대 한 추가 팁](https://go.microsoft.com/fwlink/?linkid=867787)
   
 

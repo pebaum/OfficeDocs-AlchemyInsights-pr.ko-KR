@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: d29764266f44aee5f8f8e2c93ad67b2a33c6f417
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: ebb9037362d261b81b9b1dcafcbe461aac7f4963
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209743"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759624"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>사용자에 게 SharePoint 및 OneDrive에 대 한 액세스 권한 부여
 

@@ -1,5 +1,5 @@
 ---
-title: 연금술-Outlook 오류 ' 수 없는 Microsoft Outlook을 시작 '
+title: Alchemy-outlook 오류 ' Microsoft outlook을 시작할 수 없습니다.
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: 8b22d80cbb4ebf1792555f614cec94ebe1613fd6
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: f35b769d5037b0b8dd4dec7af760124abacfd11a
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969971"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756348"
 ---
-"Microsoft Outlook을 시작할 수 없습니다"
+"Microsoft Outlook을 시작할 수 없습니다."
 
-# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook 오류: "Microsoft Outlook을 시작할 수 없습니다"
+# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook 오류: "Microsoft Outlook을 시작할 수 없습니다."
 
-Outlook 2016, Outlook 2013, 또는 Outlook 2010을 시작 하는 문제가 발생 하면 또는 받기를 시작할 수 없습니다 Microsoft Outlook 합니다. Outlook 창을 열 수 없습니다"오류 메시지?
+outlook 2016, outlook 2013 또는 outlook 2010을 시작 하는 데 문제가 있거나 "Microsoft outlook을 시작할 수 없습니다. Outlook 창을 열 수 없음 "오류 메시지
   
-먼저 [이](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) 문서의 문제해결 단계를 사용 하 여 이러한 시작 문제를 해결 하기 위해. 
+먼저 [이 문서의](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) 문제 해결 단계를 사용 하 여 이러한 시작 문제를 해결 하는 데 도움이 됩니다. 
   
-영향을 받는 컴퓨터에 [고급 진단 도구](https://aka.ms/SaRA-OutlookAdvDiagnostics) 를 실행할 수도 있습니다. 
+영향을 받는 컴퓨터에서 [고급 진단 도구](https://aka.ms/SaRA-OutlookAdvDiagnostics) 를 실행할 수도 있습니다. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: 만료 되는 온-프레미스 페더레이션 서비스 인증서 중 하나
+title: 온-프레미스 페더레이션 서비스 인증서 중 하나가 만료 됩니다.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 172084b7-68a1-42a5-944d-2e871eaa2972
-ms.openlocfilehash: bed33ba4d09fe4598c5e73eb21f0af1b7670f4c1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e1afad0bab317af0f60a6ebda8c3ec8be398e38d
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914406"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753036"
 ---
-# <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a>만료 되는 온-프레미스 페더레이션 서비스 인증서 중 하나
+# <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a>온-프레미스 페더레이션 서비스 인증서 중 하나가 만료 됩니다.
 
-이 문제를 해결 하려면 다음이 단계를 따릅니다.
+이 문제를 해결 하려면 다음 단계를 수행 합니다.
   
-- (모듈 아직 설치 되지) 하는 경우 Microsoft Azure Active Directory 모듈에 대 한 Windows PowerShell을 컴퓨터에 설치 합니다. 이 작업을 수행 하려면 [그래프 용 Azure Active Directory PowerShell](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0) 로 이동
+- 컴퓨터에 Windows PowerShell 용 Microsoft Azure Active Directory 모듈 (모듈을 아직 설치 하지 않은 경우)을 설치 합니다. 이 작업을 수행 하려면 [Graph 용 Azure Active Directory PowerShell](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0) 로 이동 합니다.
     
-- 단계에 따라는 "시나리오 1: AD FS 토큰 서명 인증서가 만료 되었습니다" [AD FS 페더레이션된 사용자가 Office 365, Azure, 또는 Intune에 로그인 하면에서 "사이트에 액세스 문제가 발생 했습니다" 오류](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)의 섹션입니다.
+- [페더레이션 사용자가 Office 365, Azure 또는 Intune에 로그인 하는 경우 ad fs에서](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)"시나리오 1: ad FS 토큰 서명 인증서가 만료 되었습니다." 섹션의 단계를 수행 합니다.
     
-- T[업데이트 또는 Office 365, Azure, 또는 Intune에서 페더레이션된 도메인의 설정을 복구 하는 방법](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3)의 단계를 수행 합니다.
+- [Office 365, Azure 또는 Intune에서 페더레이션 도메인의 설정을 업데이트 하거나 복구 하는 방법](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3)의 단계를 따릅니다.
     
-페더레이션 인증서를 갱신 하는 방법에 대 한 자세한 내용은 [O365 및 Azure AD에 대 한 인증서를 갱신](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)을 참조 하십시오.
+페더레이션 인증서를 갱신 하는 방법에 대 한 자세한 내용은 [O365 및 Azure AD에 대 한 인증서 갱신](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)을 참조 하세요.
   
 

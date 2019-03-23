@@ -1,5 +1,5 @@
 ---
-title: 비 이익 계획 및 가격에 대 한 office 365
+title: 비영리 요금제 및 가격 책정을 위한 Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 84a51e2bb3da804ac1bcc3c7cb8f0efb1fbf58fe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cfe62608a50d634616fc9f57461eda1b401110f1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920562"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757464"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>비 이익 계획 및 가격에 대 한 office 365
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a>비영리 요금제 및 가격 책정을 위한 Office 365
 
-정규화 된 비영리 Office 365 비 이익를 기부도 받을 하거나 중요 한 할인에 고급 기능을 업그레이드할 수 있습니다. Office 365 비 이익 계획에 대 한 작업을 사용 하려면 해야를 놓으면 [자선 상태 인식](https://go.microsoft.com/fwlink/p/?LinkID=330253) 국가 및 기호 Microsoft의 비 판별 정책에서 합니다. Microsoft는 언제 든 지 작업이 적합 한지 확인 하 고 자격이 조직에 대 한 서비스를 일시 중단 권한을 보유 합니다. 
+정규 비 수익은 중요 한 할인에 따라 고급 기능에 대 한 기부 또는 업그레이드로 Office 365 비영리을 받을 수 있습니다. Office 365 비영리 요금제를 사용 하려면 국가에서 인식 되는 [자선 기부 상태](https://go.microsoft.com/fwlink/p/?LinkID=330253) 를 유지 하 고 Microsoft의 판별 되지 않은 정책에 서명 해야 합니다. Microsoft는 언제 든 지 자격을 확인할 수 있는 권한을 보유 하 고 있으며 자격이 없는 조직을 위해 서비스를 일시 중단 합니다. 
   
-이 제공 하는 방법에 대 한 추가 문제에 대 한 [FAQ](https://products.office.com/nonprofit/office-365-nonprofit) 를 참조 하십시오. 
+이 혜택에 대 한 추가 질문은 [FAQ](https://products.office.com/nonprofit/office-365-nonprofit) 를 참조 하세요. 
   
-- [비 이익 계획 검토](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [비영리 요금제 검토](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
     
-- [모든 Office 365 계획을 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [모든 Office 365 요금제 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)
     
 

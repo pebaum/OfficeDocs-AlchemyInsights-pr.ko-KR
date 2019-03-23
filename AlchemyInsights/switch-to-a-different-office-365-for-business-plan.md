@@ -1,5 +1,5 @@
 ---
-title: 비즈니스 계획에 대 한 서로 다른 Office 365로 전환
+title: 다른 Office 365 for Business 요금제로 전환
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 7c49d3b06eac4fb03a6303dcad701ec0a3203224
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: eda1feb55a22a21849b6d017600b7c47e49b5174
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927913"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753648"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>비즈니스 계획에 대 한 서로 다른 Office 365로 전환
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>다른 Office 365 for Business 요금제로 전환
 
-비즈니스 변경 내용을 또는 하면 더 많은 Office 365 기능을 할 때 계획을 전환할 수 있습니다.
+비즈니스가 변경 되거나 더 많은 Office 365 기능이 필요한 경우 요금제를 전환할 수 있습니다.
   
 1. 관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동하거나 **청구** \> **구독**을 선택합니다.
     
-2. 사용할 수 있는 새로운 계획의 목록을 보려면 **스위치 계획** 을 선택 합니다. 
+2. 사용할 수 있는 새 요금제 목록을 보려면 **요금제 전환을** 선택 합니다. 
     
-3. 매월 새 총 비용을 참조 하는 계획을 선택 합니다. 주요 정보를 확인 하 고 **다음** 체크아웃을 선택 해야 합니다. 
+3. 계획을 선택 하 여 월별 새 총 비용을 확인할 수 있습니다. 키 정보를 확인 하 고 **다음** 을 선택 하 여 체크 아웃 합니다. 
     
-스위치 계획 단추에서 모든 상황에서에서 지원 되지 않습니다. 경우에 따라 계획을 수동으로 전환할 수 있습니다.
+요금제 전환 단추는 모든 상황에서 지원 되지 않습니다. 경우에 따라 요금제를 수동으로 전환할 수 있습니다.
   
-**계획 전환** 단추를 사용할 수 없는 경우에 [계획을 수동으로 전환](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209) 하려고 하거나 "보겠습니다를 호출 하면" 옵션을 사용 하 고 지원 엔지니어 수 있습니다. 
+**요금제 전환** 단추를 사용할 수 없는 경우 [요금제를 수동으로 전환](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209) 하거나 "사용자에 게 전화를 걸 수 있습니다." 옵션을 사용 하 여 지원 엔지니어와 의견을 보내주시기 바랍니다. 
   
-계획 전환의 모든 변형에 대 한 [비즈니스 계획에 대 한 서로 다른 Office 3635 프로그램으로 전환](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2)을 참조 하십시오.
+전환 계획의 모든 변형에 대해 [다른 Office 3635 for 비즈니스 계획으로 전환을](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2)참조 하세요.
   
 

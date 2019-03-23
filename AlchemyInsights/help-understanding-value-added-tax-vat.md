@@ -1,5 +1,5 @@
 ---
-title: 도움말 이해 값 (부가가치세)를 추가 합니다.
+title: 부가에 대 한 이해 지원 (VAT)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 122ffe07011a549d213c0c7acc5177ab6e3e952c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: fa174850f1e2810a2d38833f5dca4360ee53d4be
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907642"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753360"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>도움말 이해 값 (부가가치세)를 추가 합니다.
+# <a name="help-understanding-value-added-tax-vat"></a>부가에 대 한 이해 지원 (VAT)
 
-영국와 같은 다중값된 추가 된 세금 (VAT)를 사용 하는 국가, 사용 하는 경우에 Microsoft 청구 VAT을 계산 하는 없으며 양을 청구서를 적용 합니다.
+영국 등의 vat (계산 부가 가능한 세금)를 사용 하는 국가에서는 Microsoft 송장 사용자를 위해 vat를 계산 하 고 금액을 송장에 적용 합니다.
   
-세금 이유로 청구에 대 한 설정에서 사용자의 VAT 등록 번호를도 지정 해야 합니다.
+세금 이유로 전화 송장 설정에서 VAT 등록 번호를 지정 해야 합니다.
   
-추가 하거나 VAT 속도 제거할 수는 없지만 설정에서 기본 VAT 속도 변경할 수 있습니다. 기본적으로 청구 VAT 등록 번호의 유효성을 검사 하는 서비스를 사용 하지만 [VIES 고 지 사항](https://go.microsoft.com/fwlink/?LinkID=841741) 유럽 위원회에서 게시를 읽어보는 것이 좋습니다. 서비스를 사용 하지 않도록 설정 하려는 경우에 모든 VAT 등록 번호를 확인 해야 합니다. 
+vat 속도는 추가 하거나 제거할 수 없지만 설정에서 기본 vat 속도를 변경할 수는 있습니다. 기본적으로 송장 발부에서는 서비스를 사용 하 여 VAT 등록 번호의 유효성을 검사 하지만 유럽 위원회에서 게시 한 [vies 고 지](https://go.microsoft.com/fwlink/?LinkID=841741) 사항을 확인 하는 것이 좋습니다. 서비스를 사용 하지 않도록 설정 하는 경우 모든 VAT 등록 번호를 확인 해야 합니다. 
   
 

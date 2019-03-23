@@ -1,5 +1,5 @@
 ---
-title: 온라인 결제 기기 비용을 여러 번 시도
+title: 온라인 결제 기기에 대 한 여러 시도
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: e81f13c958d6a49eb038cc1595f346326288f722
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5d9acc81b18bc8f71efa5f8aea00bbb008672efc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918798"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755664"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>온라인 결제 기기 비용을 여러 번 시도
+# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>온라인 결제 기기에 대 한 여러 시도
 
-서비스에서 모든 작업을 수행 하기 전에 온라인 결제 기기 청구을 여러 번 시도 만들 것입니다. 후 지불 메서드는을 선택 하면 모든 기한 선택한 지불 메서드와 함께 금액을 지불 해야 합니다. 구독에 대 한 현재 결제 정보를 업데이트 하려면 [추가, 업데이트 하 고, 또는 신용 카드 또는 비즈니스를 위한 Office 365의 은행 계좌 제거](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)의 단계를 수행 합니다.
+서비스에 대 한 작업을 수행 하기 전에 온라인 결제 기기를 여러 번 시도해 야 합니다. 결제 방법을 선택한 후에는 모든 지난 기한 금액을 선택한 결제 방법으로 결제 해야 합니다. 구독에 대 한 현재 결제 정보를 업데이트 하려면 [비즈니스용 Office 365에서 신용 카드 또는 은행 계좌 추가, 업데이트 또는 제거](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)의 단계를 수행 합니다.
   
 

@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: c14b143eeca57a0c1154c8600f1f9af855f78ab0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3a2f33686c2d9fd6803c0a5fc208a2e6bd80cd4b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928194"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757500"
 ---
 # <a name="expired-subscription"></a>만료 된 구독
 
-하나 이상의 만료 된 구독이 표시 됩니다. 서비스를 계속 진행 하려는 경우에 구독을 다시 활성화 하거나 새 구매를 확인 해야 합니다.
+구독이 하나 이상 만료 된 것으로 나타납니다. 서비스를 계속 하려면 구독을 다시 활성화 하거나 새 구매를 수행 해야 합니다.
   
- **다시 활성화**
+ **활성화할**
   
 1. 관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동하거나 **청구** \> **구독**을 선택합니다.
     
-2. 구독을 다시 활성화할 수를 선택 합니다.
+2. 다시 활성화할 구독을 선택 합니다.
     
-3. 오른쪽으로 **다시 활성화**를 선택 합니다.
+3. 오른쪽에서 **재 활성화**를 선택 합니다.
     
- **새 제품 구매**
+ **새 구매 만들기**
   
-1. 관리 센터에서 [서비스 구매](https://go.microsoft.com/fwlink/p/?linkid=868433) 페이지로 이동 하거나 **대금 청구** 선택 \> **서비스 구매**합니다.
+1. 관리 센터에서 [서비스 구매](https://go.microsoft.com/fwlink/p/?linkid=868433) 페이지로 이동 하거나 **대금 청구** \> **구매 서비스**를 선택 합니다.
     
-2. 구입 하려면 구독을 선택 합니다.
+2. 구매할 구독을 선택 합니다.
     
-3. 타일을 가져간 **지금 구입**을 선택 합니다.
+3. 타일을 가리키고 **지금 구입**을 선택 합니다.
     
 

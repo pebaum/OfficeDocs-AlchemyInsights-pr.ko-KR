@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: f0d0e9e857589ff91d163dcc4877633d18abdaab
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b8c6a5ba5ab28912ef09a4b17468a917534a54f0
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919698"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752316"
 ---
 # <a name="sending-email-as-the-shared-mailbox"></a>공유 사서함으로 전자 메일 보내기
 
-공유 사서함을 만든 후 사서함의 구성원 인 사용자는 공유 사서함 id (예: *info@contoso.com* )로 전자 메일을 보낼 수 있습니다. 자세한 내용은 다음을 참조 하십시오. 
+공유 사서함을 만든 후에는 사서함의 구성원 인 사용자가 공유 사서함 id (예: *info@contoso.com* )로 전자 메일을 보낼 수 있습니다. 해당 지침은 다음 항목을 참조하세요. 
   
 [Outlook 2016 및 Outlook 2013에서 공유 사서함 열기 및 사용](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   
-[웹에서 Outlook에 추가 하는 공유 사서함](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+[웹용 Outlook에 공유 사서함 추가](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
   
 

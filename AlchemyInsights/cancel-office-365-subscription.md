@@ -1,5 +1,5 @@
 ---
-title: Office 365 구독을 취소 합니다.
+title: Office 365 구독 취소
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 1118757c5c8f738dd63883116e82d60b883cd11d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 545d39d9ea83acfc2e5def49ac3877edbc8275de
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927664"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753180"
 ---
-# <a name="cancelling-your-office-365-subscription"></a>Office 365 구독을 취소 하 시겠습니까?
+# <a name="cancelling-your-office-365-subscription"></a>Office 365 구독을 취소 하 고 계십니까?
 
-우리는 이동, 보면 사과 하지만 구독을 취소 하 여 옵션은 다음과 같습니다.
+죄송 합니다. 하지만 구독을 취소 하는 옵션은 다음과 같습니다.
   
-- 평가판 고객 인 경우 취소 것이 없습니다. 평가판 구독 지불 메서드를 제공 하지 않으면 자동으로 만료 됩니다.
+- 평가판 고객의 경우에는 취소할 작업이 없습니다. 결제 방법을 제공 하지 않으면 평가판 구독이 자동으로 만료 됩니다.
     
-- 사용자 수가 25 할당 된 라이선스를 사용 하는 경우에 온라인으로 구독을 취소할 수 있습니다. [대금 청구](https://admin.microsoft.com/adminportal/home#/subscriptions) 로 이동 \> **구독**을 **더 많은 작업** 을 선택 하 고 \> **구독을 취소**합니다.
+- 할당 된 라이선스가 25 개 미만이 면 온라인에서 구독을 취소할 수 있습니다. [청구](https://admin.microsoft.com/adminportal/home#/subscriptions) \> **구독**으로 이동한 다음 **기타 작업** \> **취소 구독**을 선택 합니다.
     
-- 25 개 이상의 할당 된 라이선스를 사용 하는 경우 지원 엔지니어에 게 문의 하기 "보겠습니다를 호출 하면" 옵션을 사용 하거나 미만의 25 했는지 때까지 하거나 사용자를 제거할 수 있습니다.
+- 라이선스가 25 개를 초과 하는 경우에는 25 개 보다 적을 때까지 사용자를 제거 하거나 "사용자에 게 전화를 걸 수 있습니다." 옵션을 사용 하 여 지원 엔지니어와 의견을 보내주시기 바랍니다.
     
-- 에 대 한 단계별 지침은 또는 구독을 취소 하는 방법에 대 한 자세한 내용을 보려면 [비즈니스용 Office 365 취소](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx)를 참조 하십시오.
+- 구독 취소에 대 한 자세한 내용을 보거나 단계별 지침을 보려면 [Cancel Office 365 for business](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx)을 참조 하십시오.
     
 

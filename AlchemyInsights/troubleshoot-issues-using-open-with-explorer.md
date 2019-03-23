@@ -1,5 +1,5 @@
 ---
-title: 탐색기에서 열기를 사용 하 여 문제를 해결
+title: 탐색기에서 열기를 사용 하 여 문제 해결
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 9b2abe01a47d39812988d62b6f010a8933fad33e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 03bb3ad01a716390ec50845b29ddf6cc81a83116
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929215"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759300"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>탐색기를 열고 문제 수정
+# <a name="fix-problems-with-open-with-explorer"></a>탐색기에서 열기 문제 해결
 
-SharePoint 또는 OneDrive **탐색기에서 열기** 명령을 사용 하 여 문서 라이브러리를 열기와 일반적인 문제를 수정 합니다. 
+**탐색기에서 열기** 명령을 사용 하 여 SharePoint 또는 OneDrive에서 문서 라이브러리를 여는 일반적인 문제를 해결 합니다. 
   
-- Internet Explorer 10 또는 Internet Explorer 11 사용 합니다. **탐색기에서 열기** Microsoft 지, Google Chrome, Firefox 및 다른 사용자와 호환 없습니다. **탐색기에서 열기** Internet Explorer를 제외한 모든 브라우저에서 비활성화 됩니다. 
+- internet explorer 10 또는 internet explorer 11을 사용 합니다. **탐색기에서 열기** 는 Microsoft Edge, Google Chrome, Firefox 및 기타 기능과 호환 되지 않습니다. Internet explorer를 제외한 모든 브라우저에서는 **탐색기에서 열기** 를 사용할 수 없습니다. 
     
-- **탐색기에서 열기** 를 SharePoint 라이브러리에 대 한 최신 환경에서 사용할 수 없습니다. **파일 탐색기에서 보기** 를 대신 사용 합니다. **보기 옵션** 을 선택 \> **파일 탐색기의 보기**입니다. 파일 탐색기의 보기 Microsoft 지, Google Chrome, Firefox 및 다른 사용자와 호환 되지 않습니다. **파일 탐색기에서 보기** 에서 Internet Explorer 에서만에서 사용할 수 있습니다. 
+- 현재 SharePoint 라이브러리 환경에서는 **탐색기에서 열기** 를 사용할 수 없습니다. 대신 **파일 탐색기에서 보기를** 사용 합니다. **파일 탐색기에서** **보기 옵션** \> 보기를 선택 합니다. 파일 탐색기의 보기는 Microsoft Edge, Google Chrome, Firefox 및 기타와 호환 되지 않습니다. Internet Explorer 에서만 사용할 수 있는 **파일 탐색기의 보기** 입니다. 
     
-- 웹 클라이언트 서비스가 실행 되 고 있는지 확인 합니다. Windows 검색 상자를 실행 하는 형식에서 실행 데스크톱 응용 프로그램을 선택 하 고 services.msc를 입력 한 다음 Enter 키를 누릅니다. 웹 클라이언트 서비스까지 아래로 스크롤한 다음 **상태** 열 "실행 합니다."가 표시 되는지 확인 서비스를 두번클릭 대로 표시 되지 않으면 **시작**을 클릭 한 다음 **확인**을 클릭 합니다. (먼저 **시작 유형** 상자에서 **수동** 또는 **자동** 을 선택 하 여 서비스를 사용 하도록 할 수 있습니다.) 
+- WebClient 서비스가 실행 되 고 있는지 확인 합니다. Windows 검색 상자에 실행을 입력 하 고 데스크톱 실행 앱을 선택 하 고 services.msc를 입력 한 다음 enter 키를 누릅니다. 아래로 스크롤하여 WebClient 서비스를 확인 하 고 **상태** 열에 "실행 중"이 표시 되도록 합니다. 그렇지 않으면 서비스를 두 번 클릭 하 고 **시작**을 클릭 한 다음 **확인**을 클릭 합니다. ( **시작 유형** 상자에서 **수동** 또는 **자동** 을 선택 하 여 서비스를 먼저 사용 하도록 설정 해야 할 수 있습니다.) 
     
 > [!NOTE]
-> 동기화 하는 것 중 권장 라이브러리 파일 탐색기에서 열기를 복사 하거나 후, 하지만 라이브러리에서 정기적으로 작동 하려면 여러 파일 및 폴더를 이동 해야 하는 경우에 유용 합니다. 파일 탐색기에서 열기 문제를 해결 하려면 [탐색기에서 열기](https://go.microsoft.com/fwlink/?linkid=871665)를 참조 합니다. 동기화를 설정 하는 방법에 대 한 정보를 [새 OneDrive 동기화 클라이언트와 함께 동기화 SharePoint 파일](https://go.microsoft.com/fwlink/?linkid=871666)을 참조 하십시오.
+> 파일 탐색기에서 라이브러리를 여는 것은 여러 파일 및 폴더를 한 번 복사 하거나 이동 해야 하지만 라이브러리에서 정기적으로 작업 하려는 경우 동기화 하는 것이 좋습니다. 파일 탐색기에서 열기 문제를 해결 하려면 [탐색기에서 열기](https://go.microsoft.com/fwlink/?linkid=871665)를 참조 하십시오. 동기화 설정에 대 한 자세한 내용은 [SharePoint 파일을 새 OneDrive 동기화 클라이언트와 동기화](https://go.microsoft.com/fwlink/?linkid=871666)를 참조 하세요.
   
-자세한 내용은 [SharePoint Online에서 문제를 해결 하는 "열기와 탐색기" 명령을 사용 하는 방법](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) 문서를 참조 하십시오. 
+자세한 내용은 [SharePoint Online의 문제를 해결 하기 위해 "탐색기에서 열기" 명령을 사용](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) 하는 방법에 대 한 문서를 참조 하세요. 
   
 

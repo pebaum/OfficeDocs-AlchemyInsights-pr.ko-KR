@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 50a4368a149e241c311c4d58e7b7d69db1ccd5a9
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 41e5a67cdbb17ab562ad2830ab0ac0e4e708ef27
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901122"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759948"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>별칭 또는 보조 주소에서 전자 메일 보내기
 
-Office 365 현재 별칭 또는 보조 전자 메일 주소에서 보내는 전자 메일을 지원 하지 않습니다. 전자 메일 별칭을 받도록 전자 메일만 사용할 수 있습니다. 다른 전자 메일 주소에서 전자 메일을 보내려는 경우 공유 사서함을 만들려면 해야 합니다. 공유 사서함에서 제공 하면 다른 전자 메일 주소를 다른 라이선스를 요구 하지 않고 합니다. 
+Office 365은 현재 별칭 또는 보조 전자 메일 주소에서 전자 메일을 보내는 것을 지원 하지 않습니다. 전자 메일 별칭을 사용 하 여 전자 메일이 수신 됩니다. 다른 전자 메일 주소에서 전자 메일을 보내려면 공유 사서함을 만들어야 합니다. 공유 사서함은 다른 라이선스를 요구 하지 않고 다른 전자 메일 주소를 제공 합니다. 
   
-- [공유 사서함을 만들려면 여기로 이동](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [여기로 이동 하 여 공유 사서함 만들기](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
     
-또한 알 수 있는이 사용 하는 방법을 비롯 하 여 공유 사서함에 대 한 알고 있어야 하는 데 필요한 모든 [공유 사서함 만들기](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9) 문서를 읽을 수 있습니다. 
+공유 사서함을 사용 하는 방법을 비롯 하 여 알고 있어야 하는 모든 정보를 확인할 수 있는 [Create a shared mailbox](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9) 문서를 읽을 수도 있습니다. 
   
 

@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 25e430f9249f1e1e42ecdd97bdcf8420131d971c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 319009a15c0de5870dd017a50ccf95453f78ad52
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29910338"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758904"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>DNS 레코드를 업데이트하여 현재 호스팅 공급자에 웹 사이트 유지
 
-다른 호스팅 공급자에 게 Office 365 공용 웹사이트를 이동 하는 프로세스의 일부로 가능성이 도메인 레코드를 변경 하려면 필요 합니다.
+Office 365 공용 웹 사이트를 다른 호스팅 공급자로 이동 하는 프로세스의 일부로 도메인 레코드를 변경 해야 할 수 있습니다.
   
-1. 관리 센터에서 **설치** 로 이동 \> **도메인** 을 변경 하려면 도메인 이름을 선택 합니다. 
+1. 관리 센터에서 **설정** \> **도메인** 으로 이동 하 여 변경 하려는 도메인 이름을 선택 합니다. 
     
-2. 새 호스팅 공급자를 통한 웹사이트를 정렬 하는 정보를 입력 합니다.
+2. 새 호스팅 공급자를 사용 하 여 웹 사이트에 맞추는 정보를 입력 합니다.
     
-자세한 내용은 [현재 호스팅 공급자를 통한 웹사이트를 유지 하려면 업데이트 DNS 레코드](https://support.office.com/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061)를 참조 합니다. 
+자세한 내용은 [업데이트 DNS 레코드를 사용 하 여 현재 호스팅 공급자에 웹 사이트 유지](https://support.office.com/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061)를 참조 하세요. 
   
-공용 사이트 중단 하는 방법에 대 한 자세한 내용은, [SharePoint Online 공개 웹사이트 연결이 끊어질 수](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하십시오. 
+공개 사이트 중단에 대 한 자세한 내용은 [SharePoint Online 공개 웹 사이트의 단종](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요. 
   
 
