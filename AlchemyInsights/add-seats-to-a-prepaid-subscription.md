@@ -1,5 +1,5 @@
 ---
-title: 선불된 구독에 시트를 추가 합니다.
+title: 선불 구독에 좌석 추가
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: d03ca96b0f9b0f49ee742e08c8a57683c805a0e8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 07161bf45fb99539e4c6d0b946a538f198db3553
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29903240"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763510"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="6c643-102">선불된 구독에 시트를 추가 합니다.</span><span class="sxs-lookup"><span data-stu-id="6c643-102">Add seats to a prepaid subscription</span></span>
+# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="292d2-102">선불 구독에 좌석 추가</span><span class="sxs-lookup"><span data-stu-id="292d2-102">Add seats to a prepaid subscription</span></span>
 
-1. <span data-ttu-id="6c643-103">관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동하거나 **청구** \> **구독**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="6c643-103">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="292d2-103">관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동하거나 **청구** \> **구독**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="292d2-103">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="6c643-104">사용자를 추가 하려는 선불된 구독을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="6c643-104">Choose the prepaid subscription you would like to add users.</span></span>
+2. <span data-ttu-id="292d2-104">사용자를 추가할 선불 구독을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="292d2-104">Choose the prepaid subscription you would like to add users.</span></span>
     
-3. <span data-ttu-id="6c643-105">**더 많은 작업** 메뉴에서 선택 **갱신 토큰으로 라이선스 추가 또는**합니다.</span><span class="sxs-lookup"><span data-stu-id="6c643-105">In the **More actions** menu, choose **Renew or add license with token**.</span></span>
+3. <span data-ttu-id="292d2-105">**기타 작업** 메뉴에서 **갱신 또는 토큰을 가진 라이선스 추가**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="292d2-105">In the **More actions** menu, choose **Renew or add license with token**.</span></span>
     
-4. <span data-ttu-id="6c643-p101">**새로 추가 되거나 사용 하지 않는 제품 키** 옵션을 선택 합니다. (이 구독을 구입한 소매 위치에 제품 키로 만든, 할 경우 다른 지불 방법으로 사용자를 추가 하는 옵션입니다.)</span><span class="sxs-lookup"><span data-stu-id="6c643-p101">Select the **new and unused product key** option. (If this subscription was created with a product key purchased at a retail location, you might have the option to add users with other payment methods.)</span></span> 
+4. <span data-ttu-id="292d2-106">**사용 하지 않는 새 제품 키** 옵션을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="292d2-106">Select the **new and unused product key** option.</span></span> <span data-ttu-id="292d2-107">(이 구독은 소매점에서 구입한 제품 키를 사용 하 여 만든 경우 다른 결제 방법을 사용 하 여 사용자를 추가 하는 옵션을 사용할 수 있습니다.)</span><span class="sxs-lookup"><span data-stu-id="292d2-107">(If this subscription was created with a product key purchased at a retail location, you might have the option to add users with other payment methods.)</span></span> 
     
-5. <span data-ttu-id="6c643-108">**다음**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="6c643-108">Choose **Next**.</span></span>
+5. <span data-ttu-id="292d2-108">**다음**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="292d2-108">Choose **Next**.</span></span>
     
-6. <span data-ttu-id="6c643-109">제품 키를 입력 한 다음 **다음**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="6c643-109">Enter the product key, then choose **Next**.</span></span>
+6. <span data-ttu-id="292d2-109">제품 키를 입력 하 고 **다음**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="292d2-109">Enter the product key, then choose **Next**.</span></span>
     
-7. <span data-ttu-id="6c643-110">더 많은 사용자를 추가, **다음**을 선택한 다음 **쿠폰**를 선택 하는 옵션을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="6c643-110">Choose the option to add more users, choose **Next**, then choose **Redeem**.</span></span>
+7. <span data-ttu-id="292d2-110">더 많은 사용자를 추가 하는 옵션을 선택 하 고 **다음**을 선택한 다음 사용을 선택 합니다. \*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="292d2-110">Choose the option to add more users, choose **Next**, then choose **Redeem**.</span></span>
     
 
