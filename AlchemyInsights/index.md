@@ -1,22 +1,17 @@
 ---
-title: 연금술 정보 홈
+title: Alchemy Insights 홈
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 3/27/2018
 ms.audience: Admin
 ms.topic: article
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.openlocfilehash: 9c41a881309e38ecb271718c7e8e4af446306a20
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29934818"
+ms.custom: null
 ---
-# <a name="alchemy-insights"></a><span data-ttu-id="7464e-102">연금술 insights (영문)</span><span class="sxs-lookup"><span data-stu-id="7464e-102">Alchemy Insights</span></span>
 
-<span data-ttu-id="7464e-103">이 라이브러리는 응용 프로그램의 도움말 콘텐츠에 대 한 예약 되어있습니다.</span><span class="sxs-lookup"><span data-stu-id="7464e-103">This library is reserved for in-app help content.</span></span>
+# <a name="alchemy-insights"></a><span data-ttu-id="f2ec1-102">Alchemy Insights</span><span class="sxs-lookup"><span data-stu-id="f2ec1-102">Alchemy Insights</span></span>
+
+<span data-ttu-id="f2ec1-103">이 라이브러리는 앱 내 도움말 콘텐츠에 예약 되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f2ec1-103">This library is reserved for in-app help content.</span></span>

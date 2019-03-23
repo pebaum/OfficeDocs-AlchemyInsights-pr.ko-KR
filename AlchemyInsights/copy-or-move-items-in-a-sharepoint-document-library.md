@@ -1,5 +1,5 @@
 ---
-title: SharePoint 문서 라이브러리에서 항목을 이동 또는 복사
+title: SharePoint 문서 라이브러리에서 항목 복사 또는 이동
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,34 +9,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: 7a9a4d454f82788598059feb8c5b3f1234a3ef6c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f7cc1369bd179bf410871054b2d4184a55a2b342
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29897954"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762502"
 ---
-# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a><span data-ttu-id="db5b1-102">SharePoint 문서 라이브러리에서 항목을 이동 또는 복사</span><span class="sxs-lookup"><span data-stu-id="db5b1-102">Copy or move items in a SharePoint document library</span></span>
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a><span data-ttu-id="19fe0-102">SharePoint 문서 라이브러리에서 항목 복사 또는 이동</span><span class="sxs-lookup"><span data-stu-id="19fe0-102">Copy or move items in a SharePoint document library</span></span>
 
-<span data-ttu-id="db5b1-p101">복사 하 고 문서 라이브러리 내에서 서로 다른 위치에 파일, 폴더 및 링크를 이동할 수 있습니다. 또한 사이트에 걸쳐 항목을 복사할 수 있습니다. [대상 릴리스 옵션을 설정](https://go.microsoft.com/fwlink/?linkid=622980)했으면 너무 항목 사이트 간에 이동할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="db5b1-p101">You can copy and move files, folders, and links to different locations within a document library. You can also copy items across sites. If you've [set up the Targeted release option](https://go.microsoft.com/fwlink/?linkid=622980), you can move items across sites, too.</span></span>
+<span data-ttu-id="19fe0-103">문서 라이브러리 내에서 다른 위치로 파일, 폴더 및 링크를 복사 하 고 이동할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="19fe0-103">You can copy and move files, folders, and links to different locations within a document library.</span></span> <span data-ttu-id="19fe0-104">여러 사이트에서 항목을 복사할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="19fe0-104">You can also copy items across sites.</span></span> <span data-ttu-id="19fe0-105">[대상 지정 된 릴리스 옵션을 설정한](https://go.microsoft.com/fwlink/?linkid=622980)경우 사이트 간에 항목을 이동할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="19fe0-105">If you've [set up the Targeted release option](https://go.microsoft.com/fwlink/?linkid=622980), you can move items across sites, too.</span></span>
   
-1. <span data-ttu-id="db5b1-106">브라우저에서 파일, 폴더 또는 이동 및 **복사** 하거나 **이동**를 클릭 한 다음 원하는 링크를 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="db5b1-106">In a browser, browse to the files, folders, or links you want to move, and then click **Copy to** or **Move to**.</span></span>
+1. <span data-ttu-id="19fe0-106">브라우저에서 이동할 파일, 폴더 또는 링크를 찾은 다음 **복사** **위치 또는로 이동을**클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="19fe0-106">In a browser, browse to the files, folders, or links you want to move, and then click **Copy to** or **Move to**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="db5b1-107">**복사** 하 고 **이동** SharePoint Online의 클래식 경험을 사용 하는 경우에 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="db5b1-107">**Copy to** and **Move to** aren't available if you're using the classic experience of SharePoint Online.</span></span> 
+    > <span data-ttu-id="19fe0-107">SharePoint Online의 클래식 환경을 사용 하는 경우에는 **복사 하기** 및 **이동을** 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="19fe0-107">**Copy to** and **Move to** aren't available if you're using the classic experience of SharePoint Online.</span></span> 
   
-2. <span data-ttu-id="db5b1-108">**대상 선택**아래에서 복사 또는 항목 이동 하거나 사이트의 전체 목록을 보려면 **사이트를 검색** 하려는 위치를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="db5b1-108">Under **Choose a destination**, select the location to which you want to copy or move the items or click **Browse sites** to see the full list of sites.</span></span> 
+2. <span data-ttu-id="19fe0-108">**대상 선택**아래에서 항목을 복사 하거나 이동할 위치를 선택 하거나 사이트 **찾아보기를** 클릭 하 여 사이트의 전체 목록을 표시 합니다.</span><span class="sxs-lookup"><span data-stu-id="19fe0-108">Under **Choose a destination**, select the location to which you want to copy or move the items or click **Browse sites** to see the full list of sites.</span></span> 
     
     > [!NOTE]
-    > <span data-ttu-id="db5b1-p102">항목을 복사 하는 경우 나열 된 다른 사이트 보이지 않으면 사이트에 걸쳐 복사 구성 되지 않았습니다. 이 클래스를 활성화 하려면 SharePoint 관리 센터의 설정 페이지로 이동 하 고 **확인**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="db5b1-p102">If you don't see other sites listed when you copy items, copying across sites hasn't been configured. To enable it, go to the settings page of the SharePoint admin center and click **OK**.</span></span> 
+    > <span data-ttu-id="19fe0-109">항목을 복사할 때 다른 사이트가 표시 되지 않으면 사이트 간 복사가 구성 되지 않은 것입니다.</span><span class="sxs-lookup"><span data-stu-id="19fe0-109">If you don't see other sites listed when you copy items, copying across sites hasn't been configured.</span></span> <span data-ttu-id="19fe0-110">이 기능을 사용 하도록 설정 하려면 SharePoint 관리 센터의 설정 페이지로 이동한 후 **확인**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="19fe0-110">To enable it, go to the settings page of the SharePoint admin center and click **OK**.</span></span> 
   
-    <span data-ttu-id="db5b1-111">새 폴더를 만들려면 폴더 계층 구조에서 위치를 선택, **새 폴더**를 클릭, 폴더의 이름을 입력 하 고 이름을 저장 하려면 확인 표시를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="db5b1-111">To create a new folder, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
+    <span data-ttu-id="19fe0-111">새 폴더를 만들려면 폴더 계층 구조에서 위치를 선택 하 고 **새 폴더**를 클릭 하 고 폴더 이름을 입력 한 다음 확인 표시를 클릭 하 여 이름을 저장 합니다.</span><span class="sxs-lookup"><span data-stu-id="19fe0-111">To create a new folder, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
     
-3. <span data-ttu-id="db5b1-112">**여기에 복사** 또는 **이동 여기**를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="db5b1-112">Click **Copy here** or **Move here**.</span></span>
+3. <span data-ttu-id="19fe0-112">**여기로 복사** 또는 **여기로 이동을**클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="19fe0-112">Click **Copy here** or **Move here**.</span></span>
     
 > [!NOTE]
->  <span data-ttu-id="db5b1-p103">한번에 최대 500MB의 파일 및 폴더를 복사할 수 있습니다. 버전 기록, 최신 버전에만 있는 문서를 복사 하는 경우 gt_ 복사 됩니다. 문서를 이동 하면 해당 내용도 이동 됩니다.</span><span class="sxs-lookup"><span data-stu-id="db5b1-p103">You can copy up to 500 MB of files and folders at one time. >  When you copy documents that have version history, only the latest version is copied. When you move documents, their history is also moved.</span></span> 
+>  <span data-ttu-id="19fe0-113">한 번에 최대 500 MB의 파일 및 폴더를 복사할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="19fe0-113">You can copy up to 500 MB of files and folders at one time.</span></span> <span data-ttu-id="19fe0-114">> 버전 기록이 포함 된 문서를 복사 하는 경우 최신 버전만 복사 됩니다.</span><span class="sxs-lookup"><span data-stu-id="19fe0-114">>  When you copy documents that have version history, only the latest version is copied.</span></span> <span data-ttu-id="19fe0-115">문서를 이동 하면 해당 기록도 이동 됩니다.</span><span class="sxs-lookup"><span data-stu-id="19fe0-115">When you move documents, their history is also moved.</span></span> 
   
 

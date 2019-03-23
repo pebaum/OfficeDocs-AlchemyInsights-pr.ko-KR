@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: f98ed43ca05b4ca78d6dcc970868cd8aa05a31f9
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ffdede78f772a4efc1f1803f9494c9766e33550d
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29923154"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752352"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="e9f7d-102">만료 되지 않도록 설정 암호</span><span class="sxs-lookup"><span data-stu-id="e9f7d-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="284a2-102">암호가 만료 되지 않도록 설정</span><span class="sxs-lookup"><span data-stu-id="284a2-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="e9f7d-p101">모든 암호 만료 되지 않도록 설정 하려면로 이동 [보안 &amp; 개인정보](https://portal.office.com/adminportal/home#/settings/security)합니다. **암호 정책**, 옆에 있는 **편집** 을 클릭 하 고 **전환**슬라이더를 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="e9f7d-p101">To set ALL passwords to never expire, go to [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security). Click **Edit** next to **Password Policy**, and turn the slider to **On**.</span></span>
+<span data-ttu-id="284a2-103">모든 암호가 만료 되지 않도록 설정 하려면 [ &amp; 보안 개인 정보](https://portal.office.com/adminportal/home#/settings/security)로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="284a2-103">To set ALL passwords to never expire, go to [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="284a2-104">**암호 정책**옆에 있는 **편집** 을 클릭 하 고 슬라이더를 **켜**세요.</span><span class="sxs-lookup"><span data-stu-id="284a2-104">Click **Edit** next to **Password Policy**, and turn the slider to **On**.</span></span>
   
-<span data-ttu-id="e9f7d-105">자세한 내용은 참조: [조직에 대 한 암호 만료 정책을 설정 합니다.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="e9f7d-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
+<span data-ttu-id="284a2-105">자세한 내용은 [조직에 대 한 암호 만료 정책 설정을](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f) 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="284a2-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
   
-[<span data-ttu-id="e9f7d-106">특정 사용자에 대 한 만료 되지 않도록 암호 설정</span><span class="sxs-lookup"><span data-stu-id="e9f7d-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[<span data-ttu-id="284a2-106">특정 사용자에 대해 암호가 만료 되지 않도록 설정</span><span class="sxs-lookup"><span data-stu-id="284a2-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
   
 

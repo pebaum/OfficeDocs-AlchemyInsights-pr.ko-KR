@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online 시작 하기
+title: SharePoint Online 시작
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 67ce690a6a53b2d086e6d3122fae83d94989ed31
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9f8129b09f7aa9821202614c80dfcee400961122
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904758"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762970"
 ---
-# <a name="get-started-with-sharepoint-online"></a><span data-ttu-id="f5e16-102">SharePoint Online 시작 하기</span><span class="sxs-lookup"><span data-stu-id="f5e16-102">Get started with SharePoint Online</span></span>
+# <a name="get-started-with-sharepoint-online"></a><span data-ttu-id="32f64-102">SharePoint Online 시작</span><span class="sxs-lookup"><span data-stu-id="32f64-102">Get started with SharePoint Online</span></span>
 
-<span data-ttu-id="f5e16-p101">[SharePoint Online 비디오 교육](https://go.microsoft.com/fwlink/?linkid=866438) 및 [빠른 시작 가이드](https://go.microsoft.com/fwlink/?linkid=866437)시작 및 실행할 수 있습니다. 단계별 가이드의 단계를 수행 하는 더 포괄적인을 찾고 하는 경우는 [SharePoint Online 배포 advisor.](https://portal.office.com/onboarding/sharepointonline#/)</span><span class="sxs-lookup"><span data-stu-id="f5e16-p101">Get up and running with our [SharePoint Online video training](https://go.microsoft.com/fwlink/?linkid=866438) and [quick start guide](https://go.microsoft.com/fwlink/?linkid=866437). If you are looking for a more comprehensive, step-by-step guide follow the steps in the [SharePoint Online deployment advisor.](https://portal.office.com/onboarding/sharepointonline#/)</span></span>
+<span data-ttu-id="32f64-103">[SharePoint Online 비디오 교육](https://go.microsoft.com/fwlink/?linkid=866438) 및 [빠른 시작 가이드](https://go.microsoft.com/fwlink/?linkid=866437)를 준비 하 고 실행 합니다.</span><span class="sxs-lookup"><span data-stu-id="32f64-103">Get up and running with our [SharePoint Online video training](https://go.microsoft.com/fwlink/?linkid=866438) and [quick start guide](https://go.microsoft.com/fwlink/?linkid=866437).</span></span> <span data-ttu-id="32f64-104">보다 광범위 한 단계별 가이드를 찾으려는 경우 [SharePoint Online 배포 관리자](https://portal.office.com/onboarding/sharepointonline#/) 의 단계를 따릅니다.</span><span class="sxs-lookup"><span data-stu-id="32f64-104">If you are looking for a more comprehensive, step-by-step guide follow the steps in the [SharePoint Online deployment advisor.](https://portal.office.com/onboarding/sharepointonline#/)</span></span>
   
 

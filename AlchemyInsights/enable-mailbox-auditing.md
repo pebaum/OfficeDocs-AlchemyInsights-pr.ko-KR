@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 3a7ffccadf6b415f7dd0d0871d368402332a0cd7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 81041685cf383a231a9a9739d6daffd6039b4602
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916746"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757824"
 ---
-# <a name="enable-mailbox-auditing"></a><span data-ttu-id="a4d66-102">사서함 감사 사용</span><span class="sxs-lookup"><span data-stu-id="a4d66-102">Enable mailbox auditing</span></span>
+# <a name="enable-mailbox-auditing"></a><span data-ttu-id="8b4f0-102">사서함 감사 사용</span><span class="sxs-lookup"><span data-stu-id="8b4f0-102">Enable mailbox auditing</span></span>
 
-<span data-ttu-id="a4d66-103">단일 사용자 또는 조직 전체에 대 한 사서함 감사를 사용 하도록 설정 하려면 원격 Powershell에서 다음 cmdlet은 실행 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="a4d66-103">To enable Mailbox Auditing for either a single user or an entire organization the following cmdlets must be run from Remote Power Shell:</span></span>
+<span data-ttu-id="8b4f0-103">단일 사용자 또는 전체 조직에 대해 사서함 감사를 사용 하도록 설정 하려면 원격 전원 셸에서 다음 cmdlet을 실행 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="8b4f0-103">To enable Mailbox Auditing for either a single user or an entire organization the following cmdlets must be run from Remote Power Shell:</span></span>
   
- <span data-ttu-id="a4d66-104">**단일 사용자**</span><span class="sxs-lookup"><span data-stu-id="a4d66-104">**Single User**</span></span>
+ <span data-ttu-id="8b4f0-104">**단일 사용자**</span><span class="sxs-lookup"><span data-stu-id="8b4f0-104">**Single User**</span></span>
   
-<span data-ttu-id="a4d66-105">Set-mailbox-Identity "Jane Dow"-AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="a4d66-105">Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true</span></span>
+<span data-ttu-id="8b4f0-105">Set-Mailbox-id "Jane Dow"-auditenabled $true</span><span class="sxs-lookup"><span data-stu-id="8b4f0-105">Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true</span></span>
   
- <span data-ttu-id="a4d66-106">**조직**</span><span class="sxs-lookup"><span data-stu-id="a4d66-106">**Organization**</span></span>
+ <span data-ttu-id="8b4f0-106">**조직**</span><span class="sxs-lookup"><span data-stu-id="8b4f0-106">**Organization**</span></span>
   
-<span data-ttu-id="a4d66-107">Get-mailbox ResultSize 무제한-Filter {RecipientTypeDetails-eq "UserMailbox"} | Set-mailbox-AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="a4d66-107">Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true</span></span>
+<span data-ttu-id="8b4f0-107">Get-Mailbox-resultsize 무제한-필터 {RecipientTypeDetails-eq "usermailbox"} | Set-Mailbox-auditenabled $true</span><span class="sxs-lookup"><span data-stu-id="8b4f0-107">Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true</span></span>
   
-[<span data-ttu-id="a4d66-108">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="a4d66-108">Learn more</span></span>](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
+[<span data-ttu-id="8b4f0-108">자세한 정보</span><span class="sxs-lookup"><span data-stu-id="8b4f0-108">Learn more</span></span>](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
   
 

@@ -1,5 +1,5 @@
 ---
-title: 다음은 CTRL + H 찾기, Excel 2016에서 바꾸지 않습니다를 표시합니다.
+title: CTRL + H를 누르면 Excel 2016에서 찾기가 아니라 찾기가 표시 됩니다.
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 6c9a90b8b0cf30df3d2a45b394275ccd8d0b19a8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0a398d2d6792e9e6af33dfe0678e40f71f6928ac
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916854"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756636"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="adb89-102">다음은 CTRL + H 찾기, Excel에서 바꾸지 않습니다를 표시합니다.</span><span class="sxs-lookup"><span data-stu-id="adb89-102">CTRL+H shows Find, not Replace in Excel</span></span>
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="a800a-102">CTRL + H를 누르면 Excel에서 찾기가 아니라 찾기가 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="a800a-102">CTRL+H shows Find, not Replace in Excel</span></span>
 
-<span data-ttu-id="adb89-p101">Excel 2016에서 CTRL + H를 찾기 및 바꾸기 대화 상자를 엽니다 및 찾기 탭을 표시, 홈 탭에서 바꾸기를 클릭 하 고 바꾸기 탭 하는 대신 동일한 작업을 수행 합니다. 이 문제는 1708 (8431.2094) 버전에서 수정 되었습니다. 이 문제를 해결 하려면 최신 버전의 Office 업데이트 합니다. **파일** 을 선택 \> **계정** \> **업데이트 옵션** \> **지금 업데이트**합니다.</span><span class="sxs-lookup"><span data-stu-id="adb89-p101">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing. This issue was fixed in version 1708 (8431.2094). To fix this, update to the latest version of Office. Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="a800a-103">Excel 2016에서 ctrl + H를 누르면 찾기 및 바꾸기 대화 상자가 열리며 바꾸기 탭이 아닌 찾기 탭이 표시 됩니다. 홈 탭에서 바꾸기를 클릭 하는 것은 동일한 작업을 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="a800a-103">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing.</span></span> <span data-ttu-id="a800a-104">이 문제는 버전 1708 (8431.2094)에서 해결 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="a800a-104">This issue was fixed in version 1708 (8431.2094).</span></span> <span data-ttu-id="a800a-105">이 문제를 해결 하려면 최신 버전의 Office로 업데이트 합니다.</span><span class="sxs-lookup"><span data-stu-id="a800a-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="a800a-106">지금 **파일** \> **계정** \> **업데이트 옵션** \> **업데이트**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="a800a-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 

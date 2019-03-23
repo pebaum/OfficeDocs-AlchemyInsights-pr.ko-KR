@@ -1,5 +1,5 @@
 ---
-title: 신용 카드 또는 은행 문 제공물을 식별 하는 방법
+title: 신용 카드 또는 은행 명세서에 대 한 요금을 파악 하는 방법
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: d349d107642ed042c8878d3703a1def89e2906d5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c698c085fc7d1d62eb5c615061198cd5395fbbab
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936978"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758544"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a><span data-ttu-id="066bd-102">신용 카드 또는 은행 문 제공물을 식별 하는 방법</span><span class="sxs-lookup"><span data-stu-id="066bd-102">How to identify a charge on your credit card or bank statement</span></span>
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a><span data-ttu-id="b9ec6-102">신용 카드 또는 은행 명세서에 대 한 요금을 파악 하는 방법</span><span class="sxs-lookup"><span data-stu-id="b9ec6-102">How to identify a charge on your credit card or bank statement</span></span>
 
-<span data-ttu-id="066bd-103">Office 365 구독에 대 한 청구 설명은 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="066bd-103">The charge description for an Office 365 subscription looks like this:</span></span>
+<span data-ttu-id="b9ec6-103">Office 365 구독에 대 한 요금 청구 설명은 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="b9ec6-103">The charge description for an Office 365 subscription looks like this:</span></span>
   
-<span data-ttu-id="066bd-104">인식기 \* E012345ABC 0000-MSBILL.INFO, WA</span><span class="sxs-lookup"><span data-stu-id="066bd-104">MSFT \* E012345ABC 0000 - MSBILL.INFO, WA</span></span>
+<span data-ttu-id="b9ec6-104">MSFT \* E012345ABC 0000-MSBILL.INFO, WA</span><span class="sxs-lookup"><span data-stu-id="b9ec6-104">MSFT \* E012345ABC 0000 - MSBILL.INFO, WA</span></span>
   
-<span data-ttu-id="066bd-p101">인식기를 수행 하는 10 개의 문자 영숫자 문자열 \* 배터리가 관련이 송장 수입니다. 를 확인 하려면 송장 [요금](https://go.microsoft.com/fwlink/p/?linkid=848039) 페이지로 이동 하거나 **대금 청구** 선택 \> **요금** 최근 청구서를 볼 수 있습니다. 송장 번호가 송장 문서 오른쪽 모서리입니다.</span><span class="sxs-lookup"><span data-stu-id="066bd-p101">The 10 character alpha-numeric string following MSFT \* is the Invoice Number the charge relates to. To find the invoice, go to the [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page, or choose **Billing** \> **Bills** to view your recent invoices. The invoice number is near the right corner of the invoice document.</span></span> 
+<span data-ttu-id="b9ec6-105">MSFT \* 다음에 나오는 10 자리 영숫자 숫자 문자열은 해당 충전량이 관련 된 송장 번호입니다.</span><span class="sxs-lookup"><span data-stu-id="b9ec6-105">The 10 character alpha-numeric string following MSFT \* is the Invoice Number the charge relates to.</span></span> <span data-ttu-id="b9ec6-106">송장을 찾으려면 [자재 명세서](https://go.microsoft.com/fwlink/p/?linkid=848039) 페이지로 이동 하거나 **대금 청구** \> **청구서** 를 선택 하 여 최근 송장을 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="b9ec6-106">To find the invoice, go to the [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page, or choose **Billing** \> **Bills** to view your recent invoices.</span></span> <span data-ttu-id="b9ec6-107">송장 번호가 송장 문서 오른쪽 모서리 부근에 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b9ec6-107">The invoice number is near the right corner of the invoice document.</span></span> 
   
 

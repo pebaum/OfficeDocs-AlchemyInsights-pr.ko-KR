@@ -1,5 +1,5 @@
 ---
-title: 하지 업그레이드를 강제 실행 합니다. 어떻게 이동 해야 합니까 다시 이전 Office 버전으로?
+title: 강제로 업그레이드 하지 마세요. 이전 Office 버전으로 돌아가려면 어떻게 해야 합니까?
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: 00ea0735d2c4ee68c290371056d02a65f07acbf1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b14b6c953a7520d248a7df5b4cbbd7e58e1c7817
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927546"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758436"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a><span data-ttu-id="574b7-p102">하지 업그레이드를 강제 실행 합니다. 어떻게 이동 해야 합니까 다시 이전 Office 버전으로?</span><span class="sxs-lookup"><span data-stu-id="574b7-p102">Don't force me to upgrade. How do I go back to the previous Office version?</span></span>
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a><span data-ttu-id="74057-103">강제로 업그레이드 하지 마세요.</span><span class="sxs-lookup"><span data-stu-id="74057-103">Don't force me to upgrade.</span></span> <span data-ttu-id="74057-104">이전 Office 버전으로 돌아가려면 어떻게 해야 합니까?</span><span class="sxs-lookup"><span data-stu-id="74057-104">How do I go back to the previous Office version?</span></span>
 
-<span data-ttu-id="574b7-p103">Office 파일을 열 때 다른 버전 하는 대신 Office 응용 프로그램의 평가판 버전 열 수 있습니다. 이 문제는 Office 365 평가판을 사용 하는 경우에 것입니다.</span><span class="sxs-lookup"><span data-stu-id="574b7-p103">When opening an Office file, the trial version of an Office app may open, instead of another version. This will happen if you have the Office 365 trial.</span></span> 
+<span data-ttu-id="74057-105">office 파일을 열면 다른 버전 대신 office 앱 평가판이 열릴 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="74057-105">When opening an Office file, the trial version of an Office app may open, instead of another version.</span></span> <span data-ttu-id="74057-106">Office 365 평가판이 있는 경우이 문제가 발생 합니다.</span><span class="sxs-lookup"><span data-stu-id="74057-106">This will happen if you have the Office 365 trial.</span></span> 
   
-<span data-ttu-id="574b7-p104">Office 365 평가판을 설치한 경우에 앱의 2016 평가판 설치 됩니다. 이 평가판 버전 Word, Excel 및 PowerPoint 파일을 열에 대 한 기본 설정이 됩니다. 예 있는 경우 Excel 2013 설치 하 고도 Office 365 평가판을 설치한 다음 Excel 2016의 평가판 버전에서 통합 문서의 열립니다 합니다.</span><span class="sxs-lookup"><span data-stu-id="574b7-p104">When you install the Office 365 trial, the 2016 trial version of the apps are installed. These trial versions become the default for opening Word, Excel, and PowerPoint files. For example, if you have Excel 2013 installed and you also installed the Office 365 trial, then your workbooks will open in the trial version of Excel 2016.</span></span> 
+<span data-ttu-id="74057-107">Office 365 평가판을 설치 하면 2016 평가판 버전의 앱이 설치 됩니다.</span><span class="sxs-lookup"><span data-stu-id="74057-107">When you install the Office 365 trial, the 2016 trial version of the apps are installed.</span></span> <span data-ttu-id="74057-108">이러한 평가판은 Word, Excel 및 PowerPoint 파일을 여는 기본 버전이 됩니다.</span><span class="sxs-lookup"><span data-stu-id="74057-108">These trial versions become the default for opening Word, Excel, and PowerPoint files.</span></span> <span data-ttu-id="74057-109">예를 들어 excel 2013이 설치 되어 있고 Office 365 평가판도 설치 되어 있는 경우 통합 문서가 Excel 2016 평가판에서 열립니다.</span><span class="sxs-lookup"><span data-stu-id="74057-109">For example, if you have Excel 2013 installed and you also installed the Office 365 trial, then your workbooks will open in the trial version of Excel 2016.</span></span> 
   
-<span data-ttu-id="574b7-p105">이 문제를 사용 하는 경우 2016 앱 [제거](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 수 하 고 이미 설치 된 앱의 이전 버전을 사용 합니다. 또는 응용 프로그램의 이전 버전을 [제거](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 하 고 Office 365에 포함 된 최신 버전으로 업그레이드 합니다.</span><span class="sxs-lookup"><span data-stu-id="574b7-p105">If you have this problem, you can [uninstall](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) the 2016 apps, and use the older versions of the apps you already have installed. Or, you can [uninstall](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) the older versions of the apps and upgrade to the newer versions included with Office 365.</span></span> 
+<span data-ttu-id="74057-110">이 문제가 발생 하는 경우 2016 앱을 [제거](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 하 고 이미 설치한 앱의 이전 버전을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="74057-110">If you have this problem, you can [uninstall](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) the 2016 apps, and use the older versions of the apps you already have installed.</span></span> <span data-ttu-id="74057-111">또는 이전 버전의 앱을 [제거](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 하 고 Office 365에 포함 된 최신 버전으로 업그레이드할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="74057-111">Or, you can [uninstall](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) the older versions of the apps and upgrade to the newer versions included with Office 365.</span></span> 
   
 

@@ -1,5 +1,5 @@
 ---
-title: 제한 및 SharePoint의 대용량 파일
+title: SharePoint의 제한 및 큰 파일
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: d78074e8719a4be6c0ddc5927c519bdf273f0bb5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 182668e057a90d80c1c52a1de449fbb365589c1f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933954"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761351"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a><span data-ttu-id="39986-102">SharePoint Online에 업로드할 수 없는 파일</span><span class="sxs-lookup"><span data-stu-id="39986-102">Files that can't be uploaded to SharePoint Online</span></span>
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a><span data-ttu-id="219ef-102">SharePoint Online에 업로드할 수 없는 파일</span><span class="sxs-lookup"><span data-stu-id="219ef-102">Files that can't be uploaded to SharePoint Online</span></span>
 
-<span data-ttu-id="39986-103">SharePoint Online에 파일을 업로드 되지 않음, 있는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="39986-103">If a file won't upload to SharePoint Online, make sure:</span></span>
+<span data-ttu-id="219ef-103">파일이 SharePoint Online에 업로드 되지 않는 경우 다음을 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="219ef-103">If a file won't upload to SharePoint Online, make sure:</span></span>
   
-- <span data-ttu-id="39986-104">15GB 보다 작은 경우</span><span class="sxs-lookup"><span data-stu-id="39986-104">It's less than 15 GB in size.</span></span>
+- <span data-ttu-id="219ef-104">크기가 15gb 미만 이어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="219ef-104">It's less than 15 GB in size.</span></span>
     
-- <span data-ttu-id="39986-105">파일 이름을 포함 한 전체 경로 미만의 400 자입니다.</span><span class="sxs-lookup"><span data-stu-id="39986-105">The entire path, including the file name, is fewer than 400 characters.</span></span>
+- <span data-ttu-id="219ef-105">파일 이름을 포함 한 전체 경로가 400 자 보다 적습니다.</span><span class="sxs-lookup"><span data-stu-id="219ef-105">The entire path, including the file name, is fewer than 400 characters.</span></span>
     
-- <span data-ttu-id="39986-p101">파일 이름 문자를 포함 하지 않습니다 " \* : \< \> ? / \ | [잘못 된 이름](https://go.microsoft.com/fwlink/?linkid=866430)목록에서 아닙니다.</span><span class="sxs-lookup"><span data-stu-id="39986-p101">The file name doesn't contain the characters " \* : \< \> ? / \ | and isn't on the list of [invalid names](https://go.microsoft.com/fwlink/?linkid=866430).</span></span>
+- <span data-ttu-id="219ef-106">파일 이름에는 " \* :? \< \></span><span class="sxs-lookup"><span data-stu-id="219ef-106">The file name doesn't contain the characters " \* : \< \> ?</span></span> <span data-ttu-id="219ef-107">/ \ | 이며 [잘못 된 이름](https://go.microsoft.com/fwlink/?linkid=866430)목록에는 없습니다.</span><span class="sxs-lookup"><span data-stu-id="219ef-107">/ \ | and isn't on the list of [invalid names](https://go.microsoft.com/fwlink/?linkid=866430).</span></span>
     
-<span data-ttu-id="39986-108">OneDrive 데스크톱 앱을 사용 하 여 파일을 업로드 하려는 경우에 [제한 사항 및 파일 및 폴더를 동기화 할 때의 제한 사항](http://go.microsoft.com/fwlink/p/?LinkID=717734) 또는 [동기화 문제를 해결 OneDrive](https://go.microsoft.com/fwlink/?linkid=866431)참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="39986-108">If you're trying to upload the file by using the OneDrive desktop app, see [Restrictions and limitations when you sync files and folders](http://go.microsoft.com/fwlink/p/?LinkID=717734) or [Fix OneDrive sync problems](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
+<span data-ttu-id="219ef-108">onedrive 데스크톱 앱을 사용 하 여 파일을 업로드 하려는 경우 파일 및 폴더를 동기화 하거나 [OneDrive 동기화 문제를 해결할](https://go.microsoft.com/fwlink/?linkid=866431) [때 제한 사항 및 제한](http://go.microsoft.com/fwlink/p/?LinkID=717734) 사항을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="219ef-108">If you're trying to upload the file by using the OneDrive desktop app, see [Restrictions and limitations when you sync files and folders](http://go.microsoft.com/fwlink/p/?LinkID=717734) or [Fix OneDrive sync problems](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
   
 

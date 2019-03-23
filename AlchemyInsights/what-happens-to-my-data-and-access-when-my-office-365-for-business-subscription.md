@@ -1,5 +1,5 @@
 ---
-title: 비즈니스 구독에 대 한 내 Office 365가 끝나면 내 데이터 및 액세스에 미치는 영향
+title: 비즈니스에 대 한 Office 365 구독이 종료 되 면 내 데이터 및 액세스에 대 한 변화
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: d53287bea39e5d7789f46a0f65d9bff3d1e22662
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 04ffe139e21ca624fe7399202a0e9816012264f8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904095"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758040"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a><span data-ttu-id="a26f1-102">비즈니스 구독에 대 한 내 Office 365가 끝나면 내 데이터 및 액세스에 미치는 영향</span><span class="sxs-lookup"><span data-stu-id="a26f1-102">What happens to my data and access when my Office 365 for business subscription ends?</span></span>
+# <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a><span data-ttu-id="5daf5-102">비즈니스에 대 한 Office 365 구독이 종료 되 면 내 데이터 및 액세스에 대 한 변화</span><span class="sxs-lookup"><span data-stu-id="5daf5-102">What happens to my data and access when my Office 365 for business subscription ends?</span></span>
 
-<span data-ttu-id="a26f1-p101">Office 365 구독을 종료 하는 경우-만료 되기 때문에 또는 취소 하기로 결정 하기 때문에-Office 365 서비스, 응용 프로그램 및 고객 데이터에 대 한 액세스가 여러 기능이 해제 완벽 하 게 되는 구독 하기 전에 상태 또는 *구축* 을 통해 이동  . 인 경우이 진행 순서를 인식 하는 경우 거 야 아주 좋음 너무 늦게 되기 전에 구독이 활성 상태로 돌아갑니다 장착 또는-Office 365를 유지 하는 경우-궁극적으로 삭제 되기 전에 데이터를 백업 합니다.</span><span class="sxs-lookup"><span data-stu-id="a26f1-p101">If your Office 365 subscription ends—either because it expires, or because you decide to cancel—your access to Office 365 services, applications, and customer data go through multiple states before the subscription is fully turned off, or  *deprovisioned*  . If you are aware of this progression, you'll be better equipped to return your subscription to an active state before it's too late, or—if you're leaving Office 365—back up your data before it is ultimately deleted.</span></span> 
+<span data-ttu-id="5daf5-103">office 365 구독이 만료 됨에 따라 종료 되거나 취소 하기로 결정 하면 office 365 서비스, 응용 프로그램 및 고객 데이터에 대 한 액세스 권한이 구독을 완전히 해제 되기 전에 여러 상태로 진행 되거나 *구축*  .</span><span class="sxs-lookup"><span data-stu-id="5daf5-103">If your Office 365 subscription ends—either because it expires, or because you decide to cancel—your access to Office 365 services, applications, and customer data go through multiple states before the subscription is fully turned off, or  *deprovisioned*  .</span></span> <span data-ttu-id="5daf5-104">이 단계를 이해 하 고 있는 경우 구독을 이전 상태로 되돌릴 것이 더 나, Office 365를 떠나는 경우 최종적으로 삭제 되기 전에 데이터를 백업 하는 것이 좋습니다.</span><span class="sxs-lookup"><span data-stu-id="5daf5-104">If you are aware of this progression, you'll be better equipped to return your subscription to an active state before it's too late, or—if you're leaving Office 365—back up your data before it is ultimately deleted.</span></span> 
   
-<span data-ttu-id="a26f1-105">실제로 구독이 만료 날짜가 도달 하면 전에 **구독에 대 한 청구 되풀이 되는 관리**하는 몇가지 옵션이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a26f1-105">Before the subscription actually reaches its expiration date, you have a few options to **Manage recurring billing for the subscription**.</span></span> 
+<span data-ttu-id="5daf5-105">구독이 실제로 만료 날짜에 도달 하기 전에 **구독에 대 한 정기 청구를 관리**하는 몇 가지 옵션을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5daf5-105">Before the subscription actually reaches its expiration date, you have a few options to **Manage recurring billing for the subscription**.</span></span> 
   
-- <span data-ttu-id="a26f1-p102">**되풀이 대금 청구** 를 이미 켜져 하는 경우에 모든 작업을 수행할 필요가 없습니다. 해당 **되풀이 대금 청구** 날짜에 구독을 결제일 하 고 청구는 추가 년 또는 월에 대 한 현재 지불 빈도 따라 키를 누릅니다. 어떤 이유로 든 하지 않도록 설정한 **대금 청구 되풀이** , 하는 경우 언제 든 지 [다시 대금 청구 되풀이 설정](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)합니다.</span><span class="sxs-lookup"><span data-stu-id="a26f1-p102">If **Recurring billing** is already turned on, you don't have to take any action. Your subscription will be billed on its **Recurring billing** date, and you'll be charged for an additional year or month, depending on your current payment frequency. If for any reason you've turned **Recurring billing** off, you can always [turn recurring billing back on](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span></span>
+- <span data-ttu-id="5daf5-106">되풀이 되는 **대금 청구** 가 이미 설정 된 경우에는 작업을 수행할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="5daf5-106">If **Recurring billing** is already turned on, you don't have to take any action.</span></span> <span data-ttu-id="5daf5-107">귀하의 구독은 해당 **정기 청구** 날짜에 청구 되며, 현재 결제 빈도에 따라 추가 연도 또는 월에 대 한 비용이 청구 됩니다.</span><span class="sxs-lookup"><span data-stu-id="5daf5-107">Your subscription will be billed on its **Recurring billing** date, and you'll be charged for an additional year or month, depending on your current payment frequency.</span></span> <span data-ttu-id="5daf5-108">**정기적으로 대금 청구** 를 해제 한 경우에는 항상 되풀이 되는 [대금 청구를 다시 켤](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5daf5-108">If for any reason you've turned **Recurring billing** off, you can always [turn recurring billing back on](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span></span>
     
-- <span data-ttu-id="a26f1-p103">선불, 1 년 구독을 있는 오픈 볼륨 라이선스 고객 인 경우 새 제품 키를 구입 하 여 파트너에 게 문의 합니다. [볼륨 라이선스 서비스 센터](https://go.microsoft.com/fwlink/p/?LinkID=282016)에서 사용자의 키를 활성화 하려면 전자 메일을 통해 지침을 받게 됩니다. 새 파트너 또는 이전에 사용한 했을 때 파트너를 찾는 방법을 알아보려면 [Office 365 파트너 또는 대리점 찾기](https://support.office.com/article/b6c18a9b-2aed-4c84-9d75-af709160258c)를 참조 합니다.</span><span class="sxs-lookup"><span data-stu-id="a26f1-p103">If you're an Open Volume Licensing customer with a prepaid, one-year subscription, contact your partner to purchase a new product key. You'll receive instructions via email to activate your key in the [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). To learn how to find a new partner, or the partner you've worked with in the past, see [Find your Office 365 partner or reseller](https://support.office.com/article/b6c18a9b-2aed-4c84-9d75-af709160258c).</span></span>
+- <span data-ttu-id="5daf5-109">1 년 동안의 선불 구독을 가진 오픈 볼륨 라이선스 고객 인 경우 파트너에 게 문의 하 여 새 제품 키를 구입 합니다.</span><span class="sxs-lookup"><span data-stu-id="5daf5-109">If you're an Open Volume Licensing customer with a prepaid, one-year subscription, contact your partner to purchase a new product key.</span></span> <span data-ttu-id="5daf5-110">[볼륨 라이선스 서비스 센터](https://go.microsoft.com/fwlink/p/?LinkID=282016)에서 전자 메일을 통해 키를 활성화 하는 지침을 받습니다.</span><span class="sxs-lookup"><span data-stu-id="5daf5-110">You'll receive instructions via email to activate your key in the [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016).</span></span> <span data-ttu-id="5daf5-111">새 파트너 또는 이전에 작업 했던 파트너를 찾는 방법에 대 한 자세한 내용은 [Office 365 파트너 또는 대리점 찾기를](https://support.office.com/article/b6c18a9b-2aed-4c84-9d75-af709160258c)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="5daf5-111">To learn how to find a new partner, or the partner you've worked with in the past, see [Find your Office 365 partner or reseller](https://support.office.com/article/b6c18a9b-2aed-4c84-9d75-af709160258c).</span></span>
     
-- <span data-ttu-id="a26f1-112">Office 365 비즈니스가 [구독에 대 한 청구 되풀이 되는 관리](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)를 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="a26f1-112">If you have Office 365 Business, see [Manage recurring billing for your subscription](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span></span>
+- <span data-ttu-id="5daf5-112">Office 365 Business가 있는 경우 [구독에 대 한 되풀이 된 청구 관리](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="5daf5-112">If you have Office 365 Business, see [Manage recurring billing for your subscription](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span></span>
     
 

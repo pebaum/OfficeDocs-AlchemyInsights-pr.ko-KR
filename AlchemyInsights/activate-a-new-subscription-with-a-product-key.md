@@ -1,5 +1,5 @@
 ---
-title: 제품 키를 가진 새 구독 활성화
+title: 제품 키를 사용 하 여 새 구독을 활성화 합니다.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: fde7f396ebf6ec827bef884e3a23ced760a64db5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0cf8eb72da415c7ec0156cec282198bd0c61ad1a
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925664"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758976"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a><span data-ttu-id="55eb8-102">제품 키를 가진 새 구독 활성화</span><span class="sxs-lookup"><span data-stu-id="55eb8-102">Activate a new subscription with a product key</span></span>
+# <a name="activate-a-new-subscription-with-a-product-key"></a><span data-ttu-id="eb3d0-102">제품 키를 사용 하 여 새 구독을 활성화 합니다.</span><span class="sxs-lookup"><span data-stu-id="eb3d0-102">Activate a new subscription with a product key</span></span>
 
-1. <span data-ttu-id="55eb8-103">새 구독 제품 키를 활성화 하려면로 이동은 [https://office.com/setupkey](https://office.com/setupkey) 페이지입니다.</span><span class="sxs-lookup"><span data-stu-id="55eb8-103">To activate a new subscription with your product key, go to the [https://office.com/setupkey](https://office.com/setupkey) page.</span></span> 
+1. <span data-ttu-id="eb3d0-103">제품 키를 사용 하 여 새 구독을 활성화 하려면 [https://office.com/setupkey](https://office.com/setupkey) 페이지로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="eb3d0-103">To activate a new subscription with your product key, go to the [https://office.com/setupkey](https://office.com/setupkey) page.</span></span> 
     
-2. <span data-ttu-id="55eb8-p101">Office 365 제품 키를 입력 하 고 지시에 따라 구독을 활성화 합니다. 정품 인증에 문제가 있으면이 [목록 일반적인 제품 키 오류 및 솔루션의](https://support.office.com/article/88d337ab-e7b1-43eb-a25e-7d6204e91099)체크아웃 합니다.</span><span class="sxs-lookup"><span data-stu-id="55eb8-p101">Enter your Office 365 product key and follow the prompts to activate your subscription. If you have problems with activation, check out this [list of common product key errors and solutions](https://support.office.com/article/88d337ab-e7b1-43eb-a25e-7d6204e91099).</span></span>
+2. <span data-ttu-id="eb3d0-104">Office 365 제품 키를 입력 하 고 화면의 지시에 따라 구독을 활성화 합니다.</span><span class="sxs-lookup"><span data-stu-id="eb3d0-104">Enter your Office 365 product key and follow the prompts to activate your subscription.</span></span> <span data-ttu-id="eb3d0-105">정품 인증에 문제가 있는 경우 이 [일반적인 제품 키 오류 및 해결 방법 목록](https://support.office.com/article/88d337ab-e7b1-43eb-a25e-7d6204e91099)을 확인하세요.</span><span class="sxs-lookup"><span data-stu-id="eb3d0-105">If you have problems with activation, check out this [list of common product key errors and solutions](https://support.office.com/article/88d337ab-e7b1-43eb-a25e-7d6204e91099).</span></span>
     
 

@@ -1,5 +1,5 @@
 ---
-title: 연결을 끊은 매핑된 드라이브
+title: 연결 되지 않은 매핑된 드라이브
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c6e78799-5baa-4e27-8def-29db01118209
-ms.openlocfilehash: 1fad381b10e6b78d1ae9028fd55e0b9ab00d2d74
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 36754d836cfe6525873ecdeb962efa5c2cb97a34
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907710"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760344"
 ---
-# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a><span data-ttu-id="6e29a-102">SharePoint 라이브러리의 네트워크 드라이브에 매핑된 네트워크 연결이</span><span class="sxs-lookup"><span data-stu-id="6e29a-102">SharePoint libraries mapped to network drives become disconnected</span></span>
+# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a><span data-ttu-id="f863e-102">네트워크 드라이브에 매핑된 SharePoint 라이브러리의 연결 해제</span><span class="sxs-lookup"><span data-stu-id="f863e-102">SharePoint libraries mapped to network drives become disconnected</span></span>
 
-<span data-ttu-id="6e29a-p101">다음은 네트워크 드라이브에 SharePoint 문서 라이브러리 매핑 (영문)는 일시적입니다. 필요에 따라 Internet Explorer에서 SharePoint 사이트를 열 하 고 세션 만료 되지 않도록 하려면 **로그인** 을 선택 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="6e29a-p101">Mapping a SharePoint document library to a network drive is temporary. You must occasionally open the SharePoint site in Internet Explorer and select **Stay signed in** to prevent the session from expiring.</span></span> 
+<span data-ttu-id="f863e-103">SharePoint 문서 라이브러리를 네트워크 드라이브에 매핑하는 것은 일시적입니다.</span><span class="sxs-lookup"><span data-stu-id="f863e-103">Mapping a SharePoint document library to a network drive is temporary.</span></span> <span data-ttu-id="f863e-104">가끔 Internet Explorer에서 SharePoint 사이트를 열고 **로그인 상태 유지** 를 선택 하 여 세션이 만료 되지 않도록 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="f863e-104">You must occasionally open the SharePoint site in Internet Explorer and select **Stay signed in** to prevent the session from expiring.</span></span> 
   
-<span data-ttu-id="6e29a-105">[도움말이 표시를 구성 하 고 매핑된 네트워크 드라이브의 문제를 해결](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx)합니다.</span><span class="sxs-lookup"><span data-stu-id="6e29a-105">[Get help configuring and troubleshooting mapped network drives](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).</span></span>
+<span data-ttu-id="f863e-105">[매핑된 네트워크 드라이브를 구성 하 고 문제를 해결 하기 위한 도움말을](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx)확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="f863e-105">[Get help configuring and troubleshooting mapped network drives](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).</span></span>
   
-<span data-ttu-id="6e29a-p102">파일 탐색기에서 [새 OneDrive 동기화 클라이언트와 SharePoint 파일을 동기화](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) [주문형 파일을](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)포함 하는 라이브러리와 함께 작동 합니다. 로컬 저장 공간을 사용 하지 않고 OneDrive에서 모든 파일에 액세스 합니다.</span><span class="sxs-lookup"><span data-stu-id="6e29a-p102">To work with a library in File Explorer, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which includes [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Access all your files in OneDrive without using local storage space.</span></span>
+<span data-ttu-id="f863e-106">파일 탐색기에서 라이브러리로 작업 하려면 SharePoint 파일을 [주문형 파일](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)을 포함 하는 [새 OneDrive 동기화 클라이언트와 동기화](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) 합니다.</span><span class="sxs-lookup"><span data-stu-id="f863e-106">To work with a library in File Explorer, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which includes [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span></span> <span data-ttu-id="f863e-107">로컬 저장소 공간을 사용 하지 않고 OneDrive의 모든 파일에 액세스 합니다.</span><span class="sxs-lookup"><span data-stu-id="f863e-107">Access all your files in OneDrive without using local storage space.</span></span>
   
 
