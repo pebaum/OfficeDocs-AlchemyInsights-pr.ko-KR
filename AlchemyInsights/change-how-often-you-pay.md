@@ -1,5 +1,5 @@
 ---
-title: 지불 하는 빈도 변경 합니다.
+title: 지불 빈도 변경
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: a39f9859b71213bd149b3bd9195f5c0439b2de3b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: af0c53ff35ea4d6f9fdf99503c26f5d7f0050dfb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925602"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766606"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="ffcea-102">지불 하는 빈도 변경 합니다.</span><span class="sxs-lookup"><span data-stu-id="ffcea-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="e7785-102">지불 빈도 변경</span><span class="sxs-lookup"><span data-stu-id="e7785-102">Change how often you pay</span></span>
 
- <span data-ttu-id="ffcea-p101">**지불 빈도 변경 하려면?** 월별 또는 매월을 연간, 연간에서 비즈니스 구독에 대 한 Office 365에 대해 지불 하는 빈도 변경 하려는 경우는 도와주는 합니다. 새 지불 주파수와 동일한 구독을 구매 하 고 이전 구독을 취소 하려면 필요 합니다. 기술 지원 엔지니어 하 고 "보겠습니다를 호출 하면" 옵션을 사용 하십시오.</span><span class="sxs-lookup"><span data-stu-id="ffcea-p101">**Want to change your payment frequency?** If you want to change how frequently you pay for your Office 365 for business subscription, either from annual to monthly or monthly to annual, we can help you with that. You'll need to purchase the same subscription with the new payment frequency and cancel the old subscription. Please use the "Let us call you" option to talk to a support engineer.</span></span> 
+ <span data-ttu-id="e7785-103">**결제 빈도를 변경 하 시겠습니까?**</span><span class="sxs-lookup"><span data-stu-id="e7785-103">**Want to change your payment frequency?**</span></span> <span data-ttu-id="e7785-104">비즈니스용 Office 365 구독에 대 한 결제 빈도를 연간에서 매월 또는 매월 이상으로 변경 하려는 경우이 작업을 지원할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="e7785-104">If you want to change how frequently you pay for your Office 365 for business subscription, either from annual to monthly or monthly to annual, we can help you with that.</span></span> <span data-ttu-id="e7785-105">새 결제 빈도로 동일한 구독을 구입 하 고 이전 구독을 취소 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="e7785-105">You'll need to purchase the same subscription with the new payment frequency and cancel the old subscription.</span></span> <span data-ttu-id="e7785-106">지원 엔지니어에 게 문의 하려면 "전화를 받을 수 있습니다." 옵션을 사용 하세요.</span><span class="sxs-lookup"><span data-stu-id="e7785-106">Please use the "Let us call you" option to talk to a support engineer.</span></span> 
   
 
