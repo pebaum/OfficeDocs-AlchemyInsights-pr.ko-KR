@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 7332650d1763e2bbd13be48f406fb04b8849a6c1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d215f3af0cf4b46b12c8cb51a9572adb00f354e4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911238"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766354"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 
- **아마도 레코드가 인터넷을 통해 업데이트 하지 않은 합니다.**
+ **레코드가 인터넷을 통해 업데이트 되지 않을 수 있습니다.**
   
 일반적으로 Microsoft에서 새 레코드를 확인하는 데 몇 분 정도면 되지만 경우에 따라 몇 시간이 걸릴 수도 있습니다. 
   
-- 이미 긴 대기한 했을 때, 복사 하 고 DNS 호스트에서 TXT 확인 레코드에 정확한 값을 붙여넣을 했을 때 있는지 다시 확인 하십시오. 일반적인 문제는 포함 하지 않는 "MS ="는 레코드의 일부입니다. 필요한는 너무!
+- 이미 기다린 적이 있는 경우 DNS 호스트의 TXT 확인 레코드에 정확한 값을 복사 하 여 붙여 넣으 했는지 다시 한 번 확인 합니다. 한 가지 일반적인 문제는 레코드의 "MS =" 부분을 포함하지 않는 경우입니다. 누락하지 않도록 주의하세요!
     
-- 일부 DNS 호스트에서 해야 (DNS 레코드가 저장 됨) 영역 파일을 저장 하기 위해 추가 단계를 수행 하 여 인터넷을 통해 업데이트 됩니다. Office 365에서 참조 하 고 레코드를 확인할 수 있도록 변경 내용을 저장 한 있는지 확인 하십시오.
+- 일부 DNS 호스트에서는 영역 파일(DNS 레코드가 저장되는 위치)이 인터넷을 통해 업데이트되도록 저장하는 추가 단계를 진행해야 합니다. Office 365에서 레코드를 보고 확인할 수 있도록 변경 내용을 저장했는지 확인하세요.
     
 

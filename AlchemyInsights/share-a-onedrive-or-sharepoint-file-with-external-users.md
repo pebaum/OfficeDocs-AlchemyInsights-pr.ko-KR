@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8f5c866b-ec51-45ea-b2da-4ce4ff551041
-ms.openlocfilehash: 3d11601bfae551561079e0780a8aaf2a74f92355
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 24bb0e8a1ad5b1ef33c57b1bcb5bed939009749c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938384"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766498"
 ---
 # <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>외부 사용자와 OneDrive 또는 SharePoint 파일 또는 폴더 공유
 
-1. 브라우저에서 파일 또는 폴더를 공유를 선택 하 고 **공유**를 클릭 한 다음 하려는로 이동 합니다.
+1. 브라우저에서 공유할 파일 또는 폴더로 이동 하 여 선택한 다음 **공유**를 클릭 합니다.
     
-2. 보내기 연결 대화 상자에서 연결의 종류를 변경 하려면 아래쪽 화살표를 클릭 합니다.
+2. 연결 보내기 대화 상자에서 아래쪽 화살표를 클릭 하 여 연결 형식을 변경 합니다.
     
-3. **가 시겠습니까이 링크에 대 한 작업**을 선택 **모든 사용자가** 링크를 공유할 수 있도록 받는 사람이 나 **특정 사용자** 에 게 제공 하는 사용자 에게만 액세스 하는 경우 지정 합니다. 
+3. **이 링크를 사용**하 여 받는 사람에 게 링크 또는 **특정 사용자** 를 공유 하 여 지정한 사용자 에게만 액세스 권한을 부여 하려면 **모든 사용자** 를 선택 합니다. 
     
-    이러한 옵션을 사용할 수 없는 경우에 조직 및 사이트 모음에 대 한 허용 되는지 확인 해야 합니다. 이 작업을 수행 하려면 [SharePoint Online에 대 한 설정 또는 해제를 공유 외부 설정](https://go.microsoft.com/fwlink/?linkid=866426)을 참조 합니다.
+    이러한 옵션을 사용할 수 없는 경우 조직 및 사이트 모음에 대 한 허용 여부를 확인 해야 합니다. 이렇게 하려면 [SharePoint Online에 대 한 외부 공유 설정 또는 해제](https://go.microsoft.com/fwlink/?linkid=866426)를 참조 하세요.
     
 4. **적용**을 클릭합니다.
     
-5. 와 공유 하려는 사용자의 이름을 입력 하 고 **보내기**를 클릭 합니다.
+5. 공유할 사용자의 이름을 입력 하 고 **보내기를**클릭 합니다.
     
 

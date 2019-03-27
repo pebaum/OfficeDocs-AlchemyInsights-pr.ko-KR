@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: c1789c2eb11241b204f069f9b8231cd51b655c4b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e437b5c029c8488589bd2636b265d09af550690c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935682"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766750"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>사용자에 게 라이선스를 할당 하는 방법
 
-사용자는 서비스에 액세스할 수 있도록 라이선스가 필요 합니다. 다음은 추가, 변경 또는 사용자에 게 서 라이선스를 제거 하는 단계입니다.
+서비스에 대 한 액세스 권한이 있는 사용자에 게 라이선스가 필요 합니다. 다음은 사용자에 게 라이선스를 추가, 변경 또는 제거 하는 단계입니다.
   
-1. 관리 센터에서 [활성 사용자](https://go.microsoft.com/fwlink/p/?linkid=834822) 페이지로 이동 하거나 **사용자** 선택 \> **활성 사용자**입니다.
+1. 관리 센터에서 [활성 사용자](https://go.microsoft.com/fwlink/p/?linkid=834822) 페이지로 이동 하거나 **사용자** \> **활성 사용자**를 선택 합니다.
     
-2. 할당, 변경 또는 라이선스를 제거 하려면 제거할 사용자의 이름 옆에 있는 상자를 선택 합니다.
+2. 라이선스를 할당, 변경 또는 제거 하려는 사용자의 이름 옆에 있는 상자를 선택 합니다.
     
 3. **제품 라이선스** 행에서 오른쪽에 있는 **편집**을 선택합니다.
     
@@ -32,10 +32,10 @@ ms.locfileid: "29935682"
     
     기본적으로 해당 라이선스와 연결된 모든 서비스가 사용자에게 자동으로 할당됩니다. 사용자가 이용할 수 있는 서비스를 제한하려면 해당 사용자가 사용하지 못하도록 하려는 서비스를 **해제** 위치로 토글합니다. 
     
-    라이선스를 제거 하려면 **해제** 위치로 표시/숨기기를 전환 합니다. 
+    라이선스를 제거 하려면 설정/ **해제** 위치로 전환 합니다. 
     
 5. **제품 라이선스** 창의 아래쪽에서 **저장** \> **닫기** \> **닫기**를 선택합니다.
     
-자세한 내용은 [비즈니스를 위한 Office 365에서 사용자에 게 라이선스를 할당](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)하 고 [비즈니스를 위한 Office 365 사용자에서 라이선스 제거](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1)를 참조 하십시오.
+자세한 내용은 [비즈니스용 office 365의 사용자에 게 라이선스 할당](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)및 [비즈니스용 office 365의 사용자](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1)에 대 한 라이선스 제거를 참조 하세요.
   
 
