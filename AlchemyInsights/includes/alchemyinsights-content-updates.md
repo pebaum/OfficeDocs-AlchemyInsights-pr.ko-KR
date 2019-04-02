@@ -21,8 +21,8 @@
 | 3/4/2019 | [1575-PowerApps 및 Microsoft Flow 계획 확장](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | 의 |
 | 3/4/2019 | [다단계 인증 사용](/AlchemyInsights/enable-multifactor-authentication) | 수정한 날짜 |
 | 3/4/2019 | [8000054 Outlook.com 저장소 제한을 초과 함](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | 더해집니다 |
-| 3/4/2019 | [423 Org Security-emailaccountcompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | 수정한 날짜 |
-| 3/4/2019 | [8000029 Outlook.com의 스팸 또는 피싱 처리](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | 수정한 날짜 |
+| 3/4/2019 | [423 조직 보안 - EmailAccountCompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | 수정한 날짜 |
+| 3/4/2019 | [8000029 Outlook.com에서 피싱 또는 스팸 처리](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | 수정한 날짜 |
 | 3/4/2019 | [도메인 제거](/AlchemyInsights/remove-domain) | 수정한 날짜 |
 | 3/4/2019 | [Office 365에 사용자 추가](/AlchemyInsights/add-users-to-office-365) | 수정한 날짜 |
 | 3/4/2019 | [사서함에 너무 많은 스팸 또는 피싱 있습니까?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | 수정한 날짜 |
@@ -31,32 +31,32 @@
 | 3/4/2019 | [Office 365 마이그레이션에 대해 가공선](/AlchemyInsights/cutover-migrations-to-office-365) | 수정한 날짜 |
 | 3/4/2019 | [전자 메일 배달에 문제가 있나요?](/AlchemyInsights/having-email-delivery-issues-0) | 수정한 날짜 |
 | 3/4/2019 | [전자 메일 배달에 문제가 있나요?](/AlchemyInsights/having-email-delivery-issues) | 수정한 날짜 |
-| 3/4/2019 | [신용 카드를 추가 하려면 어떻게 해야 합니까?](/AlchemyInsights/how-do-i-add-a-credit-card) | 수정한 날짜 |
-| 3/4/2019 | [신용 카드 정보를 업데이트 하려면 어떻게 해야 합니까?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | 수정한 날짜 |
+| 3/4/2019 | [신용 카드를 추가하려면 어떻게 해야 하나요?](/AlchemyInsights/how-do-i-add-a-credit-card) | 수정한 날짜 |
+| 3/4/2019 | [신용 카드 정보를 업데이트하려면 어떻게 하나요?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | 수정한 날짜 |
 | 3/4/2019 | [Office를 설치 하는 방법](/AlchemyInsights/how-to-install-office) | 수정한 날짜 |
 | 3/4/2019 | [IMAP에서 전자 메일 마이그레이션](/AlchemyInsights/migrate-email-from-imap) | 수정한 날짜 |
 | 3/4/2019 | [결제 옵션](/AlchemyInsights/payment-options) | 수정한 날짜 |
 | 3/4/2019 | [계정이 손상 된 경우 수행 하는 권장 단계](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | 수정한 날짜 |
-| 3/4/2019 | [너무 많은 스팸을 보내기 위해 차단 된 보낸 사람](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | 수정한 날짜 |
+| 3/4/2019 | [보낸 사람이 너무 많은 스팸을 보내 차단됨](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | 수정한 날짜 |
 | 3/4/2019 | [Dynamics 365 지원 요청 제출](/AlchemyInsights/submit-dynamics-365-support-requests) | 수정한 날짜 |
 | 3/4/2019 | [도메인이 이미 사용 중입니다.](/AlchemyInsights/the-domain-is-already-in-use) | 수정한 날짜 |
-| 3/4/2019 | [Office 365 포털에서 구매 문제를 완료 하는 데 문제가 있습니다.](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | 수정한 날짜 |
+| 3/4/2019 | [Office 365 포털에서 구입을 완료하는 데 문제가 있습니다.](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | 수정한 날짜 |
 | 3/4/2019 | [DNS 레코드 업데이트](/AlchemyInsights/update-dns-records-0) | 수정한 날짜 |
 | 3/4/2019 | [DNS 레코드 업데이트](/AlchemyInsights/update-dns-records) | 수정한 날짜 |
-| 3/4/2019 | [결제 정보 업데이트](/AlchemyInsights/update-payment-details) | 수정한 날짜 |
+| 3/4/2019 | [지불 정보 업데이트](/AlchemyInsights/update-payment-details) | 수정한 날짜 |
 | 3/4/2019 | [도메인 확인](/AlchemyInsights/verify-domain) | 수정한 날짜 |
 | 3/4/2019 | [여러 전자 메일 주소에 대 한 착신 전환 설정](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | 수정한 날짜 |
 | 3/4/2019 | [' 허용 도메인을 사용할 수 없습니다. ' 오류 해결](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | 수정한 날짜 |
 | 2019/3/6 | [1581 웹용 Outlook에서 공유 사서함 열기 및 사용](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | 수정한 날짜 |
 | 2019/3/6 | [팀 이동](/AlchemyInsights/1686-teams-shifts) | 더해집니다 |
-| 2019/3/6 | [1703 팀 및 Polycom 휴대폰에 대 한 정보가 필요 합니다.](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | 더해집니다 |
+| 2019/3/6 | [1703 팀 및 Polycom 전화에 대한 정보 필요](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | 더해집니다 |
 | 2019/3/6 | [팀 PS 모듈 설치 및 참조](/AlchemyInsights/1787-teams-ps-module-install-ref) | 더해집니다 |
-| 2019/3/6 | [615 공유 유형과이를 설정 하는 방법을 설명 합니다.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | 수정한 날짜 |
+| 2019/3/6 | [615 공유 유형 및 설정 방법.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | 수정한 날짜 |
 | 2019/3/6 | [팀 Freemium](/AlchemyInsights/997-teams-freemium) | 더해집니다 |
 | 2019/3/6 | [스팸으로 표시 되는 합법적인 메시지가 있습니까?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | 수정한 날짜 |
 | 2019/3/6 | [Microsoft 팀 사용](/AlchemyInsights/enable-microsoft-teams) | 수정한 날짜 |
 | 2019/3/6 | [팀을 학생 들에 대해 사용 하도록 설정 했습니까?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | 수정한 날짜 |
-| 2019/3/6 | [구독을 다시 활성화 하는 방법](/AlchemyInsights/how-to-reactivate-a-subscription) | 수정한 날짜 |
+| 2019/3/6 | [구독을 다시 활성화하는 방법](/AlchemyInsights/how-to-reactivate-a-subscription) | 수정한 날짜 |
 | 2019/3/6 | Intune 앱 배포-규칙 Id 991 | 제거 |
 | 2019/3/6 | [비즈니스용 Skype 문제](/AlchemyInsights/issue-with-skype-for-business) | 수정한 날짜 |
 | 2019/3/6 | [Microsoft 팀-게스트 액세스](/AlchemyInsights/microsoft-teamsguest-access) | 수정한 날짜 |
@@ -97,7 +97,7 @@
 | 3/15/2019 | [Outlook 데스크톱 전자 메일 메시지 회수 또는 교체](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | 더해집니다 |
 
 
-## <a name="week-of-march-18-2019"></a>2019 년 3 월 18 일 주
+## <a name="week-of-march-18-2019"></a>2019년 3월 18일 주중
 
 
 | 게시된 날짜 |항목 제목 | 변경 사항 |
@@ -210,7 +210,7 @@
 | 3/22/2019 | [8000002 Outlook.com에서 암호 변경](/AlchemyInsights/change-your-password-in-outlook-com) | 의 |
 | 3/22/2019 | [8000036 Outlook.com에서 프로필 이름을 변경 합니다.](/AlchemyInsights/change-your-profile-name-in-outlook-com) | 의 |
 | 3/22/2019 | [외부 사용자 액세스에 대 한 변경 내용](/AlchemyInsights/changes-to-external-user-access) | 수정한 날짜 |
-| 3/22/2019 | [Outlook.com의 8000026 변경 사항](/AlchemyInsights/changes-to-outlook-com) | 의 |
+| 3/22/2019 | [8000026 Outlook.com에 대한 변경 내용](/AlchemyInsights/changes-to-outlook-com) | 의 |
 | 3/22/2019 | [공용 폴더 사용 권한 변경](/AlchemyInsights/changing-public-folder-permissions) | 수정한 날짜 |
 | 3/22/2019 | [공유 사서함 보내기 동작 변경](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | 수정한 날짜 |
 | 3/22/2019 | [AAD id 동기화 상태 확인](/AlchemyInsights/check-aad-identity-sync-status) | 수정한 날짜 |
@@ -243,7 +243,7 @@
 | 3/22/2019 | [CTRL + H를 누르면 Excel 2016에서 찾기가 아니라 찾기가 표시 됩니다.](/AlchemyInsights/ctrl-plus-h-shows-find-not-replace-in-excel-2016) | 수정한 날짜 |
 | 3/22/2019 | [8000029 Outlook.com의 피싱 처리](/AlchemyInsights/deal-with-phishing-in-outlook-com) | 의 |
 | 3/22/2019 | [8000029 Outlook.com의 스팸 처리](/AlchemyInsights/deal-with-spam-in-outlook-com) | 의 |
-| 3/22/2019 | [8000029 Outlook.com의 스팸 또는 피싱 처리](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | 의 |
+| 3/22/2019 | [8000029 Outlook.com에서 피싱 또는 스팸 처리](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | 의 |
 | 3/22/2019 | [거절 한 신용 카드](/AlchemyInsights/declined-credit-card) | 수정한 날짜 |
 | 3/22/2019 | [8000012 Outlook.com에서 연락처 삭제](/AlchemyInsights/delete-a-contact-in-outlook-com) | 의 |
 | 3/22/2019 | [8000016 Outlook.com에서 폴더 삭제](/AlchemyInsights/delete-a-folder-in-outlook-com) | 의 |
@@ -299,10 +299,10 @@
 | 3/22/2019 | [사용자에 게 SharePoint 및 OneDrive에 대 한 액세스 권한 부여](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | 수정한 날짜 |
 | 3/22/2019 | [부가에 대 한 이해 지원 (VAT)](/AlchemyInsights/help-understanding-value-added-tax-vat) | 수정한 날짜 |
 | 3/22/2019 | [청구서 이해 지원](/AlchemyInsights/help-understanding-your-bill) | 수정한 날짜 |
-| 3/22/2019 | [신용 카드를 추가 하려면 어떻게 해야 합니까?](/AlchemyInsights/how-do-i-add-a-credit-card) | 수정한 날짜 |
+| 3/22/2019 | [신용 카드를 추가하려면 어떻게 해야 하나요?](/AlchemyInsights/how-do-i-add-a-credit-card) | 수정한 날짜 |
 | 3/22/2019 | [신용 카드 결제 방식에서 송장으로 변경 하려면 어떻게 해야 하나요?](/AlchemyInsights/how-do-i-change-from-credit-card-payments-to-invoice) | 수정한 날짜 |
 | 3/22/2019 | [신용 카드 정보를 제거 하려면 어떻게 해야 합니까?](/AlchemyInsights/how-do-i-remove-my-credit-card-information) | 수정한 날짜 |
-| 3/22/2019 | [신용 카드 정보를 업데이트 하려면 어떻게 해야 합니까?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | 수정한 날짜 |
+| 3/22/2019 | [신용 카드 정보를 업데이트하려면 어떻게 하나요?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | 수정한 날짜 |
 | 3/22/2019 | [8000056 여행 중에 Outlook.com에 액세스 하는 방법](/AlchemyInsights/how-to-access-outlook-com-while-traveling) | 의 |
 | 3/22/2019 | [라이선스를 추가 하거나 줄이는 방법](/AlchemyInsights/how-to-add-or-reduce-licenses) | 수정한 날짜 |
 | 3/22/2019 | [사용자에 게 라이선스를 할당 하는 방법](/AlchemyInsights/how-to-assign-a-license-to-a-user) | 수정한 날짜 |
@@ -329,7 +329,7 @@
 | 3/22/2019 | [비영리 사람을 위해 Office 365를 구매 하는 방법](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-0) | 수정한 날짜 |
 | 3/22/2019 | [비영리 사람을 위해 Office 365를 구매 하는 방법](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-1) | 수정한 날짜 |
 | 3/22/2019 | [비영리 사람을 위해 Office 365를 구매 하는 방법](/AlchemyInsights/how-to-purchase-office-365-for-non-profits) | 수정한 날짜 |
-| 3/22/2019 | [구독을 다시 활성화 하는 방법](/AlchemyInsights/how-to-reactivate-a-subscription) | 수정한 날짜 |
+| 3/22/2019 | [구독을 다시 활성화하는 방법](/AlchemyInsights/how-to-reactivate-a-subscription) | 수정한 날짜 |
 | 3/22/2019 | [갱신을 다시 활성화 하 고 관리 하는 방법](/AlchemyInsights/how-to-reactivate-and-manage-renewal) | 수정한 날짜 |
 | 3/22/2019 | [8000033 Outlook.com 베타에서 메시지에 회신 하거나 전달 하는 방법](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | 의 |
 | 3/22/2019 | [8000063 Mac에서 마우스 오른쪽 단추를 클릭 하는 방법](/AlchemyInsights/how-to-right-click-on-a-mac) | 의 |
@@ -384,7 +384,7 @@
 | 3/22/2019 | [SharePoint 문서 라이브러리에서 항목 이동](/AlchemyInsights/move-items-in-a-sharepoint-document-library) | 수정한 날짜 |
 | 3/22/2019 | [8000062 Outlook.com에서 폴더 이동](/AlchemyInsights/moving-a-folder-in-outlook-com) | 의 |
 | 3/22/2019 | [온라인 결제 기기에 대 한 여러 시도](/AlchemyInsights/multiple-attempts-to-charge-online-payment-instruments) | 수정한 날짜 |
-| 3/22/2019 | [1703 팀 및 Polycom 휴대폰에 대 한 정보가 필요 합니다.](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | 의 |
+| 3/22/2019 | [1703 팀 및 Polycom 전화에 대한 정보 필요](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | 의 |
 | 3/22/2019 | [122 웹에서 Outlook에 서명을 작성 해야 하나요?](/AlchemyInsights/need-to-create-a-signature-in-outlook-on-the-web) | 의 |
 | 3/22/2019 | [8000037 Outlook.com에서 전자 메일을 받지 못할 수 있습니다.](/AlchemyInsights/not-receiving-email-in-outlook-com) | 의 |
 | 3/22/2019 | [비즈니스 요금제 및 가격 책정에 대 한 Office 365](/AlchemyInsights/office-365-for-business-plans-and-pricing) | 수정한 날짜 |
@@ -400,7 +400,7 @@
 | 3/22/2019 | [탐색기에서 열기 단추를 사용할 수 없음](/AlchemyInsights/open-with-explorer-button-is-disabled) | 수정한 날짜 |
 | 3/22/2019 | [탐색기에서 열기 단추 없음](/AlchemyInsights/open-with-explorer-button-missing) | 수정한 날짜 |
 | 3/22/2019 | [탐색기에서 열기 (Explorer가 작동 하지 않음)](/AlchemyInsights/open-with-explorer-doesn-t-work) | 수정한 날짜 |
-| 3/22/2019 | [423 Org Security-emailaccountcompromised](/AlchemyInsights/org-securityemailaccountcompromised) | 의 |
+| 3/22/2019 | [423 조직 보안 - EmailAccountCompromised](/AlchemyInsights/org-securityemailaccountcompromised) | 의 |
 | 3/22/2019 | [424 조 직 보안-스팸 거짓 긍정](/AlchemyInsights/org-securityspam-false-positive) | 의 |
 | 3/22/2019 | [8000073 Outlook.com 계정 해킹-프랑스어](/AlchemyInsights/outlook-com-account-hacked-french) | 의 |
 | 3/22/2019 | [8000039 Outlook.com 계정 해킹](/AlchemyInsights/outlook-com-account-hacked) | 의 |
@@ -472,62 +472,16 @@
 | 3/22/2019 | [1488-eDiscovery-및 콘텐츠 검색 수행](/AlchemyInsights/perform-ediscovery-and-content-searches) | 의 |
 
 
-## <a name="week-of-february-18-2019"></a>2019년 2월 18일의 주
+## <a name="week-of-march-25-2019"></a>3 월 25 일 주 2019
 
 
 | 게시된 날짜 |항목 제목 | 변경 사항 |
 |------|------------|--------|
-| 2/19/2019 | [' Parameter를 찾을 수 없습니다. ' 라는 오류가 있나요?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | 수정한 날짜 |
-| 2/19/2019 | [Office 365 전자 메일 이동](/AlchemyInsights/move-email-to-office-365) | 수정한 날짜 |
-| 2/19/2019 | [삭제 된 사서함 복원](/AlchemyInsights/restore-deleted-mailbox) | 수정한 날짜 |
-| 2/21/2019 | [포털에서 Mac Office를 설치 하는 방법](/AlchemyInsights/647-how-to-install-mac-office-from-the-portal) | 의 |
-| 2/22/2019 | [1048 5.7.750 서비스를 사용할 수 없습니다. 클라이언트가 등록 되지 않은 도메인에서 보내지 못하도록 차단 됨](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | 수정한 날짜 |
-| 2/22/2019 | [125 웹용 Outlook에서 잘못 된 라이선스 오류를 가져옵니다.](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | 수정한 날짜 |
-| 2/22/2019 | [126 OWA에서 사서함 가져오기 오류를 찾을 수 없습니까?](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | 수정한 날짜 |
-| 2/22/2019 | [127 전자 메일에 액세스할 때 TenantAccessBlockedException 오류를 가져올 것인가?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | 수정한 날짜 |
-| 2/22/2019 | [128 전자 메일에 액세스할 때 TenantAccessBlockedException 오류를 가져올 것인가?](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | 수정한 날짜 |
-| 2/22/2019 | [711 메일 목록 또는 그룹 만들기](/AlchemyInsights/711-creating-a-distribution-list-or-group) | 수정한 날짜 |
-| 2/22/2019 | [912 조직의 모든 사용자에 대해 중요 받은 편지함 구성](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | 수정한 날짜 |
-| 2/22/2019 | [도메인 제거](/AlchemyInsights/remove-domain) | 수정한 날짜 |
-| 2/22/2019 | [SharePoint 사이트에 그룹 추가](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | 수정한 날짜 |
-| 2/22/2019 | [다른 전자 메일 별칭 추가](/AlchemyInsights/add-another-email-alias) | 수정한 날짜 |
-| 2/22/2019 | [O365 그룹에 연락처 추가](/AlchemyInsights/add-contacts-to-o365-group) | 수정한 날짜 |
-| 2/22/2019 | [UPN 변경](/AlchemyInsights/change-upn) | 수정한 날짜 |
-| 2/22/2019 | [공용 폴더 사용 권한 변경](/AlchemyInsights/changing-public-folder-permissions) | 수정한 날짜 |
-| 2/22/2019 | [공유 사서함 보내기 동작 변경](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | 수정한 날짜 |
-| 2/22/2019 | [AAD id 동기화 상태 확인](/AlchemyInsights/check-aad-identity-sync-status) | 수정한 날짜 |
-| 2/22/2019 | [Office 365 요금제 비교](/AlchemyInsights/compare-office-365-plans) | 수정한 날짜 |
-| 2/22/2019 | [클래식 사이트 만들기](/AlchemyInsights/create-a-classic-site) | 수정한 날짜 |
-| 2/22/2019 | [SharePoint Online에서 사이트 만들기](/AlchemyInsights/create-a-site-in-sharepoint-online) | 수정한 날짜 |
-| 2/22/2019 | [공용 폴더 만들기](/AlchemyInsights/creating-public-folders) | 수정한 날짜 |
-| 2/22/2019 | [SharePoint 사이트 삭제](/AlchemyInsights/delete-a-sharepoint-site-0) | 수정한 날짜 |
-| 2/22/2019 | [사용자에 게 SharePoint 및 OneDrive에 대 한 액세스 권한 부여](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | 수정한 날짜 |
-| 2/22/2019 | [' Parameter를 찾을 수 없습니다. ' 라는 오류가 있나요?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | 수정한 날짜 |
-| 2/22/2019 | [전자 메일 배달에 문제가 있나요?](/AlchemyInsights/having-email-delivery-issues-0) | 수정한 날짜 |
-| 2/22/2019 | [전자 메일 배달에 문제가 있나요?](/AlchemyInsights/having-email-delivery-issues) | 수정한 날짜 |
-| 2/22/2019 | [연결 하기 위해 Outlook을 실행 하는 데 문제가 있나요?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | 수정한 날짜 |
-| 2/22/2019 | [연결 하기 위해 Outlook을 실행 하는 데 문제가 있나요?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | 수정한 날짜 |
-| 2/22/2019 | [Mac 사용자에 게 Office 라이선스를 할당 하는 방법](/AlchemyInsights/how-to-assign-office-licenses-to-mac-users) | 수정한 날짜 |
-| 2/22/2019 | [Office 365 비즈니스 구독에 대 한 라이선스를 구입 하는 방법](/AlchemyInsights/how-to-buy-licenses-for-your-office-365-business-subscription) | 수정한 날짜 |
-| 2/22/2019 | [비즈니스용 OneDrive에서 저장소를 늘리는 방법](/AlchemyInsights/how-to-increase-storage-in-onedrive-for-business) | 수정한 날짜 |
-| 2/22/2019 | [구독을 다시 활성화 하는 방법](/AlchemyInsights/how-to-reactivate-a-subscription) | 수정한 날짜 |
-| 2/22/2019 | [Enterprise sku의 사서함 크기 늘리기](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | 수정한 날짜 |
-| 2/22/2019 | [SMB sku의 사서함 크기 늘리기](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | 수정한 날짜 |
-| 2/22/2019 | [사서함 크기 늘리기](/AlchemyInsights/increase-mailbox-size) | 수정한 날짜 |
-| 2/22/2019 | [비즈니스용 Skype 문제](/AlchemyInsights/issue-with-skype-for-business) | 수정한 날짜 |
-| 2/22/2019 | [동기화 된 사용자 계정 관리](/AlchemyInsights/manage-synchronized-user-accounts) | 수정한 날짜 |
-| 2/22/2019 | [OneDrive 및 SharePoint 사용 현황 및 활동 모니터링](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | 수정한 날짜 |
-| 2/22/2019 | [구독 다시 활성화](/AlchemyInsights/reactivate-a-subscription) | 수정한 날짜 |
-| 2/22/2019 | [삭제 된 OneDrive 복원](/AlchemyInsights/restore-a-deleted-onedrive) | 수정한 날짜 |
-| 2/22/2019 | [Exchange 관리 센터를 사용 하 여 Office 365 그룹 복원](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | 수정한 날짜 |
-| 2/22/2019 | [O365 Business Essentials 구독 설정](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | 수정한 날짜 |
-| 2/22/2019 | [외부 사용자와의 공유가 작동 하지 않음](/AlchemyInsights/sharing-with-external-users-isn-t-working) | 수정한 날짜 |
-| 2/22/2019 | [평가판을 찾으려고 하나요?](/AlchemyInsights/trying-to-find-a-trial) | 수정한 날짜 |
-| 2/22/2019 | [SharePoint에 대해 외부 공유 설정 또는 해제](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | 수정한 날짜 |
-| 2/22/2019 | [SharePoint에 대해 외부 공유 설정 또는 해제](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | 수정한 날짜 |
-| 2/22/2019 | [사용자 권한](/AlchemyInsights/user-permissions) | 수정한 날짜 |
-| 2/22/2019 | [어떤 경우에 대금 청구 문이 생성 됩니까?](/AlchemyInsights/when-is-the-billing-statement-generated) | 수정한 날짜 |
-| 2/22/2019 | [Office 365 도메인을 확인 하는 방법](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | 수정한 날짜 |
+| 3/25/2019 | [Outlook.com 변경 언어](/AlchemyInsights/outlook-com-change-language) | 수정한 날짜 |
+| 3/27/2019 | [SharePoint 사이트 삭제](/AlchemyInsights/delete-a-sharepoint-site) | 수정한 날짜 |
+| 3/28/2019 | SharePoint Online을 클래식 모드로 제한 | 더해집니다 |
+| 3/28/2019 | [기본 2010 승인 워크플로를 추가할 수 없음](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | 수정한 날짜 |
+| 3/28/2019 | [SharePoint Online을 클래식 모드로 제한](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | 의 |
 
 
 ## <a name="week-of-february-25-2019"></a>2019 년 2 월 25 일 주
@@ -546,7 +500,7 @@
 | 2/25/2019 | [8000015 Outlook.com의 차단 된 보낸 사람 으로부터 전자 메일 받기](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | 수정한 날짜 |
 | 2/25/2019 | [8000029 Outlook.com의 피싱 처리](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | 수정한 날짜 |
 | 2/25/2019 | [8000029 Outlook.com의 스팸 처리](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | 수정한 날짜 |
-| 2/25/2019 | [8000029 Outlook.com의 스팸 또는 피싱 처리](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | 수정한 날짜 |
+| 2/25/2019 | [8000029 Outlook.com에서 피싱 또는 스팸 처리](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | 수정한 날짜 |
 | 2/25/2019 | [8000033 Outlook.com 베타에서 메시지에 회신 하거나 전달 하는 방법](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | 수정한 날짜 |
 | 2/25/2019 | [8000034 Outlook.com의 읽음 확인](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | 수정한 날짜 |
 | 2/25/2019 | [8000036 Outlook.com에서 전자 메일 이름을 변경 합니다.](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | 수정한 날짜 |
