@@ -1,5 +1,5 @@
 ---
-title: 오류 코드 550 5.7.705 테 넌 트 임계값을 초과한, 액세스 거부
+title: 오류 코드 550 5.7.705 액세스 거부, 테 넌 트가 임계값을 초과 함
 ms.author: chrisda
 author: chrisda
 ms.date: 4/9/2018
@@ -8,15 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
-ms.openlocfilehash: 1eecc9a699a950760fd00cb96c11d167e40344f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 06c8c3e3686dbb1567551c8a727af669593285c6
+ms.sourcegitcommit: 26774fd0e24a02cc6ee2433eccbbfc27ebc9f850
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907746"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31397012"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 액세스 거부, 테 넌 트 임계값을 초과한
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 액세스 거부, 테 넌 트가 임계값을 초과 함
 
-이 메시지는 Office 365 조직에서 너무 많은 스팸 또는 대량 메일을 보낸 경우에 발생 합니다. 이 블록을 제거 하려면 이해 하 고는 지원 에이전트에 대 한 원인을 설명으로 원본으로 사용 되는 문제를 해결 해야 합니다.
-  
+이 메시지는 조직에서 스팸을 너무 많이 보내거나 대량 메일을 보내는 경우에 발생 합니다.
+일반적인 원인은 온-프레미스 서버 또는 커넥터를 만드는 데 사용 된 관리자 계정이 손상 되는 경우입니다. 두 조건 모두 스팸을 조직 전체에 전달할 수 있습니다.
+
+이 블록을 제거 하려면 근본적인 문제를 해결 하는 것은 물론 지원 에이전트에 대 한 원인을 파악 하 고 설명 해야 합니다.
+준비가 되 면 아래에서 **문의처** 를 클릭 합니다.
 
