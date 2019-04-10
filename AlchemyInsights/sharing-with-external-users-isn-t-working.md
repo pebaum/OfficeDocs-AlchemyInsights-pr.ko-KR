@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 700e6d24e49cf11bf91780895f5a796cc1d8349d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 69e290e5a13f40ad045086791189a7d0af88240b
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753432"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747604"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>외부 사용자와 SharePoint 콘텐츠를 공유 하는 문제 해결
 
@@ -28,13 +28,13 @@ ms.locfileid: "30753432"
     
 사이트에 대 한 외부 공유를 설정 했는지 확인 합니다. 클래식 사이트 모음의 경우 다음을 수행 합니다.
   
-1. 기본 SharePoint 관리 센터의 왼쪽 창에서 **사이트 모음**을 클릭 합니다.
+1. 새 SharePoint 관리 센터의 왼쪽 창에서 **사이트**를 클릭 합니다.
     
 2. 사이트 또는 사이트를 선택 하 고 리본 메뉴에서 **공유**를 클릭 합니다.
     
 Office 365 그룹 또는 커뮤니케이션 사이트에 속하는 팀 사이트의 경우:
   
-- 조직 차원의 설정에서 로그인이 필요 하지 않은 링크를 사용 하 여 파일을 공유할 수 있는 경우를 제외 하 고 이러한 새 사이트 유형은 조직 전체 설정과 동일한 공유 설정을 갖습니다. 이 경우 사이트는 로그인 하는 신규 및 기존 외부 사용자와의 공유를 허용 합니다. 특정 사이트에 대 한 설정을 변경 하려면 새 SharePoint 관리 센터 (미리 보기) 또는 PowerShell을 사용 합니다. [자세한 정보](https://go.microsoft.com/fwlink/?linkid=871863).
+- 조직 차원의 설정에서 로그인이 필요 하지 않은 링크를 사용 하 여 파일을 공유할 수 있는 경우를 제외 하 고 이러한 새 사이트 유형은 조직 전체 설정과 동일한 공유 설정을 갖습니다. 이 경우 사이트는 로그인 하는 신규 및 기존 외부 사용자와의 공유를 허용 합니다. 특정 사이트에 대 한 설정을 변경 하려면 새 SharePoint 관리 센터 또는 PowerShell을 사용 합니다. [자세한 정보](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
 > 모든 사이트에 대 한 외부 공유 설정은 조직 차원의 설정 보다 더 제한적으로 사용할 수 있지만 조직 전체 설정 보다는 허용이 더 이상 가능 하지 않습니다. 

@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 1490255d19a6eb62403f9c923438579b6a29480b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 22da75a32e3ac0415e1196f8a6b2fd62b41f875d
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922779"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747892"
 ---
 # <a name="manage-search-dictionaries"></a>검색 디렉터리 관리
 
-검색의에서 사전은 SharePoint 온라인 클래식 SharePoint Online 관리 센터에 있는 SharePoint Online 용어 저장소에서 관리 됩니다. 추가 또는 검색 사전을 편집 하는 방법에 대 한 자세한 내용은 [Manage 검색 사전](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)을 참조 하십시오.
+sharepoint online의 검색 사전은 새 sharepoint 관리 센터에 있는 sharepoint online 용어 저장소에서 관리 됩니다. 검색 사전을 추가 하거나 편집 하는 방법에 대 한 자세한 내용은 [검색 사전 관리](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)를 참조 하십시오.
   
-검색 사전의 용어 집합으로 표시 되지 않으면 용어 저장소에 표시 되는, 24 시간 동안 기다리십시오. 여전히 24 시간 후 나타나지 않는 사전 지원 티켓 로그 하십시오.
+용어 저장소에 검색 사전 용어 집합이 표시 되지 않으면 24 시간을 기다려 주세요. 24 시간 후에도 사전이 나타나지 않으면 지원 티켓을 기록 하세요.
   
 

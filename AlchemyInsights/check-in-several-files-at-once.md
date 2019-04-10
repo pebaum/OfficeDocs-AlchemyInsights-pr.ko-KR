@@ -1,5 +1,5 @@
 ---
-title: 한번에 여러 파일을 체크인
+title: 여러 파일을 한 번에 체크 인
 ms.author: kirks
 author: Techwriter40
 ms.date: 9/17/2018
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 525ea95aa8925696a72fb9c006506df92044ea7a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 76d234e4a5c0ea69fcb9c5f529568c192d00d3c0
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940794"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747460"
 ---
-# <a name="check-in-several-files-at-once"></a>한번에 여러 파일을 체크인
+# <a name="check-in-several-files-at-once"></a>여러 파일을 한 번에 체크 인
 
-여러 폴더에 있는 여러 파일을 확인 하려면 **보기 편집** 페이지에서 **폴더** 에서 **폴더 구조 없이 모든 항목을 표시** 를 선택 합니다. 
+여러 폴더에 있는 여러 파일을 체크 인하려면 **보기 편집** 페이지의 **폴더** 아래에 있는 **모든 항목을 폴더에 표시** 를 선택 합니다. 
   
- **참고**: SharePoint Online 및 Office 365의 현재 수 없도록 여러 파일 현대 모드를 사용 하 여 검사 합니다. 빠른 실행 표시줄의 왼쪽 하단에서 **클래식 SharePoint** 클릭 하 여 클래식 경험을 사용 합니다. 
+ **참고**: SharePoint Online 및 Office 365은 현재 최신 모드로 체크 인할 때 여러 파일을 허용 하지 않습니다. 
   
-체크 인/체크 아웃, 하는 방법에 대 한 자주 묻는 질문 참조 [체크아웃, 체크인, 하는 방법에 대 한 상위 질문 및 버전을](https://go.microsoft.com/fwlink/?linkid=2018786)참조 하십시오.
+체크 인/체크 아웃에 대 한 질문과 대답을 확인 하 고, [체크 아웃, 체크 인 및 버전에 대 한 주요 사항을](https://go.microsoft.com/fwlink/?linkid=2018786)참조 하세요.
   
 

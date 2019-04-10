@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: a6e6d95f79b058326255f480b1f72ceb8d94bfd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 450b416b5e0635bb8868f7eaf8296930af68f1a5
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761207"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747316"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>SharePoint 또는 OneDrive 저장소 관리
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761207"
   
 대부분의 조직에서 SharePoint 저장소는 자동으로 관리 되므로 사이트 모음 당 제한을 설정할 필요가 없습니다. 보유 하 고 있는 SharePoint 저장소의 크기를 확인 하려면 다음을 수행 합니다.
   
-- 기본 SharePoint 관리 센터의 사이트 모음 페이지 오른쪽 위에 있는 사용 가능한 저장소와 전체 저장을 찾습니다.
+- 새 SharePoint 관리 센터의 사이트 페이지 오른쪽 위에 있는 사용 가능한 저장소와 전체 저장을 찾습니다.
     
 제한이 계산 되는 방법에 대 한 자세한 내용은 [SharePoint Online 제한을](https://go.microsoft.com/fwlink/p/?LinkID=856113)참조 하세요. 추가 저장소를 구입 하려면 [구독에 대 한 저장소 공간 변경을](https://go.microsoft.com/fwlink/?linkid=866428)참조 하세요.
   

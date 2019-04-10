@@ -202,7 +202,7 @@
 | 3/22/2019 | [SharePoint 목록 또는 라이브러리에 대 한 사용 권한 변경](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | 수정한 날짜 |
 | 3/22/2019 | [8000036 Outlook.com에서 그림 변경](/AlchemyInsights/change-picture-in-outlook-com) | 의 |
 | 3/22/2019 | [8000006 Outlook.com에서 프로필 이름 변경](/AlchemyInsights/change-profile-name-in-outlook-com) | 의 |
-| 3/22/2019 | [청구 알림에 대 한 대체 전자 메일 주소 변경](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | 수정한 날짜 |
+| 3/22/2019 | [청구 알림에 대한 대체 전자 메일 주소 변경](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | 수정한 날짜 |
 | 3/22/2019 | [Office 365 그룹에 대 한 도메인 변경](/AlchemyInsights/change-the-domain-for-group) | 수정한 날짜 |
 | 3/22/2019 | [8000041 Outlook.com 사서함의 모양 변경](/AlchemyInsights/change-the-look-of-your-outlook-com-mailbox) | 의 |
 | 3/22/2019 | [UPN 변경](/AlchemyInsights/change-upn) | 수정한 날짜 |
@@ -484,55 +484,23 @@
 | 3/28/2019 | [SharePoint Online을 클래식 모드로 제한](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | 의 |
 
 
-## <a name="week-of-february-25-2019"></a>2019 년 2 월 25 일 주
+## <a name="week-of-april-01-2019"></a>2019 년 4 월 1 일 주
 
 
 | 게시된 날짜 |항목 제목 | 변경 사항 |
 |------|------------|--------|
-| 2/25/2019 | [1800014 Outlook 모바일 앱에 대 한 앱 내 지원 가져오기](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | 수정한 날짜 |
-| 2/25/2019 | [1800014 Outlook 모바일 앱에서 전자 메일 설정](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | 수정한 날짜 |
-| 2/25/2019 | [8000001 중요 받은 편지함 해제](/AlchemyInsights/8000001-turn-off-focused-inbox) | 수정한 날짜 |
-| 2/25/2019 | [8000009 Outlook.com에 폴더 만들기](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | 수정한 날짜 |
-| 2/25/2019 | [8000012 Outlook.com에서 연락처 삭제](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | 수정한 날짜 |
-| 2/25/2019 | [8000013 Outlook.com의 글꼴 변경](/AlchemyInsights/8000013-change-font-in-outlook-com) | 수정한 날짜 |
-| 2/25/2019 | [8000014 Outlook.com에서 언어를 변경 하는 방법](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | 수정한 날짜 |
-| 2/25/2019 | [8000015 발신자 차단 또는 차단 해제](/AlchemyInsights/8000015-block-or-unblock-senders) | 수정한 날짜 |
-| 2/25/2019 | [8000015 Outlook.com의 차단 된 보낸 사람 으로부터 전자 메일 받기](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | 수정한 날짜 |
-| 2/25/2019 | [8000029 Outlook.com의 피싱 처리](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | 수정한 날짜 |
-| 2/25/2019 | [8000029 Outlook.com의 스팸 처리](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | 수정한 날짜 |
-| 2/25/2019 | [8000029 Outlook.com에서 피싱 또는 스팸 처리](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | 수정한 날짜 |
-| 2/25/2019 | [8000033 Outlook.com 베타에서 메시지에 회신 하거나 전달 하는 방법](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | 수정한 날짜 |
-| 2/25/2019 | [8000034 Outlook.com의 읽음 확인](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | 수정한 날짜 |
-| 2/25/2019 | [8000036 Outlook.com에서 전자 메일 이름을 변경 합니다.](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | 수정한 날짜 |
-| 2/25/2019 | [8000046 전자 메일 및 일정 인쇄 Outlook.com](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | 수정한 날짜 |
-| 2/25/2019 | [8000047 Outlook.com에서 전자 메일 서명을 만드는 방법](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | 수정한 날짜 |
-| 2/25/2019 | [8000052 Outlook.com에서 파일 첨부](/AlchemyInsights/8000052-attach-files-in-outlook-com) | 수정한 날짜 |
-| 2/25/2019 | [8000059 테마 작업 (FMS)을 변경 하는 방법](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | 수정한 날짜 |
-| 2/25/2019 | [계정이 손상 된 경우 수행 하는 권장 단계](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | 수정한 날짜 |
-| 2/26/2019 | [삭제 된 Office 365 그룹 복원](/AlchemyInsights/restore-a-deleted-office-365-group) | 수정한 날짜 |
-| 2/26/2019 | [9000215 Outlook.com 구독](/AlchemyInsights/9000215-outlook-com-subscriptions) | 더해집니다 |
-| 2/27/2019 | [9000199 PST 파일 Outlook.com](/AlchemyInsights/9000199-outlook-com-read-pst-files) | 더해집니다 |
-| 2/27/2019 | [9000202 Outlook.com 옵션](/AlchemyInsights/9000202-outlook-com-options) | 더해집니다 |
-| 2/27/2019 | [9000203 Outlook.com 필터](/AlchemyInsights/9000203-outlook-com-filters) | 더해집니다 |
-| 2/28/2019 | [8000036 Outlook.com에서 프로필 pic/이름 변경](/AlchemyInsights/8000036-6-outlook-com-update-profile) | 더해집니다 |
-| 2/28/2019 | [8000049 Outlook.com에 Skype 아이콘이 누락 됨](/AlchemyInsights/8000049-2-outlook-com-skype-button) | 더해집니다 |
-| 2/28/2019 | [8000088 전자 메일을 Outlook.com에 저장](/AlchemyInsights/8000088-outlook-com-save-emails) | 더해집니다 |
-| 2/28/2019 | [9000071 Mac에서 @ 기호를 입력할 수 없음](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | 더해집니다 |
-| 2/28/2019 | [9000193 Outlook.com에서 이동 또는 삭제 취소](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | 더해집니다 |
-| 2/28/2019 | [9000198 Outlook.com 일정 베타](/AlchemyInsights/9000198-outlook-com-calendar-beta) | 더해집니다 |
-| 3/1/2019 | [8000035 Outlook.com 베타에서 클래식 Outlook.com로 롤백하는 요청](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | 더해집니다 |
-| 3/1/2019 | [8000035 새 Outlook.com를 이전 항목 처럼 보이도록 설정 하는 방법](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | 더해집니다 |
-| 3/1/2019 | [Outlook.com에 대 한 8000043 POP, IMAP 및 SMTP 설정](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | 더해집니다 |
-| 3/1/2019 | [8000090 Outlook.com 모두 선택](/AlchemyInsights/8000090-outlook-com-select-all) | 더해집니다 |
-| 3/1/2019 | [8000091 Outlook.com 응답 팝업](/AlchemyInsights/8000091-outlook-com-react-pop-up) | 더해집니다 |
-| 3/1/2019 | [8000092 Outlook.com 메시지 원본 보기](/AlchemyInsights/8000092-outlook-com-view-message-source) | 더해집니다 |
-| 3/1/2019 | [8000093 Outlook.com 연결 된 계정 사용 권한](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | 더해집니다 |
-| 3/1/2019 | [Mac의 1800009outlook for app 지원](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | 수정한 날짜 |
-| 3/1/2019 | [Outlook.com의 8000057 안전한 링크](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | 수정한 날짜 |
-| 3/1/2019 | [9000232 Outlook.com 주소록](/AlchemyInsights/9000232-outlook-com-address-book) | 더해집니다 |
-| 3/1/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/9000233-outlook-com-pin) | 더해집니다 |
-| 3/1/2019 | [9000234 Outlook.com 내부 서버 오류](/AlchemyInsights/9000234-outlook-com-internal-server-error) | 더해집니다 |
-| 3/1/2019 | [9000236 Outlook.com 계정 추가](/AlchemyInsights/9000236-outlook-com-add-account) | 더해집니다 |
-| 3/1/2019 | [9000238 Outlook.com 별칭 추가](/AlchemyInsights/9000238-outlook-com-add-alias) | 더해집니다 |
-| 3/1/2019 | [9000239 Outlook.com 전달](/AlchemyInsights/9000239-outlook-com-forwarding) | 더해집니다 |
-| 3/1/2019 | [9000240 Outlook.com 응답](/AlchemyInsights/9000240-outlook-com-replies) | 더해집니다 |
+| 4/1/2019 | [SharePoint, OneDrive 및 Microsoft 팀에 Office 365 ATP 사용](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | 더해집니다 |
+| 4/1/2019 | [Office 365 ATP (Advanced Threat Protection) 설정](/AlchemyInsights/office-365-atp-setup) | 더해집니다 |
+| 4/1/2019 | [9000071 Mac에서 @ 기호를 입력할 수 없음](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | 의 |
+| 4/1/2019 | [Exchange 관리 센터를 사용하여 Office 365 그룹 복원](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | 수정한 날짜 |
+| 4/1/2019 | [Office 365 ATP (Advanced Threat Protection) 관련 문제 해결](/AlchemyInsights/troubleshoot-issues-office-365-atp) | 더해집니다 |
+| 4/2/2019 | Office 365의 분류 레이블 | 더해집니다 |
+| 4/2/2019 | DLP (데이터 손실 방지) 개요 | 더해집니다 |
+| 4/2/2019 | SharePoint 용 데스크톱 앱 | 더해집니다 |
+| 4/2/2019 | 허브 사이트 제한 및 제한 사항 | 더해집니다 |
+| 4/2/2019 | OneDrive: 파일 또는 폴더가 누락 됨 | 더해집니다 |
+| 4/2/2019 | 사이트 또는 목록을 서식 파일로 저장 | 더해집니다 |
+| 4/2/2019 | SharePoint 허브 사이트 개요 | 더해집니다 |
+| 4/2/2019 | 제거 된 사이트 및 콘텐츠 구조 | 더해집니다 |
+| 4/2/2019 | 오류 404 문제 해결-파일을 찾을 수 없음 | 더해집니다 |
+| 4/3/2019 | [오류 코드 550 5.7.705 액세스 거부, 테 넌 트가 임계값을 초과 함](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | 수정한 날짜 |
