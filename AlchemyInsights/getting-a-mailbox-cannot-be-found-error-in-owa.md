@@ -11,21 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 126
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 0b9babe33ceec76561bc4d9ca3564b51b0f5531b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: fe8119c300e99170da4f338f2420b1229ab24bea
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773637"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858426"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a><span data-ttu-id="e305f-102">웹용 Outlook에서 사서함을 찾을 수 없음 오류가 발생 했습니까?</span><span class="sxs-lookup"><span data-stu-id="e305f-102">Getting a mailbox not found error in Outlook on the web?</span></span>
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a><span data-ttu-id="cb52b-102">웹용 Outlook에서 사서함을 찾을 수 없음 오류가 발생 했습니까?</span><span class="sxs-lookup"><span data-stu-id="cb52b-102">Getting a mailbox not found error in Outlook on the web?</span></span>
 
-<span data-ttu-id="e305f-103">웹에서 outlook을 사용 하는 경우 오류 **에 대해 사서함을 찾을 수** 없는 경우에는 웹에서 outlook에 연결 하는 데 사용한 계정에 Exchange Online 라이선스가 없으며, 따라서 해당 계정과 연결 된 사서함이 없습니다.</span><span class="sxs-lookup"><span data-stu-id="e305f-103">If you're using Outlook on the web and you get a **Mailbox couldn't be found for** error, the account that you used to connect to Outlook on the web doesn't have an Exchange Online license and therefore, no mailbox is associated with the account.</span></span> <span data-ttu-id="e305f-104">관리자는 다음 단계를 수행 하 여 사용자 계정에 라이선스를 할당할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="e305f-104">Your admin can assign a license to your account by following these steps:</span></span> 
-  
-1. <span data-ttu-id="e305f-105">[Microsoft 365 관리 센터](https://portal.office.com/adminportal/home#/homepage) 를 열고 **활성 사용자**에서 **사용자 편집**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e305f-105">Open the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) and under **Active users**, select **Edit a user**.</span></span>
-    
-2. <span data-ttu-id="e305f-106">**사용자 편집** 페이지가 열리면 해당 사용자를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e305f-106">In the **Edit a user** page that opens, select the user.</span></span> <span data-ttu-id="e305f-107">사용자 속성 페이지가 열리면 **제품 라이선스**에 대 한 **편집** 을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="e305f-107">In the user properties page that opens, click **Edit** for **Product licenses**.</span></span>
-    
-3. <span data-ttu-id="e305f-108">**제품 라이선스** 페이지가 열리면 적절 한 **위치** 값을 선택 하 고 Exchange Online이 포함 된 라이선스 (세부 정보를 보려면 라이선스 확장)를 할당 합니다.</span><span class="sxs-lookup"><span data-stu-id="e305f-108">In the **Product licenses** page that opens, select the appropriate **Location** value, and assign a license that contains Exchange Online (expand the license to see its details).</span></span> <span data-ttu-id="e305f-109">작업을 마쳤으면 **저장**을 클릭합니다.</span><span class="sxs-lookup"><span data-stu-id="e305f-109">When you're finished, click **Save**.</span></span>
-    
+<span data-ttu-id="cb52b-103">웹에서 outlook을 사용 하는 경우 오류 **에 대해 사서함을 찾을 수** 없는 경우에는 웹에서 outlook에 연결 하는 데 사용한 계정에 Exchange Online 라이선스가 없으며, 따라서 해당 계정과 연결 된 사서함이 없습니다.</span><span class="sxs-lookup"><span data-stu-id="cb52b-103">If you're using Outlook on the web and you get a **Mailbox couldn't be found for** error, the account that you used to connect to Outlook on the web doesn't have an Exchange Online license and therefore, no mailbox is associated with the account.</span></span> <span data-ttu-id="cb52b-104">관리자는 다음 단계를 수행 하 여 사용자 계정에 라이선스를 할당할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="cb52b-104">Your admin can assign a license to your account by following these steps:</span></span>
 
+1. <span data-ttu-id="cb52b-105">[Microsoft 365 관리 센터](https://portal.office.com/adminportal/home#/homepage) 를 열고 **활성 사용자**에서 **사용자 편집**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="cb52b-105">Open the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) and under **Active users**, select **Edit a user**.</span></span>
+
+2. <span data-ttu-id="cb52b-106">**사용자 편집** 페이지가 열리면 해당 사용자를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="cb52b-106">In the **Edit a user** page that opens, select the user.</span></span> <span data-ttu-id="cb52b-107">사용자 속성 페이지가 열리면 **제품 라이선스**에 대 한 **편집** 을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="cb52b-107">In the user properties page that opens, click **Edit** for **Product licenses**.</span></span>
+
+3. <span data-ttu-id="cb52b-108">**제품 라이선스** 페이지가 열리면 적절 한 **위치** 값을 선택 하 고 Exchange Online이 포함 된 라이선스 (세부 정보를 보려면 라이선스 확장)를 할당 합니다.</span><span class="sxs-lookup"><span data-stu-id="cb52b-108">In the **Product licenses** page that opens, select the appropriate **Location** value, and assign a license that contains Exchange Online (expand the license to see its details).</span></span> <span data-ttu-id="cb52b-109">작업을 마쳤으면 **저장**을 클릭합니다.</span><span class="sxs-lookup"><span data-stu-id="cb52b-109">When you're finished, click **Save**.</span></span>
