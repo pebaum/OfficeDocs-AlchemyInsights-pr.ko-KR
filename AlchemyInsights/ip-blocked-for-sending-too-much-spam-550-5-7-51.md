@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
-ms.openlocfilehash: 3c5d18b805375c25f7e46e50c3d3cb428265ec4f
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: d2d92a15a1863f0c4625fd363096fbfd0582a467
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30777557"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859470"
 ---
 # <a name="access-denied-banned-sender"></a>액세스 거부, 금지 된 보낸 사람
 
- **오류**: 원격 서버에서 RCPT to command에 대 한 SMTP 오류가 발생 했습니다. 호스트: *xxxx* -com.mail.protection.outlook.com ( *xxx.xxx.xxx.xxx* ) 이유: 550 5.7.511 액세스 거부, 금지 된 보낸 사람 [ *xx.xxx.x.xxx* ]. 
-  
-Office 365 받는 사람에 게 전자 메일을 보낼 때이 오류가 발생 하는 경우 수신 거부 목록에서 해당 계정을 제거 [https://sender.office.com](https://sender.office.com)합니다.
-  
+ **오류**: 원격 서버에서 RCPT to command에 대 한 SMTP 오류가 발생 했습니다. 호스트: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) 이유: 550 5.7.511 액세스 거부, 금지 된 보낸 사람 [*xx.xxx.x.xxx*]. 
 
+Office 365 받는 사람에 게 전자 메일을 보낼 때이 오류가 발생 하는 경우 수신 거부 목록에서 해당 계정을 제거 [https://sender.office.com](https://sender.office.com)합니다.

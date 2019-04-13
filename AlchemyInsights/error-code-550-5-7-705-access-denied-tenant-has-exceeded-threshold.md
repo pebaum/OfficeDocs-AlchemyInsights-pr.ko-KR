@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
-ms.openlocfilehash: 06c8c3e3686dbb1567551c8a727af669593285c6
-ms.sourcegitcommit: 26774fd0e24a02cc6ee2433eccbbfc27ebc9f850
+ms.openlocfilehash: af84ef9cb3c9ed425b35d884ffaf4dcb94bff565
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/03/2019
-ms.locfileid: "31397012"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858930"
 ---
 # <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 액세스 거부, 테 넌 트가 임계값을 초과 함
 
@@ -22,4 +22,3 @@ ms.locfileid: "31397012"
 
 이 블록을 제거 하려면 근본적인 문제를 해결 하는 것은 물론 지원 에이전트에 대 한 원인을 파악 하 고 설명 해야 합니다.
 준비가 되 면 아래에서 **문의처** 를 클릭 합니다.
-
