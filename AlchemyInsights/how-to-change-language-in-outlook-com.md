@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000014
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 77e9a6f21702189aa7ec4b56323b92eb0766bd08
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: ca05449dcda6dd857c7f81be17bb6fd6335af693
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30775492"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903670"
 ---
 # <a name="change-your-language"></a>언어 변경
 
-1. 오른쪽 위 모서리에서 **설정** \> **옵션**을 선택 합니다.
+1. 오른쪽 위 모서리에서 **설정** \> **모든 Outlook 설정 보기**를 선택 합니다.
     
-2. **옵션**에서 **일반** \> **영역 및 표준 시간대**를 선택 합니다.
+2. **일반**에서 [**언어 및 시간**](https://outlook.live.com/mail/options/general/timeAndLanguage)을 선택 합니다.
     
-3. **지역 및 표준 시간대 설정**에서 해당 언어를 선택 합니다.
+3. 언어를 선택 합니다.
     
 4. **저장**을 선택합니다.
     

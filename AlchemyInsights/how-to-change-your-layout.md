@@ -10,15 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000059
 ms.assetid: 8ea65090-8e05-4ab8-a30c-3bb6db6b75dd
-ms.openlocfilehash: 4b76cc006933a266d51ad06f6f5d2cf1a460a840
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7e28c8593639a759876f2a91c7d6ffefdeef77a4
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30781582"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903634"
 ---
 # <a name="how-to-change-your-layout"></a>레이아웃을 변경 하는 방법
 
-Outlook.com에서 설정을 변경 하 여 원하는 방식으로 모양과 동작을 수행할 수 있습니다. 도구 모음에서 **설정을** 선택 하 여 선택 사항을 확인 합니다. 
+Outlook.com에서 설정을 변경 하 여 원하는 방식으로 모양과 동작을 수행할 수 있습니다. 가장 많이 사용 하는 옵션에 대해 도구 모음에서 **설정을** 선택 합니다. 
+
+모든 레이아웃 옵션을 보려면 **설정** > **메일** > [**레이아웃**](https://outlook.live.com/mail/options/mail/layout)을 선택 합니다. 
   
 
