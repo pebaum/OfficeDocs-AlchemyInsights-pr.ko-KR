@@ -1,5 +1,5 @@
 ---
-title: Android 장치 Microsoft Intune에 등록 된 문제를 해결
+title: Microsoft Intune에서 Android 장치 등록 시 발생 하는 문제 해결
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,36 +10,36 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.openlocfilehash: 0e727bd47a7d549a439e4666fa9dbb8a02e39778
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939354"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420598"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a><span data-ttu-id="1d11a-102">Android 장치 Microsoft Intune에 등록 된 문제를 해결</span><span class="sxs-lookup"><span data-stu-id="1d11a-102">Troubleshoot issues with enrolling Android devices in Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a><span data-ttu-id="1c426-102">Microsoft Intune에서 Android 장치 등록 시 발생 하는 문제 해결</span><span class="sxs-lookup"><span data-stu-id="1c426-102">Troubleshoot issues with enrolling Android devices in Microsoft Intune</span></span>
 
-<span data-ttu-id="1d11a-103">이제 문제를 해결 하려면 아래에 나열 된 리소스를 검토 합니다.</span><span class="sxs-lookup"><span data-stu-id="1d11a-103">Review the resources listed below to resolve your issue now.</span></span>
+<span data-ttu-id="1c426-103">아래에 나열 된 리소스를 검토 하 여 지금 문제를 해결 하세요.</span><span class="sxs-lookup"><span data-stu-id="1c426-103">Review the resources listed below to resolve your issue now.</span></span>
   
-<span data-ttu-id="1d11a-104">일부 일반적인 문제 및 해결 방법 단계:</span><span class="sxs-lookup"><span data-stu-id="1d11a-104">Some common issues and resolution steps:</span></span>
+<span data-ttu-id="1c426-104">몇 가지 일반적인 문제점과 해결 단계는 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="1c426-104">Some common issues and resolution steps:</span></span>
   
- <span data-ttu-id="1d11a-p101">**장치는 회사 포털에서 오류를 암호화 되지 않으므로:** V 7.0로 시작 하 여 특히 Android의 최신 버전에는 장치 완벽 하 게 암호화 되 고 있는지 확인 하려면 시작 암호가 필요 합니다. 일반적인 솔루션 시작 pin을 사용 하도록 설정 하거나 장치를 완벽 하 게 암호화 됩니다. 자세한 내용은 [이 문서](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) 검토 합니다.</span><span class="sxs-lookup"><span data-stu-id="1d11a-p101">**Device not Encrypted error in Company Portal:** Newer versions of Android, particularly starting with v7.0, require a startup passcode to make sure that your device is fully encrypted. Common solutions are to enable a startup pin or fully encrypt the device. Review [this document](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) for more information.</span></span> 
+ <span data-ttu-id="1c426-105">**회사 포털에서 장치가 암호화 되지 않음 오류:** 최신 버전의 Android (특히 v 7.0부터 시작 하는 경우)에는 시작 암호를 지정 하 여 장치가 완전히 암호화 되었는지 확인 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="1c426-105">**Device not Encrypted error in Company Portal:** Newer versions of Android, particularly starting with v7.0, require a startup passcode to make sure that your device is fully encrypted.</span></span> <span data-ttu-id="1c426-106">일반적인 해결 방법은 시작 pin을 사용 하거나 장치를 완전히 암호화 하는 것입니다.</span><span class="sxs-lookup"><span data-stu-id="1c426-106">Common solutions are to enable a startup pin or fully encrypt the device.</span></span> <span data-ttu-id="1c426-107">자세한 내용을 보려면 [이 문서](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) 를 검토 하십시오.</span><span class="sxs-lookup"><span data-stu-id="1c426-107">Review [this document](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) for more information.</span></span> 
   
- <span data-ttu-id="1d11a-p102">**Intune 서비스를 사용 하 여 확인 하거나 Intune 관리 콘솔에서 "비정상적인"으로 표시 하려면 장치 실패:** 일부 삼성 4.4 및 5.5 장치 수는 서비스로 확인 하지 않습니다. 이 문제를 3 해결할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1d11a-p102">**Devices fail to check in with the Intune service or display as "Unhealthy" in the Intune admin console:** Some Samsung 4.4 and 5.5 devices may not check into the service. There are 3 possible solutions to this issue:</span></span> 
+ <span data-ttu-id="1c426-108">**장치가 intune 관리 콘솔에서 intune 서비스와 함께 또는 "비정상"으로 표시 되지 않습니다.** 일부 Samsung 4.4 및 5.5 장치는 서비스에 대 한 검사를 수행할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="1c426-108">**Devices fail to check in with the Intune service or display as "Unhealthy" in the Intune admin console:** Some Samsung 4.4 and 5.5 devices may not check into the service.</span></span> <span data-ttu-id="1c426-109">이 문제에는 다음과 같은 세 가지 방법을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1c426-109">There are 3 possible solutions to this issue:</span></span> 
   
-1. <span data-ttu-id="1d11a-110">수동으로 자동으로 장치 동기화를 시작 하는 Intune 회사 포털 응용 프로그램을 엽니다.</span><span class="sxs-lookup"><span data-stu-id="1d11a-110">Manually open the Intune Company Portal app, which will automatically initiate a device sync.</span></span>
+1. <span data-ttu-id="1c426-110">Intune 회사 포털 앱을 수동으로 열면 장치 동기화가 자동으로 시작 됩니다.</span><span class="sxs-lookup"><span data-stu-id="1c426-110">Manually open the Intune Company Portal app, which will automatically initiate a device sync.</span></span>
     
-2. <span data-ttu-id="1d11a-111">Android 6.0 이상 장치를 업데이트 합니다.</span><span class="sxs-lookup"><span data-stu-id="1d11a-111">Update the device to Android 6.0 or higher.</span></span>
+2. <span data-ttu-id="1c426-111">장치를 Android 6.0 이상으로 업데이트 합니다.</span><span class="sxs-lookup"><span data-stu-id="1c426-111">Update the device to Android 6.0 or higher.</span></span>
     
-3. <span data-ttu-id="1d11a-p103">Intune 회사 포털 관리에서 삼성 스마트 관리자를 사용 하지 않도록 설정 합니다. 이러한 문제 및 해결 방법에 대 한 자세한 내용이 [은이 문서](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) 검토 합니다.</span><span class="sxs-lookup"><span data-stu-id="1d11a-p103">Disable Samsung Smart Manager from managing the Intune Company Portal. Review [this document](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) for further details on these issues and resolutions.</span></span> 
+3. <span data-ttu-id="1c426-112">Intune 회사 포털 관리에서 Samsung Smart Manager를 사용 하지 않도록 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="1c426-112">Disable Samsung Smart Manager from managing the Intune Company Portal.</span></span> <span data-ttu-id="1c426-113">이러한 문제와 해결 방법에 대 한 자세한 내용은 [이 문서](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) 를 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="1c426-113">Review [this document](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) for further details on these issues and resolutions.</span></span> 
     
- <span data-ttu-id="1d11a-p104">**사용자 라이선스 유형 잘못 된** 또는 **사용자 이름을 인식 되지 않음 오류:** 사용자가 Intune 또는 EMS 라이선스를 할당 해야 합니다. 이러한 문서를 통해 라이선스를 할당 하려면 검토: Office 관리 센터 또는 Azure 포털 합니다.</span><span class="sxs-lookup"><span data-stu-id="1d11a-p104">**User License Type Invalid** or **User Name Not Recognized error:** The user needs to be assigned an Intune or EMS license. Review these documents to assign a license through: Office Admin Center or Azure portal.</span></span> 
+ <span data-ttu-id="1c426-114">**사용자 라이선스 유형 잘못 됨** 또는 **사용자 이름을 인식할 수 없음 오류:** 사용자에 게 Intune 또는 EMS 라이선스를 할당 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="1c426-114">**User License Type Invalid** or **User Name Not Recognized error:** The user needs to be assigned an Intune or EMS license.</span></span> <span data-ttu-id="1c426-115">Office 관리 센터 또는 Azure portal을 통해 라이선스를 할당 하려면 다음 문서를 검토 하세요.</span><span class="sxs-lookup"><span data-stu-id="1c426-115">Review these documents to assign a license through: Office Admin Center or Azure portal.</span></span> 
   
-<span data-ttu-id="1d11a-116">문제를 해결 하기 위해 추가 리소스:</span><span class="sxs-lookup"><span data-stu-id="1d11a-116">Additional resources to help resolve your issue:</span></span>
+<span data-ttu-id="1c426-116">문제를 해결 하는 데 도움이 되는 추가 리소스:</span><span class="sxs-lookup"><span data-stu-id="1c426-116">Additional resources to help resolve your issue:</span></span>
   
-1. <span data-ttu-id="1d11a-p105">[Intune 문제를 해결 포털](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) 을 사용 하 여 진단 하 고 일반적인 등록 오류를 해결 합니다. 자세한 내용은 [이 문서](https://docs.microsoft.com/intune/help-desk-operators) 검토 합니다.</span><span class="sxs-lookup"><span data-stu-id="1d11a-p105">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures. Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
+1. <span data-ttu-id="1c426-117">[Intune 문제 해결 포털](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) 을 사용 하 여 일반적인 등록 오류를 진단 하 고 해결 합니다.</span><span class="sxs-lookup"><span data-stu-id="1c426-117">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="1c426-118">자세한 내용을 보려면 [이 문서](https://docs.microsoft.com/intune/help-desk-operators) 를 검토 하세요.</span><span class="sxs-lookup"><span data-stu-id="1c426-118">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
     
-2. <span data-ttu-id="1d11a-119">[이 문서](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) 각 등록 및 해결 방법을 방해 하는 일반적인 오류 목록을 검토 합니다.</span><span class="sxs-lookup"><span data-stu-id="1d11a-119">Review [this document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span> 
+2. <span data-ttu-id="1c426-119">[이 문서](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) 를 검토 하 여 각에 등록 및 확인을 방지 하는 일반적인 오류 목록을 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="1c426-119">Review [this document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span> 
     
-3. <span data-ttu-id="1d11a-120">[Microsoft Intune에서 Android 장치를 등록 하는 방법에 알아봅니다](https://docs.microsoft.com/intune/android-enroll).</span><span class="sxs-lookup"><span data-stu-id="1d11a-120">[Learn how to enroll Android devices in Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).</span></span>
+3. <span data-ttu-id="1c426-120">[Microsoft Intune에서 Android 장치를 등록 하는 방법을 알아봅니다](https://docs.microsoft.com/intune/android-enroll).</span><span class="sxs-lookup"><span data-stu-id="1c426-120">[Learn how to enroll Android devices in Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).</span></span>
     
 
