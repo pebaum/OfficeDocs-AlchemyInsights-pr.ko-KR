@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7d193eb3-dfaf-4be8-a03c-151905a1e9f1
 ms.openlocfilehash: 46885b31ba73e23ab10e8ba794b9b3823cc7a394
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767614"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404571"
 ---
 # <a name="distribution-group-not-showing-in-groups-list"></a>그룹으로 표시 되지 않는 메일 그룹 목록
 

@@ -9,27 +9,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: 5e8cc5d68afd5c35a503db2333ac620760cf3a8c
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969719"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408904"
 ---
 # <a name="manage-user-profiles-in-delve"></a>Delve에서 사용자 프로필 관리
 
-Office Delve Office 365 사용자 프로필을 관리할 수 있도록 합니다. 사용자는 다음 작업을 수행할 수 있습니다.
+office Delve는 사용자가 office 365 사용자 프로필을 관리할 수 있도록 합니다. 사용자는 다음을 수행할 수 있습니다.
   
-- 보기 및 해당 정보를 업데이트 합니다.
+- 정보 보기 및 업데이트
     
 - 일부 정보를 비공개로 유지
     
-- 자신의 프로필 또는 표지 그림 변경
+- 프로필 또는 표지 그림 변경
     
-- Delve에 대 한 언어 및 시간 형식을 변경합니다
+- Delve에 대 한 언어 및 시간 형식 변경
     
 > [!NOTE]
-> 사용자가 프로필 사진 업데이트 하는 경우 변경 SharePoint 또는 OneDrive에 나타나지 않습니다 웹 브라우저를 열고, [Office.com로 이동](https://www.office.com), 해당 작업을 사용 하 여 로그인 또는 계정을 학교와 OneDrive 또는 SharePoint 타일을 클릭 한 다음 하도록 요청 합니다. 이 동기화 할 프로필이 그림을 확인 합니다. 사용자는 개인 버전의 경우 브라우저의 이러한 단계를 완료를 시도해 야 할 수 있습니다. 
+> 사용자가 프로필 그림을 업데이트 했으며 SharePoint 또는 OneDrive에 변경 내용이 표시 되지 않으면 웹 브라우저를 열고 [Office.com로 이동](https://www.office.com)하 여 회사 또는 학교 계정으로 로그인 한 다음 OneDrive 또는 SharePoint 타일을 클릭 하도록 요청 합니다. 프로필 그림을 동기화 하 라는 메시지가 표시 됩니다. 사용자는 브라우저의 전용 버전을 사용 하 여 이러한 단계를 완료 해야 할 수도 있습니다. 
   
-[Delve에서 프로필을 업데이트 하는 방법에 대 한 자세한 내용은](https://go.microsoft.com/fwlink/?linkid=735070)
+[Delve에서 프로필 업데이트에 대 한 자세한 정보](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

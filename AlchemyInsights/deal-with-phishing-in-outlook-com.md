@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000029
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
 ms.openlocfilehash: f42e001ce889b28651c2d1cd70306bdcfa46fd83
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773777"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406390"
 ---
 # <a name="deal-with-phishing-scams-in-your-inbox"></a>받은 편지함에서 피싱 사기 처리
 
@@ -28,10 +28,10 @@ ms.locfileid: "30773777"
     
 3. 페이지 맨 위에서 **정크 메일 아님** 옆의 화살표를 선택 하 고 **피싱**을 선택 합니다. 
     
-[남용, 피싱 또는 스푸핑 처리](https://go.microsoft.com/fwlink/p/?linkid=873139)방법에 대해 자세히 알아보세요.
+[남용, 피싱 또는 스푸핑을 처리](https://go.microsoft.com/fwlink/p/?linkid=873139) 방법에 대한 더 자세한 내용을 알아보십시오.
   
-스팸이 증가 하는 경우 [받은 편지함에서 스팸 및 정크 메일](https://go.microsoft.com/fwlink/p/?linkid=873140)을 차단 하는 방법에 대 한 자세한 내용을 확인 하세요.
+스팸이 증가하고 있다면 [스팸 및 스팸 메일을 받은 편지함에서 제거하는 방법](https://go.microsoft.com/fwlink/p/?linkid=873140)을 읽으십시오.
   
-전자 메일 주소를 차단 하려면 **설정** \> **옵션** \> **차단 된 보낸 사람**으로 이동 합니다. 수신 허용-보낸 사람 목록에 주소 또는 도메인을 추가 하려면 **수신 허용-보낸 사람**을 선택 합니다. 
+전자 메일 주소를 차단하려면 **설정** \> **옵션** \> ** 차단된 발신자**로 이동하십시오. 수신 허용 - 보낸 사람 목록에 주소 또는 도메인을 추가하려면 **수신 허용 - 보낸 사람**을 선택하십시오. 
   
 
