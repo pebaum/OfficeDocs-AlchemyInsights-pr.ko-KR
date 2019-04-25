@@ -1,5 +1,5 @@
 ---
-title: 사서함에 배치 보류를 식별 합니다.
+title: 사서함에 저장 되는 보류 확인
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
 ms.openlocfilehash: b993f28d9321805003f04a7eb168f81a7acd3030
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929310"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32413837"
 ---
-콘텐츠를 **보존** 된를 식별할 수 없는 의해 **유지** 되는 있습니까? 보류의 **사서함** 에 있는 위치를 **확인** 해야 합니까? Office 365에서 다음 방법 중 하나에 의해 보류 ( *보존 기능* )를 적용할 수 있습니다. 
+확인할 수 없는 **보류** 로 **보존** 되는 콘텐츠가 있습니까? **사서함** 에서 보류가 어디에 있는지 **확인** 해야 합니다. 보류 ( *보존 기능* )는 Office 365에서 다음 방법 중 하나를 통해 적용할 수 있습니다. 
   
-- 소송 보존 
+- 소송 대기 
     
 - eDiscovery 보류
     
@@ -28,10 +28,10 @@ ms.locfileid: "29929310"
     
   - 특정 위치 보존 정책
     
-  - 조직 전체의 보존 정책
+  - 조직 전체 보존 정책
     
 - Office 365 레이블
     
-어떤 유형의 보류 사용자의 사서함에 적용 되 식별 하 고, [유형을 식별 하는 방법을 Exchange Online 사서함에 배치 hold](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)를 참조 합니다.
+사용자의 사서함에 적용 되는 보류 유형을 확인 하려면 [How to Exchange Online mailbox의 보류 유형을 식별](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)하는 방법을 참조 하십시오.
   
 

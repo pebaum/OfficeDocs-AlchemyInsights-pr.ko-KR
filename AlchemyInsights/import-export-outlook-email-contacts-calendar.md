@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 1221
 ms.assetid: ''
 ms.openlocfilehash: 86a42fbb17a116c2983d89aaad0074212380f63d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773182"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32413909"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Outlook 전자 메일, 연락처 및 일정 항목 가져오기 및 내보내기
 

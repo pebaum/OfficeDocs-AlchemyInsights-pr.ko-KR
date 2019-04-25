@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
 ms.openlocfilehash: 46bdb15733fa3673c6487c7a0316752b9ae757f4
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753144"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408473"
 ---
 # <a name="change-permissions-for-a-sharepoint-list-or-library"></a>SharePoint 목록 또는 라이브러리에 대 한 사용 권한 변경
 
