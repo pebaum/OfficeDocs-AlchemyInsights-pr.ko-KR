@@ -9,34 +9,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
 ms.openlocfilehash: d2d30d6f78c99fe11fcf77dc010e6eddf0ddb482
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927834"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404091"
 ---
-# <a name="enable-an-archive-mailbox"></a><span data-ttu-id="bf5b0-102">보관 사서함 사용</span><span class="sxs-lookup"><span data-stu-id="bf5b0-102">Enable an archive mailbox</span></span>
+# <a name="enable-an-archive-mailbox"></a><span data-ttu-id="9a752-102">보관 사서함 사용</span><span class="sxs-lookup"><span data-stu-id="9a752-102">Enable an archive mailbox</span></span>
 
-<span data-ttu-id="bf5b0-p101">추가 전자 메일 저장소와 ( *온라인 보관 함* 이 라고도 함)는 Office 365의 보관 사서함을 제공 합니다. 사용자 수를 이동 또는 보관 사서함에 항목을 복사 하 고 관리자가 자동으로 보관 사서함에 항목을 이동 하는 보관 정책을 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="bf5b0-p101">Archive mailboxes in Office 365 (also called  *Online Archives*  ) provide users with additional email storage. Users can move or copy items to their archive mailbox, and admins can create an archive policy that automatically moves items to archive mailboxes.</span></span> 
+<span data-ttu-id="9a752-103">Office 365 ( *온라인 보관* 함)의 보관 사서함은 사용자에 게 추가 전자 메일 저장소를 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="9a752-103">Archive mailboxes in Office 365 (also called  *Online Archives*  ) provide users with additional email storage.</span></span> <span data-ttu-id="9a752-104">사용자는 보관 사서함으로 항목을 이동 하거나 복사할 수 있으며, 관리자는 항목을 보관 사서함으로 자동으로 이동 하는 보관 정책을 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9a752-104">Users can move or copy items to their archive mailbox, and admins can create an archive policy that automatically moves items to archive mailboxes.</span></span> 
   
-<span data-ttu-id="bf5b0-105">다음은 보관 사서함을 만드는 방법이입니다.</span><span class="sxs-lookup"><span data-stu-id="bf5b0-105">Here's how to create an archive mailbox:</span></span>
+<span data-ttu-id="9a752-105">보관 사서함을 만드는 방법은 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="9a752-105">Here's how to create an archive mailbox:</span></span>
   
-1. <span data-ttu-id="bf5b0-106">[https://protection.office.com](https://protection.office.com)으로 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="bf5b0-106">Go to [https://protection.office.com](https://protection.office.com).</span></span>
+1. <span data-ttu-id="9a752-106">[https://protection.office.com](https://protection.office.com)으로 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="9a752-106">Go to [https://protection.office.com](https://protection.office.com).</span></span>
     
-2. <span data-ttu-id="bf5b0-107">관리자 계정을 사용 하 여 Office 365에 로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="bf5b0-107">Sign in to Office 365 using your admin account.</span></span>
+2. <span data-ttu-id="9a752-107">관리자 계정을 사용 하 여 Office 365에 로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="9a752-107">Sign in to Office 365 using your admin account.</span></span>
     
-3. <span data-ttu-id="bf5b0-108">보안의 왼쪽된 창에서 &amp; 준수 센터 **데이터 거 버 넌 스** 를 클릭 \> **보관**합니다.</span><span class="sxs-lookup"><span data-stu-id="bf5b0-108">In the left pane of the Security &amp; Compliance Center, click **Data governance** \> **Archive**.</span></span>
+3. <span data-ttu-id="9a752-108">보안 &amp; 및 준수 센터의 왼쪽 창에서 **데이터 거 버 넌 스** \> **보관**함을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="9a752-108">In the left pane of the Security &amp; Compliance Center, click **Data governance** \> **Archive**.</span></span>
     
-4. <span data-ttu-id="bf5b0-109">보관 사서함을 사용 하도록 설정 하려는 사용자를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="bf5b0-109">Select the user whose archive mailbox you want to enable.</span></span>
+4. <span data-ttu-id="9a752-109">보관 사서함을 사용 하도록 설정 하려는 사용자를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="9a752-109">Select the user whose archive mailbox you want to enable.</span></span>
     
-5. <span data-ttu-id="bf5b0-110">오른쪽의 세부 정보 창에서 **사용** 을 클릭 하 고 보관 사서함을 사용 하도록 설정 하는 경고 메시지에서 **예** 를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="bf5b0-110">In the details pane on the right, click **Enable** and then click **Yes** in the warning message to enable the archive mailbox.</span></span> 
+5. <span data-ttu-id="9a752-110">오른쪽의 세부 정보 창에서 **사용** 을 클릭 한 다음 경고 메시지에서 **예** 를 클릭 하 여 보관 사서함을 사용 하도록 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="9a752-110">In the details pane on the right, click **Enable** and then click **Yes** in the warning message to enable the archive mailbox.</span></span> 
     
-<span data-ttu-id="bf5b0-111">하면도 대량에서 사용할 수 있습니다 ( **Shift** 또는 **Ctrl** 키를 사용 하 여) 여러 사용자를 선택 하 여 보관 사서함 다음 세부 정보 창에서 **활성화** 를 클릭 하 고 있습니다.</span><span class="sxs-lookup"><span data-stu-id="bf5b0-111">You can also bulk-enable archive mailboxes by selecting multiple users (using the **Shift** or **Ctrl** keys) and then clicking **Enable** in the details pane.</span></span> 
+<span data-ttu-id="9a752-111">**Shift** 또는 **Ctrl** 키를 사용 하 여 여러 사용자를 선택한 다음 세부 정보 창에서 **사용** 을 클릭 하 여 보관 사서함을 대량으로 사용 하도록 설정할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9a752-111">You can also bulk-enable archive mailboxes by selecting multiple users (using the **Shift** or **Ctrl** keys) and then clicking **Enable** in the details pane.</span></span> 
   
-<span data-ttu-id="bf5b0-112">자세한 내용은 다음을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="bf5b0-112">For more information, see:</span></span>
+<span data-ttu-id="9a752-112">자세한 내용은 다음을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="9a752-112">For more information, see:</span></span>
   
-- [<span data-ttu-id="bf5b0-113">Office 365의 보관 사서함을 사용 하도록 설정</span><span class="sxs-lookup"><span data-stu-id="bf5b0-113">Enable archive mailboxes in Office 365</span></span>](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
+- [<span data-ttu-id="9a752-113">Office 365에서 보관 사서함을 사용 하도록 설정</span><span class="sxs-lookup"><span data-stu-id="9a752-113">Enable archive mailboxes in Office 365</span></span>](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
     
-- [<span data-ttu-id="bf5b0-114">Office 365에는 보관 및 삭제 정책 설정</span><span class="sxs-lookup"><span data-stu-id="bf5b0-114">Set up an archive and deletion policy in Office 365</span></span>](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
+- [<span data-ttu-id="9a752-114">Office 365에서 보관 및 삭제 정책 설정</span><span class="sxs-lookup"><span data-stu-id="9a752-114">Set up an archive and deletion policy in Office 365</span></span>](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
     
 
