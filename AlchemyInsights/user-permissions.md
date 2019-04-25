@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
 ms.openlocfilehash: 6fc7e4211691e0f29b9a65db2d33540804ea7b4a
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209851"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423693"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>SharePoint 및 OneDrive의 사용자 사용 권한
 
@@ -31,7 +31,7 @@ ms.locfileid: "30209851"
     
     커뮤니케이션 사이트의 경우 오른쪽 위에 있는 **사이트 공유** 를 클릭 하 고 사용자 이름을 입력 한 후에 사용 권한 수준 (읽기, 편집 또는 모든 권한)을 선택 합니다. 
     
-    클래식 팀 사이트의 경우 오른쪽 위에서 **공유** 를 클릭 합니다. 초대 하려는 사용자의 이름을 입력 하거나 모든 사용자를 조직의 모든 사용자와 공유 하도록 입력 합니다. **공유**를 클릭 합니다.
+    클래식 팀 사이트의 경우 오른쪽 위에서 **공유** 를 클릭 합니다. 초대 하려는 사용자의 이름을 입력 하거나 모든 사용자를 조직의 모든 사용자와 공유 하도록 입력 합니다. **공유**를 클릭합니다.
     
 > [!NOTE]
 > 사용자가 소유자가 아닌 사이트의 구성원 인 경우 사용자를 사이트에 초대할 수 있지만 초대에 따라 사이트 소유자가 승인 하거나 거절할 수 있는 액세스 요청이 생성 됩니다. 

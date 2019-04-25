@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d071ce0c-c29e-4917-8860-950e5efd26af
 ms.openlocfilehash: 2a1b3be28e2069562c1253ccd30123b1e871a71a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938490"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421138"
 ---
 # <a name="steps-to-resolve-office-activation-error-0x80072efd"></a>Office 정품 인증 오류 0x80072EFD를 해결 하는 단계
 
 
-Office 정품 인증 오류를 해결 하려면 이러한 솔루션을 시도 합니다.
+Office 정품 인증 오류를 해결 하려면 다음 해결 방법을 시도해 보세요.
   
 1. [방화벽](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckFirewall)을 확인 합니다.
     
@@ -27,6 +27,6 @@ Office 정품 인증 오류를 해결 하려면 이러한 솔루션을 시도 �
     
 3. [프록시 설정](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckProxy) 확인
     
-4. 다운로드 하 고는 [지원 및 복구 도우미](https://aka.ms/SARA-OfficeActivation-Alchemy) 를 설치 및 **정품 인증 문제 해결사**를 실행 합니다.
+4. [지원 및 복구 도우미](https://aka.ms/SARA-OfficeActivation-Alchemy) 를 다운로드 하 여 설치 하 고 **정품 인증 문제 해결사**를 실행 합니다.
     
 

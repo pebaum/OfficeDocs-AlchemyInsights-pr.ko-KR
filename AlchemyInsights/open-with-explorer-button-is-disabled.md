@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
 ms.openlocfilehash: ee77923fbf4b6e54aa3d9f8fd046f4a740e99e44
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766534"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419518"
 ---
 # <a name="the-open-with-explorer-button-is-disabled"></a>탐색기에서 열기 단추를 사용할 수 없는 경우
 

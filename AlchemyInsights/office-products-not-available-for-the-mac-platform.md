@@ -1,5 +1,5 @@
 ---
-title: Office 제품 Mac 플랫폼에 사용할 수 없음
+title: Mac 플랫폼에서 사용할 수 없는 Office 제품
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9233f862-ebbb-4913-a83a-52cc3b99a644
 ms.openlocfilehash: 136b7737ae3c99b51b25e3cd813b794df86196af
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938120"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419770"
 ---
-# <a name="office-products-not-available-for-the-mac-platform"></a>Office 제품 Mac 플랫폼에 사용할 수 없음
+# <a name="office-products-not-available-for-the-mac-platform"></a>Mac 플랫폼에서 사용할 수 없는 Office 제품
 
-그러나 Visio, Project, Publisher, 및 액세스 Mac 플랫폼에서 사용할 수 없습니다., Visio 온라인 및 Project Online 사용 가능 하 고 모든 플랫폼에서 작동 합니다.
+visio, project, Publisher 및 Access는 Mac 플랫폼에 사용할 수 없지만 visio online 및 Project Online은 사용 가능 하며 모든 플랫폼에서 작동 합니다.
   
 

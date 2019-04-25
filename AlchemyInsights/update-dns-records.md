@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
 ms.openlocfilehash: d2e3285d81aa1a630d668fea11382abd0d42265c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762322"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423513"
 ---
 # <a name="update-dns-records"></a>DNS 레코드 업데이트
 사용자 지정 도메인 이름으로 Office 365 구독이 작동하도록 하려면 DNS 레코드를 설정해야 합니다. 아래 링크를 사용하여 DNS 레코드를 추가하거나 업데이트합니다.
