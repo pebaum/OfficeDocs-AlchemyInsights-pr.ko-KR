@@ -1,5 +1,5 @@
 ---
-title: 현대 팀 사이트 만들기
+title: 최신 팀 사이트 만들기
 ms.author: clake
 author: spowriter
 ms.date: 11/9/2018
@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
 ms.openlocfilehash: f88df38bc286625c0b2bc20e360e4ce6391e0942
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917538"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407142"
 ---
 # <a name="create-an-office-365-group-connected-team-site"></a>Office 365 그룹에 연결 된 팀 사이트 만들기
 
-1. 왼쪽 위 모서리에서 응용 프로그램 시작 관리자를 클릭 하 고 **SharePoint**를 선택 합니다. 찾을 수 없으면 SharePoint 바둑판식으로 배열, **모든 앱**을 클릭 합니다.
+1. 왼쪽 위 모서리에 있는 앱 시작 관리자를 클릭 하 고 **SharePoint**를 선택 합니다. SharePoint 타일이 표시 되지 않으면 **모든 앱**을 클릭 합니다.
     
-2. SharePoint 홈 페이지의 위쪽 **사이트 만들기를** 클릭 하 고 **팀 사이트** 옵션을 선택 합니다. 
+2. SharePoint 홈 페이지 맨 위에서 **사이트 만들기** 를 클릭 하 고 **팀 사이트** 옵션을 선택 합니다. 
     
     > [!NOTE]
-    > Create 사이트 명령 보이지 않으면 사이트 만들기 조직에서 사용할 수 없습니다. 이 클래스를 활성화 하려면 [관리 사이트 만들기](https://go.microsoft.com/fwlink/?linkid=2009644)를 참조 하십시오. 
+    > 사이트 만들기 명령이 표시 되지 않으면 조직에서 사이트 만들기를 사용 하도록 설정 하지 않은 것일 수 있습니다. 이를 사용 하려면 [사이트 만들기 관리](https://go.microsoft.com/fwlink/?linkid=2009644)를 참조 하세요. 
   
-3. 사이트의 이름을 지정 하 고 Office 365 그룹에 대 한 전자 메일 주소를 만들기 위해 화면에는 단계를 수행 하 고 **** 을 클릭 합니다. 다른 그룹 소유자 및 구성원을 추가할 수도 있습니다. **완료 날짜**를 클릭 합니다.
+3. 화면의 단계에 따라 사이트 이름을 지정한 후 Office 365 그룹의 전자 메일 주소를 만들고 **다음**을 클릭 합니다. 다른 그룹 소유자 및 구성원을 추가할 수도 있습니다. **마침**을 클릭합니다.
   
- **참고:** 그룹 없이 팀 사이트를 만들려면 연결, 2 단계에서에서 팀 사이트를 선택 하는 대신 하지만 위의 단계를 수행 합니다. 다른 옵션을 선택 합니다. 그룹 없는 팀 사이트를 만드는 과정을 안내는이 있습니다. 
+ **참고:** 그룹이 연결 되지 않은 팀 사이트를 만들려면 위의 단계를 수행 하 되 2 단계에서 팀 사이트를 선택 하는 대신,을 사용 합니다. 기타 옵션을 선택 합니다. 이렇게 하면 그룹 없이 팀 사이트를 만드는 과정을 안내 합니다. 
     
 

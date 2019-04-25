@@ -1,5 +1,5 @@
 ---
-title: 팀이 업그레이드 가이드
+title: 팀 업그레이드 지침
 ms.author: heidip
 author: microsoftheidi
 ms.date: 1/9/2019
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
 ms.openlocfilehash: 58b7d89426295ff512180aacb52d368fcdb8bb29
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906270"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370020"
 ---
-# <a name="upgrade-to-teams"></a>팀으로의 업그레이드
+# <a name="upgrade-to-teams"></a>팀으로 업그레이드
 
-Skype 비즈니스에 대 한 Microsoft 팀의 이동 하기 위한 단계별 지침을 찾을 수 [여기](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams)합니다.
+비즈니스용 Skype에서 Microsoft 팀으로 이동 하는 방법에 대 한 단계별 가이드를 확인할 수 있습니다 [](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams).
   
 

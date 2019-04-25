@@ -1,5 +1,5 @@
 ---
-title: 통신 사이트와 게시 인프라
+title: 통신 사이트를 사용 하 여 인프라 게시
 ms.author: kirks
 author: Techwriter40
 ms.date: 1/14/2019
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms.openlocfilehash: 228d048dba0f4b175855eebdf2b0019f7d1ed4f0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940282"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389125"
 ---
-# <a name="publishing-infrastructure-with-a-communication-site"></a>통신 사이트와 게시 인프라
+# <a name="publishing-infrastructure-with-a-communication-site"></a>통신 사이트를 사용 하 여 인프라 게시
 
 
-SharePoint Server 게시 인프라 기능을 사용 하면가 통신 사이트에서 **지원 되지 않습니다** . 
+통신 사이트에서는 SharePoint Server 게시 인프라 기능을 사용 하는 것이 **지원 되지** 않습니다. 
   
-자세한 정보를 [게시에서 전환 통신 사이트에 사이트](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience)를 참조 하십시오. 
+자세한 내용은 [게시 사이트에서 통신 사이트로 이동을](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience)참조 하세요. 
   
 

@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: 문서에 대해 500 개 이하의 단어를 대상으로 지정 합니다.
 ms.openlocfilehash: fed43928bcf8a232901c0679376fed3f43705265
-ms.sourcegitcommit: b3cf5130ac8118f0fed66abe5286aa80ee91af52
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "30683819"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421426"
 ---
 # <a name="setting-up-project"></a>프로젝트 설정
 
