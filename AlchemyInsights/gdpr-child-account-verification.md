@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom: 8000038
 ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
 ms.openlocfilehash: c664adf9fdb0306b3407a5c23628aa4c7bbd5b83
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30775842"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400975"
 ---
-# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a><span data-ttu-id="fe629-102">Microsoft 계정에 표시 된 생년월일이 잘못 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="fe629-102">Date of birth displayed in your Microsoft account is incorrect</span></span>
+# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a><span data-ttu-id="30d7a-102">Microsoft 계정에 표시 된 생년월일이 잘못 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="30d7a-102">Date of birth displayed in your Microsoft account is incorrect</span></span>
 
-<span data-ttu-id="fe629-103">Microsoft는 계정 보안을 매우 심각 하 게 받아들입니다.</span><span class="sxs-lookup"><span data-stu-id="fe629-103">Microsoft takes account security very seriously.</span></span> <span data-ttu-id="fe629-104">최근 자녀의 Microsoft 계정에 대 한 자녀 보호 동의를 제공 하 라는 메시지가 표시 되었을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fe629-104">You may have recently been prompted to provide parental consent for a child's Microsoft account.</span></span> <span data-ttu-id="fe629-105">보호자 동의를 제공 하거나 Microsoft 계정에서 생년월일을 업데이트 하는 데 도움이 필요한 경우 [에는 보존 기간 확인](https://go.microsoft.com/fwlink/p/?linkid=874364)을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="fe629-105">If you need help providing parental consent or updating the date of birth on a Microsoft account, see [Age verification for parental consent](https://go.microsoft.com/fwlink/p/?linkid=874364).</span></span>
+<span data-ttu-id="30d7a-103">Microsoft는 계정 보안을 매우 심각 하 게 받아들입니다.</span><span class="sxs-lookup"><span data-stu-id="30d7a-103">Microsoft takes account security very seriously.</span></span> <span data-ttu-id="30d7a-104">최근 자녀의 Microsoft 계정에 대 한 자녀 보호 동의를 제공 하 라는 메시지가 표시 되었을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="30d7a-104">You may have recently been prompted to provide parental consent for a child's Microsoft account.</span></span> <span data-ttu-id="30d7a-105">보호자 동의를 제공 하거나 Microsoft 계정에서 생년월일을 업데이트 하는 데 도움이 필요한 경우 [에는 보존 기간 확인](https://go.microsoft.com/fwlink/p/?linkid=874364)을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="30d7a-105">If you need help providing parental consent or updating the date of birth on a Microsoft account, see [Age verification for parental consent](https://go.microsoft.com/fwlink/p/?linkid=874364).</span></span>
   
-<span data-ttu-id="fe629-106">[보호자 통제 및 Microsoft 자녀 계정](https://go.microsoft.com/fwlink/p/?linkid=874365)에 대해 자세히 알아보세요.</span><span class="sxs-lookup"><span data-stu-id="fe629-106">Learn more about [Parental consent and Microsoft child accounts](https://go.microsoft.com/fwlink/p/?linkid=874365).</span></span>
+<span data-ttu-id="30d7a-106">[보호자 통제 및 Microsoft 자녀 계정](https://go.microsoft.com/fwlink/p/?linkid=874365)에 대해 자세히 알아보세요.</span><span class="sxs-lookup"><span data-stu-id="30d7a-106">Learn more about [Parental consent and Microsoft child accounts](https://go.microsoft.com/fwlink/p/?linkid=874365).</span></span>
   
 

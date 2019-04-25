@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3899a788-feaa-4ea4-a40b-09542f4cc148
 ms.openlocfilehash: 73ff9c5cb09cd4209912ef459e8c7df2560c2d27
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468561"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400420"
 ---
-# <a name="have-you-enabled-teams-for-your-students"></a><span data-ttu-id="50304-102">팀을 학생 들에 대해 사용 하도록 설정 했습니까?</span><span class="sxs-lookup"><span data-stu-id="50304-102">Have you enabled Teams for your students?</span></span>
+# <a name="have-you-enabled-teams-for-your-students"></a><span data-ttu-id="7949d-102">팀을 학생 들에 대해 사용 하도록 설정 했습니까?</span><span class="sxs-lookup"><span data-stu-id="7949d-102">Have you enabled Teams for your students?</span></span>
 
 
-<span data-ttu-id="50304-103">교직원과 직원은 팀에 액세스할 수 있지만 학생은 사용할 수 없습니까?</span><span class="sxs-lookup"><span data-stu-id="50304-103">Are faculty and staff able to access Teams, but your students can't?</span></span> <span data-ttu-id="50304-104">팀을 학생 들에 대해 명시적으로 사용 하도록 설정 해야 하 고 교직원 및 직원도 필요 합니다.</span><span class="sxs-lookup"><span data-stu-id="50304-104">Teams needs to be explicitly enabled for your students, as well as for faculty and staff.</span></span> <span data-ttu-id="50304-105">이렇게 하려면 [학교에서 Microsoft 팀을 사용 하도록 설정](https://docs.microsoft.com/education/get-started/enable-microsoft-teams)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="50304-105">To do this, please see [Enable Microsoft Teams for your school](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span></span>
+<span data-ttu-id="7949d-103">교직원과 직원은 팀에 액세스할 수 있지만 학생은 사용할 수 없습니까?</span><span class="sxs-lookup"><span data-stu-id="7949d-103">Are faculty and staff able to access Teams, but your students can't?</span></span> <span data-ttu-id="7949d-104">팀을 학생 들에 대해 명시적으로 사용 하도록 설정 해야 하 고 교직원 및 직원도 필요 합니다.</span><span class="sxs-lookup"><span data-stu-id="7949d-104">Teams needs to be explicitly enabled for your students, as well as for faculty and staff.</span></span> <span data-ttu-id="7949d-105">이렇게 하려면 [학교에서 Microsoft 팀을 사용 하도록 설정](https://docs.microsoft.com/education/get-started/enable-microsoft-teams)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="7949d-105">To do this, please see [Enable Microsoft Teams for your school](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span></span>
   
 

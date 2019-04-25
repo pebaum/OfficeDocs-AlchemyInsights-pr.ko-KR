@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: 1049
 ms.assetid: fa3d4be9-c90a-4926-9754-4b708b038bf6
 ms.openlocfilehash: 5bb496363b9612427e5b704cdba12b8913676885
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859578"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397266"
 ---
-# <a name="453-too-many-recipients-as780090"></a><span data-ttu-id="01721-102">4.5.3 너무 많은 받는 사람 (AS780090)</span><span class="sxs-lookup"><span data-stu-id="01721-102">4.5.3 Too many recipients (AS780090)</span></span>
+# <a name="453-too-many-recipients-as780090"></a><span data-ttu-id="a51c8-102">4.5.3 너무 많은 받는 사람 (AS780090)</span><span class="sxs-lookup"><span data-stu-id="a51c8-102">4.5.3 Too many recipients (AS780090)</span></span>
 
-<span data-ttu-id="01721-103">원본 ip 주소의 전자 메일 트래픽 양이 원본 ip 주소의 신뢰도 (또는 신뢰도)에 따라 제한을 초과 하는 경우이 오류가 발생 합니다.</span><span class="sxs-lookup"><span data-stu-id="01721-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
+<span data-ttu-id="a51c8-103">원본 ip 주소의 전자 메일 트래픽 양이 원본 ip 주소의 신뢰도 (또는 신뢰도)에 따라 제한을 초과 하는 경우이 오류가 발생 합니다.</span><span class="sxs-lookup"><span data-stu-id="a51c8-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
 
-<span data-ttu-id="01721-104">원본 IP 주소에서 보낸 전자 메일의 차단은 한 시간 내에 만료 됩니다.</span><span class="sxs-lookup"><span data-stu-id="01721-104">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="01721-105">원본 IP 주소가 자신에 게 속하는 온-프레미스 전자 메일 서버인 경우 메일 흐름 커넥터의 구성을 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="01721-105">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="01721-106">문제가 1 시간 이상 계속 되 면 지원에 문의 하 여 원본 IP 주소에 대 한 예외를 요청 하십시오.</span><span class="sxs-lookup"><span data-stu-id="01721-106">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
+<span data-ttu-id="a51c8-104">원본 IP 주소에서 보낸 전자 메일의 차단은 한 시간 내에 만료 됩니다.</span><span class="sxs-lookup"><span data-stu-id="a51c8-104">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="a51c8-105">원본 IP 주소가 자신에 게 속하는 온-프레미스 전자 메일 서버인 경우 메일 흐름 커넥터의 구성을 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="a51c8-105">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="a51c8-106">문제가 1 시간 이상 계속 되 면 지원에 문의 하 여 원본 IP 주소에 대 한 예외를 요청 하십시오.</span><span class="sxs-lookup"><span data-stu-id="a51c8-106">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
