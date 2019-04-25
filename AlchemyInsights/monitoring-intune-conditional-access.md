@@ -1,5 +1,5 @@
 ---
-title: Intune 조건부 액세스를 모니터링합니다.
+title: Intune 조건부 액세스 모니터링
 ms.author: pebaum
 author: pebaum
 ms.date: 1/23/2019
@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
 ms.openlocfilehash: c45341e8d006531b089e0fc0473704fbce740a8b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905622"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418383"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Microsoft Intune를 사용한 문제를 해결
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Microsoft Intune 문제 해결
 
-이제 문제를 해결 하려면 아래에 나열 된 리소스를 검토 합니다.
+지금 문제를 해결 하려면 아래 목록에 있는 리소스를 검토 하세요.
   
-1. [Intune 문제를 해결 포털](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) 을 사용 하 여 진단 하 고 일부 일반적인 오류를 해결 합니다. 자세한 내용은 [이 문서 ](https://docs.microsoft.com/intune/help-desk-operators)검토 합니다.
+1. [Intune 문제 해결 포털](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) 을 사용 하 여 일반적인 오류를 진단 하 고 해결 합니다. 자세한 내용을 보려면 [이 문서 ](https://docs.microsoft.com/intune/help-desk-operators)를 검토 하세요.
     
-2. 대답 및 일반적인 문제에 대 한 솔루션을 찾으려고 [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)검토 합니다.
+2. [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)을 검토 하 여 일반적인 문제에 대 한 답과 해결책을 찾아봅니다.
     
-3. 서비스의 상태를 보려면 [서비스 상태](https://portal.office.com/AdminPortal/Home#/servicehealth) 체크아웃 합니다. 
+3. 서비스 상태 [](https://portal.office.com/AdminPortal/Home#/servicehealth) 를 확인 하 여 서비스 상태가 표시 되도록 합니다. 
     
-4. [Intune 설명서](https://docs.microsoft.com/intune/) 에 대 한 계획, 방법, 문서 및 기타 문제를 해결을 검토 합니다. 
+4. 계획, 방법, 문제 해결 문서 등에 대 한 [Intune 설명서](https://docs.microsoft.com/intune/) 를 검토 합니다. 
     
 

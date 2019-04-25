@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>3 월 11 일 주 2019
-
-
-| 게시된 날짜 |항목 제목 | 변경 사항 |
-|------|------------|--------|
-| 3/12/2019 | 8000054 Outlook.com 받은 편지함 로드 안 함 | 더해집니다 |
-| 3/12/2019 | [8000078 Outlook.com 받은 편지함 로드 안 함](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | 의 |
-| 3/12/2019 | [8000078 Outlook.com 받은 편지함 로드 안 함](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | 수정한 날짜 |
-| 3/13/2019 | [Office 365를 통해 전자 메일 릴레이](/AlchemyInsights/relay-email-through-office-365) | 수정한 날짜 |
-| 3/14/2019 | [filename과 같습니다 [RULE #-Description]](/AlchemyInsights/1-alchemy-insight-template) | 수정한 날짜 |
-| 3/14/2019 | [사서함 크기 늘리기](/AlchemyInsights/increase-mailbox-size) | 수정한 날짜 |
-| 3/15/2019 | [Outlook 데스크톱 전자 메일 메시지 회수 또는 교체](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | 더해집니다 |
-
-
 ## <a name="week-of-march-18-2019"></a>2019년 3월 18일 주중
 
 
@@ -530,3 +516,47 @@
 | 4/12/2019 | [932 AADConnect 업그레이드](/AlchemyInsights/upgrading-aadconnect) | 수정한 날짜 |
 | 4/12/2019 | [725 모바일 장치에서 전자 메일 별칭 사용](/AlchemyInsights/using-email-alias-on-mobile-device) | 수정한 날짜 |
 | 4/12/2019 | [1554 Winsock 오류 10061](/AlchemyInsights/winsock-error-10061) | 수정한 날짜 |
+
+
+## <a name="week-of-april-15-2019"></a>4 월 15 일 주 2019
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 4/15/2019 | [Alchemy-Outlook 연결 문제를 진단 하 고 해결 합니다.](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | 수정한 날짜 |
+| 4/15/2019 | [Alchemy-Outlook 프로필 다시 만들기](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | 수정한 날짜 |
+| 4/15/2019 | [DLP에 사용자 지정 형식이 필요할 수 있음](/AlchemyInsights/dlp-might-need-custom-type) | 더해집니다 |
+| 4/15/2019 | [DLP가 예상 대로 작동 하지 않음](/AlchemyInsights/dlp-not-working-as-expected) | 수정한 날짜 |
+| 4/15/2019 | [DLP 정책 팁이 작동 하지 않음](/AlchemyInsights/dlp-policy-tips-not-working) | 수정한 날짜 |
+| 4/15/2019 | [Outlook.com 오류 550](/AlchemyInsights/outlook-com-error-550) | 더해집니다 |
+| 4/15/2019 | [Outlook.com over quota](/AlchemyInsights/outlook-com-over-quota) | 더해집니다 |
+| 4/15/2019 | [Outlook.com Skype 제거](/AlchemyInsights/outlook-com-remove-skype-rule-1) | 더해집니다 |
+| 4/15/2019 | [Outlook.com Skype 제거](/AlchemyInsights/outlook-com-remove-skype-rule-2) | 더해집니다 |
+| 4/15/2019 | [182 Outlook 인증 문제 &amp; 해결을 위해 SaRA를 실행 하십시오.](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | 수정한 날짜 |
+| 4/16/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | 수정한 날짜 |
+| 4/16/2019 | [Outlook.com Skype 제거](/AlchemyInsights/outlook-com-remove-skype-rule-1) | 수정한 날짜 |
+| 4/16/2019 | [8000088 전자 메일을 Outlook.com에 저장](/AlchemyInsights/outlook-com-save-emails) | 수정한 날짜 |
+| 4/16/2019 | [8000052 Outlook.com에서 파일 첨부](/AlchemyInsights/attach-files-in-outlook-com) | 수정한 날짜 |
+| 4/16/2019 | [8000015 발신자 차단 또는 차단 해제](/AlchemyInsights/block-or-unblock-senders) | 수정한 날짜 |
+| 4/16/2019 | [8000014 Outlook.com에서 언어를 변경 하는 방법](/AlchemyInsights/how-to-change-language-in-outlook-com) | 수정한 날짜 |
+| 4/16/2019 | [8000059 레이아웃을 변경 하는 방법](/AlchemyInsights/how-to-change-your-layout) | 수정한 날짜 |
+| 4/16/2019 | [8000033 Outlook.com 베타에서 메시지에 회신 하거나 전달 하는 방법](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | 수정한 날짜 |
+| 4/16/2019 | [8000055 Outlook.com에 로그인 하거나 로그 아웃 하는 방법](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | 수정한 날짜 |
+| 4/16/2019 | [8000062 Outlook.com에서 폴더 이동](/AlchemyInsights/moving-a-folder-in-outlook-com) | 수정한 날짜 |
+| 4/16/2019 | [민감도 레이블 자동 적용](/AlchemyInsights/auto-apply-sensitivity-labels) | 더해집니다 |
+| 4/16/2019 | [민감도 레이블 표시 안 함](/AlchemyInsights/sensitivity-labels-not-appearing) | 더해집니다 |
+| 4/16/2019 | [자동으로 새로 만들어진 보존 레이블](/AlchemyInsights/new-retention-labels-created-automatically) | 더해집니다 |
+| 4/16/2019 | [SharePoint 및 OneDrive 감사 로그](/AlchemyInsights/classic-sharepoint-audit-log-reports) | 더해집니다 |
+| 4/16/2019 | [감사 로그에서 메시지 삭제 이벤트 확인](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | 더해집니다 |
+| 4/16/2019 | [감사 로그의 사서함에 대 한 외부 전자 메일 전달 확인](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | 더해집니다 |
+| 4/16/2019 | [감사 로그의 받은 편지함 규칙 활동 식별](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | 더해집니다 |
+| 4/16/2019 | [감사 로그에서 IP 주소 및 클라이언트 식별](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | 더해집니다 |
+| 4/16/2019 | [가져오기 전에 .pst 파일 복구](/AlchemyInsights/repair-pst-before-importing) | 더해집니다 |
+| 4/16/2019 | [클래식 SharePoint 감사 로그 보고서](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | 더해집니다 |
+| 4/16/2019 | [클래식 SharePoint 감사 로그 보고서](/AlchemyInsights/classic-sharepoint-audit-log-reports) | 수정한 날짜 |
+| 4/16/2019 | [감사 로그의 사서함에 대 한 외부 전자 메일 전달 확인](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | 수정한 날짜 |
+| 4/16/2019 | [감사 로그의 받은 편지함 규칙 활동 식별](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | 수정한 날짜 |
+| 4/16/2019 | [클래식 SharePoint 감사 로그 보고서](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | 수정한 날짜 |
+| 4/17/2019 | [메일 사용이 가능한 공용 폴더에 대 한 전자 메일 배달 문제 해결](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | 더해집니다 |
+| 4/17/2019 | [팀 이동](/AlchemyInsights/teams-shifts) | 수정한 날짜 |
+| 4/18/2019 | [8000011 Outlook.com에서 삭제 된 전자 메일 복구](/AlchemyInsights/recover-deleted-email-in-outlook-com) | 수정한 날짜 |
