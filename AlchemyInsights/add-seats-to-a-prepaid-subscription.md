@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 07161bf45fb99539e4c6d0b946a538f198db3553
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30763510"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398752"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>선불 구독에 좌석 추가
 
@@ -28,7 +28,8 @@ ms.locfileid: "30763510"
     
 4. **사용 하지 않는 새 제품 키** 옵션을 선택 합니다. (이 구독은 소매점에서 구입한 제품 키를 사용 하 여 만든 경우 다른 결제 방법을 사용 하 여 사용자를 추가 하는 옵션을 사용할 수 있습니다.) 
     
-5. **다음**을 선택합니다.
+5. 
+            **다음**을 선택합니다.
     
 6. 제품 키를 입력 하 고 **다음**을 선택 합니다.
     

@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
 ms.openlocfilehash: 4d911c319c3e8e327f9b3af3ba67816e646bc468
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29899142"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399669"
 ---
 # <a name="how-to-disable-external-groups"></a>외부 그룹을 사용 하지 않도록 설정 하는 방법
 
-Exchange 전송 규칙 (ETRs) 회사 정보 공유 되지 않도록 방지 하기 위해 사전 컨트롤 집합을 적용 하는 외부 메시징 yammer 합니다. 외부 그룹 만들기 (영문)에서 사용자를 제한 하기 위해 (ETR)는 Exchange 전송 규칙을 구성 하 고 다음 외부 메시징 차단 하도록 Exchange 전송 규칙을 사용 하 여 Yammer를 구성 해야 합니다. 
+Yammer 외부 메시징은 회사 정보가 공유 되지 않도록 하는 자동 관리 제어 집합인 etrs (Exchange 전송 규칙)를 적용 합니다. 사용자가 외부 그룹을 만들지 못하도록 제한 하려면 exchange 전송 규칙 (etr)을 구성한 다음 exchange 전송 규칙을 사용 하 여 외부 메시지를 차단 하도록 Yammer를 구성 해야 합니다. 
   
-Exchange Online 관리 센터에서 규칙을 만든 후에 Yammer에 적용할 ETR를 설정 하려면 다음이 단계를 따릅니다.
+Exchange Online 관리 센터에서 규칙을 만들었으면 다음 단계에 따라 Yammer에서 etr을 적용 하도록 설정 합니다.
   
-- 확인 된 관리자로 및 **Yammer 관리 센터**에서 Yammer에 로그온, C로 이동 **ontent 및 보안 \> 보안 설정.**
+- 확인 된 관리자로 yammer에 로그온 하 고 **yammer 관리 센터**에서 C ** \> ontent 및 보안 보안 설정으로 이동 합니다.**
     
-- **외부 메시징**, 선택 **Yammer의 Exchange Online Exchange 전송 규칙 (ETRs)를 적용 합니다.**
+- **외부 메시징**에서 **Yammer에서 exchange Online exchange 전송 규칙 (etrs) 적용을 선택 합니다.**
     
-- **Save(저장)** 를 선택합니다. 
+- **저장**을 선택합니다. 
     
-자세한 내용은 [Exchange 전송 규칙을 사용 하 여 Yammer 네트워크에서 메시징 외부 컨트롤](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9) 을 참조 하십시오.
+자세한 내용은 [Exchange 전송 규칙을 사용 하 여 Yammer 네트워크에서 외부 메시징 제어](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9) 를 참조 하세요.
   
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000013
 ms.assetid: 824035f6-90d3-4ea2-a92b-6b73b4ec0076
 ms.openlocfilehash: 3a75bdbeed346621965e8703af6630da069c4e06
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30782422"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394638"
 ---
 # <a name="change-font-or-font-size-in-outlookcom"></a>Outlook.com에서 글꼴 또는 글꼴 크기 변경
 

@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.openlocfilehash: 1d9c0009e743e2cb514124ba5b9c3292580d9a88
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207979"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399921"
 ---
 # <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Office 365 비즈니스 구독에 대 한 라이선스를 구입 하는 방법
 
-사용자에 게 Office 365 라이선스를 할당할 때 라이선스를 추가로 구입할 필요가 있을 수 있습니다. 이렇게 하려면 다음을 수행 합니다.
+사용자에 게 Office 365 라이선스를 할당할 때 라이선스를 추가로 구입할 필요가 있을 수 있습니다. 이렇게 하려면 다음을 실행합니다.
   
 - Microsoft 365 관리 센터에서 [구독]( https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 하거나 **대금 청구** \> **구독**을 선택 합니다.
     
