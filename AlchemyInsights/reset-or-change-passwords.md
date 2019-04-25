@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
 ms.openlocfilehash: fc76591cc19058b70394fa94e6a2db059e76870e
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766426"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371593"
 ---
-# <a name="reset-or-change-passwords"></a><span data-ttu-id="e3cba-102">암호 다시 설정 또는 변경</span><span class="sxs-lookup"><span data-stu-id="e3cba-102">Reset or change passwords</span></span>
+# <a name="reset-or-change-passwords"></a><span data-ttu-id="0a7ef-102">암호 다시 설정 또는 변경</span><span class="sxs-lookup"><span data-stu-id="0a7ef-102">Reset or change passwords</span></span>
 
-<span data-ttu-id="e3cba-103">사용자가 [내 계정, 보안 &amp; 개인 정보](https://portal.office.com/account/#security)에서 자신의 암호를 변경할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="e3cba-103">A user can change their own password from [My account, Security &amp; privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="0a7ef-103">사용자가 [내 계정, 보안 &amp; 개인 정보](https://portal.office.com/account/#security)에서 자신의 암호를 변경할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="0a7ef-103">A user can change their own password from [My account, Security &amp; privacy](https://portal.office.com/account/#security).</span></span>
   
-<span data-ttu-id="e3cba-104">사용자가 암호를 잊어버린 경우 관리자는 [ \> 사용자 활성 사용자](https://portal.office.com/adminportal/home#/users)로 이동 하 여 암호를 다시 설정할 수 있으며 사용자를 선택 하 고 **암호 다시 설정을**클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="e3cba-104">If the user has forgotten their password, an admin can reset the password by going to [Users \> Active Users](https://portal.office.com/adminportal/home#/users), select the user(s) and click **Reset password**.</span></span> 
+<span data-ttu-id="0a7ef-104">사용자가 암호를 잊어버린 경우 관리자는 [ \> 사용자 활성 사용자](https://portal.office.com/adminportal/home#/users)로 이동 하 여 암호를 다시 설정할 수 있으며 사용자를 선택 하 고 **암호 다시 설정을**클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="0a7ef-104">If the user has forgotten their password, an admin can reset the password by going to [Users \> Active Users](https://portal.office.com/adminportal/home#/users), select the user(s) and click **Reset password**.</span></span> 
   
-<span data-ttu-id="e3cba-105">자세히 알아보거나, 사용자가 잊어버린 암호를 다시 설정할 수 있도록 하려면 [여기를 클릭](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c)하세요.</span><span class="sxs-lookup"><span data-stu-id="e3cba-105">[Click here to learn more](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="0a7ef-105">자세히 알아보거나, 사용자가 잊어버린 암호를 다시 설정할 수 있도록 하려면 [여기를 클릭](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c)하세요.</span><span class="sxs-lookup"><span data-stu-id="0a7ef-105">[Click here to learn more](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), or to let users reset their own forgotten passwords.</span></span>
   
 

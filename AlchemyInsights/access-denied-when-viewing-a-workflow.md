@@ -1,5 +1,5 @@
 ---
-title: 워크플로 볼 때 액세스 거부 되었습니다.
+title: 워크플로를 볼 때 액세스 거부 됨
 ms.author: kirks
 author: Techwriter40
 ms.date: 11/27/2018
@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
 ms.openlocfilehash: 43369c600687d6ac253f70a8535dc2bd0d41687e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918834"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389893"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a><span data-ttu-id="6b1ce-102">워크플로 볼 때 액세스 거부 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="6b1ce-102">Access denied when viewing a Workflow</span></span>
+# <a name="access-denied-when-viewing-a-workflow"></a><span data-ttu-id="76bb0-102">워크플로를 볼 때 액세스 거부 됨</span><span class="sxs-lookup"><span data-stu-id="76bb0-102">Access denied when viewing a Workflow</span></span>
 
-<span data-ttu-id="6b1ce-103">SharePoint 2013 워크플로 SharePoint 그룹에 전자 메일을 보내려고 시도 하는 모든 사용자에 게 SharePoint 그룹의 구성원 자격 설정 되지 않은 경우 "액세스 거부" 라는 오류 메시지가 실패할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="6b1ce-103">SharePoint 2013 Workflows that attempt to send an email to a SharePoint group can fail with an "Access Denied" error message if the membership of the SharePoint group is not set to Everyone.</span></span>
+<span data-ttu-id="76bb0-103">sharepoint 2013 sharepoint 그룹의 구성원 자격이 모든 사람으로 설정 되어 있지 않으면 sharepoint 그룹에 전자 메일을 보내려고 할 때 "액세스 거부" 라는 오류 메시지가 나타나지 않을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="76bb0-103">SharePoint 2013 Workflows that attempt to send an email to a SharePoint group can fail with an "Access Denied" error message if the membership of the SharePoint group is not set to Everyone.</span></span>
   
- <span data-ttu-id="6b1ce-104">**이 문제를 해결 하려면 다음이 단계를 수행 합니다.**</span><span class="sxs-lookup"><span data-stu-id="6b1ce-104">**To resolve this issue, do these steps:**</span></span>
+ <span data-ttu-id="76bb0-104">**이 문제를 해결 하려면 다음 단계를 수행 합니다.**</span><span class="sxs-lookup"><span data-stu-id="76bb0-104">**To resolve this issue, do these steps:**</span></span>
   
- 1. <span data-ttu-id="6b1ce-105">SharePoint 그룹의 구성원을 보려면 모든 사용자에 게 허용 합니다.</span><span class="sxs-lookup"><span data-stu-id="6b1ce-105">Allow everybody to see the members of the SharePoint group.</span></span> 
+ 1. <span data-ttu-id="76bb0-105">모든 사람이 SharePoint 그룹의 구성원을 볼 수 있도록 허용 합니다.</span><span class="sxs-lookup"><span data-stu-id="76bb0-105">Allow everybody to see the members of the SharePoint group.</span></span> 
   
- 2. <span data-ttu-id="6b1ce-106">받는 사람 또는 참조에서 SharePoint 그룹을 제거는 전자 메일의 줄 합니다.</span><span class="sxs-lookup"><span data-stu-id="6b1ce-106">Remove the SharePoint group from the To or CC line of the email.</span></span> 
+ 2. <span data-ttu-id="76bb0-106">전자 메일의 받는 사람 또는 참조 줄에서 SharePoint 그룹을 제거 합니다.</span><span class="sxs-lookup"><span data-stu-id="76bb0-106">Remove the SharePoint group from the To or CC line of the email.</span></span> 
   
- 3. <span data-ttu-id="6b1ce-107">받는 사람 또는 참조에는 사용자를 명시적으로 추가 SharePoint 그룹에 대 한 멤버 자격 표시 여부를 변경할 수 없는 경우 선입니다.</span><span class="sxs-lookup"><span data-stu-id="6b1ce-107">Explicitly add the users to the To or CC line if the membership visibility cannot be changed for SharePoint group.</span></span> 
+ 3. <span data-ttu-id="76bb0-107">SharePoint 그룹에 대 한 멤버 자격 표시 유형을 변경할 수 없는 경우 to 또는 CC 줄에 사용자를 명시적으로 추가 합니다.</span><span class="sxs-lookup"><span data-stu-id="76bb0-107">Explicitly add the users to the To or CC line if the membership visibility cannot be changed for SharePoint group.</span></span> 
   
-<span data-ttu-id="6b1ce-108">보려면 자세한 내용은 [/_vti_bin/client.svc/sp.utilities.utility.SendEmail에 무단으로 HTTP를 ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="6b1ce-108">To view more details please refer to [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span></span>
+<span data-ttu-id="76bb0-108">자세한 내용을 보려면 [HTTP 허용 안/_vti_bin/client.svc/sp.utilities.utility.SendEmail을 ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="76bb0-108">To view more details please refer to [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span></span>
   
 
