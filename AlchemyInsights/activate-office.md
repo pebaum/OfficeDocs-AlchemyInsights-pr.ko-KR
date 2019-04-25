@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 89af7e4b-9b49-4c50-a604-21003ad30004
 ms.openlocfilehash: 56f857d9dfa5e30b56788b2eeb3756ec06ea6e5a
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767002"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32391480"
 ---
-# <a name="activate-office"></a><span data-ttu-id="cb39f-102">Office 정품 인증</span><span class="sxs-lookup"><span data-stu-id="cb39f-102">Activate Office</span></span>
+# <a name="activate-office"></a><span data-ttu-id="66736-102">Office 정품 인증</span><span class="sxs-lookup"><span data-stu-id="66736-102">Activate Office</span></span>
 
-<span data-ttu-id="cb39f-103">회사 또는 학교 계정을 사용 하 여 로그인 하 여 Office를 정품 인증할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="cb39f-103">You can activate Office by signing in using your work or school account.</span></span> <span data-ttu-id="cb39f-104">이 문서의 단계를 사용 하 여 office 정품 인증 [](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx)을 받아야 합니다.</span><span class="sxs-lookup"><span data-stu-id="cb39f-104">Use the steps in this article to activate Office: [Activate Office](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span></span>
+<span data-ttu-id="66736-103">회사 또는 학교 계정을 사용 하 여 로그인 하 여 Office를 정품 인증할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="66736-103">You can activate Office by signing in using your work or school account.</span></span> <span data-ttu-id="66736-104">이 문서의 단계를 사용 하 여 office 정품 인증 [](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx)을 받아야 합니다.</span><span class="sxs-lookup"><span data-stu-id="66736-104">Use the steps in this article to activate Office: [Activate Office](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span></span>
   
 
