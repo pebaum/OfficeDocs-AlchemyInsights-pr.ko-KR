@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
 ms.openlocfilehash: 0ca85a43f21935708f8a9c689306ed3560627dea
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747388"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402409"
 ---
 # <a name="error-messages-when-sharing"></a>공유할 때 발생 하는 오류 메시지
 

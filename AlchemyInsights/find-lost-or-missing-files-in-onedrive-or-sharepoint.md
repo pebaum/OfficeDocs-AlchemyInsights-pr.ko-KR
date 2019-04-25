@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
 ms.openlocfilehash: 3da4aab8de8ac36d87a51f101d6da304e1b383f5
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757608"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401547"
 ---
 # <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>OneDrive 또는 SharePoint에서 손실 되거나 누락 된 파일 찾기
 
