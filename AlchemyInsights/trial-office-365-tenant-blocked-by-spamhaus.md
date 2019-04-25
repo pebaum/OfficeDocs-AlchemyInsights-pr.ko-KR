@@ -9,12 +9,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.openlocfilehash: 7162b8b89c09834332eefc17f6e0f9a6e214f955
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859074"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420454"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="c6857-102">Office 365 평가판 사용자가 전자 메일을 보낼 때 발생 하는 오류: spamhaus을 사용 하 여 클라이언트 호스트가 차단 됨</span><span class="sxs-lookup"><span data-stu-id="c6857-102">Error when an Office 365 trial user sends email: Client host blocked using Spamhaus</span></span>
+# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="22a8c-102">Office 365 평가판 사용자가 전자 메일을 보낼 때 발생 하는 오류: spamhaus을 사용 하 여 클라이언트 호스트가 차단 됨</span><span class="sxs-lookup"><span data-stu-id="22a8c-102">Error when an Office 365 trial user sends email: Client host blocked using Spamhaus</span></span>
 
-<span data-ttu-id="c6857-103">새 Office 365 평가판 조 직에서 전자 메일을 보내는 것으로 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="c6857-103">It appears that you are sending email from a new Office 365 trial organization.</span></span> <span data-ttu-id="c6857-104">악용을 방지 하기 위해 이전에 손상 된 것으로 알려진 IP 주소를 차단 합니다.</span><span class="sxs-lookup"><span data-stu-id="c6857-104">To help prevent abuse, we block IP addresses that are known to have been previously compromised.</span></span> <span data-ttu-id="c6857-105">이 특정 검사는 유료 라이선스 사용을 시작한 후 더 이상 적용 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="c6857-105">This specific check is no longer enforced after you start using paid licenses.</span></span> <span data-ttu-id="c6857-106">ISP (인터넷 서비스 공급자) 로부터 새 IP 주소를 요청 하거나 [spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) 웹 사이트에서 해당 블록을 제거 하 여 임시 릴리프를 받을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="c6857-106">You might be able to get temporary relief by asking for a new IP address from your internet service provider (ISP), or by removing the block from the [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) website.</span></span>
+<span data-ttu-id="22a8c-103">새 Office 365 평가판 조 직에서 전자 메일을 보내는 것으로 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="22a8c-103">It appears that you are sending email from a new Office 365 trial organization.</span></span> <span data-ttu-id="22a8c-104">악용을 방지 하기 위해 이전에 손상 된 것으로 알려진 IP 주소를 차단 합니다.</span><span class="sxs-lookup"><span data-stu-id="22a8c-104">To help prevent abuse, we block IP addresses that are known to have been previously compromised.</span></span> <span data-ttu-id="22a8c-105">이 특정 검사는 유료 라이선스 사용을 시작한 후 더 이상 적용 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="22a8c-105">This specific check is no longer enforced after you start using paid licenses.</span></span> <span data-ttu-id="22a8c-106">ISP (인터넷 서비스 공급자) 로부터 새 IP 주소를 요청 하거나 [spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) 웹 사이트에서 해당 블록을 제거 하 여 임시 릴리프를 받을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="22a8c-106">You might be able to get temporary relief by asking for a new IP address from your internet service provider (ISP), or by removing the block from the [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) website.</span></span>
