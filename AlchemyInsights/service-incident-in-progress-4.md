@@ -1,5 +1,5 @@
 ---
-title: 진행 중인 서비스 문제
+title: 서비스 인시던트가 진행 중입니다.
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 9/19/2017
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e3fa17dd-c822-41e7-aaba-d9d2c5381fd6
 ms.openlocfilehash: 1d8f8f71cd4176e14c06beb3866a1c67a742b20d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937086"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421858"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="982ae-102">진행 중인 서비스 문제</span><span class="sxs-lookup"><span data-stu-id="982ae-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="5fd54-102">서비스 인시던트가 진행 중입니다.</span><span class="sxs-lookup"><span data-stu-id="5fd54-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="982ae-p101">문제가 발생 한 서비스에 의해 영향을 받을 수 있습니다 또는 자문 하는 현재 조사 중입니다. [서비스 상태](https://admin.microsoft.com/adminportal/home#/servicehealth) 페이지로 이동 하 여 최신 상태를 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="982ae-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span> 
+<span data-ttu-id="5fd54-103">현재 조사 중인 서비스 인시던트 또는 권고의 영향을 받을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5fd54-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="5fd54-104">[서비스 상태](https://admin.microsoft.com/adminportal/home#/servicehealth) 페이지로 이동 하 여 최신 상태를 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5fd54-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span> 
   
-<span data-ttu-id="982ae-105">사용자 편의 위해 아래이 인시던트의 요약을 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="982ae-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="5fd54-105">사용자의 편의를 위해 아래에서이 문제에 대 한 요약을 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5fd54-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="982ae-106">**인시던트 번호:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="982ae-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="5fd54-106">**인시던트 번호:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="5fd54-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="982ae-107">설명에 영향을 줄: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="982ae-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="5fd54-107">영향 설명: { actdescription}</span><span class="sxs-lookup"><span data-stu-id="5fd54-107">Impact description: {ImpactDescription}</span></span>
     
 
