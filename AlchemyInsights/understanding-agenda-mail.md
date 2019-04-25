@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom: 413
 ms.assetid: 90e254a1-19b7-4715-beaa-31b938473b07
 ms.openlocfilehash: 230bd82839355059e9e3c4c53c97b51e4926016d
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31857706"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423909"
 ---
-# <a name="understanding-agenda-mail"></a><span data-ttu-id="eea2c-102">의제 메일 이해</span><span class="sxs-lookup"><span data-stu-id="eea2c-102">Understanding agenda mail</span></span>
+# <a name="understanding-agenda-mail"></a><span data-ttu-id="c38f5-102">의제 메일 이해</span><span class="sxs-lookup"><span data-stu-id="c38f5-102">Understanding agenda mail</span></span>
 
-<span data-ttu-id="eea2c-103">자세한 내용은 [웹용 Outlook의 일정 설정을](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx)참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="eea2c-103">For more information, see [Calendar settings in Outlook on the web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx).</span></span>
+<span data-ttu-id="c38f5-103">자세한 내용은 [웹용 Outlook의 일정 설정을](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx)참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="c38f5-103">For more information, see [Calendar settings in Outlook on the web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx).</span></span>
