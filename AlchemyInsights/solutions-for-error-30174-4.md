@@ -13,11 +13,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
 ms.openlocfilehash: bf6bfc5f24ebcb1c2ec60de32eb12812a1044020
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30765922"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369756"
 ---
 # <a name="error-code-30174-4-when-installing-office"></a>Office를 설치할 때 발생 하는 오류 코드 30174-4
 

@@ -1,5 +1,5 @@
 ---
-title: Office를 설치 하는 동안 문제에 대 한 솔루션
+title: Office를 설치 하는 동안 발생할 문제에 대 한 해결 방법
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -10,31 +10,31 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
 ms.openlocfilehash: 7a7148a1c2d0e812ab92a5132b8b4034031f8fc8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942378"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370135"
 ---
-# <a name="solutions-for-issues-while-installing-office"></a>Office를 설치 하는 동안 문제에 대 한 솔루션
+# <a name="solutions-for-issues-while-installing-office"></a>Office를 설치 하는 동안 발생할 문제에 대 한 해결 방법
 
 
-Office 오류를 해결 하려면 이러한 솔루션 중 하나를 수행 합니다.
+다음 해결 방법 중 하나를 수행 하 여 Office 오류를 수정 합니다.
   
-- 컴퓨터를 다시 시작 하 고 [Office 설치를](https://portal.office.com/OLS/MySoftware.aspx)시도 합니다.
+- 컴퓨터를 다시 시작 하 고 [Office를 설치](https://portal.office.com/OLS/MySoftware.aspx)해 봅니다.
     
-- 다운로드 하 고는 [지원 및 복구 도우미](https://aka.ms/SARA-OfficeUninstall-Alchemy)를 설치 합니다.
+- [지원 및 복구 도우미](https://aka.ms/SARA-OfficeUninstall-Alchemy)를 다운로드 하 고 설치 합니다.
     
-1. 열릴 때 **제거 Office 제품** 에서 제거 하 고 **다음**을 선택 하려면 버전을 선택 합니다. 
+1. 양식을 열면 **Office 제품 제거** 에서 제거 하려는 버전을 선택 하 고 **다음**을 선택 합니다. 
     
-2. 화면을 거치지 계속 하 고 메시지가 표시 되 면 컴퓨터를 다시 시작 합니다.
+2. 화면을 계속 진행 하 고 메시지가 표시 되 면 컴퓨터를 다시 시작 합니다.
     
-    를 다시 시작한 후 지원 및 복구 도우미 자동으로 다시 열립니다 제거 프로세스를 완료 합니다.
+    다시 시작한 후에는 지원 및 복구 도우미가 자동으로 다시 열리므로 제거 프로세스를 완료 합니다.
     
-3. 나머지 음성 안내의 경우와 [Office를 다시](https://portal.office.com/OLS/MySoftware.aspx) 따르거나 길잡이 닫습니다. 
+3. 나머지 메시지를 팔 로우 하 고 [Office를 다시 설치](https://portal.office.com/OLS/MySoftware.aspx) 하거나 도우미를 닫습니다. 
     
-- [오프 라인 설치 관리자는 Office 사용 하 여](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) Office를 설치 하려면 
+- [office 오프 라인 설치 관리자를 사용](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) 하 여 office 설치 
     
-설치 오류에 대 한 자세한 내용은 [Office를 설치 하는 경우 오류 메시지](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages)를 참조 하십시오.
+설치 오류에 대 한 자세한 내용은 [Office를 설치할 때 오류 메시지](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages)를 참조 하십시오.
   
 

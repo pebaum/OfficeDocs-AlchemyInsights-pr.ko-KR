@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
 ms.openlocfilehash: f333957a585d16207aabe0f9de4d4b72b9e1ce63
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913326"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32374078"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint Online 제한
 
-SharePoint Online를 사용 하 여 제한 최적의 성능과 안정성을 SharePoint Online 서비스를 유지 관리 합니다. 제한 제한의 사용자 작업 또는 동시 호출 수 (스크립트 또는 코드)가 리소스를 과다 사용을 방지 하기 위해. 하면 제한 가져올 수행 하는 경우 99%의 사용자 지정 코드 때문에 시간입니다.
+sharepoint online에서는 제한 기능을 사용 하 여 sharepoint online 서비스의 최적의 성능과 안정성을 유지 관리 합니다. 제한은 리소스를 과도 하 게 사용 하지 못하도록 사용자 작업 수 또는 스크립트 또는 코드에의 한 동시 통화를 제한 합니다. 제한 된 시간이 되 면 사용자 지정 코드로 인해 발생 한 99%가 됩니다.
   
-에 대 한 자세한 내용은 제한 [제한할지 또는 SharePoint Online에서 차단 되는 시작 되는 문제 방지](https://go.microsoft.com/fwlink/?linkid=2022019) 을 참조 하십시오
+제한에 대 한 자세한 내용은 [SharePoint Online에서 제한 또는 차단 방지](https://go.microsoft.com/fwlink/?linkid=2022019) 를 참조 하세요.
   
 

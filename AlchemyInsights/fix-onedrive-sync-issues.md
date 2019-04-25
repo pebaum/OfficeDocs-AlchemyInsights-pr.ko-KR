@@ -1,5 +1,5 @@
 ---
-title: OneDrive 동기화 문제 수정
+title: OneDrive 동기화 문제 해결
 ms.author: matteva
 author: pebaum
 ms.date: 6/29/2018
@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aaa8b266-5cd6-4aea-86c1-b54e062dd2bc
 ms.openlocfilehash: 0c2d1b71e9a6b9376d0315965af80651cc99e9fb
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969323"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401262"
 ---
 # <a name="fix-onedrive-sync-problems"></a>OneDrive 동기화 문제 해결
 
-OneDrive 예상 되는 방식으로 파일을 동기화 되지 않습니다, [OneDrive 동기화 문제를 해결할](https://go.microsoft.com/fwlink/?linkid=866431)수 있습니다.
+onedrive에서 파일을 원하는 방식으로 동기화 하지 않으면 [onedrive 동기화 문제를 해결할](https://go.microsoft.com/fwlink/?linkid=866431)수 있습니다.
   
 

@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom: 1048
 ms.openlocfilehash: 06be6babc524ae0d8065355218426c695f49be66
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31856626"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32365868"
 ---
 # <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>등록 되지 않은 도메인에서 5.7.750 클라이언트의 송신이 차단 됨
 

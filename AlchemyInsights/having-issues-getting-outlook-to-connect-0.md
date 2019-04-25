@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
 ms.openlocfilehash: 0a7522f25b2aa4e26e9686040de009bc83fc4a39
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209275"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400418"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>연결 하기 위해 Outlook을 실행 하는 데 문제가 있나요?
 
