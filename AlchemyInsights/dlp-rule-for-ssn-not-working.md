@@ -1,5 +1,5 @@
 ---
-title: 작동 하지 않는 SSN에 대 한 DLP 규칙
+title: SSN에 대 한 DLP 규칙이 작동 하지 않음
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,38 +10,38 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
 ms.openlocfilehash: d2d21fb5546d36990d69b76e3ceb72ce2edf3d80
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933486"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404423"
 ---
-**데이터 손실 방지 (DLP)** Office 365의 중요 한 정보 유형을 사용 하는 경우에 **사회보장 번호 (SSN)를** 포함 하는 콘텐츠에 대 한 작동 하지 않음에 문제가 있을? 그렇다면 콘텐츠 DLP 정책을 찾고이 기능에 대 한 필요한 정보를 포함 되어있는지 확인 합니다. 
+Office 365에서 중요 한 정보 유형을 사용 하는 경우 **SSN (사회 보장 번호** )이 포함 된 콘텐츠에 대해 **DLP (데이터 손실 방지)** 가 작동 하지 않는 문제를 겪고 있습니까? 해당 하는 경우 콘텐츠에 DLP 정책에서 찾는 항목에 대 한 필요한 정보가 포함 되어 있는지 확인 합니다. 
   
-등 85%의 신뢰 수준으로 구성 하는 SSN 정책에 대 한 다음 계산 되 및 트리거 규칙에 대 한 검색 해야:
+예를 들어, 신뢰 수준이 85% 인 SSN 정책의 경우 다음이 평가 되며 규칙을 트리거하기 위해 검색 되어야 합니다.
   
-- 서식이 지정 된 또는 서식이 지정 되지 않은 패턴에 있을 수 있는 **[형식:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-80)** 9 자리 
+- **[서식:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-80)** 9 자리 숫자, 서식이 지정 되거나 서식 없는 패턴으로 표시 될 수 있습니다. 
     
-- **[패턴:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** 4 개의 함수 SSNs 4 개의 서로 다른 패턴에 나타나는지 확인합니다. 
+- **[Pattern:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** 다음의 네 가지 패턴에서 ssns를 검색 하는 함수는 다음과 같습니다. 
     
-  - Func_ssn p r e 2011 강력한 서식이 적용 된 대시 또는 공백 (ddd-dd-dddd OR ddd dd dddd)으로 포맷 된 SSNs 발견
+  - Func_ssn는 대시 또는 공백을 사용 하 여 서식이 지정 된 2011 이전의 고급 서식 (ddd-dd-dddd 또는 ddd dd dd)을 사용 하 여 ssns를 찾습니다.
     
-  - Func_unformatted_ssn p r e 2011 강력한 서식이 지정 된 연속 되는 숫자 9 개 (ddddddddd)로 서식이 지정 된 되지 않은 SSNs 발견
+  - Func_unformatted_ssn는 형식이 지정 되지 않은 2011 이전 형식으로 서식이 지정 된 ssns를 찾습니다 (ddddddddd).
     
-  - Func_randomized_formatted_ssn 대시 또는 공백 (ddd-dd-dddd OR ddd dd dddd)로 서식이 지정 된 게시물 2011 SSNs 발견
+  - Func_randomized_formatted_ssn는 대시 또는 공백으로 서식이 지정 된 post-2011 ssns를 찾습니다 (ddd-dd-dddd 또는 ddd dd dddd).
     
-  - Func_randomized_unformatted_ssn 연속 되는 숫자 9 개 (ddddddddd)로 서식이 지정 된 되지 않은 게시물 2011 SSNs 발견
+  - Func_randomized_unformatted_ssn는 형식 없는 2011 ssns를 찾고, 서식이 없는 9 자리 숫자 (ddddddddd)를 찾습니다.
     
-- **[체크섬:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-79)** 아니요, 체크섬이 없으면 
+- **[검사 값:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-79)** 아니요, 체크섬이 없습니다. 
     
-- **[정의:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** DLP 정책은 이러한 종류의 중요 한 정보를 감지 했습니다 판단 85%에 근접 300 자 내에 있는 경우,: 
+- **[정의:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** DLP 정책은 300 문자에 근접 한 경우이 유형의 중요 한 정보를 검색 한다는 것을 85% 확신 합니다. 
     
-  - 다음은 [함수 Func_ssn은](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80) 패턴과 일치 하는 콘텐츠를 찾습니다. 
+  - [Func_ssn 함수가](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80) 해당 패턴과 일치 하는 콘텐츠를 찾습니다. 
     
-  - [Keyword_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn) 에서 키워드를 발견 됩니다. 키워드의 예를 포함: *주민등록, 주민등록 #, Soc 초, SSN* 합니다. 다음 샘플 DLP SSN 정책에 대 한 트리거할 예: **SSN: 489-36-8350**
+  - [Keyword_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn)의 키워드가 발견되었습니다. 키워드의 예에는 *사회 보안, 주민 보안 #, Soc Sec, SSN이* 포함 됩니다. 예를 들어 다음 샘플은 DLP ssn 정책에 대해 트리거됩니다. **ssn: 489-36-8350**
     
-콘텐츠에 대 한 검색 되도록 하려면 SSNs에 대 한 필요한 것에 대 한 자세한 내용은이 문서의 다음 섹션을 참조 하십시오.: [어떤 중요 한 정보 유형 SSNs 찾습니다](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us-social-security-number-ssn)
+콘텐츠에 대해 ssns를 검색 하는 데 필요한 사항에 대 한 자세한 내용은이 문서의 다음 섹션에서 [중요 한 정보 유형이 ssns에 대해 어떤 모양 인지](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us-social-security-number-ssn) 를 참조 하세요.
   
-다른 종류에 대 한 필요한에 정보에 대 한 다음 문서를 참조를 다른 기본 제공 중요 한 정보 형식을 사용 하 여: [어떤 중요 한 정보 유형 찾습니다](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+기본 제공 되는 다른 중요 한 정보 유형을 사용 하는 경우 [중요 한 정보 유형이 찾는 항목](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for) 에 대 한 자세한 내용은 다음 문서를 참조 하십시오.
   
 

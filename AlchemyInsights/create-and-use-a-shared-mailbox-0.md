@@ -1,5 +1,5 @@
 ---
-title: 만들기 및 공유 사서함을 사용 하 여
+title: 공유 사서함 만들기 및 사용
 ms.author: dmaguire
 author: msdmaguire
 manager: serdars
@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.openlocfilehash: 1171fc78b817c73162cd3fdad48cd7d517bd15f7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906702"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406998"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>만들기 및 공유 사서함을 사용 하 여
+# <a name="create-and-use-a-shared-mailbox"></a>공유 사서함 만들기 및 사용
 
-공유 사서함에 둘 이상의 사용자를 다른 라이선스를 할당 하지 않고 **sales@contoso.com**같은 별칭에 대 한 전자 메일을 주고받을 수 있습니다.
+공유 사서함을 사용 하면 다른 라이선스를 할당 하지 않고 **sales@contoso.com**같은 별칭에 대 한 전자 메일을 보내고 받을 수 있습니다.
   
-[공유 사서함 만들기](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) 에 대해 설명 하는 방법: 
+[공유 사서함 만들기](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) 다음 방법에 대해 설명 합니다. 
   
 - 공유 사서함 만들기
     
-- 공유 사서함을 사용할 수 있는 권한을 사용자에 게 제공
+- 사용자에 게 공유 사서함 사용 권한을 부여 합니다.
     
-- 웹에 있는 Outlook 또는 Outlook에서 공유 사서함에 액세스
+- outlook 또는 웹용 outlook에서 공유 사서함 액세스
     
 
