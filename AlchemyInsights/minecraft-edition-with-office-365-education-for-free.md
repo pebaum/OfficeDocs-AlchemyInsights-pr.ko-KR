@@ -1,5 +1,5 @@
 ---
-title: Office 365와 함께 Minecraft Edition에 대 한 교육 있음
+title: 무료 Office 365 교육을 제공 하는 Minecraft Edition
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,28 +10,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
 ms.openlocfilehash: 889c50a5f350a51cd042bbcd231ad8d201288dae
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902130"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419338"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>Office 365와 함께 Minecraft Edition에 대 한 교육 있음
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>무료 Office 365 교육을 제공 하는 Minecraft Edition
 
-[Office 365와 함께 Minecraft Edition에 대 한 교육 있음](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[무료 Office 365 교육을 제공 하는 Minecraft Edition](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- **Minecraft: 교육 에디션** Windows 10 필요 
+- **Minecraft: 교육용 Edition** 에는 Windows 10이 필요 합니다. 
     
-- Trials 또는의 구독 **Minecraft: 교육 에디션** Azure Active Directory (Azure AD) 하 여 관리 되는 교육 테 넌 트에 제공 되는 
+- Minecraft의 평가판 또는 구독은 azure Active Directory에 의해 관리 되는 교육 테 넌 트에 제공 됩니다 (azure AD) **.** 
     
-  - 학교는 [IT 관리자에 게 하나를 설정할 수](https://docs.microsoft.com/education/windows/school-get-minecraft) 시작 하는 프로세스의 일부로 Azure AD 보유자를 없으면 **Minecraft: 교육 에디션**합니다.
+  - 학교에서 Azure AD 테 넌 트가 없는 경우 IT 관리자는 **Minecraft: 교육용 Edition**을 가져오는 프로세스의 일부로 [하나를 설정할 수 있습니다](https://docs.microsoft.com/education/windows/school-get-minecraft) .
     
-  - Office 앱 plus 1TB 온라인 저장소의 온라인 버전을 포함 하는 office 365 교육 학생 및 교사 되지 않습니다. [Office 365 교육 에디션 학교를 등록](https://products.office.com/academic/office-365-education-plan)합니다.
+  - office 365 교육: office 앱의 온라인 버전 및 1tb 온라인 저장소는 교사와 학생에 게 무료로 제공 됩니다. [학교에 Office 365 교육을 신청](https://products.office.com/academic/office-365-education-plan)합니다.
     
-  - 무료 포함 학교 Office 365 교육 구독 있으면 Azure AD 구독 합니다. [등록 무료 Azure AD 구독](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)합니다.
+  - 학교에서 Office 365 교육용 구독을 사용 하는 경우 무료 Azure AD 구독을 포함 합니다. [무료 Azure AD 구독을 등록](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)합니다.
     
-[교사 수 얻고 Minecraft를 배포 하는 방법에 대해 알아봅니다: 교육 에디션](https://docs.microsoft.com/education/windows/teacher-get-minecraft)합니다.
+[교사는 Minecraft를 가져오고 배포 하는 방법을 알아봅니다](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   
-[IT 관리자 수 얻고 Minecraft를 배포 하는 방법에 대해 알아봅니다: 교육 에디션](https://docs.microsoft.com/education/windows/school-get-minecraft), Minecraft에 대 한 사용 권한을 관리 하는 방법과 합니다.
+[IT 관리자가 Minecraft를 가져오고 배포 하는 방법에 대해 알아보고](https://docs.microsoft.com/education/windows/school-get-minecraft)Minecraft의 사용 권한을 관리 하는 방법을 알아봅니다.
   
 

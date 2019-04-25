@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
 ms.openlocfilehash: 590dd3d603cfe6581b7dac752ea82df1eab2a141
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914658"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409838"
 ---
 # <a name="ios-provisioning-profiles"></a>iOS 프로 비전 프로필
 
-Apple iOS-업무용 응용 프로그램의 무결성을 확인 하 고 프로필에 정의 된 정책 적용 하는데 사용 되는 프로 비전 프로필의 개념을 사용 합니다. 12 개월 후에 만료 되도록 이러한 프로필을 배포 하 고 있으므로 새 프로필을 계속 실행 하는 앱에 대 한 순서에 배포 된 응용 프로그램와 연결 해야 합니다.
+Apple iOS 기간 업무-응용 프로그램의 무결성을 검사 하 고 프로필에 정의 된 정책을 적용 하는 데 사용 되는 프로 비전 프로필의 개념을 사용 합니다. 이러한 프로 비전 프로필은 12 개월 후에 만료 되므로 앱을 계속 실행 하려면 새 프로필을 배포 된 앱에 연결 해야 합니다.
   
-다음 문서를 Intune를 통해 배포 된 LOB 응용 프로그램은 iOS와 프로필을 새 프로 비전 연결을 만드는 방법에 설명: [이 만료에서 앱을 방지 하기 위해 사용 하 여 iOS app 프로 비전 프로필](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+다음 문서에서는 Intune을 통해 배포 된 ios LOB 앱에 새 프로 비전 프로필을 연결 하는 방법에 대해 설명 합니다. [ios 앱 프로 비전 프로필을 사용 하 여 앱이 만료 되지 않도록](https://docs.microsoft.com/intune/app-provisioning-profile-ios) 합니다.
   
 

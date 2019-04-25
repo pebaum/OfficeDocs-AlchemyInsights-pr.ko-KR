@@ -1,5 +1,5 @@
 ---
-title: 관리 되는 메타 데이터 서비스 오류 메시지
+title: Managed Metadata Service 오류 메시지
 ms.author: kirks
 author: Techwriter40
 ms.date: 12/17/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
 ms.openlocfilehash: 52c9d772410569adef01ea78bdfb21ab192a70b5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901590"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409120"
 ---
-# <a name="managed-metadata-service-error-message"></a>관리 되는 메타 데이터 서비스 오류 메시지
+# <a name="managed-metadata-service-error-message"></a>Managed Metadata Service 오류 메시지
 
-용어 저장소를 열 때 오류 메시지가 나타날: "관리 되는 메타 데이터 서비스 또는 연결 현재 사용할 수 없는 경우 응용 프로그램 풀 또는 관리 되는 메타 데이터 웹 서비스 하지 시작 되었습니다. 관리자에 게 문의 문의 하십시오. "
+용어 저장소를 열면 "Managed Metadata Service 또는 Connection을 현재 사용할 수 없습니다." 라는 오류 메시지가 표시 될 수 있습니다. 응용 프로그램 풀 또는 관리 되는 메타 데이터 웹 서비스가 시작 되지 않았을 수 있습니다. 관리자에 게 문의 하세요. "
   
-이 문제를 처음으로 본 이후 24 시간 이상 경과, 기술 지원 요청을 기록 하십시오. 24 시간으로 오랫동안 보일 수는 해 대부분의 경우에는 이미 작업 중인 솔루션에 있으므로 보내 주십시오 24 시간 이상입니다.
+이 문제가 처음 발생 한 것으로 24 시간 이상 경과 하면 지원 사례를 기록 하세요. 24 시간이 오래 된 것 처럼 보일 수 있다는 사실을 이해 하 고 있습니다. 대부분의 경우 솔루션에서 이미 작업 중 이므로 최소 24 시간을 제공 해 주세요.
   
 

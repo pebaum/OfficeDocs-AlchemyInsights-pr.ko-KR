@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
 ms.openlocfilehash: 708365cefa79c9bc0268897ac34d980306a846c2
-ms.sourcegitcommit: 74e18e743273d5e759e8f00bd8fb16c471d42b40
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "30935607"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405630"
 ---
 # <a name="delete-a-sharepoint-site"></a>SharePoint 사이트 삭제
 **새 SharePoint 관리 센터에서 사이트 삭제** 새 SharePoint 관리 센터를 사용 하 여 클래식 및 최신 사이트를 모두 삭제할 수 있습니다. **활성 사이트**를 선택 하 고 사이트를 선택한 다음 **삭제**를 선택 합니다. [새 SharePoint 관리 센터에서 삭제 된 사이트를 보거나 복원](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)하려면 삭제 된 **사이트**를 선택 합니다. 자세한 내용은 [새 SharePoint 관리 센터에서 사이트 삭제](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center)를 참조 하세요.

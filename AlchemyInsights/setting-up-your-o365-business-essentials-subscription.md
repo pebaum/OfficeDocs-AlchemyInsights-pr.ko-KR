@@ -9,21 +9,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f32262a370abf8b6e0801cd0741f827a9d4be707
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207871"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421390"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>O365 Business Essentials 구독 설정
 
 Office 365 계정 만들기 및 도메인 추가
   
-- 이 단계에서는 설치 마법사를 사용 하 여 사용자에 대 한 Office 365 계정을 만들고 자체 도메인을 추가 합니다. 이 마법사를 사용 하면 [rob@contoso.com](mailto:rob@contoso.com)와 같이 모든 사용자의 비즈니스 ID와 전자 메일을 개인 설정할 수 있습니다.
+- 이 단계에서는 설치 마법사를 사용하여 사용자의 Office 365 계정을 만들고 도메인을 추가합니다. 이 마법사를 사용 하면 [rob@contoso.com](mailto:rob@contoso.com)와 같이 모든 사용자의 비즈니스 ID와 전자 메일을 개인 설정할 수 있습니다.
     
 - [Microsoft 365 관리 센터로](https://login.partner.microsoftonline.cn/)이동 합니다.
     
-- 마법사를 시작 하려면 설정으로 **이동을**선택 합니다. 자세한 내용은 [Office 365에 사용자 및 도메인 추가](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)를 참조 하세요.
+- 마법사를 시작하려면 **설정으로 이동**을 선택합니다. 자세한 내용은 [Office 365에 사용자 및 도메인 추가](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)를 참조하세요.
     
 전자 메일 가져오기
   
@@ -31,7 +31,7 @@ Office 365 계정 만들기 및 도메인 추가
     
 - 전자 메일 계정 연결
     
-  - outlook에서 Office 365 전자 메일을 관리할 뿐만 아니라 Gmail 및 Yahoo 계정과 같은 다른 전자 메일 계정을 outlook에 연결할 수도 있습니다. 이렇게 하면 모든 전자 메일을 한 곳에서 관리할 수 있습니다. 최대 5 개의 전자 메일 계정을 Outlook에 연결할 수 있습니다. 자세한 내용은 [웹용 Outlook에서 전자 메일 계정 연결 (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) 을 참조 하십시오. 
+  - Outlook에서 Office 365 전자 메일을 관리할 뿐만 아니라 Gmail 및 Yahoo 계정과 같은 다른 전자 메일 계정을 Outlook에 연결할 수도 있습니다. 이렇게 하면 모든 전자 메일을 한 곳에서 관리할 수 있습니다. 최대 5개의 전자 메일 계정을 Outlook에 연결할 수 있습니다. 자세한 내용은 [웹용 Outlook에서 전자 메일 계정 연결 (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) 을 참조 하십시오. 
     
 비즈니스용 Skype 설치
   
@@ -39,7 +39,7 @@ Office 365 계정 만들기 및 도메인 추가
     
 온라인에 파일 저장
   
-- 비즈니스에 가장 적합 한 저장소 위치를 알아보려면 [Office 365에서 파일을 저장할 수 있는 위치](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx)를 참조 하세요. 모든 사용자가 Office 365 계정을 만들 때 자동으로 **OneDrive** 클라우드 저장소 위치를 가져옵니다. OneDrive를 사용 하면 컴퓨터, 휴대폰 및 태블릿에서 파일에 액세스할 수 있습니다. 
+- 내 비즈니스에 꼭 맞는 저장소 위치를 확인하려면 [Office 365에서 문서를 저장할 수 있는 위치](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx)를 참조하세요. 관리자가 사용자의 Office 365 계정을 만들면 해당 사용자에게 자동으로 **OneDrive** 클라우드 저장소 위치가 제공됩니다. OneDrive를 사용하면 컴퓨터, 휴대폰 및 태블릿에서 파일에 액세스할 수 있습니다. 
     
 설치에 대 한 자세한 단계는 [이 문서](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials)에서 찾을 수 있습니다.
   
