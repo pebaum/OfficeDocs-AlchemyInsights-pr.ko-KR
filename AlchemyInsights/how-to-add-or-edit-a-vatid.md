@@ -1,5 +1,5 @@
 ---
-title: 추가 또는 편집을 VatID 하는 방법
+title: VatID를 추가 하거나 편집 하는 방법
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
 ms.openlocfilehash: 6ddad639ecf1aaa2b1f6d1a9989643696954b185
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940214"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400065"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a><span data-ttu-id="6e14a-102">추가 또는 편집을 VatID 하는 방법</span><span class="sxs-lookup"><span data-stu-id="6e14a-102">How to add or edit a VatID</span></span>
+# <a name="how-to-add-or-edit-a-vatid"></a><span data-ttu-id="99daa-102">VatID를 추가 하거나 편집 하는 방법</span><span class="sxs-lookup"><span data-stu-id="99daa-102">How to add or edit a VatID</span></span>
 
-- <span data-ttu-id="6e14a-103">[구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 하거나 **구독** 선택 \> **대금 청구**합니다.</span><span class="sxs-lookup"><span data-stu-id="6e14a-103">Go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Subscriptions** \> **Billing**.</span></span>
+- <span data-ttu-id="99daa-103">[구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 하거나 **구독** \> **대금 청구**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="99daa-103">Go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Subscriptions** \> **Billing**.</span></span>
     
-- <span data-ttu-id="6e14a-104">**구독** 페이지에서 편집 하 고 **기타 작업** 을 선택 하려면 구독 선택 \> **VAT 편집할 수**있습니다.</span><span class="sxs-lookup"><span data-stu-id="6e14a-104">On the **Subscriptions** page, choose the subscription you want to edit, then choose **More Actions** \> **Edit VAT number**.</span></span>
+- <span data-ttu-id="99daa-104">**구독** 페이지에서 편집 하려는 구독을 선택 하 고 **추가 작업** \> 을 선택 하 여 **VAT 번호를 편집**합니다.</span><span class="sxs-lookup"><span data-stu-id="99daa-104">On the **Subscriptions** page, choose the subscription you want to edit, then choose **More Actions** \> **Edit VAT number**.</span></span>
     
-- <span data-ttu-id="6e14a-105">**서비스 사용 현황 주소가 편집** 창 맨 아래에 입력 하거나 **Vat 번호** 상자에 전화 VAT ID를 편집 하 고 **전송**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="6e14a-105">At the bottom of the **Edit your service usage address** pane, enter or edit your VAT ID in the **Vat number** box, and then choose **Submit**.</span></span>
+- <span data-ttu-id="99daa-105">**서비스 사용 주소 편집** 창의 아래쪽에 있는 **vat 번호** 상자에 vat ID를 입력 하거나 편집한 다음 **제출을**선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="99daa-105">At the bottom of the **Edit your service usage address** pane, enter or edit your VAT ID in the **Vat number** box, and then choose **Submit**.</span></span>
     
-    <span data-ttu-id="6e14a-106">완료 되 면 다음 청구서에 VAT 부과 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="6e14a-106">When complete, VAT will not be charged on your next bill.</span></span>
+    <span data-ttu-id="99daa-106">완료 되 면 VAT는 다음 청구서에 청구 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="99daa-106">When complete, VAT will not be charged on your next bill.</span></span>
     
-<span data-ttu-id="6e14a-107">자세한 내용은 참조 [어떤 세금 I 부과 됩니다 Office 365에 대 한?](https://support.office.com/article/7e77382b-b966-4ad5-a515-9e629a777a22.aspx)</span><span class="sxs-lookup"><span data-stu-id="6e14a-107">For more information, see [What tax will I be charged for Office 365?](https://support.office.com/article/7e77382b-b966-4ad5-a515-9e629a777a22.aspx)</span></span>
+<span data-ttu-id="99daa-107">자세한 내용은 [어떤 세금을 Office 365에 대해 부과할 것인가?](https://support.office.com/article/7e77382b-b966-4ad5-a515-9e629a777a22.aspx) 를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="99daa-107">For more information, see [What tax will I be charged for Office 365?](https://support.office.com/article/7e77382b-b966-4ad5-a515-9e629a777a22.aspx)</span></span>
   
 

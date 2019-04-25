@@ -1,5 +1,5 @@
 ---
-title: Windows 탐색기에서 파일을 공유할 때 오류 메시지
+title: Windows 탐색기에서 파일을 공유 하는 경우 오류 메시지가 나타난다
 ms.author: kirks
 author: Techwriter40
 ms.date: 9/19/2018
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
 ms.openlocfilehash: 06e3df2b5099dbc1f90c1dd06b372dcedfe4fc42
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927474"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402673"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a><span data-ttu-id="ad119-102">Windows 탐색기에서 파일을 공유할 때 오류 메시지</span><span class="sxs-lookup"><span data-stu-id="ad119-102">Error message when sharing files from Windows Explorer</span></span>
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a><span data-ttu-id="58929-102">Windows 탐색기에서 파일을 공유 하는 경우 오류 메시지가 나타난다</span><span class="sxs-lookup"><span data-stu-id="58929-102">Error message when sharing files from Windows Explorer</span></span>
 
-<span data-ttu-id="ad119-103">Windows 탐색기에서 공유 하려고 했을 때 다음과 같은 오류 메시지가 나타날 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ad119-103">When trying to share from Windows Explorer, you may receive the following error message:</span></span>
+<span data-ttu-id="58929-103">Windows 탐색기에서 공유 하려고 하면 다음과 같은 오류 메시지가 표시 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="58929-103">When trying to share from Windows Explorer, you may receive the following error message:</span></span>
   
-<span data-ttu-id="ad119-p101">"사과, 우리가 현재 서버에 연결할 수 있습니다. 나중에 다시 시도 하십시오. "</span><span class="sxs-lookup"><span data-stu-id="ad119-p101">"Sorry, we're unable to reach the server right now. Please try again later"</span></span>
+<span data-ttu-id="58929-104">죄송 합니다. 지금은 서버에 연결할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="58929-104">"Sorry, we're unable to reach the server right now.</span></span> <span data-ttu-id="58929-105">나중에 다시 시도 하세요. "</span><span class="sxs-lookup"><span data-stu-id="58929-105">Please try again later"</span></span>
   
-<span data-ttu-id="ad119-106">오류를 해결 하려면 메시지를 Internet Explorer에서 이동 하 고 **도구** 를 \> **인터넷 옵션** \> **고급** 탭을 클릭 한 다음 **암호화 된 페이지를 디스크에 저장 안함**라는 제목의 확인란의 선택을 취소 합니다.</span><span class="sxs-lookup"><span data-stu-id="ad119-106">To resolve error message, from Internet Explorer go to **Tools** \> **Internet Options** \> click the **Advanced** tab, and then clear the checkbox titled **Do not save encrypted pages to disk**.</span></span> 
+<span data-ttu-id="58929-106">오류 메시지를 확인 하려면 internet Explorer에서 **도구** \> **인터넷 옵션** \> 으로 이동 하 여 **고급** 탭을 클릭 한 다음 **암호화 된 페이지를 디스크에 저장 안 함**이라는 확인란의 선택을 취소 합니다.</span><span class="sxs-lookup"><span data-stu-id="58929-106">To resolve error message, from Internet Explorer go to **Tools** \> **Internet Options** \> click the **Advanced** tab, and then clear the checkbox titled **Do not save encrypted pages to disk**.</span></span> 
   
- <span data-ttu-id="ad119-p102">**참고**: 설정을 적용 하려면 브라우저를 다시 시작 해야할 수 있습니다. 자세한 내용은 참조 하십시오 ["현재 서버에 연결할 수 없습니다." 오류 메시지 파일을 공유할 때](https://go.microsoft.com/fwlink/?linkid=2022914)합니다.</span><span class="sxs-lookup"><span data-stu-id="ad119-p102">**Note**: You may need to restart your browser for the setting to take effect. For additional information see, ["Unable to reach the server right now" error message when sharing files](https://go.microsoft.com/fwlink/?linkid=2022914).</span></span>
+ <span data-ttu-id="58929-107">**참고**: 설정을 적용 하려면 브라우저를 다시 시작 해야 할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="58929-107">**Note**: You may need to restart your browser for the setting to take effect.</span></span> <span data-ttu-id="58929-108">자세한 내용은 [파일을 공유할 때 "지금 서버에 연결할 수 없습니다." 오류 메시지](https://go.microsoft.com/fwlink/?linkid=2022914)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="58929-108">For additional information see, ["Unable to reach the server right now" error message when sharing files](https://go.microsoft.com/fwlink/?linkid=2022914).</span></span>
   
 
