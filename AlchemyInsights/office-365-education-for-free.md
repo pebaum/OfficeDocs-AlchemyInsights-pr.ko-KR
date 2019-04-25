@@ -1,5 +1,5 @@
 ---
-title: Office 365에 대 한 교육 있음
+title: 무료 Office 365 교육 기관
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8e48c645-8df6-4fb5-8da6-f13b0a3bb0cc
 ms.openlocfilehash: 276ae2ea1f610a996a6a2fba3bdaba630823cc08
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928158"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390001"
 ---
-# <a name="office-365-education-for-free"></a>Office 365에 대 한 교육 있음
+# <a name="office-365-education-for-free"></a>무료 Office 365 교육 기관
 
-[Office 365에 대 한 교육 있음](https://products.office.com/student/office-in-education?ms.officeurl=students)
+[무료 Office 365 교육 기관](https://products.office.com/student/office-in-education?ms.officeurl=students)
   
-평가판 없는! 학생 및 교사 Word, Excel, PowerPoint, OneNote, 핸드폰 번호와 Microsoft 팀 이제 함께 추가 강의실 도구를 포함 하는 Office 365 교육에 대 한 자격이 있습니다.
+평가판이 아닙니다. 학생 및 교사는 Word, Excel, PowerPoint, OneNote 및 Microsoft 팀과 함께 추가 교실 도구를 포함 하는 Office 365 교육을 받을 수 있습니다.
   
 

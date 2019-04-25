@@ -1,5 +1,5 @@
 ---
-title: 외부 사용자와 통신 사이트 공유
+title: 외부 사용자와의 통신 사이트 공유
 ms.author: kirks
 author: Techwriter40
 ms.date: 1/3/2019
@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
 ms.openlocfilehash: 17a7c692ae98bca407b9313fa9c9f21014d159fa
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913362"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370171"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>외부 사용자와 통신 사이트 공유
+# <a name="share-a-communication-site-with-external-users"></a>외부 사용자와의 통신 사이트 공유
 
-통신 사이트에 대 한 공유 하는 외부 사용자를 설정 하려면 다음이 단계를 따릅니다. 
+통신 사이트에 대 한 외부 사용자 공유를 설정 하려면 다음 단계를 수행 합니다. 
   
-1. Open **현대 관리 센터** -클래식 관리 센터에 있는 경우을 **지금 시도** 볼 수 또는 * * 미리 보기를 시도 * * 오른쪽 위에서 단추입니다. 이 현대 관리 센터로 이동 합니다. 
+1. **최신 관리 센터** 열기-클래식 관리 센터에 있는 경우 **지금 사용해** 보거나 * * 오른쪽 위에서 미리 보기 * * 단추를 사용해 보세요. 이렇게 하면 최신 관리 센터로 이동 합니다. 
   
-2. 선택 **활성 사이트.**
+2. **활성 사이트를 선택 합니다.**
   
-3. **통신 사이트 서식 파일**에 포함 된 사이트를 선택 합니다. 
+3. **통신 사이트 서식 파일이**있는 사이트를 선택 합니다. 
   
-4. 상위 메뉴에서 **공유** 단추를 선택 합니다. 
+4. 위쪽 메뉴에서 **공유** 단추를 선택 합니다. 
   
- **참고:** 사이트가 둘 이상 선택 하는 경우 **공유** 단추를 사용할 수 없는 표시 됩니다. 하나의 사이트를 선택 합니다. 
+ **참고:** 사이트를 두 개 이상 선택한 경우에는 **공유** 단추가 사용 하지 않도록 설정 된 것으로 나타납니다. 사이트를 하나만 선택 합니다. 
   
 

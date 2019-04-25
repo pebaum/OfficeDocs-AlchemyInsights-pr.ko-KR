@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
 ms.openlocfilehash: ce476961ac8126b8de2f63dc52b9ff26d02711b8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760200"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389857"
 ---
 # <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>검은색 배경이 나타나거나 셀 서식이 제대로 표시 되지 않는 경우
 

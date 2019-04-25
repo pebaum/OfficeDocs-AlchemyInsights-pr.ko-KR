@@ -1,5 +1,5 @@
 ---
-title: 콘텐츠는 SharePoint 검색 결과에 표시 되지 않습니다.
+title: 콘텐츠가 SharePoint 검색 결과에 표시 되지 않음
 ms.author: tlarsen
 author: tklarsen
 ms.date: 1/8/2019
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
 ms.openlocfilehash: de607b75f973322359888c300ba1849e117d0092
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900438"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408078"
 ---
-# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>콘텐츠는 SharePoint 검색 결과에 표시 되지 않습니다.
+# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>콘텐츠가 SharePoint 검색 결과에 표시 되지 않음
 
-이러한 예상 되는 콘텐츠가 검색 결과에 나타나지 않는 경우 문제 해결 단계를 수행 합니다.
+예상 콘텐츠가 검색 결과에 표시 되지 않을 경우 다음 문제 해결 단계를 수행 합니다.
   
-1. 예상된 콘텐츠를 포함 하는 **사이트** 에 콘텐츠 검색 결과에 표시를 허용 하도록 설정 되었는지 확인 합니다. [검색 결과에 사이트에서 콘텐츠 표시](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results)의 단계를 수행 합니다.
+1. 필요한 콘텐츠가 포함 된 **사이트가** 검색 결과에 콘텐츠를 표시할 수 있도록 설정 되어 있는지 확인 합니다. [검색 결과에서 사이트에 콘텐츠 표시](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results)의 단계를 수행 합니다.
     
-2. **목록** 또는 **라이브러리** 예상 되는 콘텐츠가 포함 된 검색 결과에 표시 하는 콘텐츠를 허용 하도록 설정 되었는지 확인 합니다. [목록 또는 검색 결과의 라이브러리에서 콘텐츠 표시](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results)의 단계를 수행 합니다. 
+2. 필요한 콘텐츠가 포함 된 **목록** 또는 **라이브러리가** 검색 결과에 콘텐츠를 표시할 수 있도록 설정 되어 있는지 확인 합니다. [검색 결과에서 목록 또는 라이브러리의 콘텐츠 표시](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results)에 있는 단계를 수행 합니다. 
     
-3. 페이지, 문서 또는 사용자 지정 페이지 레이아웃으로 게시 되었는지 확인 한 **주 버전.** [SharePoint Online에서 모든 결과 반환 하는 검색 하지](https://go.microsoft.com/fwlink/?linkid=874525)에서 3 단계를 수행 합니다.
+3. 페이지, 문서 또는 사용자 지정 페이지 레이아웃이 **주 버전** 으로 게시 되었는지 확인 합니다. 검색에서 3 단계를 수행 하면 [SharePoint Online의 모든 결과가 반환 되지 않습니다](https://go.microsoft.com/fwlink/?linkid=874525).
     
-4. 콘텐츠를 보는 사용자에 **사용 권한이** 있는지 확인 합니다. [SharePoint에서 사용 권한 수준을 이해의](https://go.microsoft.com/fwlink/?linkid=867071)단계를 수행 합니다.
+4. 사용자에 게 콘텐츠를 볼 수 있는 **권한이** 있는지 확인 합니다. [SharePoint에서 사용 권한 수준 이해](https://go.microsoft.com/fwlink/?linkid=867071)의 단계를 따릅니다.
     
-5. **인덱스를 다시** [크롤링 및 사이트, 라이브러리 또는 목록 다시 인덱싱 수동으로 요청](https://docs.microsoft.com/sharepoint/crawl-site-content)의 단계를 수행 하 여 콘텐츠입니다. 이 다소 시간이 걸릴 하, 결과 다시 검사 하기 전에 24 시간 동안 기다리게 수도 있습니다.
+5. [크롤링 수동 요청 및 사이트, 라이브러리 또는 목록에 대 한 다시 인덱싱](https://docs.microsoft.com/sharepoint/crawl-site-content)의 단계를 수행 하 여 콘텐츠를 **다시 색인화** 합니다. 이 작업은 시간이 다소 걸릴 수 있으며, 24 시간 정도 기다린 후에 결과를 다시 확인 하세요.
     
-자세한 정보를 [검색할 수 있어야 하는 사이트에서 콘텐츠 사용](https://docs.microsoft.com/sharepoint/make-site-content-searchable)을 참조 하십시오. 
+자세한 내용은 [사이트에서 콘텐츠를 검색할 수 있도록 설정](https://docs.microsoft.com/sharepoint/make-site-content-searchable)를 참조 하세요. 
   
 
