@@ -1,5 +1,5 @@
 ---
-title: 비즈니스용 Skype 문제
+title: 비즈니스용 Skype에 문제가 있나요?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.openlocfilehash: d19659f203692e4aed2c947c4f8d3348d2286e77
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468453"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409912"
 ---
-# <a name="issue-with-skype-for-business"></a>비즈니스용 Skype 문제
+# <a name="issue-with-skype-for-business"></a>비즈니스용 Skype에 문제가 있나요?
 
-다음 도메인에 비즈니스용 Skype가 제대로 작동 하지 못할 수 있는 문제가 발생 했습니다.
+다음 도메인에 비즈니스용 Skype가 제대로 작동하지 않을 수 있는 문제가 있음을 발견했습니다.
   
 {HealthCheckString}
   
-비즈니스용 Skype에 대해 도메인 (DNS) 설정의 NS, CNAME 또는 SRV 레코드가 제대로 구성 되지 않았습니다. 자세한 지침은 [Office 365에서 DNS 레코드를 업데이트 하는](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) 방법을 참조할 수 있습니다. 
+DNS(도메인) 설정의 NS, CNAME 또는 SRV 레코드가 비즈니스용 Skype에 대해 제대로 구성되지 않았습니다. 자세한 내용은 [Office 365에서 DNS 레코드 업데이트](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)를 참조하세요. 
   
-문제를 해결 하려면 Microsoft 365 관리 센터의 [도메인](https://admin.microsoft.com/adminportal/home#/Domains) 페이지로 이동 하 여 해당 정보를 보내 주시기 바랍니다. 
+수정하려면 Microsoft 365 관리 센터의 [도메인](https://admin.microsoft.com/adminportal/home#/Domains) 페이지로 이동하여 도움을 받을 수 있습니다. 
   
-조직 외부의 사용자와 정보를 교환 하는 데 문제가 있는 경우에는 [비즈니스용 Skype Online 외부 통신을 설정](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) 하는 방법에 대 한 자세한 지침을 참조할 수 있습니다. 
+조직 외부에 있는 사용자와 통신하는 데 문제가 있는 경우 자세한 지침은 [비즈니스용 Skype Online 외부 통신 설정](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx)을 참조하세요. 
   
-다른 일반적인 솔루션에 대 한 자세한 [도메인 FAQ를 확인 하세요](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) . 
+다른 일반적인 해결 방법은 [도메인 FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)를 참조하세요. 
   
 
