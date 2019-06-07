@@ -2,7 +2,7 @@
 title: 646 AADConnect 구성 방법
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 6/8/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 646
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 44b2532c634bf17d87c562f9506cc1e81cc7e84a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 2dc4ae7d6809c24ce599ac128570e9354c9f2b30
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399777"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34752567"
 ---
 # <a name="configure-sync-features"></a>동기화 기능 구성
 
 Azure AD Connect에는 기본적으로 사용 하도록 설정 되거나 나중에 사용 하도록 설정할 수 있는 몇 가지 기능이 포함 되어 있습니다. 일부 기능에는 특정 환경에서 추가 구성을 수행 해야 합니다.
 
-- [필터링](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) 제한 개체가 Azure AD로 동기화 됩니다. 기본적으로 모든 사용자, 연락처, 그룹 및 Windows 10 컴퓨터 계정이 동기화 됩니다. 도메인, ou 또는 기타 특성에 따라 개체를 포함 하거나 제외할 수 있습니다.
+- [필터링](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) 제한 개체가 Azure AD로 동기화 됩니다. 기본적으로 모든 사용자, 연락처, 그룹 및 Windows 10 컴퓨터 계정이 동기화 됩니다. 도메인, Ou 또는 기타 특성에 따라 개체를 포함 하거나 제외할 수 있습니다.
 
 - [암호 해시 동기화](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) 온-프레미스 Active Directory에서 Azure AD로의 암호 해시를 동기화 합니다. 이를 통해 한 위치에서 암호를 관리할 수 있지만 온-프레미스 및 클라우드 환경 둘 다에서 동일한 암호를 사용 합니다. Active Directory는 신뢰할 수 있는 원본 이기 때문에 고유한 암호 정책을 사용 해도 됩니다.
 

@@ -2,7 +2,7 @@
 title: 감사 로그의 받은 편지함 규칙 활동 식별
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1368
 ms.assetid: ''
-ms.openlocfilehash: 9339d9c58056f568dc994b75bffe39f2c8bbdd34
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f130846dd24cef81177934aa2a200c1056172d3f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417252"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755043"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>감사 로그의 받은 편지함 규칙 활동 식별
 
-보안 & 준수 센터에서 감사 로그 검색을 사용 하 여 받은 편지함 규칙 이벤트 (만들기, 수정 및 삭제 받은 편지함 규칙)를 볼 수 있습니다.
+보안 & 준수 센터에서 감사 로그 검색을 사용 하 여 받은 편지함 규칙을 만들고, 수정 하 고, 삭제할 수 있습니다.
 
-1. [Office 365 Security & 준수 센터](https://protection.office.com/) 에 로그인 합니다.
+1. [Office 365 보안 & 준수 센터](https://protection.office.com/) 에 로그인 합니다.
 
 2. **검색 및 조사** 를 클릭 하 고 **감사 로그 검색**을 선택 합니다.
 
