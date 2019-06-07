@@ -2,7 +2,7 @@
 title: 603 회의록 설정을 조정 하는 방법 알아보기
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 603
 ms.assetid: d9d92a75-2ddc-41eb-b705-b2767d733f22
-ms.openlocfilehash: d6c83dbdf2fe7267cf4973ad732c86f4484d0c87
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bb9c8b8c97b40cb9f85e27d58f21b52d0ae220c2
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409696"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34754641"
 ---
 # <a name="learn-how-to-configure-agenda-settings"></a>안건 설정을 구성 하는 방법 알아보기
 
 회의록 설정은 웹용 Outlook의 **일정** 설정에 있습니다. 자세한 내용은 [웹용 Outlook의 일정 설정을](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f)참조 하십시오.
 
-관리자는 Exchange Online PowerShell의 **설정-calendarnotification** cmdlet을 사용 하 여 의제 설정을 구성할 수 있습니다. 자세한 내용은 [설정-calendarnotification](https://technet.microsoft.com/library/dd351284)을 참조 하십시오.
+관리자는 Exchange Online PowerShell의 **설정-CalendarNotification** cmdlet을 사용 하 여 의제 설정을 구성할 수 있습니다. 자세한 내용은 [설정-CalendarNotification](https://technet.microsoft.com/library/dd351284)을 참조 하십시오.

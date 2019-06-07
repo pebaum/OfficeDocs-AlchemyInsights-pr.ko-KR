@@ -2,7 +2,7 @@
 title: 감사 로그에서 IP 주소 및 클라이언트 식별
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1367
 ms.assetid: ''
-ms.openlocfilehash: 7e30a638de5926aa11b8ae637613a48076d7bdc9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 87e0d414fe02d5074a56cd5a77d50db1464b7faf
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32416985"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34752065"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>감사 로그에서 IP 주소 및 클라이언트 식별
 
 사용자 또는 관리자가 수행한 활동에 해당 하는 IP 주소가 감사 로그에 표시 됩니다. 클라이언트 정보도 기록 됩니다. 이러한 정보를 식별 하는 단계는 다음과 같습니다.
 
-1. [Office 365 Security & 준수 센터](https://protection.office.com/) 에 로그인 합니다.
+1. [Office 365 보안 & 준수 센터](https://protection.office.com/) 에 로그인 합니다.
 
 2. **검색 및 조사** 를 클릭 하 고 **감사 로그 검색**을 선택 합니다.
 
