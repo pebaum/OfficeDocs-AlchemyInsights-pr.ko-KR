@@ -2,7 +2,7 @@
 title: 717 사용자가 전자 메일을 메일 그룹으로 보낼 수 있도록 허용
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 717
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: bf8f5d3bfea09ddbedc8572b0e15bd3c95c2a890
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 81b58fc9256a480982fd077c278caa370d3f5240
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397786"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34754533"
 ---
-# <a name="allow-users-to-send-email-as-a-distribution-group"></a><span data-ttu-id="77bc1-102">사용자가 전자 메일을 메일 그룹으로 보내도록 허용</span><span class="sxs-lookup"><span data-stu-id="77bc1-102">Allow users to send email as a distribution group</span></span>
+# <a name="allow-users-to-send-email-as-a-distribution-group"></a><span data-ttu-id="cb969-102">사용자가 전자 메일을 메일 그룹으로 보내도록 허용</span><span class="sxs-lookup"><span data-stu-id="cb969-102">Allow users to send email as a distribution group</span></span>
 
-<span data-ttu-id="77bc1-103">사용자가 기존 메일 그룹에서 온 것 처럼 보이는 메시지를 보낼 수 있도록 하려면 다음 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="77bc1-103">To allow users to send messages that appear to come from an existing distribution group, follow these steps:</span></span>
+<span data-ttu-id="cb969-103">사용자가 기존 메일 그룹에서 온 것 처럼 보이는 메시지를 보낼 수 있도록 하려면 다음 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="cb969-103">To allow users to send messages that appear to come from an existing distribution group, follow these steps:</span></span>
 
-1. <span data-ttu-id="77bc1-104">[Exchange 관리 센터](https://outlook.office365.com/ecp/)에서 **받는 사람** \> **그룹**으로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="77bc1-104">In the [Exchange admin center](https://outlook.office365.com/ecp/), go to **Recipients** \> **Groups**.</span></span>
+1. <span data-ttu-id="cb969-104">[Exchange 관리 센터](https://outlook.office365.com/ecp/)에서 **받는 사람** \> **그룹**으로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="cb969-104">In the [Exchange admin center](https://outlook.office365.com/ecp/), go to **Recipients** \> **Groups**.</span></span>
 
-2. <span data-ttu-id="77bc1-105">수정할 메일 그룹을 선택 하 고 **편집**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="77bc1-105">Select the distribution group you want to modify, and then click **Edit**.</span></span>
+2. <span data-ttu-id="cb969-105">수정할 메일 그룹을 선택 하 고 **편집**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="cb969-105">Select the distribution group you want to modify, and then click **Edit**.</span></span>
 
-3. <span data-ttu-id="77bc1-106">그룹의 속성에서 **그룹 위임** 탭으로 이동 하 여 메일 그룹을 대신 하 여 보내거나 보낼 수 있는 사용자를 지정 합니다.</span><span class="sxs-lookup"><span data-stu-id="77bc1-106">In the properties of the group, go to the **Group delegation** tab to specify the users who can send as or send on behalf of the distribution group.</span></span>
+3. <span data-ttu-id="cb969-106">그룹의 속성에서 **그룹 위임** 탭으로 이동 하 여 메일 그룹을 대신 하 여 보내거나 보낼 수 있는 사용자를 지정 합니다.</span><span class="sxs-lookup"><span data-stu-id="cb969-106">In the properties of the group, go to the **Group delegation** tab to specify the users who can send as or send on behalf of the distribution group.</span></span>
 
-<span data-ttu-id="77bc1-107">자세한 내용은 [전자 메일 옵션](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="77bc1-107">For more information, see [Email options](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).</span></span>
+<span data-ttu-id="cb969-107">자세한 내용은 [전자 메일 옵션](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="cb969-107">For more information, see [Email options](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).</span></span>

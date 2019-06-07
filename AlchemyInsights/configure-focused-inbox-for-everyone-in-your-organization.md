@@ -2,7 +2,7 @@
 title: 912 조직의 모든 사용자에 대해 중요 받은 편지함 구성
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 6/8/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 912
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: e6a87641d937d3e827ee94507af6e534371237cf
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3dae12e13927e6dceb9cbc514ffe60b671aaa8a0
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392496"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34753820"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="4f114-102">모든 사용자에 대해 중요 받은 편지함 켜기 또는 끄기</span><span class="sxs-lookup"><span data-stu-id="4f114-102">Turn Focused Inbox on or off for everyone</span></span>
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="d644f-102">모든 사용자에 대해 중요 받은 편지함 켜기 또는 끄기</span><span class="sxs-lookup"><span data-stu-id="d644f-102">Turn Focused Inbox on or off for everyone</span></span>
 
-<span data-ttu-id="4f114-103">자세한 내용은 [조직의 모든 사용자에 대해 중요 받은 편지함 구성을](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx)참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="4f114-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).</span></span>
+<span data-ttu-id="d644f-103">자세한 내용은 [조직의 모든 사용자에 대해 중요 받은 편지함 구성을](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx)참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="d644f-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).</span></span>
 
-<span data-ttu-id="4f114-104">**참고**:이 절차를 수행 하려면 Exchange Online PowerShell이 필요 합니다.</span><span class="sxs-lookup"><span data-stu-id="4f114-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="4f114-105">대신 Microsoft 365 관리 센터에서이 작업을 수행 하 시겠습니까?</span><span class="sxs-lookup"><span data-stu-id="4f114-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="4f114-106">여기에서 투표하세요.</span><span class="sxs-lookup"><span data-stu-id="4f114-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)
+<span data-ttu-id="d644f-104">**참고**:이 절차를 수행 하려면 Exchange Online PowerShell이 필요 합니다.</span><span class="sxs-lookup"><span data-stu-id="d644f-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="d644f-105">대신 Microsoft 365 관리 센터에서이 작업을 수행 하 시겠습니까?</span><span class="sxs-lookup"><span data-stu-id="d644f-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="d644f-106">여기에서 투표하세요.</span><span class="sxs-lookup"><span data-stu-id="d644f-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)
