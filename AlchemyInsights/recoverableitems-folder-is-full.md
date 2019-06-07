@@ -2,7 +2,7 @@
 title: 1336 RecoverableItems 폴더가 꽉 찼습니다.
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1336
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 14d46980caf7dac90e73c34482a3aee34382fa1f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cfcc69c1b3a59c73037d9a493af4ece86b7b7208
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389089"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34762086"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>복구 가능한 항목 폴더가 꽉 참
 
-Office 365에서 Exchange Online 사서함의 경우 복구 가능한 항목 폴더에 대 한 기본 저장 제한은 30gb입니다. 사서함이 소송 보존, eDiscovery 보류에 있는 경우 복구 가능한 항목 폴더의 저장소 제한은 자동으로 100로 증가 합니다.
+Office 365에서 Exchange Online 사서함의 경우 복구 가능한 항목 폴더에 대 한 기본 저장 제한은 30gb입니다. 사서함이 소송 보존, eDiscovery 365 보류에 있는 경우 복구 가능한 항목 폴더의 저장소 제한은 자동으로 100로 증가 합니다.
 
 복구 가능한 항목 폴더가 저장 제한에 도달 하면 사서함 기능은 다음과 같은 방식으로 영향을 받습니다.
 

@@ -11,14 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 4fa6123bcf947da178a9d56f78b4cc761ada29f4
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: a67fdd7e44ed5651135443b68998a3c61886d133
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34717492"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34762193"
 ---
 # <a name="open-office-files-and-documents-from-sharepoint--onedrive"></a>SharePoint & OneDrive에서 Office 파일 및 문서 열기
 
-<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; ">SharePoint 또는 OneDrive 문서 라이브러리에서 Office 파일 및 문서를 여는 데 문제가 있는 경우 여기에서 문제를 해결 하는 데 도움이 되는 몇 가지 제안 사항은 다음과 같습니다.</span></p> <ul type="disc"> <li style="line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: '&amp;quot',serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';"><a href="https://support.office.com/en-us/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa"><span style="color: blue;">파일 제한 사항을 확인 하 여 파일이 지원 되는지 확인 합니다.</span></a></span></li> <li style="line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">로컬 컴퓨터에서 파일 손상을 다운로드 하 고 확인 합니다.</span></li> <li style="line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: '&amp;quot',serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';"><a href="https://support.office.com/en-us/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d"><span style="color: blue;">Office 문서 캐시를 삭제 합니다.</span></a></span></li> <li style="line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: '&amp;quot',serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';"><a href="https://support.office.com/en-US/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b"><span style="color: blue;">Office에서 복구를 실행 합니다.</span></a></span></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">자세한 내용 또는 자세한 내용은 <a href="https://support.office.com/en-us/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536"><span style="color: blue;">SharePoint 라이브러리에서 문서를 열 때 발생 하는 문제 해결</span></a>문서를 확인 하세요.</span></p>
+SharePoint 또는 OneDrive 문서 라이브러리에서 Office 파일 및 문서를 여는 데 문제가 있는 경우 여기에서 문제를 해결 하는 데 도움이 되는 몇 가지 제안 사항은 다음과 같습니다.
+
+- [파일 제한 사항을 확인 하 여 파일이 지원 되는지 확인](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+
+- [로컬 컴퓨터에서 파일 손상 다운로드 및 확인](https://support.office.com/article/How-to-recover-missing-deleted-or-corrupted-items-in-SharePoint-Online-and-OneDrive-for-Business-3d748edf-c072-46c9-81a4-4989056ebc87[])
+
+- [Office 문서 캐시 삭제](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
+
+- [Office에서 복구 실행](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+
+자세한 내용 또는 자세한 내용은 [SharePoint 라이브러리에서 문서 열기 문제 해결](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536) 문서를 확인 하세요.
 

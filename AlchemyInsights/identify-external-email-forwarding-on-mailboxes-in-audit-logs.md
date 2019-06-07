@@ -2,7 +2,7 @@
 title: 감사 로그의 사서함에 대 한 외부 전자 메일 전달 확인
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1369
 ms.assetid: ''
-ms.openlocfilehash: 7fb2c161c558a7eb961f86ca2b86e33750d902fd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 518e4dd485ee7c54ce83e65794152e32f4c3a836
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417217"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34752008"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>사서함에 대해 외부 전자 메일 전달이 구성 된 시기 식별
 
-사용자가 사서함에서 외부 전자 메일 전달을 구성 하면 해당 활동은 **설정 된 사서함** cmdlet의 일부로 감사 됩니다. 보안 & 준수 센터에서 감사 로그 검색을 사용 하 여이 활동을 확인할 수 있습니다.
+사용자가 사서함에서 외부 전자 메일 전달을 구성 하면 해당 활동은 **설정 된 사서함** cmdlet의 일부로 감사 됩니다. 보안 & 준수 센터에서 감사 로그 검색을 사용 하 여 작업을 확인할 수 있습니다.
 
-1. [Office 365 Security & 준수 센터](https://protection.office.com/) 에 로그인 합니다.
+1. [Office 365 보안 & 준수 센터](https://protection.office.com/) 에 로그인 합니다.
 
 2. **검색 및 조사** 를 클릭 하 고 **감사 로그 검색**을 선택 합니다.
 

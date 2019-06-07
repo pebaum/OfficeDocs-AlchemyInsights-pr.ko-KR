@@ -2,7 +2,7 @@
 title: 1554 Winsock 오류 10061
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 12/7/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1554
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: 7651effc43cb0c4bc2fbbe5349bb72303943f493
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3fa3b2f2e10d3ebe480861e1f2d7ecaa262afe14
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419986"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757104"
 ---
 # <a name="winsock-error-10061"></a>Winsock 오류 10061
 
@@ -23,7 +23,7 @@ ms.locfileid: "32419986"
 
 - [Office 365 url 및 IP 주소 범위](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 에 포함 된 정보로 방화벽 구성 확인
 
-- 오류가 EOP (exchange online protection)와 관련 된 경우에는 [exchange online protection IP 주소](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)에 대 한 변경 사항을 이전에 알렸습니다.
+- 오류가 EOP (Exchange Online Protection)와 관련 된 경우에는 [Exchange Online PROTECTION IP 주소](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)에 대 한 변경 사항을 이전에 알렸습니다.
 
 - ISP (인터넷 서비스 공급자)가 포트를 차단 하지 않는지 확인 합니다.
 

@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: c97e9d2b8c14bbff8215b28933ebf36b0e3b2c04
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 091d134e99ab82f0a08b3c8e3a150d96fe03dc5d
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34735953"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760171"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>SharePoint Online에서 외부 공유 사용
 
 외부 사용자가 초대 되었으며 콘텐츠에 액세스할 수 없는 경우 아래 링크를 방문 하세요.
 
-- [외부 사용자가 다른 계정을 사용 하 여 SharePoint Online 초대를 수락 하면 오류 메시지가 나타난다](https://support.office.com/en-us/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [외부 사용자가 다른 계정을 사용 하 여 SharePoint Online 초대를 수락 하면 오류 메시지가 나타난다](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
 
 - [공유 폴더에 대 한 액세스 거부](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
 
-- [Sharepoint 및 OneDrive의 OSE 공유 오류](https://docs.microsoft.com/en-us/sharepoint/sharepoint-onedrive-error-message)
+- [Sharepoint 및 OneDrive의 OSE 공유 오류](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

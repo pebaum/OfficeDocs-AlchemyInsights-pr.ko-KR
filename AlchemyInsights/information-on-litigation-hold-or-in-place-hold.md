@@ -1,20 +1,20 @@
 ---
 title: 소송 보존 또는 전체 보존에 대 한 정보
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: chrisda
+author: chrisda
+manager: dansimp
 ms.date: 11/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 9ecfb5bb167a0c959d39d47713bbb0e64862abb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7d300bd006c3e7fae68da1245037819396122fc9
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32410416"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34754936"
 ---
 - 사서함에 소송 보존 또는 원본 위치 유지를 적용 하려면 [Exchange Online 계획 2 라이선스가](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) 필요 합니다. 다른 요금제가 있는 경우 계정에 별도의 [Exchange Online 보관](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) 라이선스를 할당 합니다. 
     
@@ -25,6 +25,6 @@ ms.locfileid: "32410416"
     > [!NOTE]
     > 조직 전체 보존 정책의 경우 새 사용자가 보류에 자동으로 추가 됩니다. 
   
-- 보류 된 사서함 콘텐츠를 보거나 검색 하려면 **eDiscovery 검색 및 내보내기를**사용 합니다. **eDiscovery 검색 및 내보내기를**사용 하는 방법에 대 한 자세한 내용은 [여기](https://docs.microsoft.com/office365/securitycompliance/export-search-results)에 나와 있는 단계를 따르세요.
+- 보류 된 사서함 콘텐츠를 보거나 검색 하려면 **EDiscovery 검색 및 내보내기를**사용 합니다. **EDiscovery 검색 및 내보내기를**사용 하는 방법에 대 한 자세한 내용은 [여기](https://docs.microsoft.com/office365/securitycompliance/export-search-results)에 나와 있는 단계를 따르세요.
     
 

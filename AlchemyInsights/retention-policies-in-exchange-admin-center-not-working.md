@@ -1,20 +1,20 @@
 ---
 title: Exchange 관리 센터의 보존 정책이 작동 하지 않음
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: chrisda
+author: chrisda
+manager: dansimp
 ms.date: 11/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: c9061fa728edaab6575a7b1027783e56739a6d14
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 56c2bea5e205358d0ef29fa937e36a88ffc46a1e
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371304"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761588"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Exchange 관리 센터의 보존 정책
 
@@ -34,7 +34,7 @@ ms.locfileid: "32371304"
     
     **솔루션**
     
-  - [exo powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)의 특정 사서함에 대 한 보존 설정의 상태를 확인 합니다.
+  - [Exo powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)의 특정 사서함에 대 한 보존 설정의 상태를 확인 합니다.
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*

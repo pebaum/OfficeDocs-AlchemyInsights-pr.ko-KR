@@ -7,14 +7,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: 1a4c349352053ec4a4a8eeb934ec3e41eadddf5f
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: b10426e316d4691f7d26b8909e31e55edd537a28
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719732"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34759996"
 ---
 # <a name="sharepoint-hub-sites-overview"></a>SharePoint 허브 사이트 개요
 
-<p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #2f2f2f;">SharePoint 허브 사이트는 프로젝트, 부서, 부서, 지역 등을 기반으로 사이트를 연결 하 고 구성 하 여 조직의 요구 사항을 충족 하는 데 도움이 됩니다.</span></p> <ul style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;" type="disc"> <li style="color: black; ; font-size: 12pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;"></span><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">뉴스 및 기타 사이트 작업과 같은 관련 콘텐츠를 검색 합니다.&nbsp;</span></li> <li style="color: black; ; font-size: 12pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">연결 된 사이트 간에 일반적인 탐색 및 브랜딩을 적용 합니다.</span></li> <li style="color: black; ; font-size: 12pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">관련된 모든 사이트에서 검색합니다.</span></li> </ul> <p style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #000111;">참조 하세요</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #b01100;"> <a href="https://docs.microsoft.com/en-us/sharepoint/create-hub-site">SharePoint Online에서 허브 사이트 만들기</a> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">새 관리 센터에서 허브 사이트를 만드는 방법에 대 한 자세한 내용은 또는</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black;">PowerShell</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">. &nbsp;</span></p> <p style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">참조 하세요</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #b01100;"> <a href="https://support.office.com/en-us/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05">SharePoint 사이트를 허브 사이트에 연결</a> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">기존 사이트를 새 관리 센터에서 허브 사이트에 연결 하는 방법에 대 한 자세한 내용은 또는</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black;">PowerShell</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">.</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #b01100;"> &nbsp;</span></p> <p style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">참조 하세요</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #b01100;"> <a href="https://docs.microsoft.com/en-us/sharepoint/remove-hub-site">허브 사이트 제거</a> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">새 관리 센터에서 기존 허브 사이트를 제거 하는 방법에 대 한 자세한 내용은 또는</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black;">PowerShell</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">. &nbsp;</span></p> <p>&nbsp;</p> <p style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;">&nbsp;</p>
+SharePoint 허브 사이트는 프로젝트, 부서, 부서, 지역 등을 기반으로 사이트를 연결 하 고 구성 하 여 조직의 요구 사항을 충족 하는 데 도움이 됩니다.
+
+뉴스 및 기타 사이트 작업과 같은 관련 콘텐츠를 검색 합니다.
+
+관련 사이트 전반에 걸쳐 일반적인 탐색 및 브랜딩을 적용합니다. 
+
+관련된 모든 사이트에서 검색합니다.
+
+새 관리 센터 또는 PowerShell에서 허브 사이트를 만드는 방법에 대 한 자세한 내용은 [SharePoint Online에서 허브 사이트 만들기](https://docs.microsoft.com/sharepoint/create-hub-site) 를 참조 하세요.
+
+새 관리 센터 또는 PowerShell에서 기존 사이트를 허브 사이트에 연결 하는 방법에 대 한 자세한 내용은 [SharePoint 사이트와 허브 사이트 연결](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) 을 참조 하십시오.
+
+새 관리 센터 또는 PowerShell에서 기존 허브 사이트를 제거 하는 방법에 대 한 자세한 내용은 [허브 사이트 제거를](https://docs.microsoft.com/sharepoint/remove-hub-site) 참조 하십시오.
 

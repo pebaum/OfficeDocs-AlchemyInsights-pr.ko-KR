@@ -2,7 +2,7 @@
 title: 1800014 Outlook 모바일 앱에서 전자 메일 설정
 ms.author: anahitab
 author: anahitab
-manager: serdars
+manager: dansimp
 ms.date: 4/12/2018
 ms.audience: Admin
 ms.topic: get-started-article
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800014
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: b2e3a5693acd1d8d90ad0d4913d0c5b213cb3e1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac6647bb7c500ed7265d230a2aece0d19ed048fe
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421570"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761372"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Outlook 모바일 앱에서 전자 메일 설정
 
@@ -38,6 +38,6 @@ ms.locfileid: "32421570"
   
 - [모바일에서 전자 메일 설정 문제 해결](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
     
-- [iOS 및 Android 용 Outlook에 대 한 앱 내 도움말 가져오기](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [IOS 및 Android 용 Outlook에 대 한 앱 내 도움말 가져오기](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
     
 

@@ -2,7 +2,7 @@
 title: 1332 OWA-사서함에 대 한 받은 편지함 규칙이 실행 되 고 있지 않음
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 12/8/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1332
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
-ms.openlocfilehash: c0b221b5335254bd0f1eb4b258efa6946376ca12
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 28b03183552e00dd2522fff51b061cc27d5032ef
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372566"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34762229"
 ---
 # <a name="an-inbox-rule-doesnt-work-as-expected"></a>받은 편지함 규칙이 예상 대로 작동 하지 않음
 
@@ -25,7 +25,7 @@ ms.locfileid: "32372566"
 
 - 받은 편지함 규칙은 대체 저널링 사서함에서 작동 하지 않습니다. 대체 저널링 사서함에 대 한 자세한 내용은 [대체 저널링 사서함](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox)을 참조 하십시오.
 
-이러한 문제를 해결 하려면 [kb(52829319](https://support.microsoft.com/kb/2829319)를 참조 하세요.
+이러한 문제를 해결 하려면 [Kb(52829319](https://support.microsoft.com/kb/2829319)를 참조 하세요.
 
 이전 문제가 적용 되지 않으면 Microsoft 지원으로 문제를 에스컬레이션 하기 전에 받은 편지함 규칙 진단 보고서를 실행 합니다.
 

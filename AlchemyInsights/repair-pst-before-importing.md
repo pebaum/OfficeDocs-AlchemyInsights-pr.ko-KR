@@ -2,7 +2,7 @@
 title: 가져오기 전에 .pst 파일 복구
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1226
 ms.assetid: ''
-ms.openlocfilehash: 66b045c04ccbeb133e1bae3b9c29e01b4820d33f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 571f7211915d637f9c193cc453db38b29fc444de
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32383769"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761908"
 ---
 # <a name="repair-pst-file-before-importing"></a>가져오기 전에 .pst 파일 복구
 
@@ -25,7 +25,7 @@ Outlook에서 .pst 파일을 가져오기 전에 파일을 복구 하 여 파일
 
 2. Office 프로그램 폴더 `Scanpst.exe` (C:\Program files (x86) \Microsoft Office\root\Office\<version\> 또는 C:\Program Files\Microsoft Office\root\Office\<version\>)에서 찾아서 실행 합니다.
 
-3. **Microsoft Outlook 받은 편지함 복구 도구**에서 **찾아보기를** 클릭 하 여 .pst 파일 (예: C:\Users\\<username\>\AppData\Local\Microsoft\Outlook)을 찾습니다. .pst 파일을 선택 하 고 **열기**를 클릭 합니다.
+3. **Microsoft Outlook 받은 편지함 복구 도구**에서 **찾아보기를** 클릭 하 여 .pst 파일 (예: C:\Users\\<username\>\AppData\Local\Microsoft\Outlook)을 찾습니다. .Pst 파일을 선택 하 고 **열기**를 클릭 합니다.
 
 4. **시작** 을 클릭 하 여 검색을 시작 합니다.
 
