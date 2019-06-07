@@ -2,7 +2,7 @@
 title: 메일 사용이 가능한 공용 폴더에 대 한 전자 메일 배달 문제 해결
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1956
 ms.assetid: ''
-ms.openlocfilehash: 45665f900014c52e6a920325b0a3b0f6f79fb72d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 900b6cc2765937ee005c7e7dce5d33bbdf582601
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401335"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34752674"
 ---
 # <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>메일 사용이 가능한 공용 폴더에 대 한 전자 메일 배달 문제 해결
 
@@ -31,4 +31,4 @@ ms.locfileid: "32401335"
 
 `Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous`예를 `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous`들면입니다.
 
-외부 사용자가이 공용 폴더에 전자 메일을 보낼 수 있도록 하려면 사용자 익명에 createitems 액세스 권한을 추가 합니다. 예를 들면 `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`와 같습니다.
+외부 사용자가이 공용 폴더에 전자 메일을 보낼 수 있도록 하려면 사용자 익명에 CreateItems 액세스 권한을 추가 합니다. 예를 들면 `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`와 같습니다.

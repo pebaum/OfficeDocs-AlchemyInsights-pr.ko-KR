@@ -2,7 +2,7 @@
 title: 감사 로그에서 메시지 삭제 이벤트 확인
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1370
 ms.assetid: ''
-ms.openlocfilehash: 93f8a192af6e689e2b2d04013f35b8da2b69e607
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0fb5d6aa0c99f7f68459c40302869bed69583b3f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32416715"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755158"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>삭제 된 전자 메일 메시지에 대 한 감사 로그
 
 2019 년 1 월부터 Microsoft는 기본적으로 사서함 감사 로깅을 설정 하 고 있습니다. 그렇지 않고 특정 사용자에 대 한 메시지 삭제 이벤트를 검토 하려면 감사에 대 한 삭제 작업을 수동으로 사용 하도록 설정 해야 합니다. 조직 또는 특정 사용자에 대해 사서함 감사 로깅이 이미 사용 하도록 설정 된 경우에는 아래 단계를 수행 합니다.
 
-1. [Office 365 Security & 준수 센터](https://protection.office.com/) 에 로그인 합니다.
+1. [Office 365 보안 & 준수 센터](https://protection.office.com/) 에 로그인 합니다.
 
 2. **검색 및 조사** 를 클릭 하 고 **감사 로그 검색**을 선택 합니다.
 
@@ -29,8 +29,8 @@ ms.locfileid: "32416715"
 
 4. **검색**을 클릭합니다.
 
-결과에서 감사 레코드를 선택 합니다. 세부 정보 플라이 아웃에서 **추가 정보**를 클릭 합니다. 삭제 된 항목에 대 한 추가 정보 (예: 제목 줄 및 삭제 시 항목의 위치)가 **AffectedItems** 필드에 표시 됩니다. **clientinfostring** 속성은 outlook, 웹에서 outlook (이전의 outlook web App) 또는 다른 모든 장치에서 삭제를 수행 했는지 여부를 표시 합니다.
+결과에서 감사 레코드를 선택 합니다. 세부 정보 플라이 아웃에서 **추가 정보**를 클릭 합니다. 삭제 된 항목에 대 한 추가 정보 (예: 제목 줄 및 삭제 시 항목의 위치)가 **AffectedItems** 필드에 표시 됩니다. **Clientinfostring** 속성은 outlook, 웹에서 outlook (이전의 Outlook web App) 또는 다른 모든 장치에서 삭제를 수행 했는지 여부를 표시 합니다.
 
 자세한 내용은 [사서함에 대 한 전자 메일 전달을 설정한 사용자 결정](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items)를 참조 하세요.
 
-**참고**: 감사 로그 기능을 사용 하 여 삭제 된 항목을 검색할 수는 없습니다. 웹용 outlook에서 삭제 된 메시지를 검색 하려면 [outlook web App에서 삭제 된 항목 복구](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)를 참조 하세요.
+**참고**: 감사 로그 기능을 사용 하 여 삭제 된 항목을 검색할 수는 없습니다. 웹용 Outlook에서 삭제 된 메시지를 검색 하려면 [Outlook Web App에서 삭제 된 항목 복구](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)를 참조 하세요.

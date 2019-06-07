@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: ccf0ebf52112f0932d3a41000c6d6e76fce4180d
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 10f7f26af6e208872c25c2ff22e925408f9d42c1
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736023"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34758841"
 ---
 # <a name="site-and-page-navigation-in-sharepoint-sites"></a>SharePoint 사이트의 사이트 및 페이지 탐색
 
@@ -23,14 +23,14 @@ ms.locfileid: "34736023"
 
  탐색 옵션에 대 한 자세한 내용을 보려면 아래 링크를 방문 하세요.
 
- - [최신 SharePoint 환경에 대 한 탐색 계획](https://docs.microsoft.com/en-us/sharepoint/plan-navigation-modern-experience)
+ - [최신 SharePoint 환경에 대 한 탐색 계획](https://docs.microsoft.com/sharepoint/plan-navigation-modern-experience)
 
-- [SharePoint 사이트의 탐색 사용자 지정](https://support.office.com/en-us/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
+- [SharePoint 사이트의 탐색 사용자 지정](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
 
-- [SharePoint Online에 대 한 탐색 옵션](https://docs.microsoft.com/en-us/office365/enterprise/navigation-options-for-sharepoint-online)
+- [SharePoint Online에 대 한 탐색 옵션](https://docs.microsoft.com/office365/enterprise/navigation-options-for-sharepoint-online)
  
 - [Megamenu 탐색을 사용 하 여 SharePoint 사이트 구성](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Organize-your-SharePoint-sites-with-megamenu-navigation-and-new/ba-p/328068)
 
-- [SharePoint의 관리 되는 메타 데이터 및 탐색](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/managed-metadata-and-navigation-in-sharepoint)
+- [SharePoint의 관리 되는 메타 데이터 및 탐색](https://docs.microsoft.com/sharepoint/dev/general-development/managed-metadata-and-navigation-in-sharepoint)
 
 
