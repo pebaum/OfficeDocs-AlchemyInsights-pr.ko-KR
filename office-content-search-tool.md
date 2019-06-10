@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ee05de080a9bde2dd150cdfe340dd29875242f71
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 06/07/2019
-ms.locfileid: "34756647"
+ms.locfileid: "34770638"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>관련 정보를 찾기 위한 콘텐츠 검색 도구
 
 보안 & 준수 센터의 콘텐츠 검색 도구를 사용 하 여 비즈니스용 Skype의 Exchange 사서함, SharePoint 사이트 및 OneDrive 위치에 있는 문서 및 인스턴트 메시징 대화에서 신속 하 게 전자 메일을 찾을 수 있습니다. 콘텐츠 검색 도구를 사용 하 여 Microsoft 팀 및 Office 365 그룹과 같은 Office 365 공동 작업 도구에서 전자 메일, 문서 및 인스턴트 메시징 대화를 검색할 수 있습니다.
 
 
-[보안 & 준수 센터](https://sip.protection.office.com/homepage)에서 [콘텐츠 검색](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) 을 사용 하기 전에 [사용 권한 구성](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [다운로드 속도 설정](https://docs.microsoft.com/en-us/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) 및 [내보내기 설정을](https://docs.microsoft.com/en-us/office365/securitycompliance/disable-reports-when-you-export-content-search-results)비롯 한 구성 설정을 완료 해야 합니다.
+[보안 & 준수 센터](https://sip.protection.office.com/homepage)에서 [콘텐츠 검색](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) 을 사용 하기 전에 [사용 권한 구성](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [다운로드 속도 설정](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) 및 [내보내기 설정을](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results)비롯 한 구성 설정을 완료 해야 합니다.
 
 [요구 사항 및 제한을](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search)검토 하 여 콘텐츠 검색에 대해 자세히 알아보고, [부분적으로 인덱싱된 항목](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) 및 기타 결과를 확인 합니다.
 

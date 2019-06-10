@@ -13,12 +13,12 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: ed0c679cf3ed9d363e552c04a5ae6d0fc72f88dd
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33630021"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770252"
 ---
 # <a name="how-to-import-nk2-files"></a>Nk2 파일을 가져오는 방법 
 
@@ -37,4 +37,4 @@ Nk2 파일을 가져온 후에는 파일의 내용이 사서함에 저장 된 �
 
 **참고**: nk2 파일의 이름은 다음에 outlook 2013, outlook 2016, outlook 2019 또는 Outlook for Office 365을 시작할 때 .old 파일 이름 확장명으로 바뀝니다. Nk2 파일을 다시 가져오려면 먼저 .old 파일 이름 확장명을 제거 합니다.
 
-자세한 내용은 [자동 완성 목록을 다른 컴퓨터에 가져오기 또는 복사](https://support.microsoft.com/en-us/help/2806550/how-to-import-nk2-files-into-outlook%)를 참조 하세요.
+자세한 내용은 [자동 완성 목록을 다른 컴퓨터에 가져오기 또는 복사](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%)를 참조 하세요.

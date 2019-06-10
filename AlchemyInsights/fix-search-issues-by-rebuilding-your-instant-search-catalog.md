@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
-ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
+ms.openlocfilehash: 06cb5d8377f423682419316916a87dabc47051f8
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33867944"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769407"
 ---
 # <a name="troubleshoot-search-issues"></a>검색 문제 해결
 
@@ -31,4 +31,4 @@ ms.locfileid: "33867944"
 - [Outlook 2016만: 검색 탭이 회색으로 표시 됨](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
 - [공유 사서함: 검색 결과 관련 문제](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
 - [오류: Outlook 구성 방식에 문제가 있어 검색 성능이 영향을 받게 됩니다.](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
-- [제목이 없는 예기치 않은 PersonMetadata 항목을 검색 폴더에 표시](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
+- [제목이 없는 예기치 않은 PersonMetadata 항목을 검색 폴더에 표시](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)

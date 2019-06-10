@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f30db7cdb083356b0ad02348b7c5188280dc88f0
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412495"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769901"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>사서함 크기를 늘리도록 요금제 전환
 
@@ -34,4 +34,4 @@ ms.locfileid: "32412495"
     
 자세한 내용은 [다른 Office 365 요금제로 전환을](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)참조 하십시오.
   
-원본 [위치 보관 함을 지 원하는 O365 요금제](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)가 있는 경우 보관 사서함을 사용 하도록 설정 하 여 추가 전자 메일 저장소를 받을 수도 있습니다.  보관 사서함은 추가 저장소를 제공 하며, 기본 및 보관 사서함 모두에서 메시지를 이동, 복사 및 검색할 수 있도록 합니다. 보관 사서함을 사용 하도록 설정 하는 단계는 [Enable a archive mailbox](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes)을 참조 하십시오.
+원본 [위치 보관 함을 지 원하는 O365 요금제](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)가 있는 경우 보관 사서함을 사용 하도록 설정 하 여 추가 전자 메일 저장소를 받을 수도 있습니다.  보관 사서함은 추가 저장소를 제공 하며, 기본 및 보관 사서함 모두에서 메시지를 이동, 복사 및 검색할 수 있도록 합니다. 보관 사서함을 사용 하도록 설정 하는 단계는 [Enable a archive mailbox](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)을 참조 하십시오.

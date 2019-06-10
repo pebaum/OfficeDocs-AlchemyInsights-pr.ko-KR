@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096550"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770814"
 ---
 # <a name="recall-or-replace-an-email-message"></a>전자 메일 메시지 회수 또는 교체
 
@@ -34,9 +34,9 @@ ms.locfileid: "34096550"
 
 회수를 확인 하는 방법에 대 한 자세한 내용은 [보낸 전자 메일 메시지 회수 또는 바꾸기를](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)참조 하십시오.
 
-***조직에서 전자 메일 메시지 검색 및 삭제*** 조직에서 전자 메일 메시지를 검색 하 고 삭제 하려면 전역 관리자 인 경우 가장 간편 합니다. 전역 관리자가 아닌 경우에는 eDiscovery 관리자 역할 그룹 또는 준수 검색 관리 역할에 계정을 추가 해야 합니다. 메시지를 삭제 하려면 조직 관리 역할 그룹 또는 검색 및 삭제 관리 역할에 참가 해야 합니다. 이러한 역할에 대 한 사용 권한은 [Security & 준수 센터](https://protection.office.com/)에서 할당 됩니다.
+***조직에서 전자 메일 메시지 검색 및 삭제*** 조직에서 전자 메일 메시지를 검색 하 고 삭제 하려면 전역 관리자 인 경우 가장 간편 합니다. 전역 관리자가 아닌 경우에는 eDiscovery 관리자 역할 그룹 또는 준수 검색 관리 역할에 계정을 추가 해야 합니다. 메시지를 삭제 하려면 조직 관리 역할 그룹 또는 검색 및 삭제 관리 역할에 참가 해야 합니다. 이러한 역할에 대 한 사용 권한은 [보안 & 준수 센터](https://protection.office.com/)에서 할당 됩니다.
 
-1. 삭제할 메시지를 찾을 [콘텐츠 검색을 만듭니다](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) .
-2. [Security _AMP_ 준수 센터 PowerShell에 연결](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps)합니다. 
+1. 삭제할 메시지를 찾을 [콘텐츠 검색을 만듭니다](https://docs.microsoft.com/office365/securitycompliance/content-search) .
+2. [보안 & 준수 센터 PowerShell에 연결](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps)합니다. 
 
-MFA를 사용 하는 경우 [multi-factor authentication을 사용 하 여 Office 365 Security _AMP_ 준수 센터 PowerShell에 연결](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)을 참조 하세요. 
+MFA를 사용 하는 경우 [multi-factor authentication을 사용 하 여 Office 365 보안 & 준수 센터 PowerShell에 연결](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)을 참조 하세요. 

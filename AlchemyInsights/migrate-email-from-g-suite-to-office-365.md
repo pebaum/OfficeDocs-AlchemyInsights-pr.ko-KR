@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 1949ad3b6c7f34c4cd2f87f280145b7f8e151370
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 58bb1040c4bcdd279e3ecd17ffeb75abc45cef94
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418846"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769794"
 ---
 # <a name="migrate-email-from-g-suite-to-office-365"></a>G Suite에서 Office 365으로 전자 메일 마이그레이션
 
-g suite에서 office 365으로 전자 메일을 마이그레이션하려면 다음 프로세스를 따르세요. [g suite 사서함을 office 365로 마이그레이션합니다](https://support.office.com/article/migrate-g-suite-mailboxes-to-office-365-665dc56c-581c-4e35-8028-6bc1e8497016).
+G Suite에서 Office 365 전자 메일을 마이그레이션하려면 마이그레이션 도구를 사용 하 여 전자 메일, 일정 및 연락처를 마이그레이션합니다. [G suite 마이그레이션을 수행](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)합니다.
   
 
