@@ -1,28 +1,30 @@
 ---
-title: 8000076 Outlook.com 차단 보낸 사람-프랑스어
+title: Outlook.com 차단 보낸 사람-프랑스어
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/8/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000076
-ms.openlocfilehash: 23328dbf92e041bc7f3927f7d6b43bfcef0f449f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000076"
+- "1156"
+- "1157"
+ms.openlocfilehash: 64c3df6bddcfa7b3e8e6105792ef1de74be01851
+ms.sourcegitcommit: 65e270e6aaa58294d1e866a66cac787da22e8d13
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418046"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34820262"
 ---
 # <a name="bloquer-ou-dbloquer-expditeurs-dans-outlookcom"></a>Bloquer ou débloquer expéditeurs dans Outlook.com
 
 Si vous ouevez du courrier indésirable, vous pouvez bloquer les 주소 de messagerie et des domaines mail.que vous ne voulez pas recevoir des 메시지 Ajouter une adresse de messagerie ou dedomaine à votre liste des expéditeurs bloqués 위에 déplacer ces 메시지 directement vers votre dossier courrier을 추가 했습니다.
 
-1. Accédez à **Paramètres** > **옵션**
-2. dans le volet gauche, sélectionnez **courrier indésirable** > **expéditeurs bloqués**.
-3. Entrez l'adresse de messagerie dans **les expéditeurs bloqués**, sélectionnez **Ajouter**.
-4. Sélectionnez **Enregistrer**
+1. Accédez à **Paramètres** > **Afficher tous les Paramètres** > d'Outlook Courrier**indésirable**.
+1. Sous **Domaines et expéditeurs bloqués** sélectionnez **Ajouter**.
+1. Entrez l'adresse de messagerie et sélectionnez **Enregistrer**
 
-+ d'informations, lisez [Bloquer ou débloquer expéditeurs dans Outlook.com](https://support.office.com/fr-fr/article/bloquer-ou-débloquer-expéditeurs-dans-outlook-com-afba1c94-77bb-4f50-8b85-057cf52f4d5e?ui=fr-FR&rs=fr-FR&ad=FR)에 콘크리트 합니다.
++ D'informations, lisez [Bloquer ou débloquer expéditeurs dans Outlook.com](https://support.office.com/fr-fr/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e)에 콘크리트 합니다.
