@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 99927bf4f17ff7fac1e4c61d17ab4ee706c4d891
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 81a0ef4df7b64878d2611c7d31256b9f3babd85e
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643484"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273609"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="a2347-102">웹용 Outlook에서 로그 아웃 하는 방법</span><span class="sxs-lookup"><span data-stu-id="a2347-102">How to sign out of Outlook on the web</span></span>
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="8ea43-102">웹용 Outlook에서 로그 아웃 하는 방법</span><span class="sxs-lookup"><span data-stu-id="8ea43-102">How to sign out of Outlook on the web</span></span>
 
-1. <span data-ttu-id="a2347-103">오른쪽 위 모서리에서 이름 또는 그림을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2347-103">Select your name or picture at the top right corner.</span></span>
-    
-    <span data-ttu-id="a2347-104">화면 맨 위에 그림이 표시 되지 않으면 ad 차단이 설정 되어 있는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2347-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="a2347-105">그림이 표시 되지 않는 경우가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a2347-105">Sometimes this prevents the picture from showing.</span></span>
-    
-2. <span data-ttu-id="a2347-106">**로그 아웃**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2347-106">Select **Sign out**.</span></span> 
-    
-    <span data-ttu-id="a2347-107">회사 또는 학교 계정에 자동으로 로그인 하는 것을 중지 하려면 암호를 입력 하는 페이지에서 **로그인 유지** 상자의 선택을 취소 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2347-107">To stop automatically signing in to your work or school account, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span> 
-    
-<span data-ttu-id="a2347-108">자세한 내용은 [웹에서 Outlook에 로그인 또는 로그 아웃 하는 방법을](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="a2347-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
+<span data-ttu-id="8ea43-103">웹용 Outlook에서 로그 아웃 하려면 오른쪽 상단 모서리에 있는 이름 또는 사진을 선택 하 고 **로그 아웃**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="8ea43-103">To sign out of Outlook on the web, select your name or picture at the top right corner and select **Sign out**.</span></span>
+
+<span data-ttu-id="8ea43-104">회사 또는 학교 계정에 자동으로 로그인을 중지 하려면 다음을 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="8ea43-104">To stop automatically signing in to your work or school account:</span></span>
+
+1. <span data-ttu-id="8ea43-105">이름 또는 그림을 선택 하 고 **로그 아웃**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="8ea43-105">Select your name or picture and select **Sign out**.</span></span>
+1. <span data-ttu-id="8ea43-106">[Outlook.office.com](https://outlook.office.com/) 으로 이동 하 여 **다른 계정 사용**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="8ea43-106">Go to [Outlook.office.com](https://outlook.office.com/) and select **Use another account**.</span></span>
+1. <span data-ttu-id="8ea43-107">사용할 전자 메일 주소를 사용 하 여 로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="8ea43-107">Sign in with the email address you want to use.</span></span>
+
+<span data-ttu-id="8ea43-108">자세한 내용은 [웹에서 Outlook에 로그인 또는 로그 아웃 하는 방법을](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="8ea43-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
