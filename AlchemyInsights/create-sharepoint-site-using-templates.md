@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: a964751e52972875a8794ce311546f5816a36ca6
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9ab06cbd1648da31d8a04e61c237a2326b4bbe93
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753713"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199279"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>템플릿을 사용 하 여 SharePoint 사이트 만들기
 
@@ -31,7 +31,7 @@ SharePoint 사이트 서식 파일은 특정 비즈니스 요구를 중심으로
 
 - 사이트를 서식 파일로 저장 명령은 지원 되지 않으며 SharePoint Server 게시 인프라를 사용 하는 사이트에서 문제를 발생 시킬 수 있습니다.
 
-사이트 서식 파일을 만들 수 없거나 제대로 작동 하지 않습니다.
+**사이트 서식 파일을 만들 수 없거나 제대로 작동 하지 않음**
 
 서식 파일에 [기능이](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) 누락 되었거나 활성화 되지 않을 수 있습니다. 현재 사이트 모음에서 정품 인증 기능을 사용할 수 없는 경우에는 사이트 서식 파일을 사용 하 여 사이트를 만들 수 없습니다.
 

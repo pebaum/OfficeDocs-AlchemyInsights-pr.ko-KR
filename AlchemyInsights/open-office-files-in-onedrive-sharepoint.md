@@ -11,14 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: a67fdd7e44ed5651135443b68998a3c61886d133
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 0f72136d788167472be3b77e83034f5147bbc92c
+ms.sourcegitcommit: ed30ec6cae5e52b54aa1ac7248a847579ad16062
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762193"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35079318"
 ---
-# <a name="open-office-files-and-documents-from-sharepoint--onedrive"></a>SharePoint & OneDrive에서 Office 파일 및 문서 열기
+# <a name="open-office-files-and-documents-from-sharepoint-and-onedrive"></a>SharePoint 및 OneDrive에서 Office 파일 및 문서 열기
+
 
 SharePoint 또는 OneDrive 문서 라이브러리에서 Office 파일 및 문서를 여는 데 문제가 있는 경우 여기에서 문제를 해결 하는 데 도움이 되는 몇 가지 제안 사항은 다음과 같습니다.
 

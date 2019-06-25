@@ -1,25 +1,26 @@
 ---
-title: 8000035 Outlook.com 베타에서 클래식 Outlook.com로 롤백하는 요청
+title: Outlook.com 베타에서 클래식 Outlook.com로 롤백하는 요청
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 4f131df08d5a9cdb8c72f19381c6a7906665d2f0
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+ms.openlocfilehash: 82189ce9fedc7a85e0295ae06bb8c4190d8962f1
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32391949"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117583"
 ---
 # <a name="the-new-outlookcom"></a>새 Outlook.com
 
-더 이상 Outlook.com 베타를 떠나 Outlook.com의 클래식 버전으로 되돌릴 수 없습니다.
+더 이상 새 Outlook.com 환경을 그대로 유지 하 고 Outlook.com의 클래식 버전으로 되돌릴 수 없습니다.
 
 새 Outlook.com에 대 한 의견을 제공 하려면 [UserVoice 포럼](https://go.microsoft.com/fwlink/p/?linkid=851599)으로 이동 합니다. 확인 하려는 아이디어나 문제에 응답할 수 있으며, 여기에는 주요 설명 및 제안 사항에 직접 응답 합니다.
 
-[새 Outlook.com에 대해 자세히 알아보세요.](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[Outlook.com에 대 한 도움말을 볼 수 있습니다.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

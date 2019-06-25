@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 4cd7db1d9a6a1c86e64cee040d9dc3c1d180832f
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 0a30faed3991c1e49d25df51db09636660884bf4
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132658"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199351"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>SharePoint 또는 OneDrive의 랜 섬 웨어 공격
 
@@ -33,7 +33,8 @@ OneDrive를 복원 하는 방법에 대 한 자세한 내용은 다음 항목을
 
 추가 정보:
 
-[바이러스 검색의 SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)
+[바이러스 검색에서 SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)
 [데이터 암호화 ODB 및 SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)
-[에서 데이터를 보호 합니다](https://docs.microsoft.com/en-us/sharepoint/safeguarding-your-data) .][랜 섬 웨어 위협 방지 차단](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/ransomware-malware)
-해제[파일 검색 및 복구](https://support.office.com/en-ie/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+[에서 데이터](https://docs.microsoft.com/en-us/sharepoint/safeguarding-your-data)
+보호 차단 해제[위협 방지 차단](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/ransomware-malware)
+해제[및 파일 복구](https://support.office.com/en-ie/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
