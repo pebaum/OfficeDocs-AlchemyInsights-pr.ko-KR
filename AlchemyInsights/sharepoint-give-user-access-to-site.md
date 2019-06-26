@@ -1,5 +1,5 @@
 ---
-title: 사용자에 게 SharePoint 및 OneDrive에 대 한 액세스 권한 부여
+title: 액세스 요청 기능
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 4bb81a3ea87130b0da3bd028ee06cbbf21d1bec7
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 81cfdb7c4b218ffacfca75b3cc14e5aac13dc3d5
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760136"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223754"
 ---
 # <a name="give-users-access-to-sharepoint-site"></a>사용자에 게 SharePoint 사이트에 대 한 액세스 권한 부여
 
@@ -24,15 +24,15 @@ ms.locfileid: "34760136"
 
 다음은 액세스 요청과 관련 된 몇 가지 일반적인 링크입니다.
 
-[SharePoint Online에서 대기 중인 요청을 처리할 때 "액세스 거부" 또는 "승인을 요청 하지 못했습니다."](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
+- [SharePoint Online에서 대기 중인 요청을 처리할 때 "액세스 거부" 또는 "승인을 요청 하지 못했습니다."](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
 
-[액세스 요청 설정 변경](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [액세스 요청 설정 변경](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-[사이트에 대한 액세스 요청 승인 또는 거절](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [사이트에 대한 액세스 요청 승인 또는 거절](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-[외부 사용자에 대한 초대 관리(SharePoint Online만 해당)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [외부 사용자에 대한 초대 관리(SharePoint Online만 해당)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-[초대 다시 보내기](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [초대 다시 보내기](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 

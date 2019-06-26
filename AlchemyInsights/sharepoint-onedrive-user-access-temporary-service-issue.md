@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 745a62c917c0b94501843332d70609261c6d3b76
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9bb18196f38de473e4ee79d77bd43561ad9742e0
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759156"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223286"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint 또는 OneDrive 느림, 액세스 불가 또는 여러 사용자가 사용할 수 없음
 
 이전에 액세스 한 여러 사용자가 OneDrive 또는 SharePoint 사이트를 사용할 수 없는 경우 일시적인 서비스 문제가 있을 수 있습니다. [서비스 상태 대시보드를 확인](https://portal.office.com/adminportal/home#/servicehealth)합니다.
 
-사용자 추가 및 라이선스를 허가 합니다.
+**사용자 추가 및 라이선스를 허가 합니다.**
 
 [비즈니스용 Office 365에서 사용자에 게 라이선스를 할당](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)했는지 확인 합니다.
 

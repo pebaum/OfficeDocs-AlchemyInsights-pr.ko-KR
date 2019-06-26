@@ -1,5 +1,5 @@
 ---
-title: 파일을 읽기 전용으로 열기
+title: 파일 편집을 위해 잠김
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 2b311b134afe0c71dcc6bfdcd387eec1a624c312
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 154e1c8493f8846087e943119f1308af9bff33eb
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757097"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222674"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>파일을 편집할 수 없는 이유는 무엇 인가요?
 
@@ -24,9 +24,9 @@ ms.locfileid: "34757097"
 
 OneDrive 라이브러리의 경우 OneDrive에서는 동기화 상태 옆에 잠금 아이콘을 표시 하며, 사용자는 앞에서 설명한 설정이 제거 될 때까지이 라이브러리를 동기화 할 수 없습니다.
 
-Word/Excel 용 잠긴 파일에 대 한 자세한 내용은 아래 문서를 참조 하십시오.
+Word 또는 Excel의 잠긴 파일에 대 한 자세한 내용은 아래 문서를 참조 하세요.
 
-[다른 사용자가 Excel 파일을 편집용으로 잠 궜 습니다.](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [다른 사용자가 Excel 파일을 편집용으로 잠 궜 습니다.](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-[다른 사용자가 Word 파일을 편집용으로 잠 궜 습니다.](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [다른 사용자가 Word 파일을 편집용으로 잠 궜 습니다.](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 

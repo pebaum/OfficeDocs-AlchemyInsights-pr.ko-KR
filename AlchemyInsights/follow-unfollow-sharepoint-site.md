@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a79bc2557feccc3ceb5b02a4c1c79093ddf31233
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 7701ddd79f81a2988d6fcfbcbbc18d6b9302f03a
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119764"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222746"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>SharePoint 사이트에 대 한 팔 로우 또는 팔 로우 취소
 
@@ -23,4 +23,4 @@ SharePoint에서 관심 있는 사이트를 팔 로우 하는 방법에는 여�
 
 사이트를 팔 로우 하거나 취소할 수 없고 결과가 예상 대로 표시 되지 않는 경우 문제가 단일 사용자 또는 조직 내의 모든 사용자와 관련이 있는지를 확인 합니다. 모든 사용자가 문제를 발생 하는 경우 일시적인 서비스 문제가 있을 수 있습니다. 
 
-[서비스 상태 대시보드](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)를 통해 조직에 영향을 준 것이 있는지 확인 합니다.
+[서비스 상태 대시보드](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) 를 통해 조직에 영향을 준 것이 있는지 확인 합니다.

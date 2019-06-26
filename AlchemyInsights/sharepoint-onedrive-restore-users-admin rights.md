@@ -1,5 +1,5 @@
 ---
-title: 사용자에 게 SharePoint 및 OneDrive에 대 한 액세스 권한 부여
+title: 비즈니스용 OneDrive 사이트에 대 한 액세스 거부 메시지 문제 해결
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: a689769dab24e12832ddc0937bc5ddc3d71dbee3
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: b394cc1441187133d8829cfc5fb0c1edbd71fd96
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759261"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223430"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>사용자에 게 SharePoint 및 OneDrive에 대 한 액세스 권한 부여
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>비즈니스용 OneDrive 사이트에 대 한 액세스 거부 메시지 문제 해결
 
 이 문제는 사용자가 삭제 되 고 동일한 UPN (사용자 계정 이름)으로 다시 만들어지는 경우에 가장 자주 발생 합니다. 새 계정은 다른 PUID (Passport 고유 ID) 값을 사용 하 여 만들어집니다. 사용자가 사이트 모음 또는 OneDrive에 액세스 하려고 하면 사용자에 게 잘못 된 PUID가 있습니다. 두 번째 시나리오에는 Active Directory OU (조직 구성 단위)와의 디렉터리 동기화가 포함 됩니다. 사용자가 이미 SharePoint에 로그인 한 후 다른 OU로 이동 하 고 SharePoint를 사용 하 여 resynced이 문제가 발생할 수 있습니다.
 

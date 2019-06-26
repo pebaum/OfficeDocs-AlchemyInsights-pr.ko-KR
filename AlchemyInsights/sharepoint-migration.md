@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: e36f5fe58a181d1bfdb6f97f6b00fc85718674a5
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: fbf08f446233fc582f4651a60dfa9a31dda270a8
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760031"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223502"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>SharePoint Online으로 옵션 마이그레이션
 
@@ -20,15 +20,15 @@ SharePoint Online으로 콘텐츠를 마이그레이션하는 데 사용할 수 
 
 콘텐츠 마이그레이션에 대 한 자세한 내용을 보려면 아래 링크를 방문 하세요.
 
-[Sharepoint 마이그레이션 도구](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [Sharepoint 마이그레이션 도구](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 
-[Sharepoint Online 및 ODB 마이그레이션 속도](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Sharepoint Online 및 ODB 마이그레이션 속도](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-[데이터 마이그레이션 및 SPO 서비스 제한](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
+- [데이터 마이그레이션 및 SPO 서비스 제한](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
 
 
-[SharePoint Online에서 제한 또는 차단되지 않도록 방지](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [SharePoint Online에서 제한 또는 차단되지 않도록 방지](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-[SharePoint 마이그레이션 평가 도구 (SMAT)](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
+- [SharePoint 마이그레이션 평가 도구 (SMAT)](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
 
-**참고**: 현재 sharepoint 마이그레이션 도구는 sharepoint 2010 및 2013에서의 마이그레이션을 지원 합니다. 현재 버전 2016은 지원 되지 않습니다.
+**참고**: 현재 sharepoint 마이그레이션 도구는 sharepoint 2010 및 2013에서의 마이그레이션을 지원 합니다. 현재 버전 2016 또는 2019은 지원 되지 않습니다.

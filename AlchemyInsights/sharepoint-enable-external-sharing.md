@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 2432b84a06dbf3e5efd69945516174a1f70e0a9f
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: a541c6829d688f06fa4bc207b517cff68170e1da
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760663"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223826"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>SharePoint Online에서 외부 공유 사용
 
@@ -20,25 +20,25 @@ ms.locfileid: "34760663"
 
 외부 공유 (게스트)에 대 한 자세한 내용은 아래 링크를 방문 하세요.
 
-[외부 사용자란?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [외부 사용자란?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-[사이트 또는 문서를 공유하면 어떻게 되나요?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [사이트 또는 문서를 공유하면 어떻게 되나요?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-[SharePoint Online에 대한 외부 공유 설정 또는 해제](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [SharePoint Online에 대한 외부 공유 설정 또는 해제](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-[사이트에 대한 외부 공유 설정 또는 해제](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [사이트에 대한 외부 공유 설정 또는 해제](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-[Office 365 그룹에서 게스트 액세스 관리](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Office 365 그룹에서 게스트 액세스 관리](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
-[Sharepoint Online을 B2B (business to business) 엑스트라넷 솔루션으로 사용](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Sharepoint Online을 B2B (business to business) 엑스트라넷 솔루션으로 사용](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-[SharePoint 파일 또는 폴더 공유](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [SharePoint 파일 또는 폴더 공유](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-[OneDrive 또는 SharePoint 파일 또는 폴더 공유 중지 또는 사용 권한 변경](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [OneDrive 또는 SharePoint 파일 또는 폴더 공유 중지 또는 사용 권한 변경](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[외부 사용자 삭제](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [외부 사용자 삭제](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-외부 사용자와의 오류 수신 (게스트)
+**외부 사용자와의 오류 수신 (게스트)**
 
 아래 링크를 확인 하세요. 
 
