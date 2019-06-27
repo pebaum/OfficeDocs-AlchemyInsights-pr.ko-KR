@@ -1,5 +1,5 @@
 ---
-title: 새 OneDrive 동기화 클라이언트를 사용하여 SharePoint 파일 동기화
+title: SharePoint Online의 "탐색기에서 열기" 문제 해결
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,14 +11,14 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 74b79efeb7e46d03dc55f46252d152cd13e66c84
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: fcaca189741bd68878b1dcfab879e6e0f64e6794
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757823"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223646"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>새 OneDrive 동기화 클라이언트를 사용하여 SharePoint 파일 동기화
+# <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>SharePoint Online의 "탐색기에서 열기" 문제 해결
 
 탐색기에서 열기 명령을 통해 SharePoint 사이트를 호스트하는 서버의 폴더 구조를 표시하는 Windows 탐색기의 로컬 인스턴스를 열 수 있습니다. [요청 기반 파일 관리](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e)를 제공하는[ 새 OneDrive 동기화 클라이언트와 SharePoint 파일을 동기화](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>하는 것이 좋습니다. 파일에 대한 로컬 액세스 권한과 최상의 성능을 제공하기 때문입니다.
 
