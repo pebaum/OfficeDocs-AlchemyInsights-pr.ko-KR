@@ -1,23 +1,25 @@
 ---
-title: 8000065 Outlook.com 정크 스팸-스페인어
+title: Outlook.com 정크 스팸-스페인어
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/7/2019
+ms.date: 6/6/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000065
-ms.openlocfilehash: 1eb01c01cb9382fc06cfe6caa2ad1ad218b08e13
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1137"
+- "8000065"
+ms.openlocfilehash: ea301809b10661d1aa1040d61faa7f3b60e85a52
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32393325"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374175"
 ---
-# <a name="mantenga-el-correo-no-deseado-fuera-de-outlookcom"></a><span data-ttu-id="ecf58-102">Mantenga el correo deseado fuera de Outlook.com</span><span class="sxs-lookup"><span data-stu-id="ecf58-102">Mantenga el correo no deseado fuera de Outlook.com</span></span>
+# <a name="mantenga-el-correo-no-deseado-fuera-de-outlookcom"></a><span data-ttu-id="6dd8f-102">Mantenga el correo deseado fuera de Outlook.com</span><span class="sxs-lookup"><span data-stu-id="6dd8f-102">Mantenga el correo no deseado fuera de Outlook.com</span></span>
 
-<span data-ttu-id="ecf58-103">Si-aumento de reo deno mail.que electrónico no deseado y correo hay가 formas reducir la Bandeja entmresla 로그인 de-de를 제거 합니다.</span><span class="sxs-lookup"><span data-stu-id="ecf58-103">Si ve un aumento de correo no deseado y correo electrónico no deseado, hay varias formas de reducir la cantidad de correo no deseado que entre en la Bandeja de entrada.</span></span>
+<span data-ttu-id="6dd8f-103">Si-aumento de reo deno mail.que electrónico no deseado y correo hay가 formas reducir la Bandeja entmresla 로그인 de-de를 제거 합니다.</span><span class="sxs-lookup"><span data-stu-id="6dd8f-103">Si ve un aumento de correo no deseado y correo electrónico no deseado, hay varias formas de reducir la cantidad de correo no deseado que entre en la Bandeja de entrada.</span></span>
 
-<span data-ttu-id="ecf58-104">Lee más</span><span class="sxs-lookup"><span data-stu-id="ecf58-104">Lee más...</span></span>
+<span data-ttu-id="6dd8f-104">단락 aprender más leer [Ayudar a mantener el correo fuera de bandeja de 로그인 de Outlook.com를](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)비활성화 합니다.</span><span class="sxs-lookup"><span data-stu-id="6dd8f-104">Para aprender más leer [Ayudar a mantener el correo no deseado y el correo no deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span></span>

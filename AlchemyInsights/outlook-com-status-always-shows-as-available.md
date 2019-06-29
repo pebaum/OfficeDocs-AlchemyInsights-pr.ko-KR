@@ -1,26 +1,26 @@
 ---
-title: 8000049 Outlook.com 상태가 항상 사용 가능한 상태로 표시 됩니다.
+title: Outlook.com 상태가 항상 사용 가능한 상태로 표시 됩니다.
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 5/31/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000049
+ms.custom:
+- "817"
+- "1767"
+- "1768"
+- "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 4f19d74c0181e987691c7da0b3408f0511e3c164
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5ade09e56eeb283d61bcb7b4b49fa65103b5e26e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373644"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371871"
 ---
-# <a name="my-outlookcom-status-always-shows-as-available"></a><span data-ttu-id="e099c-102">내 Outlook.com 상태가 항상 사용 가능한 상태로 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="e099c-102">My Outlook.com status always shows as Available</span></span>
+# <a name="my-status-always-shows-as-available"></a><span data-ttu-id="6f7d2-102">내 상태가 항상 사용 가능한 상태로 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="6f7d2-102">My status always shows as Available</span></span>
 
-<span data-ttu-id="e099c-103">계정 상태는 계정 사진 옆에 표시 되며 채팅 하거나 skype 통화를 할 수 있는 경우 Outlook.com 및 skype 대화 상대가 알 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="e099c-103">Your account status appears next to your account picture and lets your Outlook.com and Skype contacts know if you're available to chat or have a Skype call.</span></span> <span data-ttu-id="e099c-104">Outlook.com 또는 Skype에서 계정 상태를 변경할 수 있지만 Outlook.com에 로그인 할 때마다 계정 상태가 사용 가능으로 다시 설정 됩니다.</span><span class="sxs-lookup"><span data-stu-id="e099c-104">you can change your account status in Outlook.com or Skype, but each time you sign in to Outlook.com, your account status will be reset to Available.</span></span>
-  
-<span data-ttu-id="e099c-105">Outlook.com 베타를 사용 하거나 Outlook.com에서 로그 아웃 하지 않으면 상태가 변경 되지 않도록 할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="e099c-105">You can prevent your status from changing by using the Outlook.com beta, or by not signing out of Outlook.com.</span></span> <span data-ttu-id="e099c-106">브라우저를 닫는 것은 로그 아웃 하는 것과 동일 하지 않으며 상태에 영향을 주지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="e099c-106">Note that closing your browser is not the same as signing out and has no effect on your status.</span></span> <span data-ttu-id="e099c-107">브라우저를 닫을 때 로그인 상태를 유지 하려면 로그인 프롬프트에서 **내 로그인 유지** 상자를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e099c-107">To stay signed in when closing your browser, select the **Keep me signed in** box at the sign in prompt.</span></span> 
-  
-
+<span data-ttu-id="6f7d2-103">Outlook.com에 로그인 할 때마다 계정 상태가 사용 가능으로 다시 설정 됩니다.</span><span class="sxs-lookup"><span data-stu-id="6f7d2-103">Each time you sign in to Outlook.com, your account status will be reset to Available.</span></span> <span data-ttu-id="6f7d2-104">Outlook.com에서 로그 아웃 하지 않으면 상태가 변경 되지 않도록 할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="6f7d2-104">You can prevent your status from changing by not signing out of Outlook.com.</span></span> <span data-ttu-id="6f7d2-105">브라우저를 닫을 때 로그인 상태를 유지 하려면 Outlook.com 로그인 페이지에서 **내 로그인 유지** 상자를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="6f7d2-105">To stay signed in when closing your browser, select the **Keep me signed in** box on the Outlook.com sign-in page.</span></span>
