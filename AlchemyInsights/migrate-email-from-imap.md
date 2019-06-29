@@ -7,20 +7,22 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
+ms.custom:
+- "732"
+- "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: 075c0aef5ce46fdd25926cee7aaf1a45794423b6
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: cc0d14d1dd1dc2aec3916d69f7804359de58b604
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404897"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379935"
 ---
-# <a name="when-you-get-a-not-an-accepted-domain-error"></a>"허용 도메인이 아닌 경우" 라는 오류 메시지가 표시 되는 경우
+# <a name="when-you-get-a-not-an-accepted-domain-error"></a>"허용된 도메인 아님" 오류 메시지가 표시되는 경우
 
-사용자 또는 그룹에 전자 메일 주소를 추가 하거나 사서함을 마이그레이션하는 동안에는 다음 오류가 발생할 수 있습니다. **도메인은 아직 Exchange 시스템에 대 한 허용 도메인이 아니므로 사용할 수 없습니다** .
+사용자 또는 그룹에 전자 메일 주소를 추가하거나 사서함을 마이그레이션하는 동안에는 다음 오류가 표시될 수 있습니다. **이 도메인은 아직 Exchange System에 허용된 도메인이 아니기 때문에 사용할 수 없습니다.**
   
-대부분의 경우이 오류는 도메인 이름 * (예: contoso.com) *가 조직에 대해 완전히 설정 되지 않은 경우에 발생 합니다. 
+대부분의 경우 이 오류는 조직에서 완전하게 설정되지 않은 도메인 이름 *(예: contoso.com)* 의 결과입니다.
   
-[Add a domain for Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)의 지침에 따라 도메인이 완전히 설정 되어 있는지 확인 하세요.
+[Office 365에 도메인 추가](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)에 나와 있는 지침을 따라 도메인이 완전하게 설정되어 있는지 확인하세요.
   
-
