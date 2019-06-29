@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "446"
+- "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: adad4b8d16185db033a5405b2b09dc8f72fb221b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 56415e03dedfa607e956a28e8781315aae567f7c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422864"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365104"
 ---
 # <a name="when-is-my-credit-card-charged"></a>신용 카드 요금이 부과 되는 시기
 
@@ -25,5 +27,3 @@ ms.locfileid: "32422864"
 생성 되는 송장 1 일 이내에 되풀이 비용이 발생 합니다.
   
 충전에 실패 하는 경우 시스템은 다음 몇 주 동안의 균형을 계속 해 서 조정 합니다. 언제 든 지 결제 정보를 업데이트 하 여 다음 충전 시도가 성공 하는지 확인할 수 있습니다. 자세한 내용은 [비즈니스용 Office 365에서 신용 카드 또는 은행 계좌 추가, 업데이트 또는 제거](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)를 참조 하세요.
-  
-

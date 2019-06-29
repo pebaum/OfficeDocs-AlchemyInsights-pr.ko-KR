@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 204
+ms.custom:
+- "204"
+- "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a8cc842946372a46f103a09952568b14116036d6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9bf97ec7c5eee2218419cac73f23126086dd5c6e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417708"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35384543"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Outlook에서 누락 된 메시지, 연락처 또는 일정 항목을 찾고 복구 하는 방법
 
-- 영향을 받는 컴퓨터에서 [전자 메일 메시지 보내기, 받기 또는 찾기 문제가](https://aka.ms/SaRA-OutlookSendReceive) 있는 경우를 사용할 수 있습니다. 이 도구는 다양 한 문제를 확인 하 고 가능한 해결 방법을 제안 합니다. 
-    
-- [계정이 손상되었는지 여부를 판단합니다](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). 손상 되 면 [Office 365에서 손상 된 전자 메일 계정에 응답 하](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account) 는 단계를 따르세요.
-    
-- [빠른 검색을 사용 하 여 메시지 또는 항목 찾기](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
-    
-- [Windows용 Outlook에서 삭제된 항목 복구](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
-    
+- 영향을 받는 컴퓨터에서 [전자 메일 메시지 보내기, 받기 또는 찾기 문제가](https://aka.ms/SaRA-OutlookSendReceive) 있는 경우를 사용할 수 있습니다. 이 도구는 다양 한 문제를 확인 하 고 가능한 해결 방법을 제안 합니다.
 
+- [계정이 손상되었는지 여부를 판단합니다](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). 손상 되 면 [Office 365에서 손상 된 전자 메일 계정에 응답 하](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account) 는 단계를 따르세요.
+
+- [빠른 검색을 사용 하 여 메시지 또는 항목 찾기](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+
+- [Windows용 Outlook에서 삭제된 항목 복구](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)

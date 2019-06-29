@@ -8,27 +8,29 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "937"
+- "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: 아래 단계에서는 PC에서 Office를 제거 하는 방법을 설명 합니다.
-ms.openlocfilehash: 5702f41f3c43183381608f2a2cfc8218887ba21a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3878013d452cd03f378254a8dfbbe396e7509d0e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423801"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35366395"
 ---
 # <a name="uninstall-office"></a>Office 제거
 
 [지원 및 복구 도우미](https://aka.ms/SARA-OfficeUninstall-Alchemy)를 다운로드 하 고 설치 합니다.
   
-1. 양식을 열면 **Office 제품 제거** 에서 제거 하려는 버전을 선택 하 고 **다음**을 선택 합니다. 
-    
+1. 양식을 열면 **Office 제품 제거** 에서 제거 하려는 버전을 선택 하 고 **다음**을 선택 합니다.
+
 2. 화면을 계속 진행 하 고 메시지가 표시 되 면 컴퓨터를 다시 시작 합니다.
-    
+
     다시 시작한 후에는 지원 및 복구 도우미가 자동으로 다시 열리므로 제거 프로세스를 완료 합니다.
-    
-3. 나머지 메시지를 팔 로우 하 고 [Office를 다시 설치](https://portal.office.com/OLS/MySoftware.aspx) 하거나 도우미를 닫습니다. 
-    
+
+3. 나머지 메시지를 팔 로우 하 고 [Office를 다시 설치](https://portal.office.com/OLS/MySoftware.aspx) 하거나 도우미를 닫습니다.
+
 기타 제거 옵션 목록을 보려면 [PC에서 Office 제거](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA)를 선택 합니다.
   
-

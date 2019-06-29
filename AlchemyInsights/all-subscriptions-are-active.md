@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "458"
+- "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: bef24376d9cffbc9eed3adf05efdff6229157bd8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 05441af38fff4f6920a801aceb0dc5456d276b2f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397858"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357287"
 ---
 # <a name="all-subscriptions-are-active"></a>모든 구독이 활성 상태입니다.
 
@@ -24,4 +26,3 @@ ms.locfileid: "32397858"
   
 서비스에 문제가 있는 경우 "사용자에 게 전화를 걸어 주십시오." 옵션을 사용 하 여 지원 엔지니어에 게 문의 하세요.
   
-

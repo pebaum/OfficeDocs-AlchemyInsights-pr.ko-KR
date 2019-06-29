@@ -1,26 +1,28 @@
 ---
-title: 9000193 Outlook.com에서 이동 또는 삭제 취소
+title: Outlook.com에서 이동 또는 삭제 취소
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 5/6/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000193
-ms.openlocfilehash: 9fc58b1d5bb6df309a2832d38101d9f6ae90a6aa
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1752"
+- "9000193"
+ms.openlocfilehash: 37134a58dc11f9004c4303fade3c684627a793bb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372998"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361067"
 ---
 # <a name="action-confirmations"></a>작업 확인
 
-Outlook.com의 작업 확인 기능을 사용 하면 실수로 수행한 이동 또는 메시지 삭제를 취소할 수 있습니다. 화면 아래쪽에 있는 실행 취소 대화 상자가 약 5 초 동안 나타나고 이동 또는 삭제 작업이 취소 됩니다.
+실수로 메시지를 이동 하거나 삭제 한 경우 해당 작업을 실행 취소할 수 있습니다. 실행 취소 대화 상자가 화면 아래쪽에 5 초 동안 표시 됩니다. 이동 또는 삭제 작업을 취소 하려면 **실행 취소** 를 선택 합니다.
 
-이 설정은 [작업](https://outlook.live.com/mail/options/general/notifications) 확인 (**설정** > **-모든 Outlook 설정** > **일반** > **알림을**보기)에서 해제할 수 있습니다.
+[작업](https://outlook.live.com/mail/options/general/notifications) 확인 (**설정** > 에서는**모든 Outlook 설정** > **일반** > **알림을**보기)에서이 기능을 해제할 수 있습니다.
 
-참고: 메시지 보내기를 취소할 수 없습니다. 자세한 내용은 [Outlook.com에서 메시지를 회수](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a)합니다 .를 참조 하세요.
+참고: 메시지가 전송 되 면 해당 작업을 실행 취소할 수 없습니다. 자세한 내용은 [Outlook.com에서 메시지를 회수](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a)합니다 .를 참조 하세요.

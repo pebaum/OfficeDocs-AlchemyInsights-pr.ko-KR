@@ -9,17 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "232"
+- "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 16fa7c045d4323f2f65d6ae219583affa9e27d37
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e1c773901cf367f40256597e1559da4d5da861c8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401082"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387207"
 ---
 # <a name="font-formatting-problems-in-excel"></a>Excel의 글꼴 서식 문제
 
-Excel 2016에서는 셀에 글꼴 서식이 제대로 표시 되지 않을 수 있습니다. 셀에 글꼴 서식이 두 개 이상 포함 되어 있는 경우 이러한 현상이 발생할 수 있습니다. 예를 들어 일부 문자를 굵게 표시 하지 않고 굵게 서식을 적용 하지 않으면 굵은 서식이 나타나지 않을 수 있습니다. 같은 셀에 다른 색의 문자가 있으면 색이 제대로 표시 되지 않을 수 있습니다. 엔지니어링 팀에서이 문제를 이해 하 고 있으며 현재 수정 작업을 진행 중입니다. 다른 글꼴을 사용해 봅니다. 또는이 문제가 해결 될 때까지 동일한 셀에서 여러 종류의 서식을 사용 하지 않도록 하십시오. 
+Excel 2016에서는 셀에 글꼴 서식이 제대로 표시 되지 않을 수 있습니다. 셀에 글꼴 서식이 두 개 이상 포함 되어 있는 경우 이러한 현상이 발생할 수 있습니다. 예를 들어 일부 문자를 굵게 표시 하지 않고 굵게 서식을 적용 하지 않으면 굵은 서식이 나타나지 않을 수 있습니다. 같은 셀에 다른 색의 문자가 있으면 색이 제대로 표시 되지 않을 수 있습니다. 엔지니어링 팀에서이 문제를 이해 하 고 있으며 현재 수정 작업을 진행 중입니다. 다른 글꼴을 사용해 봅니다. 또는이 문제가 해결 될 때까지 동일한 셀에서 여러 종류의 서식을 사용 하지 않도록 하십시오.
   
-

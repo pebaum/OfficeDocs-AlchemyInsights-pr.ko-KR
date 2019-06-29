@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 646
+ms.custom:
+- "646"
+- "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 2dc4ae7d6809c24ce599ac128570e9354c9f2b30
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 0569cb10c1d1dd422709de5d2569e43ee9d75386
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752567"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385358"
 ---
 # <a name="configure-sync-features"></a>동기화 기능 구성
 
@@ -23,7 +25,7 @@ Azure AD Connect에는 기본적으로 사용 하도록 설정 되거나 나중�
 
 - [필터링](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) 제한 개체가 Azure AD로 동기화 됩니다. 기본적으로 모든 사용자, 연락처, 그룹 및 Windows 10 컴퓨터 계정이 동기화 됩니다. 도메인, Ou 또는 기타 특성에 따라 개체를 포함 하거나 제외할 수 있습니다.
 
-- [암호 해시 동기화](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) 온-프레미스 Active Directory에서 Azure AD로의 암호 해시를 동기화 합니다. 이를 통해 한 위치에서 암호를 관리할 수 있지만 온-프레미스 및 클라우드 환경 둘 다에서 동일한 암호를 사용 합니다. Active Directory는 신뢰할 수 있는 원본 이기 때문에 고유한 암호 정책을 사용 해도 됩니다.
+- [암호 해시 동기화](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) 는 온-프레미스 Active Directory에서 Azure AD로 암호 해시를 동기화 합니다. 이를 통해 한 위치에서 암호를 관리할 수 있지만 온-프레미스 및 클라우드 환경 둘 다에서 동일한 암호를 사용 합니다. Active Directory는 신뢰할 수 있는 원본 이기 때문에 고유한 암호 정책을 사용 해도 됩니다.
 
 - [SSPR (셀프 서비스 암호 재설정)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) 를 사용 하면 온-프레미스 암호 정책을 적용 하는 동안 사용자가 클라우드에서 자신의 암호를 다시 설정할 수 있습니다.
 

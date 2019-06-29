@@ -9,18 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1491
+ms.custom:
+- "1491"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 517d9b75fc3aef09c0c2d5870aa695cc0ab10f06
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d25c1ef2e0e746432472a436cb11d25b5db5596c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32383841"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355883"
 ---
 # <a name="content-search-not-returning-expected-results"></a>콘텐츠 검색에서 필요한 결과를 반환 하지 않음
 
-Office 365 Security & 준수 센터에서 콘텐츠 검색을 실행 하면 예기치 않은 검색 결과가 나타날 수 있습니다. 검색 결과에 영향을 줄 수 있는 다음과 같은 사항을 고려 하십시오.
+Office 365 보안 & 준수 센터에서 콘텐츠 검색을 실행 하는 경우 예기치 않은 검색 결과가 나타날 수 있습니다. 검색 결과에 영향을 줄 수 있는 다음과 같은 사항을 고려 하십시오.
 
 - **콘텐츠 위치 및 검색 조건**: 적절 한 콘텐츠 위치 및 검색 조건을 선택 했는지 확인 합니다. 여러 위치에서 큰 검색을 실행 한 경우에는 여러 검색으로 분할 하는 것이 좋습니다.
 

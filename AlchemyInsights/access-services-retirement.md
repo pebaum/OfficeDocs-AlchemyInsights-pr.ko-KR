@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769448"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359358"
 ---
 # <a name="access-services-retirement"></a>Access services 퇴직
 
@@ -24,7 +27,7 @@ ms.locfileid: "34769448"
 
 **이 변경 사항을 준비 하려면 어떻게 해야 하나요?**
 
-조직의 Access 웹 데이터베이스에 대 한 전환 계획을 만드는 것이 좋습니다. 관리자는 [SharePoint access 앱 검색](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) 프로그램을 사용 하 여 사이트에서 사용 중인 Access 앱의 인벤토리를 가져올 수 있습니다. 
+조직의 Access 웹 데이터베이스에 대 한 전환 계획을 만드는 것이 좋습니다. 관리자는 [SharePoint access 앱 검색](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) 프로그램을 사용 하 여 사이트에서 사용 중인 Access 앱의 인벤토리를 가져올 수 있습니다.
 
 Access 웹 데이터베이스 데이터를 마이그레이션하는 방법에는 여러 가지가 있습니다.
 

@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 2700001
-ms.openlocfilehash: 14c8de57d65eb30408c1240b5f968146b44be6b6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "2700001"
+- "1381"
+ms.openlocfilehash: 992c5c5e90e1e6218a0318c29c34c465ce7a8a5c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389425"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359447"
 ---
 # <a name="help-with-permissions-in-project-online"></a>Project Online의 사용 권한에 대 한 도움말
 
@@ -27,8 +29,4 @@ ms.locfileid: "32389425"
 4. **옵션 표시**를 선택 하 고 **사용 권한 수준 선택** 메뉴에서 project **Web App에 대 한 프로젝트 관리자**를 선택 합니다.
 5. **공유**를 선택 합니다.
 
-프로젝트 사용 권한 모드를 사용 하거나 자세한 내용을 보려면 [project Online에 사용자 추가](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)를 참조 하세요.
-
-
-  
-
+프로젝트 사용 권한 모드를 사용 하거나 자세한 내용을 보려면 [Project Online에 사용자 추가](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)를 참조 하세요.

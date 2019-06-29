@@ -1,5 +1,5 @@
 ---
-title: Alchemy-outlook 오류 ' Microsoft outlook을 시작할 수 없습니다.
+title: Alchemy-Outlook 오류 ' Microsoft Outlook을 시작할 수 없습니다.
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "457"
+- "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: f35b769d5037b0b8dd4dec7af760124abacfd11a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e2ac82eda2de9e493ba3efb1bd3477d4a9eec10e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398012"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357445"
 ---
-"Microsoft Outlook을 시작할 수 없습니다."
-
 # <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook 오류: "Microsoft Outlook을 시작할 수 없습니다."
 
-outlook 2016, outlook 2013 또는 outlook 2010을 시작 하는 데 문제가 있거나 "Microsoft outlook을 시작할 수 없습니다. Outlook 창을 열 수 없음 "오류 메시지
+Outlook 2016, Outlook 2013 또는 Outlook 2010을 시작 하는 데 문제가 있거나 "Microsoft Outlook을 시작할 수 없습니다. Outlook 창을 열 수 없음 "오류 메시지
   
 먼저 [이 문서의](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) 문제 해결 단계를 사용 하 여 이러한 시작 문제를 해결 하는 데 도움이 됩니다. 
   

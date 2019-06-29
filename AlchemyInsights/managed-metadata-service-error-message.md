@@ -7,13 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1246"
+- "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 52c9d772410569adef01ea78bdfb21ab192a70b5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 49b76cd0b7eb6af3ad4b2f0ea8c38c109d6fff00
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409120"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35380439"
 ---
 # <a name="managed-metadata-service-error-message"></a>Managed Metadata Service 오류 메시지
 
@@ -21,4 +24,3 @@ ms.locfileid: "32409120"
   
 이 문제가 처음 발생 한 것으로 24 시간 이상 경과 하면 지원 사례를 기록 하세요. 24 시간이 오래 된 것 처럼 보일 수 있다는 사실을 이해 하 고 있습니다. 대부분의 경우 솔루션에서 이미 작업 중 이므로 최소 24 시간을 제공 해 주세요.
   
-

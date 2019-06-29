@@ -9,18 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 286
+ms.custom:
+- "286"
+- "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 4f5829ac1ecc7d01575df360929d1a775e626e2a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 84794755f7756838393f11d617fcc8a5e3748e9f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398932"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388467"
 ---
 # <a name="search-the-audit-log"></a>감사 로그 검색
 
-Office 365 감사 로그를 검색 하려면 [다음 단계](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)를 수행 합니다. 
+Office 365 감사 로그를 검색 하려면 [다음 단계](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)를 수행 합니다.
 
 **Exchange**
 
@@ -34,7 +36,7 @@ Office 365 감사 로그를 검색 하려면 [다음 단계](https://docs.micros
 
 - SharePoint 및 OneDrive에 대 한 감사를 사용 하도록 설정 하는 데에는 추가 구성이 필요 하지 않습니다.
 
-- SharePoint 및 OneDrive에서는 다음과 같은 유형의 활동을 감사 하도록 지원 합니다. 
+- SharePoint 및 OneDrive에서는 다음과 같은 유형의 활동을 감사 하도록 지원 합니다.
 
     - 파일, 폴더 및 페이지 작업
     - 공유 및 액세스 요청 활동

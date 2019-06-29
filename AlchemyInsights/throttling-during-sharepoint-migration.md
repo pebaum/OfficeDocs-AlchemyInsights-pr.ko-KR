@@ -6,17 +6,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1987"
+- "9000353"
 ms.assetid: ''
-ms.openlocfilehash: 0bb18c268e76629c0a63db4f2175d6c9e2d585f6
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c42f9a274edf3a5617ca8d05aa7a4ea3ef18a8db
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757795"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353939"
 ---
 # <a name="sharepoint-throttling"></a>SharePoint 제한
 
-SharePoint Online에서는 제한 기능을 사용 하 여 SharePoint Online 서비스의 최적의 성능과 안정성을 유지 관리 합니다. 제한은 리소스를 과도 하 게 사용 하지 못하도록 사용자 작업 수 또는 스크립트 또는 코드에의 한 동시 통화를 제한 합니다. 
+SharePoint Online에서는 제한 기능을 사용 하 여 SharePoint Online 서비스의 최적의 성능과 안정성을 유지 관리 합니다. 제한은 리소스를 과도 하 게 사용 하지 못하도록 사용자 작업 수 또는 스크립트 또는 코드에의 한 동시 통화를 제한 합니다.
 
 자세한 내용을 보려면 아래 링크를 방문 하세요.
 

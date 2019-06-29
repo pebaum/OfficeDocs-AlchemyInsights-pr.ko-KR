@@ -8,13 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "897"
+- "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 63624f7487292d09034f55a9ec976efa18363a91
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5d29f3a92a6ffa8d52d1b607745e673f89ec10b1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406620"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35363947"
 ---
 # <a name="creditrefund"></a>대변/상환
 
@@ -26,4 +29,3 @@ ms.locfileid: "32406620"
   
 구독에서 라이선스를 제거 하면 다음 청구서에서 이러한 라이선스의 사용 되지 않는 시간이 크레딧에 적용 됩니다. 라이선스가 제거 된 날짜 로부터 최대 30 일이 소요 될 수 있습니다.
   
-

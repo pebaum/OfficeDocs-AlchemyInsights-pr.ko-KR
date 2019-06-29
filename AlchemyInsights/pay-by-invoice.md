@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "492"
+- "1500024"
 ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
-ms.openlocfilehash: aa1dafada1f55da1b4d561f0facf5307925d37a0
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6d6ab46e54379fbd4c62dab4953299167438c26f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372602"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360851"
 ---
 # <a name="pay-by-invoice"></a>송장 별 결제
 
@@ -26,6 +28,5 @@ Office 365 구독 요금이 특정 금액(이 금액은 서비스 위치에 따�
   
 송장에서 지불 하는 방법에 대 한 자세한 내용은 [Office 365 비즈니스 구독에 대 한 결제](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216)를 참조 하세요.
   
-결제 방법 변경에 [대 한 자세한 내용은 Office 365 for Business 결제 방법 변경을](https://support.office.com/article/8652f539-3123-4a8f-b9bd-6aa2f0e0372d)참조 하세요.
+결제 방법 변경에 [대 한 자세한 내용은 Office 365 For Business 결제 방법 변경을](https://support.office.com/article/8652f539-3123-4a8f-b9bd-6aa2f0e0372d)참조 하세요.
   
-

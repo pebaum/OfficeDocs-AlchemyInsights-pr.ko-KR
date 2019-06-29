@@ -9,21 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "56"
+- "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 68592c1fd0626bb1d0f75ad2465e857245b87e13
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9bd764984a3ea053e6135124c7d217280d2e4fe9
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421102"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35367943"
 ---
 # <a name="subscription-notice-in-your-office-client"></a>Office 클라이언트의 구독 알림
 
-office 365 구독 상태와 관련 된 office 클라이언트의 알림을 보는 것 같습니다. 이 문서에서 문제를 해결 하는 방법에 대 한 정보를 찾을 수 있습니다. [Office 365 응용 프로그램을 열면 구독 알림이 표시 됩니다](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx) .
+Office 365 구독 상태와 관련 된 Office 클라이언트의 알림을 보는 것 같습니다. 이 문서에서 문제를 해결 하는 방법에 대 한 정보를 찾을 수 있습니다. [Office 365 응용 프로그램을 열면 구독 알림이 표시 됩니다](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx) .
   
-office 365 구독이 최신 상태 이면 office 정품 인증에 실패 한 일시적인 문제를 해결 했을 수 있습니다. 컴퓨터 시간 확인과 Office를 관리자 권한으로 실행 하 고 로그인 하 여 정품 인증을 수행 하는 등 이러한 메시지가 나타나지 않도록 하기 위해 수행할 수 있는 간단한 단계가 있습니다. 이 문서에서 설명 하는 문제를 해결 하는 자세한 단계는 [Office의 허가 되지 않은 제품 및 정품 인증 오류](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx)에서 확인할 수 있습니다. 
+Office 365 구독이 최신 상태 이면 Office 정품 인증에 실패 한 일시적인 문제를 해결 했을 수 있습니다. 컴퓨터 시간 확인과 Office를 관리자 권한으로 실행 하 고 로그인 하 여 정품 인증을 수행 하는 등 이러한 메시지가 나타나지 않도록 하기 위해 수행할 수 있는 간단한 단계가 있습니다. 이 문서에서 설명 하는 문제를 해결 하는 자세한 단계는 [Office의 허가 되지 않은 제품 및 정품 인증 오류](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx)에서 확인할 수 있습니다.
   
 문제가 해결 되지 않으면 아래 링크를 참조 하 여 저희에 게 문의 하세요.
   
-
