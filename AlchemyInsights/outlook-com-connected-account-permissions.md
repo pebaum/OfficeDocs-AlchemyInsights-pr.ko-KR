@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000093
-ms.openlocfilehash: 9bd711a5780129ac643ec9bf0000adf69ae2153b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1431"
+- "8000093"
+ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417966"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375795"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>"사용 권한이 없는 것 처럼 보입니다." 문제를 해결 하는 방법
 
 "전자 메일을 가져올 수 있는 권한이 없는 것 같습니다." 라는 오류 메시지가 표시 되는 경우 다음을 수행 하세요.
 
-1. [연결 된 계정 설정을](https://outlook.live.com/mail/options/mail/accounts) 열고 오류에 나열 된 연결 된 계정을 제거 하거나 삭제 합니다. 
+1. [연결 된 계정 설정을](https://outlook.live.com/mail/options/mail/accounts) 열고 오류에 나열 된 연결 된 계정을 제거 하거나 삭제 합니다.
 2. 연결 된 계정을 다시 추가 합니다.
 3. [사서함으로](https://outlook.live.com/mail/inbox)돌아갑니다.
 

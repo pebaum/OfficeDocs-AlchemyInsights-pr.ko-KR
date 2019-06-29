@@ -1,38 +1,38 @@
 ---
-title: 8000060 Outlook.com MSA 교정
+title: Outlook.com MSA 교정
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000060
+ms.custom:
+- "1006"
+- "1008"
+- "1009"
+- "1010"
+- "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392364"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373887"
 ---
 # <a name="security-info-and-security-codes"></a>보안 정보 및 보안 코드
 
-1. Microsoft 계정을 사용 하 여 [보안 기본](https://account.microsoft.com/security) 페이지에 로그인 합니다. 
-    
-2. **정보 업데이트**를 선택 합니다. 
-    
-3. 계속 하려면 보안 코드를 입력 하 라는 메시지가 표시 될 수 있습니다. 대체 전자 메일 또는 전화 번호에 대 한 액세스 권한이 없는 경우에는 해당 항목을 선택 **하지** 않고 지침에 따라 보안 정보를 교체 합니다. 
-    
-4. **보안 정보 추가** 를 선택 하 고 지침에 따라 새 전자 메일 또는 전화 번호를 입력 합니다. 
-    
-5. 새 전자 메일 또는 전화 번호로 보안 코드를 보냅니다. 보안 코드를 입력 하 고 **다음**을 선택 합니다. 새 보안 정보가 목록에 표시 됩니다. 
-    
-6. 제거 하려는 항목에 대해 **제거** 를 선택 합니다. 
-    
-7. 알림을 보낼 보안 정보를 업데이트 하려면 알림 **옵션 변경을** 선택 하 고 중요 한 경우가 아니면 더 이상 알림을 받지 않을 사용자에 대 한 확인란의 선택을 취소 합니다. 
-    
-[보안 정보 및 보안 코드](https://support.microsoft.com/help/12428/)에 대 한 자세한 내용을 읽으십시오.
-  
+계정에 보안 정보를 추가 하려면 다음을 수행 합니다.
 
+1. Microsoft 계정을 사용 하 여 [보안 기본 사항](https://account.microsoft.com/security) 에 로그인 합니다.
+1. **보안 연락처 정보**를 선택 합니다.
+1. **보안 정보 추가** 를 선택 하 고 지침에 따라 전화 번호나 전자 메일 주소를 입력 합니다.
+1. 해당 전화 번호 또는 전자 메일 주소에서 보안 코드를 받게 됩니다. **보안 정보 추가** 창에 받은 보안 코드를 입력 하 고 **다음**을 선택 합니다.
+
+전화 번호나 전자 메일 주소를 제거 하려면 옆에 있는 **제거** 를 선택 합니다.
+
+보안 경고가 수신 되는 전화 번호 또는 전자 메일 주소를 변경 하려면 **알림 옵션 변경을**선택 합니다.
+
+자세한 내용은 [Microsoft 계정 보안 정보 및 확인 코드](https://support.microsoft.com/help/12428/)를 참조 하세요.

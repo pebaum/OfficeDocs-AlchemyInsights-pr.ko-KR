@@ -8,20 +8,22 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000233
-ms.openlocfilehash: af81ead91c865d2b36ea20476b91c51e36452690
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1817"
+- "9000233"
+ms.openlocfilehash: 4a3813c9c926e7a6b9106703204dae644b06b84a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392393"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373455"
 ---
 # <a name="change-your-pin"></a>PIN 변경
 
-Outlook.com에서는 pin을 사용 하지 않지만 pin 또는 Windows Hello를 사용 하 여 PC에 로그인 할 수 있습니다. Windows 10에서 PIN을 변경 하려면:
+Outlook.com에서는 PIN을 사용 하지 않지만 PIN 또는 Windows Hello를 사용 하 여 PC에 로그인 할 수 있습니다. Windows 10에서 PIN을 변경 하려면:
 
-1. 시작으로 이동한 다음 **설정** > **계정** > **로그인 옵션**을 선택 합니다.
+1. 시작 단추를 선택 하거나 키보드에서 Windows 키를 누른 다음 **설정** > **계정** > **로그인 옵션**을 선택 합니다.
 2. **PIN**아래에서 **변경** 단추를 선택 합니다.
-3. 현재 pin을 입력 한 다음 아래에 새 pin을 입력 하 고 확인 합니다.
+3. 현재 PIN을 입력 한 다음 아래에 새 PIN을 입력 하 고 확인 합니다.
 
 [Windows Hello에 대 한 자세한 내용을 읽으십시오.](https://support.microsoft.com/help/17215/)
