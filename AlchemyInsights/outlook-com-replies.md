@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392546"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372555"
 ---
 # <a name="replying-in-outlookcom"></a>Outlook.com에서 회신
 
 한 번에 한 메시지에 회신 하려면 다음을 수행 합니다.
 
-1. 메시지 목록에서 전달 하려는 메시지를 선택 합니다.
+1. 메시지 목록에서 회신할 메시지를 선택 합니다.
 2. 메시지 창의 오른쪽 위에 있는 **회신** 화살표 또는 전체 **회신** 화살표를 선택 합니다.
 3. 메시지를 입력 하 고 **보내기를**선택 합니다.
 
 모든 메시지에 자동으로 회신 하려면 다음을 수행 합니다.
 
-1. [자동 회신 설정을](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption)엽니다.
+1. **설정** > **보기로 이동 모든 Outlook 설정** > **메일** > **자동 회신** 을 열려면 [자동 회신 설정을](https://outlook.live.com/mail/options/mail/automaticReplies)엽니다.
 2. **자동 회신 설정** /해제를 선택 합니다.
 3. **시간 간격 중에만 회신 보내기** 확인란을 선택 하면 다음을 수행할 수 있습니다.
     - 선택한 경우에만 회신을 보냅니다. 기간을 설정 하지 않으면 자동 회신을 끌 때까지 유지 됩니다.
