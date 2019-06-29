@@ -1,22 +1,24 @@
 ---
 title: 1575-PowerApps 및 Microsoft Flow 계획 확장
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: toresing
+author: tomresing
+manager: scotv
 ms.date: 03/04/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1575
+ms.custom:
+- "1575"
+- "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1a47d0fc1d33d85f61fb80a1f451d1f5af08f060
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 2ed0157aff72c42a63898b03cdf8bd5ea3f980a5
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371954"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371205"
 ---
 # <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps 및 Microsoft Flow plan extension
 
@@ -26,4 +28,4 @@ ms.locfileid: "32371954"
 - SharePoint 및 OneDrive 외부에 흐름에 통합 된 HTTP 사용자 지정 작업
 - 온-프레미스 데이터 게이트웨이를 통한 온-프레미스 데이터 통합
 
-사용자가 이러한 기능을 사용 하는 고객은 더 이상 기존 Office 365 구독 기간이 만료 될 때까지 자동으로 확장 될 수 있습니다.
+사용자가 이러한 기능을 사용 하는 고객은 더 이상 기존 Office 365 구독 기간이 만료 2020 될 때까지 자동으로 확장 될 수 있습니다.

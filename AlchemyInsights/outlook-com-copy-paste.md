@@ -6,20 +6,22 @@ manager: joallard
 ms.date: 3/21/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000303
+ms.custom:
+- "1920"
+- "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 08ed0835415d879d196f67567eed5c538e3a67df
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ba51aa82b1eb98ecedcbf779301daa8beafb2f25
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418187"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375615"
 ---
 # <a name="copy-and-paste-in-outlookcom"></a>Outlook.com에서 복사 하 여 붙여넣기
 
 Outlook.com의 복사 또는 붙여넣기 단추는 없지만 바로 가기 키를 사용할 수 있습니다.
 
-**PC에서 다음을 수행 합니다.** 복사 하려면 ctrl + C를 누르고, ctrl + X를 잘라 내어, ctrl + V를 눌러 붙여 넣습니다.
+**PC에서 다음을 수행 합니다.** 복사 하려면 CTRL + C를 누르고, CTRL + X를 잘라 내어, CTRL + V를 눌러 붙여 넣습니다.
 
-**Mac:** 복사 하려면 cmd + C를, cmd + X를 잘라 내어, cmd + V를 붙여 넣을 수 있습니다.
+**Mac:** 복사 하려면 CMD + C를, CMD + X를 잘라 내어, CMD + V를 붙여 넣을 수 있습니다.

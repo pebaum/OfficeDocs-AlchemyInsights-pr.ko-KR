@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000084
-ms.openlocfilehash: 8f314b20f6095b83cb12b340f10aa04eb8f6dbc9
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.custom:
+- "1350"
+- "8000084"
+ms.openlocfilehash: d86f039cb0dba7cb7e4d21c0e43c1a3448265146
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33632085"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373671"
 ---
 # <a name="email-and-storage-quota-in-outlookcom"></a>Outlook.com의 전자 메일 및 저장소 할당량
 
@@ -24,4 +26,6 @@ ms.locfileid: "33632085"
 
 **저장소 제한**
 
-받은 편지함이 가득 찬 경우 메시지를 보내거나 받을 수 없으며 전자 메일을 보내는 사용자에 게 받은 편지함이 가득 찬 오류 메시지가 표시 됩니다. [사용 중인 저장소의 크기를 확인](https://go.microsoft.com/fwlink/?linkid=2052089)하거나 [사서함에 공간을 설정 하는 방법을 알아볼](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e)수 있습니다.
+받은 편지함이 가득 찬 경우 메시지를 보내거나 받을 수 없으며 전자 메일을 보내는 사용자에 게 받은 편지함이 가득 찬 오류 메시지가 표시 됩니다. [ **** 설정 > 으로 이동 하 여 사용 가능한 저장소의 크기를 볼 수 있으며**모든 Outlook 설정** > **일반**> 저장소를 보거나](https://outlook.live.com/mail/options/general/storage) [사서함에 공간을 설정 하는 방법을 알아볼](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e)수 있습니다.
+
+프리미엄 계정이 있는 경우 [ **설정** > **보기 모든 Outlook 설정** > **프리미엄**> 기능](https://outlook.live.com/mail/options/premium/features)으로 이동 하 여 저장소를 볼 수 있습니다.
