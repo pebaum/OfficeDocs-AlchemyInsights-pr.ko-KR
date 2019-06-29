@@ -9,23 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 8000031
+ms.custom:
+- "1178"
+- "1179"
+- "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 03918c3c3dcb9aba3bb29390dd1f439ff1b33d11
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 5074cadecea9ea66367e3ddbcddc73ec182d7250
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765205"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35366467"
 ---
-# <a name="unable-to-delete-photos-from-files"></a><span data-ttu-id="49d53-102">파일에서 사진을 삭제할 수 없음</span><span class="sxs-lookup"><span data-stu-id="49d53-102">Unable to delete photos from Files</span></span>
+# <a name="unable-to-delete-photos-from-files"></a><span data-ttu-id="35b63-102">파일에서 사진을 삭제할 수 없음</span><span class="sxs-lookup"><span data-stu-id="35b63-102">Unable to delete photos from Files</span></span>
 
-<span data-ttu-id="49d53-103">파일 또는 사진을 삭제 하려면 다음을 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="49d53-103">To delete the files or photos:</span></span>
+<span data-ttu-id="35b63-103">파일 또는 사진을 삭제 하려면 다음을 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="35b63-103">To delete the files or photos:</span></span>
   
-1. <span data-ttu-id="49d53-104">**받은 편지함** 또는 보낸 팩스 **함** 폴더로 이동 하 여 첨부 된 전자 메일 메시지를 삭제 합니다.</span><span class="sxs-lookup"><span data-stu-id="49d53-104">Go to your **Inbox** or **Sent Items** folder and delete the email message they're attached to.</span></span> 
-    
-2. <span data-ttu-id="49d53-105">**지운**편지함에서 항목을 제거 합니다.</span><span class="sxs-lookup"><span data-stu-id="49d53-105">Remove the item(s) from your **Deleted items**.</span></span> 
-    
-<span data-ttu-id="49d53-106">자세한 내용은 [Outlook.com에서 파일 또는 사진 삭제 방법을](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="49d53-106">For more information, read [How to delete files or photos in Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).</span></span>
-  
+1. <span data-ttu-id="35b63-104">**받은 편지함** 또는 보낸 팩스 **함** 폴더로 이동 하 여 첨부 된 전자 메일 메시지를 삭제 합니다.</span><span class="sxs-lookup"><span data-stu-id="35b63-104">Go to your **Inbox** or **Sent Items** folder and delete the email message they're attached to.</span></span>
 
+2. <span data-ttu-id="35b63-105">**지운**편지함에서 항목을 제거 합니다.</span><span class="sxs-lookup"><span data-stu-id="35b63-105">Remove the item(s) from your **Deleted items**.</span></span>
+
+<span data-ttu-id="35b63-106">자세한 내용은 [Outlook.com에서 파일 또는 사진 삭제 방법을](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="35b63-106">For more information, read [How to delete files or photos in Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).</span></span>
+  
