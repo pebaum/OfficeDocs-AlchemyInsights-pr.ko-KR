@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883133"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357575"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook 충돌 문제 해결 단계
 
@@ -25,10 +27,9 @@ Outlook 데스크톱 충돌 문제가 발생 하는 경우 다음의 세 단계�
   
 1 단계: 추가 기능에서 발생할 수 있는 문제를 조사 합니다.
   
-2 단계: Outlook을 복구 하 고 [지원 및 복구 도우미 도구를 실행 하 여 영향을 받는 시스템에서 outlook 시작 오류 문제를 해결](https://aka.ms/SaRA-OutlookWontStart) 합니다. 
+2 단계: Outlook을 복구 하 고 [지원 및 복구 도우미 도구를 실행 하 여 영향을 받는 시스템에서 outlook 시작 오류 문제를 해결](https://aka.ms/SaRA-OutlookWontStart) 합니다.
   
-3 단계: 새 Outlook 프로필을 만들거나 영향을 받는 컴퓨터에서 [outlook 프로필 도구](https://aka.ms/SaRA-OutlookSetupProfile) 를 실행할 수 있습니다. 
+3 단계: 새 Outlook 프로필을 만들거나 영향을 받는 컴퓨터에서 [outlook 프로필 도구](https://aka.ms/SaRA-OutlookSetupProfile) 를 실행할 수 있습니다.
   
 업데이트 및 위의 단계가 작동 하지 않는 경우 문제가 발생 한 경우 이전 빌드로 되돌려야 할 수 있습니다. [이전 버전의 office 2013 또는 Office 2016 간편 실행으로 되돌리는 방법을](https://support.microsoft.com/help/2770432)참조 하세요.
   
-
