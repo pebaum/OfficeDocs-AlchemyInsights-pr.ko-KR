@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883166"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358907"
 ---
 # <a name="activate-visio"></a>Visio 정품 인증
 
@@ -27,8 +27,8 @@ ms.locfileid: "34883166"
 
 Visio를 정품 인증 하려면
 
-1. [Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) 가 아직 설치 되어 있지 않으면 설치 합니다.
-2. 설치가 완료 되 면 Visio를 엽니다. 대부분의 경우 앱이 자동으로 활성화 되며 Visio를 바로 사용 하 여 시작할 수 있습니다. 로그인 하 라는 메시지가 표시 되 면 Visio 라이선스가 할당 된 것과 동일한 회사 또는 학교 계정으로 로그인 해야 합니다. 
+1. 아직 설치 되지 않은 경우 [내 계정 포털](https://portal.office.com/account#installs) 에서 Visio를 설치 합니다. 도움말은 [Visio 설치](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)를 참조 하세요.
+2. 설치가 완료 되 면 Visio 앱을 엽니다. Visio에서는 자동으로 정품 인증을 받을 수 있으며 바로 사용을 시작할 수도 있습니다. 그렇지 않으면 로그인 하 라는 메시지가 표시 될 수 있습니다. Visio 라이선스가 할당 된 것과 동일한 회사 또는 학교 계정으로 로그인 해야 합니다. 메시지에 따라 정품 인증을 계속 진행 합니다. 
 
 정품 인증 문제를 해결 하려면 영향을 받는 컴퓨터에서 [정품 인증 문제 해결사](https://aka.ms/SARA-OfficeActivation-Alchemy) 를 실행 합니다.
 

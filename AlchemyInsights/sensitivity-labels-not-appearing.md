@@ -9,12 +9,15 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ffb31ee0910ec41fca5a6ac69b98805023828097
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1778"
+- "9000181"
+ms.openlocfilehash: 7336a6603b160a43b71e722487728df9af3e15b4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770779"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355739"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>민감도 레이블 표시 안 함
 
@@ -25,8 +28,7 @@ ms.locfileid: "34770779"
 - 민감도 레이블이 원하는 사용자 및 그룹에 [게시](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) 되었는지 확인 합니다.
 
 - 사용자가 민감도 레이블을 지 원하는 앱을 사용 하 고 있는지 확인 하 고, [문서의 민감도 레이블을](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable)참조 하세요.
- 
- 
+
 - [Azure Information Protection 레이블을 마이그레이션하](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)는 경우 [여기](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)에 나열 된 고려 사항을 고려해 야 합니다.
 
 - DLP (데이터 손실 방지) 지원: 현재는 보존 레이블만 DLP 정책의 조건으로 사용할 수 있습니다.  DLP 정책의 민감도 레이블에 대 한 지원은 아직 사용할 수 없지만 작업 하 고 있습니다.

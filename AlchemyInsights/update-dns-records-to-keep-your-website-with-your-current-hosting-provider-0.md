@@ -9,41 +9,42 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "42"
+- "43"
+- "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: f2cdb319e56b82c09b7a9856c81a45e69dee6759
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 62f49038cf541c2185ed6a60c6cb58fe2889342d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423729"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353183"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>DNS 레코드를 업데이트하여 현재 호스팅 공급자에 웹 사이트 유지
 
-1. [도메인](https://portal.office.com/adminportal/home#/Domains) 페이지의 도메인 목록에서 웹 사이트에 사용 중인 도메인을 선택한 다음 관리 창에서 **DNS 설정** 을 선택합니다. 
-    
-2. **+ 새 사용자 지정 레코드** 를 선택하고 다음을 입력합니다. 
-    
+1. [도메인](https://portal.office.com/adminportal/home#/Domains) 페이지의 도메인 목록에서 웹 사이트에 사용 중인 도메인을 선택한 다음 관리 창에서 **DNS 설정** 을 선택합니다.
+
+2. **+ 새 사용자 지정 레코드** 를 선택하고 다음을 입력합니다.
+
   - **DNS 유형** 에 대해 다음을 입력합니다. **A(주소)**
-    
+
   - **호스트 이름 또는 별칭** 에는 **@** 을 입력합니다.
-    
-  - **IP 주소** 에는 현재 호스팅되는 웹 사이트의 고정 IP 주소를 입력합니다(예: 172.16.140.1). 
-    
-    이 IP 주소는  *동적*  IP 주소가 아니라 웹 사이트의  *고정*  IP 주소여야 합니다. 웹 사이트가 호스트되는 사이트에서 공개 웹 사이트의 고정 IP 주소를 가져올 수 있는지 확인합니다. 
-    
-3. **저장** 을 선택합니다. 
-    
+
+  - **IP 주소** 에는 현재 호스팅되는 웹 사이트의 고정 IP 주소를 입력합니다(예: 172.16.140.1).
+
+    이 IP 주소는  *동적*  IP 주소가 아니라 웹 사이트의  *고정*  IP 주소여야 합니다. 웹 사이트가 호스트되는 사이트에서 공개 웹 사이트의 고정 IP 주소를 가져올 수 있는지 확인합니다.
+
+3. **저장** 을 선택합니다.
+
 추가로, 고객이 쉽게 사용자의 웹 사이트를 찾을 수 있도록 CNAME 레코드를 만들 수 있습니다.
   
-1. **+ 새 사용자 지정 레코드** 를 선택하고 다음을 입력합니다. 
-    
-  - **DNS 유형** 에 대해 다음을 입력합니다. **CNAME(별칭)**
-    
-  - **호스트 이름 또는 별칭** 에는 **www** 를 입력합니다.
-    
-  - **대상 주소** 에 웹 사이트의 FQDN(정규화된 도메인 이름)을 contoso.com과 같이 입력합니다. 
-    
-2. **저장**을 선택합니다. 
-    
+1. **+ 새 사용자 지정 레코드** 를 선택하고 다음을 입력합니다.
 
+  - **DNS 유형** 에 대해 다음을 입력합니다. **CNAME(별칭)**
+
+  - **호스트 이름 또는 별칭** 에는 **www** 를 입력합니다.
+
+  - **대상 주소** 에 웹 사이트의 FQDN(정규화된 도메인 이름)을 contoso.com과 같이 입력합니다.
+
+2. **저장**을 선택합니다.

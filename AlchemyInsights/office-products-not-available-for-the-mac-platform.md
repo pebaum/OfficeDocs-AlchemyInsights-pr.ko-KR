@@ -9,15 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9233f862-ebbb-4913-a83a-52cc3b99a644
-ms.openlocfilehash: 136b7737ae3c99b51b25e3cd813b794df86196af
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "648"
+- "2000016"
+ms.openlocfilehash: 5c1aab2f3d519cfd13dbc4c4ffa09a1ba9c214ca
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419770"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35378459"
 ---
 # <a name="office-products-not-available-for-the-mac-platform"></a>Mac 플랫폼에서 사용할 수 없는 Office 제품
 
-visio, project, Publisher 및 Access는 Mac 플랫폼에 사용할 수 없지만 visio online 및 Project Online은 사용 가능 하며 모든 플랫폼에서 작동 합니다.
+Visio, Project, Publisher 및 Access는 Mac 플랫폼에 사용할 수 없지만 Visio Online 및 Project Online은 사용 가능 하며 모든 플랫폼에서 작동 합니다.
   
-

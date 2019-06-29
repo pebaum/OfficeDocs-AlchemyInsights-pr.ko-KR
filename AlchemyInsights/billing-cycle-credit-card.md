@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "485"
+- "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: 11760e2f34bb6c9766b8f35be18ec9857e7c0ad9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7627299a85e07148bddbbf8183a306d612de67c7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396648"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359627"
 ---
 # <a name="billing-cycle-credit-card"></a>청구 주기 신용 카드
 
@@ -26,4 +28,3 @@ Microsoft에서 직접 Office 365 구독을 구입 하는 경우 신용 또는 �
   
 여기에는 신용 카드를 거절할 때 발생 하는 문제를 해결 하 고 신용 카드 정보를 변경 하 여 카드를 수락 합니다.
   
-
