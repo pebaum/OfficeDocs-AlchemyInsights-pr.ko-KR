@@ -8,17 +8,19 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1081
+ms.custom:
+- "1081"
+- "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: fc2fcbeb3f40660b4abd5f45ef8eb1838d1d42a5
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ec385fcc57ff3b32575ec0232c3ed623887461fb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751780"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361427"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="1f759-102">대화방 사서함 만들기 및 관리</span><span class="sxs-lookup"><span data-stu-id="1f759-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="0aabb-102">대화방 사서함 만들기 및 관리</span><span class="sxs-lookup"><span data-stu-id="0aabb-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="1f759-103">대화방 사서함을 만들고 수정 하려면 [room 사서함 만들기 및 관리](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="1f759-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
+<span data-ttu-id="0aabb-103">대화방 사서함을 만들고 수정 하려면 [room 사서함 만들기 및 관리](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="0aabb-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
 
-<span data-ttu-id="1f759-104">대화방 및 장비 사서함에 대 한 자세한 내용은 [room 및 장비 사서함](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx)을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="1f759-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
+<span data-ttu-id="0aabb-104">대화방 및 장비 사서함에 대 한 자세한 내용은 [room 및 장비 사서함](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx)을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="0aabb-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>

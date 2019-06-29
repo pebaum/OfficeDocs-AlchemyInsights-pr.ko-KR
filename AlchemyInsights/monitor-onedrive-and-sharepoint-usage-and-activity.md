@@ -7,20 +7,22 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "865"
+- "5300020"
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 66188c1065ea9b844673af1214995be2da7fd810
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 20f40841feae8962a2fbdaadad4f89c95f32acf4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418391"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379575"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a><span data-ttu-id="64499-102">OneDrive 및 SharePoint 활동 및 사용 현황에 대 한 보고서 보기</span><span class="sxs-lookup"><span data-stu-id="64499-102">View reports on OneDrive and SharePoint activity and usage</span></span>
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a><span data-ttu-id="cccbf-102">OneDrive 및 SharePoint 활동 및 사용 현황에 대 한 보고서 보기</span><span class="sxs-lookup"><span data-stu-id="cccbf-102">View reports on OneDrive and SharePoint activity and usage</span></span>
 
-<span data-ttu-id="64499-103">[Microsoft 365 관리 센터의 사용 현황 보고서 페이지로](https://admin.microsoft.com/AdminPortal/Home)이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="64499-103">Go to the [Usage reports page in the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).</span></span> <span data-ttu-id="64499-104">**보고서 선택**에서 OneDrive 또는 SharePoint 활동 또는 사용 현황 보고서를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="64499-104">Under **Select a report**, choose the OneDrive or SharePoint activity or usage report.</span></span> 
+<span data-ttu-id="cccbf-103">[Microsoft 365 관리 센터의 사용 현황 보고서 페이지로](https://admin.microsoft.com/AdminPortal/Home)이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="cccbf-103">Go to the [Usage reports page in the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).</span></span> <span data-ttu-id="cccbf-104">**보고서 선택**에서 OneDrive 또는 SharePoint 활동 또는 사용 현황 보고서를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="cccbf-104">Under **Select a report**, choose the OneDrive or SharePoint activity or usage report.</span></span>
   
-[<span data-ttu-id="64499-105">OneDrive 보고서에 대 한 자세한 정보</span><span class="sxs-lookup"><span data-stu-id="64499-105">More info about OneDrive reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875239)
+[<span data-ttu-id="cccbf-105">OneDrive 보고서에 대 한 자세한 정보</span><span class="sxs-lookup"><span data-stu-id="cccbf-105">More info about OneDrive reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875239)
   
-[<span data-ttu-id="64499-106">SharePoint 보고서에 대 한 자세한 정보</span><span class="sxs-lookup"><span data-stu-id="64499-106">More info about SharePoint reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875240)
+[<span data-ttu-id="cccbf-106">SharePoint 보고서에 대 한 자세한 정보</span><span class="sxs-lookup"><span data-stu-id="cccbf-106">More info about SharePoint reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875240)
   
-
