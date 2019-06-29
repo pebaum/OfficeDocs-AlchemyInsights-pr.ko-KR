@@ -9,38 +9,40 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
+ms.custom:
+- "1639"
+- "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: 58781dd64bd99d2b709142aa090a30d1e8d4652a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: a3534000b8b8f3d8c2a2cd9b5b3cf1eb278d3c85
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404753"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360779"
 ---
 # <a name="payment-options"></a>결제 옵션
 
  **결제 옵션**
   
-신용 카드, 은행 계좌 (직접 차변) 및 송장 (확인 또는 전자 자금 전송에의 한 결제)
+신용카드, 은행 계좌(직불 결제) 및 송장(수표 또는 전자 자금 이체로 지불)
   
- **신용 카드 및 은행 계좌 결제**
+ **신용 카드 및 은행 계좌로 결제**
   
-신용 카드 또는 은행 계좌로 결제 하는 경우, 구독 기간이 끝날 때까지 송장 날짜 후의 일을 자동으로 청구 합니다. 필요한 경우 언제 든 지 [신용 카드 또는 은행 계좌 정보를 업데이트할](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) 수 있습니다. 또한 [전자 메일로 청구서 복사본을 받도록](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email)선택할 수 있습니다.
+신용 카드 또는 은행 계좌로 결제하는 경우 구독 기간이 끝날 때까지 구독 요금이 송장 날짜 다음날에 자동으로 청구됩니다. 필요한 경우 언제든지 [신용 카드 또는 은행 계좌 정보를 업데이트](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)할 수 있습니다. 또한 [전자 메일로 청구서 사본 받기](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email) 선택할 수 있습니다.
   
-신용 카드를 승인 하지 않았거나 기한이 지났기 때문에 **대금 청구** \> [구독](https://portal.office.com/adminportal/home#/subscriptions) 페이지에서 **결제** 옵션을 선택할 수 있습니다. 
+신용 카드가 거부되거나 연체료가 있는 경우 **청구** \> [구독](https://portal.office.com/adminportal/home#/subscriptions) 페이지에서 **지금 바로 결제** 옵션을 선택할 수 있습니다.
   
- **송장 기준 결제 (확인 또는 전자 자금 전송)**
+ **송장으로 결제(수표 또는 전자 자금 이체)**
   
-구독 비용이 특정 금액 (이 값은 서비스 위치에 따라 다름)을 초과 하는 경우에는 EFT를 사용 하 여 송장으로 결제 옵션을 사용할 수 있습니다. 보다 큰 송장 지불을 위해서는 신용 검사가 필요할 수 있습니다. 신용 확인이 필요한 경우 구독을 구매할 때 알림을 받을 수 있습니다. 또한 연락에 동의 하면 신용 승인 적용에 대 한 자세한 정보가 포함 된 전자 메일을 받게 됩니다. 신용 검사는 보통 이틀 이내에 완료 됩니다.
+구독 요금이 특정 금액(이 금액은 서비스 위치에 따라 다름)을 초과할 경우 수표 또는 EFT를 사용하여 송장으로 결제하는 옵션을 선택할 수 있습니다. 고액의 송장 결제에는 신용 검사가 필요할 수 있습니다. 신용 검사가 필요한 경우 구독을 구매할 때 알림을 받습니다. 연락에 동의한 경우 신용 승인 신청에 대한 자세한 정보가 포함된 전자 메일을 받습니다. 신용 검사는 보통 영업일 기준 2일 이내에 완료됩니다.
   
-구독에 대 한 송장으로 결제 하는 경우 청구서를 볼 준비가 되었다는 전자 메일을 받게 됩니다. 이 전자 메일에는 청구 문의 복사본이 포함 되어 있지 않습니다. 그러나 [전자 메일로 청구서 복사본을 받도록](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email)선택할 수도 있습니다. 결제 내역에는 결제 옵션에 대 한 세부 정보가 포함 되어 있습니다. 구독을 구매할 때 po (구매 주문) 번호를 입력 하면 해당 번호가 청구 내역에 표시 됩니다. 청구 내역에 액세스 하는 방법에 대 한 자세한 내용은 [청구서 또는 송장 보기](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide)를 참조 하세요.
+구독을 송장으로 결제하는 경우 청구서를 확인할 수 있다는 내용의 전자 메일을 받습니다. 이 전자 메일은 청구서 사본을 포함하지 않습니다. 그러나 [전자 메일로 청구서 사본 받기](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email) 선택할 수도 있습니다. 청구서에는 결제 옵션에 대한 세부 정보가 포함됩니다. 구독을 구매할 때 PO(구매 주문) 번호를 입력한 경우 해당 번호가 청구서에 표시됩니다. 청구서를 확인하는 방법에 대한 자세한 내용은 [청구서 또는 송장 보기](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide)를 참조하세요.
   
  **결제 방법 변경**
   
-현재 구독에 대해 지불 하는 방법을 변경 하려면 [여기](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide)에 있는 지침을 따르세요.
+현재 구독료 결제 방법을 변경하려면 [여기](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide)의 지침을 따르십시오.
   
  **추가 정보**
   
 [비즈니스용 Office 365 구독 결제](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
-
