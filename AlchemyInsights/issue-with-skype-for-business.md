@@ -8,12 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
-ms.openlocfilehash: d19659f203692e4aed2c947c4f8d3348d2286e77
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "66"
+- "4000001"
+ms.openlocfilehash: 606a3a8cd8fefade73e0024cdb75a86799b17a87
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409912"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381483"
 ---
 # <a name="issue-with-skype-for-business"></a>비즈니스용 Skype에 문제가 있나요?
 
@@ -21,12 +24,11 @@ ms.locfileid: "32409912"
   
 {HealthCheckString}
   
-DNS(도메인) 설정의 NS, CNAME 또는 SRV 레코드가 비즈니스용 Skype에 대해 제대로 구성되지 않았습니다. 자세한 내용은 [Office 365에서 DNS 레코드 업데이트](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)를 참조하세요. 
+DNS(도메인) 설정의 NS, CNAME 또는 SRV 레코드가 비즈니스용 Skype에 대해 제대로 구성되지 않았습니다. 자세한 내용은 [Office 365에서 DNS 레코드 업데이트](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)를 참조하세요.
   
-수정하려면 Microsoft 365 관리 센터의 [도메인](https://admin.microsoft.com/adminportal/home#/Domains) 페이지로 이동하여 도움을 받을 수 있습니다. 
+수정하려면 Microsoft 365 관리 센터의 [도메인](https://admin.microsoft.com/adminportal/home#/Domains) 페이지로 이동하여 도움을 받을 수 있습니다.
   
-조직 외부에 있는 사용자와 통신하는 데 문제가 있는 경우 자세한 지침은 [비즈니스용 Skype Online 외부 통신 설정](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx)을 참조하세요. 
+조직 외부에 있는 사용자와 통신하는 데 문제가 있는 경우 자세한 지침은 [비즈니스용 Skype Online 외부 통신 설정](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx)을 참조하세요.
   
-다른 일반적인 해결 방법은 [도메인 FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)를 참조하세요. 
+다른 일반적인 해결 방법은 [도메인 FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)를 참조하세요.
   
-
