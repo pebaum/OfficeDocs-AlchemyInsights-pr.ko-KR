@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 16fed7fc9995ba9b4143495fc268d5b3a31d2a01
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 33bd6fa8a26eb27c1d829268ac0956c2dbf90d58
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377631"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614176"
 ---
 # <a name="add-your-gmail-account-to-outlookcom"></a>Outlook.com에 Gmail 계정 추가
 
@@ -30,4 +30,4 @@ ms.locfileid: "35377631"
 
 연결 된 Gmail 계정에서 Outlook.com으로 전자 메일을 보낼 수 있습니다. 전자 메일을 작성할 때 **보낸** 사람을 선택 하 고 Gmail 주소를 선택 하거나 [기본 보낸 사람 주소를 업데이트](https://go.microsoft.com/fwlink/?linkid=875264)합니다.
 
-자세한 내용은 [Outlook.com에 다른 전자 메일 계정 추가](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba)를 참조 하세요.
+자세한 내용은 [Outlook.com에 다른 전자 메일 계정 추가](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)를 참조 하세요.

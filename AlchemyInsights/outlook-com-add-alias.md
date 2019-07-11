@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1821"
 - "9000238"
-ms.openlocfilehash: b964252af07e990bd0802484a3b042448c931b57
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9553fc152c12fd4b1799b781707588f977bcc53d
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377703"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614104"
 ---
 # <a name="add-an-email-alias-in-outlookcom"></a>Outlook.com에서 전자 메일 별칭 추가
 
@@ -30,6 +30,6 @@ ms.locfileid: "35377703"
     2. 별칭으로 기존 전자 메일 주소를 추가 합니다.
 3. **별칭 추가**를 선택 합니다.
 
-[Outlook.com에서 전자 메일 별칭을 추가 하거나 제거](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2)하는 방법에 대 한 자세한 내용을 알아봅니다.  
+[Outlook.com에서 전자 메일 별칭을 추가 하거나 제거](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)하는 방법에 대 한 자세한 내용을 알아봅니다.  
 
-Outlook.com 계정에 [다른 전자 메일 계정을 연결 하는 방법을](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) 읽으십시오.
+Outlook.com 계정에 [다른 전자 메일 계정을 연결 하는 방법을](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) 읽으십시오.
