@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: f4af8679ac71ab15bd68a62e71143b14f8e20f97
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d241612ec41247c36aa5806429c5b7b547e02098
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373815"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701293"
 ---
 # <a name="account-locked"></a>계정 잠금
 
@@ -25,4 +25,4 @@ ms.locfileid: "35373815"
 1.  [Account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) 로 이동 하 여 잠긴 계정에 로그인 합니다.계정의 잠금을 해제 하려면 Microsoft의 문자 메시지에 제공 된 보안 코드를 입력 해야 합니다. 문자 메시지를 받으려면 텍스트 메시징을 지 원하는 전화가 있어야 합니다. 휴대폰에서 텍스트 메시징을 지원 하지 않는 경우 친구나 가족 구성원에 게 휴대폰을 사용 하도록 요청할 수 있습니다. Microsoft는이 전화 번호를 저장 하지 않으므로이 문자 메시지를 수신 하는 데 사용 하는 전화 번호는 사용자의 계정에 연결할 필요가 없습니다.
 2. "사용 제한 초과" 라는 메시지가 표시 되 면 [계정 Reinstatement](https://go.microsoft.com/fwlink/?linkid=2090483) 으로 이동 하 고, 에이전트 중 하나에서 계정을 검토 합니다.
 
-자세한 내용을 보려면 [내 Outlook.com 계정 차단 해제](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4) 를 참조 하세요. 
+자세한 내용을 보려면 [내 Outlook.com 계정 차단 해제](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 를 참조 하세요. 

@@ -11,12 +11,12 @@ ms.custom:
 - "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 4b3626cb02284e3527cc85142621febd5380a888
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5ed89ac0381760d7396d5920329c9eee6335ddd0
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377415"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697053"
 ---
 # <a name="adding-flags-and-reminders-in-outlookcom"></a>Outlook.com에서 플래그 및 미리 알림 추가
 
@@ -32,4 +32,4 @@ ms.locfileid: "35377415"
 1. 메시지 목록에서 메시지를 가리키면 플래그 옵션을 볼 수 있습니다.
 1. 플래그 아이콘을 선택 하 여 메시지에 플래그를 지정 합니다. 플래그가 지정 된 모든 메시지를 보려면 페이지의 왼쪽 아래 모서리에 있는 확인 표시를 선택 하 여 작업을 이동 합니다.
  
-자세한 내용을 보려면 [Outlook.com에서 플래그](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a)를 읽거나 메시지에 pin을 지정 합니다.
+자세한 내용을 보려면 [Outlook.com에서 플래그](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a?wt.mc_id=Office_Outlook_com_Alchemy)를 읽거나 메시지에 pin을 지정 합니다.
