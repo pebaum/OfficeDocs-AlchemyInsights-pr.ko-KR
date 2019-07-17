@@ -11,13 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2800001"
 - "1338"
-ms.openlocfilehash: 3c3096859e4196ac4a504c72bae5cf18daada110
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b012b15bf02c0bdb8488b362f0ea584f8c7bcf2f
+ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366791"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35752732"
 ---
 # <a name="api-availability"></a>API 가용성
+
 지금은 스트림에 대 한 Api를 사용할 수 없습니다.
 자세한 내용:https://stream.microsoft.com/support/
