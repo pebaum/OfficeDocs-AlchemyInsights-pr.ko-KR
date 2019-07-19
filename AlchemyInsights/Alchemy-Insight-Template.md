@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 37398436435fb72cb5c8dca2d0798b86a0c8ccc9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b77e514da36701808d46248e8f2a45137751a1c7
+ms.sourcegitcommit: 5447031f9d0a320c49897b8adb5d29ac9437fbc5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32366337"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35786419"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>필수 Alchemy 헤더 H1, H2's이 작동 하지 않습니다.
 Alchemy 작성을 위한 모범 사례 및 지침:
@@ -37,4 +37,6 @@ Alchemy 작성을 위한 모범 사례 및 지침:
 
 이는 실제로 너무 긴 시간입니다. 모범 사례는 약 400 자---------------------------------
 
-콘텐츠가 준비 되 면 라이브 분기로 가져옵니다. 그런 다음 [Alchemy 파트너 포털로](https://alchemyportal.azurewebsites.net) 이동 하 여 url 필드에 파일 이름을 입력 합니다. 분
+콘텐츠가 준비 되 면 라이브 분기로 가져옵니다. 그런 다음 [Alchemy 파트너 포털로](https://alchemyportal.azurewebsites.net) 이동 하 여 url 필드에 파일 이름을 입력 합니다. 
+
+
