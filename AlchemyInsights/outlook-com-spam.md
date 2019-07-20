@@ -3,7 +3,7 @@ title: Outlook.com의 스팸 및 정크 처리
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 7/19/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: ac3f7a268d69959ed1d0feb06bc0e9434ef1d2ce
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7544b0453f05de5f4d3edc2bdbbc139995343047
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697125"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800087"
 ---
-# <a name="mark-email-messages-as-junk"></a>전자 메일 메시지를 정크 메일로 표시
+# <a name="spam-and-junk-email-in-outlookcom"></a>Outlook.com의 스팸 및 정크 메일
 
-메시지를 정크 메일 또는 스팸으로 표시 하려면 메시지 목록에서 메시지를 선택 하 고 **정크** > **정크**을 선택 합니다.
+정크 메일 또는 스팸이 너무 많은 경우 다음 방법을 시도해 보세요.
 
-특정 전자 메일 주소의 모든 메시지를 차단 하려면 메시지 목록에서 메시지를 선택 하 고 **정크** > **블록**을 선택 합니다.
+1. **전자 메일을 정크 메일로 표시**
+    1. 메시지를 선택 합니다.
+    1. 정크 메일을 선택 하 여 정크 메일로 메시지를 이동 합니다.**** **** > 
+    1. [스팸 및 정크 메일을 받은 편지함에서 보호 하는 방법에 대해 자세히 알아보세요.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-실수로 메시지를 정크 메일로 표시 한 경우 [정크 메일 폴더](https://outlook.live.com/mail/junkemail) 에서 메시지를 선택 하 고 정크 메일이 **** > **** 아닌 경우를 선택 합니다. (*참고:* 정크 메일 폴더의 항목은 30 일 후에 삭제 됩니다.)
+1. **받은 편지함에서 보낸 사람 차단**
+    1. 메시지를 선택 합니다.
+    1. **정크 메일** > **차단** > **확인을**선택 합니다.
+    1. [자세한 내용은 보낸 사람 차단 또는 차단 해제를 참고 하세요.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
-자세한 내용을 보려면 [전자 메일을 정크로 표시 또는 Outlook.com에서 보낸 사람 차단](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)를 참조 하세요.
+1. **수신 거부 목록에 보낸 사람 추가**
+    1. [정크 메일 설정을](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2)엽니다.
+    1. **차단 된 보낸 사람 및 도메인**아래에서 **추가**를 선택 합니다.
+    1. 차단할 전자 메일 주소 또는 도메인을 입력 하 고 enter 키를 누릅니다.
+    1. **필터**에서 수신 허용-보낸 사람 및 도메인 및 수신 허용-메일 그룹 아래의 주소에서 전자 메일을 신뢰할지 여부를 선택 합니다.
+    1. **저장**을 선택합니다.
+
+1. **받은 편지함 규칙 만들기**
+    1. 메시지 목록에서 메시지를 마우스 오른쪽 단추로 클릭 하 고 **규칙 만들기**를 선택 합니다.
+    1. 해당 보낸 사람에 게 보낼 모든 메시지를 이동할 폴더를 선택 하 고 **확인** > **확인**을 선택 합니다.
+    1. [Outlook.com의 받은 편지함 규칙에 대해 자세히 알아보세요.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
