@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 5da4914548348418c42e1e1b52d1428c0ed0af9b
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132728"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903944"
 ---
 # <a name="edit-a-read-only-file"></a>읽기 전용 파일 편집
 
@@ -25,7 +25,7 @@ ms.locfileid: "35132728"
 
 참고:
 
-- Office Online에서 편집을 위해 문서를 열어 보려면 제목을 클릭 하는 경우 라이브러리를 설정 하 여이 작업을 수행할 수 있습니다 (사용자가 원하는 경우에는이 설정을 변경 하는 데 필요한 권한이 있는 경우).
+- Office에서 편집을 위해 문서를 열고 제목을 클릭 하는 경우 라이브러리를 설정 하 여 해당 작업을 수행 하도록 할 수 있습니다 (사용자가이를 변경 하는 데 필요한 권한이 있는 경우).
 
 - 체크아웃, 필수 열 또는 SharePoint 문서 라이브러리의 버전 설정에서 편집할 수 있는 사용자만 포함 된 라이브러리가 있는 경우 이러한 항목은 읽기 전용으로 동기화 됩니다.
 
