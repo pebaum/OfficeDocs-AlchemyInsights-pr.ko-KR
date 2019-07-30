@@ -14,16 +14,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 62f49038cf541c2185ed6a60c6cb58fe2889342d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e437015d476c1417fa37e1b1c250e2205e9ce4d9
+ms.sourcegitcommit: b825ced7b66d452b0f3874a57e033e690ec41c93
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353183"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "35925291"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>DNS 레코드를 업데이트하여 현재 호스팅 공급자에 웹 사이트 유지
 
-1. [도메인](https://portal.office.com/adminportal/home#/Domains) 페이지의 도메인 목록에서 웹 사이트에 사용 중인 도메인을 선택한 다음 관리 창에서 **DNS 설정** 을 선택합니다.
+1. [도메인](https://portal.office.com/adminportal/home#/Domains) 페이지의 도메인 목록에서 웹 사이트에 사용 중인 도메인을 선택 합니다.
 
 2. **+ 새 사용자 지정 레코드** 를 선택하고 다음을 입력합니다.
 
