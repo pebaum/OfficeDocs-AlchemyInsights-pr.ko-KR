@@ -12,20 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: cf18afc7c2ab07b3318a9c79ad657a83810e5a42
-ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
+ms.openlocfilehash: 7687f6cb4a2e71a68edc762e69ccee2994e60c6f
+ms.sourcegitcommit: d6ea6f4456a582559f27b34c0b9455a86a8e61f1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35475495"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35941110"
 ---
 # <a name="more-info-about-dlp-issues"></a>DLP 문제에 대 한 추가 정보
 
-DLP 정책을 사용 하 여 Office 365에서 중요 한 정보를 식별, 모니터링 및 자동으로 보호할 수 있습니다. 
+DLP 정책을 사용 하 여 Office 365에서 중요 한 정보를 식별, 모니터링 및 자동으로 보호할 수 있습니다.
 
 자세한 내용은 다음 링크를 참조 하세요.
 
 - [데이터 손실 방지 개요](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies)
+- [중요한 정보 유형이 찾는 항목](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+- [사용자 지정 중요한 정보 유형 만들기](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type)
+- [전자 메일 알림 보내기 및 정책 팁 표시](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips)
 - [보존 레이블 및 DLP를 사용하여 SharePoint Online 파일 보호](https://docs.microsoft.com/en-us/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
 - [DLP 및 Microsoft Teams](https://docs.microsoft.com/en-us/office365/securitycompliance/dlp-microsoft-teams)
 
