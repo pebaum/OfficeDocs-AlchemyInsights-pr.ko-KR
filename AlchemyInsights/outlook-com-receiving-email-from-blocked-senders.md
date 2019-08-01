@@ -13,18 +13,19 @@ ms.custom:
 - "920"
 - "944"
 - "8000015"
-ms.openlocfilehash: f827cb6b55aa7ea0eee27b85786c6fced933e621
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: cc352670c7604e83dc3a0742c2caea334182303c
+ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372951"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36049146"
 ---
 # <a name="receiving-email-from-blocked-senders"></a>차단 된 보낸 사람 으로부터 전자 메일 받기
 
 차단 된 보낸 사람의 전자 메일이 받은 편지함에 여전히 표시 되는 경우 보낸 사람이 실제 전자 메일 주소를 숨길 수 있습니다. 보낸 사람의 실제 전자 메일 주소를 확인 하려면:
   
-1. 메시지 창의 맨 위에 있는 세 개의 점을 선택 하 고 **메시지 원본 보기**를 선택 합니다.
+1. 세 점 선택 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ 메시지 창 위쪽에서 **메시지 원본 보기**를 선택 합니다.
 2. **메시지 원본** 창에서 **보낸 사람** 필드가 나타날 때까지 아래로 스크롤합니다.
 3. 에 \< \> 포함 된 전자 메일 주소를 강조 표시 하 고 마우스 오른쪽 단추를 클릭 하 여 **복사** 합니다.
 4. 복사한 주소를 사용 하 여 보낸 사람을 차단 합니다. 보낸 사람을 차단 하는 방법을 알아보려면 [전자 메일을 정크로 표시 또는 Outlook.com에서 보낸 사람 차단](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)를 참조 하세요.
