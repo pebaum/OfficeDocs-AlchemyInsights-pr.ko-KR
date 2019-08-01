@@ -15,21 +15,21 @@ ms.custom:
 - "1393"
 - "1394"
 - "8000086"
-ms.openlocfilehash: 2b140bb1adaf7b2817d1e41ca10eb6d2f80f4d6d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 38adb5837f808bf6bf0986784e14d3407ea7067e
+ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35374355"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36049290"
 ---
-# <a name="insert-pictures-in-an-email-message-or-calendar-event"></a><span data-ttu-id="03c84-102">전자 메일 메시지 또는 일정 이벤트에 그림 삽입</span><span class="sxs-lookup"><span data-stu-id="03c84-102">Insert pictures in an email message or calendar event</span></span>
+# <a name="insert-pictures-in-an-email-message-or-calendar-event"></a><span data-ttu-id="6a005-102">전자 메일 메시지 또는 일정 이벤트에 그림 삽입</span><span class="sxs-lookup"><span data-stu-id="6a005-102">Insert pictures in an email message or calendar event</span></span>
 
-<span data-ttu-id="03c84-103">컴퓨터 또는 OneDrive의 사진, gif 또는 클립 아트를 전자 메일 메시지, 일정 이벤트 또는 전자 메일 서명에 인라인 이미지로 삽입할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="03c84-103">You can insert photos, gifs, or clipart from your computer or OneDrive as inline images in your email messages, calendar events, or email signature.</span></span>
+<span data-ttu-id="6a005-103">컴퓨터 또는 OneDrive의 사진, gif 또는 클립 아트를 전자 메일 메시지, 일정 이벤트 또는 전자 메일 서명에 인라인 이미지로 삽입할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="6a005-103">You can insert photos, gifs, or clipart from your computer or OneDrive as inline images in your email messages, calendar events, or email signature.</span></span>
 
-1. <span data-ttu-id="03c84-104">메시지를 작성 하거나 캘린더 이벤트를 만드는 것을 시작 합니다.</span><span class="sxs-lookup"><span data-stu-id="03c84-104">Begin composing a message or creating a calendar event.</span></span>
-2. <span data-ttu-id="03c84-105">작성 창 아래쪽의 **첨부** 아이콘 옆에 있는 **그림 인라인 삽입** 아이콘을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="03c84-105">Select the **Insert pictures inline** icon at the bottom of the compose window (next to the **Attach** icon).</span></span>
-3. <span data-ttu-id="03c84-106">삽입 하려는 사진을 선택 하 고 **열기**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="03c84-106">Choose the picture you want to insert and select **Open**.</span></span>
-4. <span data-ttu-id="03c84-107">모서리를 끌어 이미지 크기를 조정 합니다.</span><span class="sxs-lookup"><span data-stu-id="03c84-107">Drag the corners to resize the image.</span></span>
-5. <span data-ttu-id="03c84-108">이미지를 마우스 오른쪽 단추로 클릭 하 여 서식 옵션을 표시 합니다.</span><span class="sxs-lookup"><span data-stu-id="03c84-108">Right-click the image to see formatting options.</span></span>
+1. <span data-ttu-id="6a005-104">메시지를 작성 하거나 캘린더 이벤트를 만드는 것을 시작 합니다.</span><span class="sxs-lookup"><span data-stu-id="6a005-104">Begin composing a message or creating a calendar event.</span></span>
+2. <span data-ttu-id="6a005-105">그림을 **인라인으로 삽입** 아이콘을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="6a005-105">Select the **Insert pictures inline** icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAAeFBMVEX///+FhYX7+/vr6+udnZ3i4uLV1dWtra3u7u53d3f4+Pjp6emjo6OLi4v9/f3x8fGwsLB/f3/ExMSmpqaPj49+fn56enrm5ubY2NjOzs63t7erq6uWlpaRkZGCgoLe3t7R0dHKysrAwMC7u7ufn59xcXFpaWllZWWFx0GEAAAAlElEQVQY082OWRaDIAxFAasCgsioderc7n+HxTK0C+iH9ycvNzk5ATtB3A8/TG2w5YPVXVd7fJktilYWQISM0Rlmi0vJtgaNQ5UtVHA2jPpI6THZnhANGu71qQfZNi+NgNf6QmT5veCaz9A8xxuvebIrDn8vE1XEpn+JqjaGK2HV4uJuYWGArw5CE3dbXESwTwL8gzezzgdggA6ffQAAAABJRU5ErkJggg==' /> <span data-ttu-id="6a005-106">작성 창 아래쪽 ( **연결** 아이콘 옆에 있는</span><span class="sxs-lookup"><span data-stu-id="6a005-106">at the bottom of the compose window (next to the **Attach** icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4QkaFhg7CMMZsgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABSklEQVQ4je2VL6+CUBiHH+/uBo1yZiSRHYlgwUBx00whWf0edj+HJGDqBpnMnMlZYM7ACFKs3CQbm+Auut1yf+2879nz/tt7zqCqqooP6+vTQIDvNkdRFOz3e7IsA0BVVRzHeQ+6Xq/J87w+p2lKWZYsl8t+0CAIyPOc0WiEbdt1kMPhQJIk6LreCX3a09vtBoBt2wghEEIwnU4BuFwuLzPtHJQQojVgb2hRFKxWK87nc8Puui5JkvSDnk4n0jRtDAwgDEOOx2M/aF/9Q/8Ier1eud/vAMiy/B50PB4jSRJhGLLZbABerih0PCgPLRYLttstAIZhoGlaP+ijxCiKsCyrkV0URY07z/S0/MlkgiRJeJ5HHMe1PY5jPM8DutswaPtOgiDA930AFEUBoCxLAObzObPZ7PfQR2a73a7e/eFwiGmaWJbVCgT4AfRAgmp2DdDrAAAAAElFTkSuQmCC' /><span data-ttu-id="6a005-107">).</span><span class="sxs-lookup"><span data-stu-id="6a005-107"></span></span>
+3. <span data-ttu-id="6a005-108">삽입 하려는 사진을 선택 하 고 **열기**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="6a005-108">Choose the picture you want to insert and select **Open**.</span></span>
+4. <span data-ttu-id="6a005-109">모서리를 끌어 이미지 크기를 조정 합니다.</span><span class="sxs-lookup"><span data-stu-id="6a005-109">Drag the corners to resize the image.</span></span>
+5. <span data-ttu-id="6a005-110">이미지를 마우스 오른쪽 단추로 클릭 하 여 서식 옵션을 표시 합니다.</span><span class="sxs-lookup"><span data-stu-id="6a005-110">Right-click the image to see formatting options.</span></span>
 
-<span data-ttu-id="03c84-109">자세한 내용은 [Outlook.com에서 파일을 첨부](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab)하는 방법을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="03c84-109">Read more about how to [attach files in Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab).</span></span>
+<span data-ttu-id="6a005-111">자세한 내용은 [Outlook.com에서 파일을 첨부](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy)하는 방법을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="6a005-111">Read more about how to [attach files in Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
