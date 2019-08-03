@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
-ms.openlocfilehash: 58046f0eda55c28ffc8b321a6859efc086de3dd1
-ms.sourcegitcommit: 7120202ae6d2bca8f2c2ce79f41d3205fa80ef74
+ms.openlocfilehash: 69241cad34058df87886ee4db7826ceb2779fbf7
+ms.sourcegitcommit: 7c0575fd30f0f4448e530e1ec40eabb362cb4670
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/03/2019
-ms.locfileid: "33571091"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35595160"
 ---
 # <a name="my-personalized-email-address-isnt-sending-or-receiving"></a>개인 설정한 전자 메일 주소를 보내거나 받지 않음
 
@@ -24,4 +24,4 @@ ms.locfileid: "33571091"
 
 "개인 설정 된 전자 메일 주소" 탭에 빨간색 상태 표시줄이 있으면 도메인이 만료 되었을 수 있습니다.
 
-[Office 365에서 개인 설정 된 전자 메일 주소](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b)에 대 한 자세한 문제 해결 단계를 읽으십시오.
+[Office 365에서 개인 설정 된 전자 메일 주소](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy)에 대 한 자세한 문제 해결 단계를 읽으십시오.
