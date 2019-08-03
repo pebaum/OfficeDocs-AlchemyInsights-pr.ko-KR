@@ -11,16 +11,17 @@ localization_priority: Normal
 ms.custom:
 - "8000012"
 - "1997"
-ms.openlocfilehash: 7ad83d301230c81b4b3e635e6ef61faf683344f0
-ms.sourcegitcommit: c72efee4375c3462641639ec78a171d8eae6d631
+ms.openlocfilehash: fab3806f95e8a84145ea5229749743d15504ee35
+ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34335422"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171504"
 ---
-# <a name="delete-a-contact"></a><span data-ttu-id="885b8-102">연락처 삭제</span><span class="sxs-lookup"><span data-stu-id="885b8-102">Delete a contact</span></span>
+# <a name="delete-a-contact"></a><span data-ttu-id="00ee3-102">연락처 삭제</span><span class="sxs-lookup"><span data-stu-id="00ee3-102">Delete a contact</span></span>
 
-1. <span data-ttu-id="885b8-103">페이지의 왼쪽 아래 모서리에서 **사용자** 아이콘을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="885b8-103">At the bottom left corner of the page, select the **People** icon.</span></span>
-2. <span data-ttu-id="885b8-104">삭제할 연락처를 선택 하 고 **삭제**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="885b8-104">Select the contact you want to delete and select **Delete**.</span></span>
+1. <span data-ttu-id="00ee3-103">페이지의 왼쪽 아래 모서리에서</span><span class="sxs-lookup"><span data-stu-id="00ee3-103">At the bottom left corner of the page, select</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEKEisVwYq3YQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAClklEQVRIieWVX0iTYRTGz2aazW3f0nItTD7n/kCUf8q0QVnCChNGISpWoN1EF6WWNeoiwYtQClZUSEgphlBkCV4oKCsjEZcaQo5glW2oyyZafOosc86ny6Z+U7/Eq87l857n/Hjf88ArAgBaxxKv5/A1AcZHBsnpdNGUb4VGCC3OCcuFbKiVckgkEUhIN6G+/XPQdmGAuQlUnknDFrURDe19cDj6cacoC5HRCXhh/752wKitBvpt8XjumA1Q/SjPSca+girM8XgE7eDbgIvC/YmUpg8NUMVkSEqjmXcfycvjEQSI3bWTfKE91NrNBahT1Nr5mpiMZJLxmYQ8EeDDk/J8xMalwlLXBKu1BddOp0OTaILN/YvXsSzgh8eNoaFh/PT/1Wy1ZoQRIVzKQKFQQEyEmIwiuLz8M/gBnBO3S3KhVsogkUix15iPlu4BdD2+iEgpi9J7jRga98Lr9eJDZxNyDVrsOHgWrsnVAOYmUFGQiii1EU+tvbDbe1F5LgvKSAVkTBSu1vXwXLUfxjg5cm81rwzwdFZDp9Kg8ZMvQJ3F9WM6MNo8jPC/BF5aTkHCnsTI/EJ9w+Klux1faJNoDxm0gUehtD8lndrGthITJGEpJ0qpSjxIISAi0TIpGuuuhV7Fov79dIA6iZIjOhwursf8YsMKxbPkGTwyHwerP4QHDW3o6LCirDADmiQTur7yR1EgALDVXEYIEcIi5GAYOYgIbKYZ7hnB85cC3lSfx2YZi0t3G+Aa5cBxHPran8GUwiL+aDHc03xjVgn4PWjFbhWDkodvl3Z6enEgRoqC+9Z/B7yqyINKk4nhIM3NN7Ih1RViTABgQUyjk/PoZpmStgeJoiHnClk2uokWR3GZEgH/66e/2voDxKbBpBHmq6QAAAAASUVORK5CYII=' />
+ <span data-ttu-id="00ee3-104">**사용자**입니다.</span><span class="sxs-lookup"><span data-stu-id="00ee3-104">**People**.</span></span>
+2. <span data-ttu-id="00ee3-105">삭제할 연락처를 선택 하 고 **삭제**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="00ee3-105">Select the contact you want to delete and select **Delete**.</span></span>
 
-<span data-ttu-id="885b8-105">**삭제**를 선택할 수 없는 경우 연락처가 Skype 또는 연결 된 소셜 네트워크 계정에 있는 것일 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="885b8-105">If you can't select **Delete**, the contact might be from Skype or a connected social network account.</span></span> <span data-ttu-id="885b8-106">연락처를 삭제 하려면 Skype 또는 연락처가 있는 계정으로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="885b8-106">To delete the contact, go to Skype or the account where the contact is located.</span></span>
+<span data-ttu-id="00ee3-106">**삭제**를 선택할 수 없는 경우 연락처가 Skype 또는 연결 된 소셜 네트워크 계정에 있는 것일 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="00ee3-106">If you can't select **Delete**, the contact might be from Skype or a connected social network account.</span></span> <span data-ttu-id="00ee3-107">연락처를 삭제 하려면 Skype 또는 연락처가 있는 계정으로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="00ee3-107">To delete the contact, go to Skype or the account where the contact is located.</span></span>
