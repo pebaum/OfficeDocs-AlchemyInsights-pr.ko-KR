@@ -13,15 +13,15 @@ ms.custom:
 - "1761"
 - "1771"
 - "9000199"
-ms.openlocfilehash: 8902ae75c667e8a95da2950facfd70a3773a2ff6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fda78891486aa17efee91ca6653227e639006ba6
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373095"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "35612493"
 ---
 # <a name="pst-data-files-in-outlookcom"></a>Outlook.com의 PST 데이터 파일
 
 Outlook을 가져올 수 없습니다. PST 데이터 파일을 Outlook.com 계정으로 브라우저를 사용 하 여 만듭니다.
 
-를 가져올 수 있습니다. PST 데이터 파일의 경우 Outlook 데스크톱 앱을 사용 해야 합니다. 자세한 내용은 [Outlook .pst에서 전자 메일, 연락처 및 일정 가져오기를](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac) 읽어 보세요.
+를 가져올 수 있습니다. PST 데이터 파일의 경우 Outlook 데스크톱 앱을 사용 해야 합니다. 자세한 내용은 [Outlook .pst에서 전자 메일, 연락처 및 일정 가져오기를](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy) 읽어 보세요.

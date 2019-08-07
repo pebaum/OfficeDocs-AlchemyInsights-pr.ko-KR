@@ -9,16 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 6a8a9853ce6ad98d68588e3eb6fefbcfc8d8972e
-ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
+ms.openlocfilehash: 1bf11beb97a8d6bced225b20f363aa9a2b24a367
+ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "35001090"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "36204030"
 ---
 # <a name="create-an-email-signature"></a>전자 메일 서명 만들기
 
-1. **설정** > 보기로 이동 하 여**모든 Outlook 설정** > **작성 및 회신**을 봅니다.
+1. 이제  <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ **설정** > **모든 Outlook 설정** > **작성 및 회신이**표시 됩니다.
 1. **전자 메일 서명**에서 서명을 입력 하 고 사용 가능한 서식 옵션을 사용 하 여 모양을 변경 합니다.
 
 *참고:* 서명은 계정 마다 하나씩만 있을 수 있습니다.

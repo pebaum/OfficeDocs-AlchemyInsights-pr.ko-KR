@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1431"
 - "8000093"
-ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4daff733a29dacfb55e1d8502d18d52355af8d46
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375795"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "35602149"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>"사용 권한이 없는 것 처럼 보입니다." 문제를 해결 하는 방법
 
@@ -28,4 +28,4 @@ ms.locfileid: "35375795"
 
 모든 전자 메일이 연결 된 계정에서 다시 동기화 되는 데 다소 시간이 걸릴 수 있습니다.
 
-연결 된 계정을 [제거](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8) 하 고 [추가](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) 하는 방법에 대해 자세히 알아보세요.
+연결 된 계정을 [제거](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) 하 고 [추가](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) 하는 방법에 대해 자세히 알아보세요.
