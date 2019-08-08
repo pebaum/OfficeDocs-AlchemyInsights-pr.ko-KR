@@ -1,27 +1,37 @@
 ---
 title: OneDrive 보존 및 삭제 정보
-ms.author: kirks
-author: Techwriter40
-ms.date: 6/20/2019
+ms.author: efrene
+author: efrene
+ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: ''
-ms.openlocfilehash: a98e7740fb6c921252da6f36bc9e20d7a2be0099
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.custom:
+- "2440"
+- "9000596"
+ms.openlocfilehash: 5e67d280b26512613dbe9ecc0cf8f18134f92686
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119694"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232613"
 ---
-# <a name="onedrive-retention-and-deletion"></a><span data-ttu-id="5ec4b-102">OneDrive 보존 및 삭제</span><span class="sxs-lookup"><span data-stu-id="5ec4b-102">OneDrive retention and deletion</span></span>
+# <a name="onedrive-retention-and-deletion"></a><span data-ttu-id="d7d5c-102">OneDrive 보존 및 삭제</span><span class="sxs-lookup"><span data-stu-id="d7d5c-102">OneDrive retention and deletion</span></span>
 
-<span data-ttu-id="5ec4b-103">[이 문서에서는](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) 조직의 사용자 Office 365 계정을 삭제할 때 사용자의 OneDrive에서 수행 되는 작업에 대해 설명 합니다.</span><span class="sxs-lookup"><span data-stu-id="5ec4b-103">[This article](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) describes what happens to a user's OneDrive when you delete the user's Office 365 account for your organization.</span></span>
+- <span data-ttu-id="d7d5c-103">[삭제 된 사용자를 OneDrive로 직접 복원할](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="d7d5c-103">You can [restore a deleted users OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) yourself.</span></span> <span data-ttu-id="d7d5c-104">이러한 사용자는 93 일 동안 휴지통에 있습니다.</span><span class="sxs-lookup"><span data-stu-id="d7d5c-104">They are in recycle bin for 93 Days.</span></span> 
 
-<span data-ttu-id="5ec4b-104">OneDrive 보존 및 삭제에 대 한 자세한 내용은 다음 항목을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="5ec4b-104">For more information about OneDrive retention and deletion, see:</span></span>
+- <span data-ttu-id="d7d5c-105">자세한 내용은 다음 [문서](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) 를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="d7d5c-105">See [this article](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) to learn:</span></span>
+    - <span data-ttu-id="d7d5c-106">다른 사용자에 게 삭제 된 사용자의 OneDrive에 대 한 액세스 권한을 부여 하는 방법</span><span class="sxs-lookup"><span data-stu-id="d7d5c-106">How to give another user access to a deleted user's OneDrive.</span></span>
+    - <span data-ttu-id="d7d5c-107">조직의 사용자 Office 365 계정을 삭제 하면 사용자의 OneDrive가 어떻게 변경 됩니다.</span><span class="sxs-lookup"><span data-stu-id="d7d5c-107">What happens to a user's OneDrive when you delete the user's Office 365 account for your organization.</span></span>
+    - <span data-ttu-id="d7d5c-108">자동 액세스 위임을 구성 하는 방법</span><span class="sxs-lookup"><span data-stu-id="d7d5c-108">How to configure automatic access delegation.</span></span>
+    - <span data-ttu-id="d7d5c-109">OneDrive 삭제 프로세스의 작동 방식</span><span class="sxs-lookup"><span data-stu-id="d7d5c-109">How OneDrive deletion process works.</span></span>
 
-- [<span data-ttu-id="5ec4b-105">다른 사용자에 게 삭제 된 사용자의 OneDrive에 대 한 액세스 권한 부여</span><span class="sxs-lookup"><span data-stu-id="5ec4b-105">Give another user access to a deleted user's OneDrive</span></span>](https://docs.microsoft.com/onedrive/retention-and-deletion#give-another-user-access-to-a-deleted-users-onedrive)
-- [<span data-ttu-id="5ec4b-106">자동 액세스 위임 구성</span><span class="sxs-lookup"><span data-stu-id="5ec4b-106">Configure automatic access delegation</span></span>](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
-- [<span data-ttu-id="5ec4b-107">OneDrive 삭제 프로세스에 대 한 설명</span><span class="sxs-lookup"><span data-stu-id="5ec4b-107">A description of the OneDrive deletion process</span></span>](https://docs.microsoft.com/onedrive/retention-and-deletion#the-onedrive-deletion-process)
-- [<span data-ttu-id="5ec4b-108">삭제 된 OneDrive 복원</span><span class="sxs-lookup"><span data-stu-id="5ec4b-108">Restore a deleted OneDrive</span></span>](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
+- <span data-ttu-id="d7d5c-110">보안 및 준수 센터 보존 및 유지에 관심이 있으십니까?:</span><span class="sxs-lookup"><span data-stu-id="d7d5c-110">Interested in Security and Compliance Center retention and hold?:</span></span>
+    - [<span data-ttu-id="d7d5c-111">OneDrive 및 SharePoint 사이트에 대 한 보존 정책</span><span class="sxs-lookup"><span data-stu-id="d7d5c-111">Retention policies for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [<span data-ttu-id="d7d5c-112">OneDrive 및 SharePoint 사이트에 대 한 eDiscovery 보존</span><span class="sxs-lookup"><span data-stu-id="d7d5c-112">eDiscovery hold for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+
+
+

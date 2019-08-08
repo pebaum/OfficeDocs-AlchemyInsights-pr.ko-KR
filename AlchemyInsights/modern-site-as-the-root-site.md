@@ -1,25 +1,31 @@
 ---
 title: 최신 사이트를 루트 사이트로
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
 - "1874"
 - "9000265"
-ms.openlocfilehash: 8b45766e920fa5bd6eab8abc6ef808ae978808dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b30fc3258bb76c0ab4bf10af0ec9317417f7c663
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379647"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232721"
 ---
-# <a name="modern-site-as-root-site"></a><span data-ttu-id="39e3f-102">최신 사이트를 루트 사이트로</span><span class="sxs-lookup"><span data-stu-id="39e3f-102">Modern site as root site</span></span>
+# <a name="modern-site-as-root-site"></a><span data-ttu-id="ea0e6-102">최신 사이트를 루트 사이트로</span><span class="sxs-lookup"><span data-stu-id="ea0e6-102">Modern site as root site</span></span>
 
-<span data-ttu-id="39e3f-103">이번에는 미리 보기 피드백을 기준으로, 기능 롤아웃이 사이트를 루트 사이트로 사용 하도록 설정 하는 것을 연기 하기로 결정 했습니다.</span><span class="sxs-lookup"><span data-stu-id="39e3f-103">At this time, based on preview feedback, we have decided to postpone rolling out the feature to enable a communication site as a root site.</span></span> <span data-ttu-id="39e3f-104">불편을 끼쳐 드려서 죄송 하며 사용할 수 있게 되 면 메시지 센터를 통해 새 일정을 전달 합니다.</span><span class="sxs-lookup"><span data-stu-id="39e3f-104">We apologize for any inconvenience and will communicate a new schedule via Message Center, once it is available.</span></span>
+<span data-ttu-id="ea0e6-103">Microsoft는 클래식 사이트 루트 사이트를 최신 사이트로 바꾸는 데 사용할 수 있는 새로운 기능을 배포 하기 시작 했습니다.</span><span class="sxs-lookup"><span data-stu-id="ea0e6-103">We have begun to rollout a new feature that will allow you to swap your classic site root site with a modern site.</span></span> <span data-ttu-id="ea0e6-104">[SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) 를 사용 하 여 원본 사이트를 보관 하는 동안 사이트의 위치를 다른 사이트와 교환 합니다.</span><span class="sxs-lookup"><span data-stu-id="ea0e6-104">Use [Invoke-SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) to swap the location of a site with another site while archiving the original site.</span></span> <span data-ttu-id="ea0e6-105">두 팀 사이트 (그룹에 연결 되지 않음)와 통신 사이트에서 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ea0e6-105">Available for both Team Site (not connected to a group) and Communication Site.</span></span> 
 
-<span data-ttu-id="39e3f-105">현재 통신 사이트는 루트 사이트로 사용 하도록 설정할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="39e3f-105">Currently, communication sites cannot be enabled as the root site.</span></span>
+>[!Important]
+> <span data-ttu-id="ea0e6-106">최신 통신 사이트를 만들려면 클래식 루트 사이트를 삭제 하지 마십시오.</span><span class="sxs-lookup"><span data-stu-id="ea0e6-106">Do not delete your classic root site to create a modern Communication Site.</span></span> <span data-ttu-id="ea0e6-107">이 기능은 Microsoft에서 지원 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="ea0e6-107">This is not supported by Microsoft.</span></span> <span data-ttu-id="ea0e6-108">루트 사이트를 삭제 하면 사이트를 복원 하거나 같은 URL에 새 사이트를 만들 때까지 조직의 모든 SharePoint 사이트가 모든 사용자에 게 액세스 하지 못하게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="ea0e6-108">Deleting the root site will make all SharePoint sites in your organization inaccessible to all users, until you restore the site or create a new site at the same URL.</span></span> <span data-ttu-id="ea0e6-109">메시지 센터를 통해이 기능을 전달 합니다.</span><span class="sxs-lookup"><span data-stu-id="ea0e6-109">We’ll be communicating this feature via the message center.</span></span> <span data-ttu-id="ea0e6-110">잠시 후 테 넌 트에서 기능을 사용 하도록 설정 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="ea0e6-110">You should expect the feature to be turned on in your tenant shortly.</span></span>
 
-<span data-ttu-id="39e3f-106">**중요**: 최신 통신 사이트를 만들려면 클래식 루트 사이트를 삭제 하지 마십시오.</span><span class="sxs-lookup"><span data-stu-id="39e3f-106">**Important**: Do not delete your classic root site to create a modern Communication Site.</span></span> <span data-ttu-id="39e3f-107">이 기능은 Microsoft에서 지원 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="39e3f-107">This is not supported by Microsoft.</span></span> <span data-ttu-id="39e3f-108">루트 사이트를 삭제 하면 사이트를 복원 하거나 같은 URL에 새 사이트를 만들 때까지 조직의 모든 SharePoint 사이트가 모든 사용자에 게 액세스 하지 못하게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="39e3f-108">Deleting the root site will make all SharePoint sites in your organization inaccessible to all users, until you restore the site or create a new site at the same URL.</span></span>
+## <a name="known-issues-with-swapping-sites"></a><span data-ttu-id="ea0e6-111">사이트 교체에 대 한 알려진 문제</span><span class="sxs-lookup"><span data-stu-id="ea0e6-111">Known issues with swapping sites</span></span>
+- <span data-ttu-id="ea0e6-112">대상 사이트에서 짧은 시간 동안 "찾을 수 없음" (HTTP 404) 오류가 반환 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ea0e6-112">The target site may return a "not found" (HTTP 404) error for a short period of time.</span></span>
+- <span data-ttu-id="ea0e6-113">콘텐츠를 다시 크롤링 하 여 검색 인덱스를 업데이트 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="ea0e6-113">Content will need to be recrawled to update the search index.</span></span> <span data-ttu-id="ea0e6-114">여기에는 수동 단계가 필요 하지 않으므로이 작업이 자동으로 수행 됩니다.</span><span class="sxs-lookup"><span data-stu-id="ea0e6-114">There is no manual step required here, this will be done automatically.</span></span>
+- <span data-ttu-id="ea0e6-115">"정적" 링크 (예: 파일 동기화 및 OneNote 파일)에 종속 된 모든 것을 수동으로 수정 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="ea0e6-115">Anything dependent on "static" links (such as File Sync and OneNote files) will need to be manually corrected.</span></span>
+- <span data-ttu-id="ea0e6-116">Project Server 사이트가 여전히 올바르게 연결 되어 있는지 확인 하기 위해 프로젝트 서버 사이트의 유효성을 검사 해야 할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ea0e6-116">Project Server sites may need to be validated to ensure that they are still associated correctly.</span></span> 
