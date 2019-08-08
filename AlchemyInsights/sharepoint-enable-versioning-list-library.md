@@ -1,20 +1,24 @@
 ---
-title: 목록 또는 라이브러리에서 버전 관리 사용
-ms.author: kirks
-author: Techwriter40
+title: SharePoint 및 OneDrive의 버전 관리
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d75ce74f32e4d51fa18e49a853c7a6a3da641240
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.custom:
+- "5300025"
+- "1702"
+ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223610"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232664"
 ---
-# <a name="enable-versioning-for-a-sharepoint-list-or-library"></a>SharePoint 목록 또는 라이브러리에 대해 버전 관리를 사용 하도록 설정
+# <a name="versioning-in-sharepoint-and-onedrive"></a>SharePoint 및 OneDrive의 버전 관리 
 
 
 SharePoint 목록 또는 라이브러리에서 버전 관리를 사용 하도록 설정 하면 목록 및 파일을 변경할 때마다 라이브러리의 항목을 저장, 추적 및 복원할 수 있습니다. 버전 관리를 체크 아웃과 같은 다른 설정과 함께 사용 하면 사이트에 게시 되는 콘텐츠를 제어할 수 있으며 이전 버전의 항목 또는 파일을 확인 하거나 복원 해야 하는 경우 실제 가치를 제공 합니다.
