@@ -1,21 +1,22 @@
 ---
 title: 허브 사이트 연결
-ms.author: kirks
-author: Techwriter40
-ms.date: 1/3/2019
+ms.author: efrene
+author: efrene
+ms.date: 8/7/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "1012"
 - "5300012"
-ms.openlocfilehash: 651df67ea7eec0526cf6c1cc61232c3d31125596
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+- "1012"
+ms.openlocfilehash: 88fe29b4aa89f05609b7aefc7732bb2b78cf3002
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903043"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270172"
 ---
 # <a name="associate-a-hub-site"></a>허브 사이트 연결
 
@@ -27,6 +28,6 @@ ms.locfileid: "35903043"
 
  > [!Note]
 >허브 사이트 연결 옵션이 없거나 여기에 사이트가 나열 되지 않으면 허브 사이트를 사용 하도록 설정 하지 않았거나 사이트를 허브 사이트와 연결할 권한이 없을 수 있습니다. 자세한 내용은 관리자에 게 문의 하십시오.
-
+>
 >허브 사이트와 연결할 수 있는 사이트 수에는 제한이 없습니다.
   

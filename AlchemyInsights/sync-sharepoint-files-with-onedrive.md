@@ -1,9 +1,9 @@
 ---
 title: SharePoint Online의 "탐색기에서 열기" 문제 해결
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 manager: pamgreen
-ms.date: 5/17/2018
+ms.date: 8/7/19
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 13149d288336b487441c66521b32406e408911fd
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: afee367e250357b20b77f0ea5dfe66d68967eb2a
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803044"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270714"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>SharePoint Online의 "탐색기에서 열기" 문제 해결
 
@@ -31,9 +31,9 @@ ms.locfileid: "35803044"
 
 > [!Note]  
 > **탐색기에서 열기** 단추는 새 라이브러리 환경에 표시되지 않습니다. 오른쪽 위의 **보기** 드롭다운(현재 보기에 따라 드롭다운 이름이 변경됨)을 클릭한 다음, **파일 탐색기에서 보기**를 선택합니다.
-
+>
  >SharePoint 탐색기에서 열기는 ActiveX 컨트롤을 사용하므로 Internet Explorer 10 또는 11에서만 지원됩니다. 탐색기에서 열기는 Microsoft Edge가 포함된 Windows, Google Chrome, Mozilla Firefox, 또는 Mac 플랫폼에서 작동하지 않습니다. 이러한 이유로, 탐색기 보기 옵션은 회색으로 표시될 수 있습니다.
-
+>
 > - [SharePoint 리본 단추를 사용할 수 없거나 비활성화된 이유](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca)
   
 

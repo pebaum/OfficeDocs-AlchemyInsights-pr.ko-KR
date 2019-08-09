@@ -2,6 +2,7 @@
 title: SharePoint 및 OneDrive의 버전 관리
 ms.author: efrene
 author: efrene
+ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+ms.openlocfilehash: 97cab1d3d88721b03e703623128229935074ebf1
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232664"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270426"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>SharePoint 및 OneDrive의 버전 관리 
 
@@ -37,6 +38,7 @@ SharePoint 목록 또는 라이브러리에서 버전 관리를 사용 하도록
 
 - [버전 관리 제한](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
-**참고:** Office 365 고객은 새 비즈니스용 OneDrive 라이브러리를 만들 때 기본적으로 버전 관리를 설정 하 고 마지막 500 버전의 문서를 자동으로 저장 합니다. 이렇게 하면 중요 한 문서나 데이터가 손실 되는 것을 방지할 수 있습니다. 비즈니스용 OneDrive 사이트 또는 버전 관리를 사용 하지 않는 팀 사이트에 기존 라이브러리가 있으면 언제 든 지 해당 사용자에 대해 버전 관리를 해제할 수 있습니다.
+>[!Note] 
+>Office 365 고객은 새 비즈니스용 OneDrive 라이브러리를 만들 때 기본적으로 버전 관리를 설정 하 고 마지막 500 버전의 문서를 자동으로 저장 합니다. 이렇게 하면 중요 한 문서나 데이터가 손실 되는 것을 방지할 수 있습니다. 비즈니스용 OneDrive 사이트 또는 버전 관리를 사용 하지 않는 팀 사이트에 기존 라이브러리가 있으면 언제 든 지 해당 사용자에 대해 버전 관리를 해제할 수 있습니다.
 
 
