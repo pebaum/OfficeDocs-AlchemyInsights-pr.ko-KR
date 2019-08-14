@@ -13,25 +13,23 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 4fc9d644b104f87623e8edb0e2323562459855b0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 62d67ad0ebaee202f41b0a0fa0e0c36f681588ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370501"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385834"
 ---
-# <a name="receive-copy-of-your-billing-statement-in-email"></a><span data-ttu-id="c67bd-102">전자 메일로 청구서 사본 받기</span><span class="sxs-lookup"><span data-stu-id="c67bd-102">Receive copy of your billing statement in email</span></span>
+# <a name="receive-copy-of-your-billing-statement-in-email"></a><span data-ttu-id="7d752-102">전자 메일로 청구서 사본 받기</span><span class="sxs-lookup"><span data-stu-id="7d752-102">Receive copy of your billing statement in email</span></span>
 
-<span data-ttu-id="c67bd-p101">청구서 사본을 전자 메일 첨부 파일로 받도록 선택할 수 있습니다. 이 경우 다음 사항에 유의하세요.</span><span class="sxs-lookup"><span data-stu-id="c67bd-p101">You can choose to receive a copy of your billing statement as an email attachment. If you do, be aware that:</span></span>
+<span data-ttu-id="7d752-p101">청구서 사본을 전자 메일 첨부 파일로 받도록 선택할 수 있습니다. 이 경우 다음 사항에 유의하세요.</span><span class="sxs-lookup"><span data-stu-id="7d752-p101">You can choose to receive a copy of your billing statement as an email attachment. If you do, be aware that:</span></span>
   
-- <span data-ttu-id="c67bd-105">전자 메일은 알림 수신자로 나열된 모든 사용자의 기본 및 대체 전자 메일 주소로 전송됩니다.</span><span class="sxs-lookup"><span data-stu-id="c67bd-105">An email will be sent to both the primary and alternate email address for every person listed as a notification recipient.</span></span>
+- <span data-ttu-id="7d752-105">전자 메일은 알림 수신자로 나열된 모든 사용자의 기본 및 대체 전자 메일 주소로 전송됩니다.</span><span class="sxs-lookup"><span data-stu-id="7d752-105">An email will be sent to both the primary and alternate email address for every person listed as a notification recipient.</span></span>
 
-- <span data-ttu-id="c67bd-106">관리자 센터에 로그온 하는 지침을 포함 하 여 청구서가 준비 되었음을 알리는 메시지를 표시 하 고, 해당 청구 문이 첨부 파일로 포함 된 두 번째 전자 메일을 볼 수 있는 두 개의 별도 전자 메일을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="c67bd-106">You will receive two separate emails: one that lets you know that your bill is ready, with instructions to log on to the Admin center to view it, and a second email that contains the billing statement as an attachment.</span></span>
+- <span data-ttu-id="7d752-106">관리자 센터에 로그온 하는 지침을 포함 하 여 청구서가 준비 되었음을 알리는 메시지를 표시 하 고, 해당 청구 문이 첨부 파일로 포함 된 두 번째 전자 메일을 볼 수 있는 두 개의 별도 전자 메일을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="7d752-106">You will receive two separate emails: one that lets you know that your bill is ready, with instructions to log on to the Admin center to view it, and a second email that contains the billing statement as an attachment.</span></span>
 
-<span data-ttu-id="c67bd-107">전자 메일로 청구 내역을 받으려면 다음을 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="c67bd-107">To receive your billing statement in email:</span></span>
+<span data-ttu-id="7d752-107">전자 메일로 청구 내역을 받으려면 다음을 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="7d752-107">To receive your billing statement in email:</span></span>
   
-1. <span data-ttu-id="c67bd-108">관리 센터에서 [청구 알림](https://go.microsoft.com/fwlink/p/?linkid=853212) 페이지로 이동 하거나 대금 청구 \*\*\*\* \> **알림 알림을**선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="c67bd-108">In the admin center, go to the [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page, or choose **Billing** \> **Billing notifications**.</span></span>
+1. <span data-ttu-id="7d752-108">관리 센터에서 **대금 청구** \> [알림](https://go.microsoft.com/fwlink/p/?linkid=853212) 페이지로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="7d752-108">In the admin center, go to the **Billing** \> [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page.</span></span>
 
-    <span data-ttu-id="c67bd-109">Office 365 독일를 사용 중인 경우이 [청구 알림](https://go.microsoft.com/fwlink/p/?linkid=853213) 페이지로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="c67bd-109">If you're using Office 365 Germany, go to this [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853213) page.</span></span>
-
-2. <span data-ttu-id="c67bd-110">**청구서를 전자 메일 첨부 파일로 받으시겠습니까?** 아래의 토글을 **설정**으로 전환합니다.</span><span class="sxs-lookup"><span data-stu-id="c67bd-110">Under **Do you want to receive the billing statement as an email attachment?**, switch the toggle to **On**.</span></span> <span data-ttu-id="c67bd-111">언제든지 토글을 **해제**로 전환하여 청구서 전자 메일 수신을 중지할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="c67bd-111">You can stop receiving the billing statement emails at any time by switching the toggle to **Off**.</span></span>
+2. <span data-ttu-id="7d752-109">**청구서를 전자 메일 첨부 파일로 받으시겠습니까?** 아래의 토글을 **설정**으로 전환합니다.</span><span class="sxs-lookup"><span data-stu-id="7d752-109">Under **Do you want to receive the billing statement as an email attachment?**, switch the toggle to **On**.</span></span> <span data-ttu-id="7d752-110">언제든지 토글을 **해제**로 전환하여 청구서 전자 메일 수신을 중지할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7d752-110">You can stop receiving the billing statement emails at any time by switching the toggle to **Off**.</span></span>
