@@ -13,19 +13,19 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 21e5ff7bc5d4a8d88c1d99a52e89998867c20374
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 930c64aab2278471776f2530bf93892b4afb1f67
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383751"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390878"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="8b464-102">비영리 사람을 위해 Office 365를 구매 하는 방법</span><span class="sxs-lookup"><span data-stu-id="8b464-102">How to purchase Office 365 for Non-profits</span></span>
+# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="d13fe-102">비영리 사람을 위해 Office 365를 구매 하는 방법</span><span class="sxs-lookup"><span data-stu-id="d13fe-102">How to purchase Office 365 for Non-profits</span></span>
 
-<span data-ttu-id="8b464-103">Microsoft 자격이 있는 비영리 단체의 상태가 승인 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="8b464-103">Your status as a Microsoft Qualified Nonprofit Organization has been approved.</span></span> <span data-ttu-id="8b464-104">구입:</span><span class="sxs-lookup"><span data-stu-id="8b464-104">To purchase:</span></span>
+<span data-ttu-id="d13fe-103">Microsoft 자격이 있는 비영리 단체의 상태가 승인 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="d13fe-103">Your status as a Microsoft Qualified Nonprofit Organization has been approved.</span></span> <span data-ttu-id="d13fe-104">구입:</span><span class="sxs-lookup"><span data-stu-id="d13fe-104">To purchase:</span></span>
   
-1. <span data-ttu-id="8b464-105">관리 센터에서 [서비스 구매](https://go.microsoft.com/fwlink/p/?linkid=868433) 페이지로 이동 하거나 **대금 청구** \> **구매 서비스**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="8b464-105">In the Admin center, go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services**.</span></span>
+1. <span data-ttu-id="d13fe-105">관리 센터에서 **결제** \> [구매 서비스](https://go.microsoft.com/fwlink/p/?linkid=868433) 페이지로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="d13fe-105">In the admin center, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-2. <span data-ttu-id="8b464-106">**비영리 계획**중 목록에서 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="8b464-106">Choose from the list under **Non-Profits Plans**.</span></span>
+2. <span data-ttu-id="d13fe-106">**비영리 계획**중 목록에서 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="d13fe-106">Choose from the list under **Non-Profits Plans**.</span></span>
 
-3. <span data-ttu-id="8b464-107">구매할 구독을 가리키고 **지금 구입**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="8b464-107">Hover over the subscription that you want to purchase, and choose **Buy Now**.</span></span>
+3. <span data-ttu-id="d13fe-107">구매할 구독을 가리키고 **지금 구입**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="d13fe-107">Hover over the subscription that you want to purchase, and choose **Buy Now**.</span></span>
