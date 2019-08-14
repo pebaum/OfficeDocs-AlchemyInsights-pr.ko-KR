@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383535"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389942"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>되풀이 되는 대금 청구를 다시 활성화 하 고 관리 하는 방법
 
 만료 된 구독을 보유 하 고 있는 것 같습니다. 이를 다시 활성화 하려면 방법은 다음과 같습니다.
   
-1. 관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 하거나 **대금 청구** \> **구독**으로 이동 합니다.
+1. 관리 센터에서 **청구** \> [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.
 
 2. **만료** 되었거나 **사용 하지 않도록 설정**된 구독을 선택 합니다.
 
@@ -36,11 +36,10 @@ ms.locfileid: "35383535"
 
 월별 또는 연간 대금 청구를 관리 하려면 되풀이 되는 **대금 청구** 를 설정 하거나 해제 합니다.
   
-1. 관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 하거나 **대금 청구** \> **구독**으로 이동 합니다.
+1. 관리 센터에서 **청구** \> [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.
 
 2. 되풀이 되는 대금 청구를 관리할 구독을 선택 합니다.
 
 3. 되풀이 되는 **대금 청구** 전환 **켜기** 또는 **끄기를**설정 합니다.
 
-자세한 내용은 [구독에 대 한 되풀이 대금 청구 관리](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)를 참조 하세요.
-  
+자세한 내용은 [켜기 정기 청구 끄기 또는 끄기를](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)참조 하세요.

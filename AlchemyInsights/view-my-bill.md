@@ -13,19 +13,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bfee2039e20f69ceffec5946fdbf3f7ec15c8396
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365459"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387758"
 ---
 # <a name="view-my-bill"></a>내 청구서 보기
 
-1. 관리 센터에서 [자재 명세서](https://go.microsoft.com/fwlink/p/?linkid=848039) 페이지로 이동 하거나 **대금 청구** \> **청구서**를 선택 합니다.
+1. 관리 센터에서 **청구** \> [금액](https://go.microsoft.com/fwlink/p/?linkid=848039) 페이지로 이동 합니다.
 
 2. 필요한 송장의 월 및 날짜를 선택하고 **보기**를 선택합니다.
 
 3. 주문을 선택한 다음 **자세히 보기**를 선택합니다.
 
-자세한 내용은 [청구서 또는 송장 보기를](https://support.office.com/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill)참조 하세요.
+자세한 내용은 [청구서 또는 송장 보기를](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)참조 하세요.

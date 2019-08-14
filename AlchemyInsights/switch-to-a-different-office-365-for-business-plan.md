@@ -13,18 +13,18 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: cfb1012b644d3fa54d385636642b8f7d02a09c0c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367655"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388190"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>다른 Office 365 for Business 요금제로 전환
 
 비즈니스가 변경 되거나 더 많은 Office 365 기능이 필요한 경우 요금제를 전환할 수 있습니다.
   
-1. 관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동하거나 **청구** \> **구독**을 선택합니다.
+1. 관리 센터에서 **청구** \> [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.
 
 2. 사용할 수 있는 새 요금제 목록을 보려면 **요금제 전환을** 선택 합니다.
 
@@ -32,7 +32,6 @@ ms.locfileid: "35367655"
 
 요금제 전환 단추는 모든 상황에서 지원 되지 않습니다. 경우에 따라 요금제를 수동으로 전환할 수 있습니다.
   
-**요금제 전환** 단추를 사용할 수 없는 경우 [요금제를 수동으로 전환](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209) 하거나 "사용자에 게 전화를 걸 수 있습니다." 옵션을 사용 하 여 지원 엔지니어와 의견을 보내주시기 바랍니다.
+**요금제 전환** 단추를 사용할 수 없는 경우 [요금제를 수동으로 전환](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually) 하거나 "사용자에 게 전화를 걸 수 있습니다." 옵션을 사용 하 여 지원 엔지니어와 의견을 보내주시기 바랍니다.
   
-전환 계획의 모든 변형에 대해 [다른 Office 3635 For 비즈니스 계획으로 전환을](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2)참조 하세요.
-  
+새 관리 센터를 사용 하 고 있나요? 새 단계는 [다른 요금제로 업그레이드를](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)참조 하세요.  

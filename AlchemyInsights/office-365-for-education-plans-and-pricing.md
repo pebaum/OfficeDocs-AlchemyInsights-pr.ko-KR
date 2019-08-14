@@ -13,19 +13,17 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: e4f0c153d6e3bbd7a5b27d15090e8b98345318aa
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d18a38cfd18c053313ed43ecfbf0f7fdc2a5dd19
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35378855"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389474"
 ---
 # <a name="get-office-365-free-for-your-entire-school"></a>전체 학교에 Office 365 무료 다운로드
 
 무료 생산성 도구로 교실 및 학교 공동 작업을 개선 합니다. 이러한 혜택을 활용 하려면 공인 교육 기관 인지 확인 해야 합니다.
   
 - [교육 계획 검토](https://products.office.com/academic/compare-office-365-education-plans)
-
-- [Office 365 교육 하기 시작](https://support.office.com/article/ab02abe5-a1ee-458c-b749-5b44416ccf1)
 
 - [모든 Office 365 요금제 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)

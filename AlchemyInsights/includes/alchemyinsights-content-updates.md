@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>01 년 7 월 1 일 주 2019
-
-
-| 게시된 날짜 |항목 제목 | 변경 사항 |
-|------|------------|--------|
-| 7/1/2019 | [클래식 SharePoint 감사 로그 보고서](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | 수정한 날짜 |
-| 7/2/2019 | [보존 정책에 대 한 추가 정보](/AlchemyInsights/office-security-compliance-retention-policy) | 수정한 날짜 |
-
-
 ## <a name="week-of-july-08-2019"></a>7 월 8 일 주 2019
 
 
@@ -220,3 +211,69 @@
 | 8/2/2019 | [웹용 Outlook에서 전자 메일 구성](/AlchemyInsights/owa-organize-email) | 수정한 날짜 |
 | 8/2/2019 | [웹용 Outlook에서 전자 메일, 일정 및 첨부 파일 인쇄](/AlchemyInsights/owa-print-email-calendars-attachments) | 수정한 날짜 |
 | 8/2/2019 | [웹용 Outlook에서 확인 메일 읽기](/AlchemyInsights/owa-read-receipts) | 수정한 날짜 |
+
+
+## <a name="week-of-august-05-2019"></a>8 월 05 일 주 2019
+
+
+| 게시된 날짜 |항목 제목 | 변경 사항 |
+|------|------------|--------|
+| 8/5/2019 | [웹용 Outlook에서 메시지를 회신 하거나 전달 하는 방법](/AlchemyInsights/owa-reply-forward-messages) | 수정한 날짜 |
+| 8/5/2019 | [8000003 웹용 Outlook에서 메일 및 사용자 검색](/AlchemyInsights/owa-search-mail-and-people) | 수정한 날짜 |
+| 8/5/2019 | [웹용 Outlook에서 서명 만들기](/AlchemyInsights/owa-signature) | 수정한 날짜 |
+| 8/5/2019 | [웹용 Outlook의 S/MIME](/AlchemyInsights/owa-smime) | 수정한 날짜 |
+| 8/5/2019 | [웹용 Outlook에서 정크 메일 폴더로 이동 하지 못하도록 메시지를 중지 합니다.](/AlchemyInsights/owa-stop-email-from-going-to-junk-folder) | 수정한 날짜 |
+| 8/5/2019 | [중요 받은 편지함 해제](/AlchemyInsights/owa-turn-off-focused-inbox) | 수정한 날짜 |
+| 8/5/2019 | [1332 OWA-사서함에 대 한 받은 편지함 규칙이 실행 되 고 있지 않음](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | 수정한 날짜 |
+| 8/6/2019 | [Alchemy 인라인 이미지 테스트](/AlchemyInsights/testing-alchemy-inline-images) | 수정한 날짜 |
+| 8/6/2019 | [SharePoint 및 OneDrive의 Advanced Threat Protection](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | 수정한 날짜 |
+| 8/6/2019 | [SharePoint 또는 OneDrive의 랜 섬 웨어 공격](/AlchemyInsights/ransomware-attack-in-sharepoint) | 수정한 날짜 |
+| 8/6/2019 | [최신 사이트를 루트 사이트로](/AlchemyInsights/modern-site-as-the-root-site) | 수정한 날짜 |
+| 8/6/2019 | [데이터를 SharePoint Online으로 마이그레이션하는 동안 문제가 발생 합니다.](/AlchemyInsights/sharepoint-data-size-migration-issues) | 수정한 날짜 |
+| 8/6/2019 | [OneDrive 또는 SharePoint에서 파일을 다운로드 하거나 다운로드할 수 없도록 방지](/AlchemyInsights/sharepoint-onedrive-download-files) | 수정한 날짜 |
+| 8/6/2019 | [비즈니스용 OneDrive 사이트에 대 한 액세스 거부 메시지 문제 해결](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | 수정한 날짜 |
+| 8/6/2019 | [삭제 된 파일 또는 폴더 복원](/AlchemyInsights/sharepoint-deleted-items-restore) | 수정한 날짜 |
+| 8/6/2019 | [SharePoint 및 OneDrive의 버전 관리](/AlchemyInsights/sharepoint-enable-versioning-list-library) | 수정한 날짜 |
+| 8/6/2019 | [OneDrive 보존 및 삭제 정보](/AlchemyInsights/one-drive-retention-and-deletion) | 수정한 날짜 |
+| 8/7/2019 | [SharePoint 또는 OneDrive에서 파일을 다운로드 하지 못하도록 차단](/AlchemyInsights/prevent-download) | 수정한 날짜 |
+| 8/7/2019 | [삭제 된 파일 또는 폴더 복원](/AlchemyInsights/sharepoint-deleted-items-restore) | 수정한 날짜 |
+| 8/7/2019 | [SharePoint Online에서 외부 공유 사용](/AlchemyInsights/sharepoint-enable-external-sharing) | 수정한 날짜 |
+| 8/7/2019 | [OneDrive 동기화 문제 해결](/AlchemyInsights/fix-onedrive-sync-issues) | 수정한 날짜 |
+| 8/7/2019 | [OneDrive 동기화 문제 해결](/AlchemyInsights/fix-onedrive-sync-problems) | 수정한 날짜 |
+| 8/7/2019 | [워크플로 전자 메일이 전송 되지 않음](/AlchemyInsights/workflow-email-not-being-sent) | 수정한 날짜 |
+| 8/7/2019 | [워크플로가 시작 되지 않음](/AlchemyInsights/workflow-is-not-starting) | 수정한 날짜 |
+| 8/7/2019 | [SharePoint 및 OneDrive의 Advanced Threat Protection](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | 수정한 날짜 |
+| 8/7/2019 | [허브 사이트 연결](/AlchemyInsights/associate-a-hub-site) | 수정한 날짜 |
+| 8/7/2019 | [SharePoint 사이트 만들기](/AlchemyInsights/create-a-sharepoint-site) | 수정한 날짜 |
+| 8/7/2019 | [최신 사이트를 루트 사이트로](/AlchemyInsights/modern-site-as-the-root-site) | 수정한 날짜 |
+| 8/7/2019 | [OneDrive 보존 및 삭제](/AlchemyInsights/one-drive-retention-and-deletion) | 수정한 날짜 |
+| 8/7/2019 | [OneDrive 일반적인 문제 및 해결 방법](/AlchemyInsights/onedrive-common-issues-and-resolutions) | 수정한 날짜 |
+| 8/7/2019 | [SharePoint 또는 OneDrive의 랜 섬 웨어 공격](/AlchemyInsights/ransomware-attack-in-sharepoint) | 수정한 날짜 |
+| 8/7/2019 | [SharePoint Online의 외부 공유](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | 수정한 날짜 |
+| 8/7/2019 | [SharePoint 및 OneDrive의 버전 관리](/AlchemyInsights/sharepoint-enable-versioning-list-library) | 수정한 날짜 |
+| 8/7/2019 | [외부 연락처에서 공유 초대를 수락할 수 없음](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | 수정한 날짜 |
+| 8/7/2019 | [SharePoint Online의 일반적인 문제 및 해결 방법](/AlchemyInsights/sharepoint-get-started-faq) | 수정한 날짜 |
+| 8/7/2019 | [최신 사이트를 루트 사이트로](/AlchemyInsights/sharepoint-modernize-classic-site) | 수정한 날짜 |
+| 8/7/2019 | [OneDrive 또는 SharePoint에서 파일을 다운로드 하거나 다운로드할 수 없도록 방지](/AlchemyInsights/sharepoint-onedrive-download-files) | 수정한 날짜 |
+| 8/7/2019 | [Mac에서 OneDrive 또는 SharePoint 파일 설치, 설정 및 동기화](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | 수정한 날짜 |
+| 8/7/2019 | [SharePoint Online에서 "탐색기에서 열기" 문제 해결](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | 수정한 날짜 |
+| 8/8/2019 | [SharePoint 및 OneDrive의 Advanced Threat Protection](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | 수정한 날짜 |
+| 8/8/2019 | [허브 사이트 연결](/AlchemyInsights/associate-a-hub-site) | 수정한 날짜 |
+| 8/8/2019 | [SharePoint 사이트 만들기](/AlchemyInsights/create-a-sharepoint-site) | 수정한 날짜 |
+| 8/8/2019 | [오류 404: 파일을 찾을 수 없음](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | 수정한 날짜 |
+| 8/8/2019 | [Mac에서 OneDrive 동기화 문제 해결](/AlchemyInsights/fix-onedrive-sync-issues-on-a-mac) | 수정한 날짜 |
+| 8/8/2019 | [네트워크 드라이브에 SharePoint 라이브러리 매핑](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | 수정한 날짜 |
+| 8/8/2019 | [최신 사이트를 루트 사이트로](/AlchemyInsights/modern-site-as-the-root-site) | 수정한 날짜 |
+| 8/8/2019 | [OneDrive 보존 및 삭제](/AlchemyInsights/one-drive-retention-and-deletion) | 수정한 날짜 |
+| 8/8/2019 | [SharePoint 또는 OneDrive의 랜 섬 웨어 공격](/AlchemyInsights/ransomware-attack-in-sharepoint) | 수정한 날짜 |
+| 8/8/2019 | [삭제 된 파일 또는 폴더 복원](/AlchemyInsights/sharepoint-deleted-items-restore) | 수정한 날짜 |
+| 8/8/2019 | [외부 사용자가 SharePoint Online의 콘텐츠에 액세스할 수 없음](/AlchemyInsights/sharepoint-external-sharing-issues) | 수정한 날짜 |
+| 8/8/2019 | [SharePoint 허브 사이트 개요](/AlchemyInsights/sharepoint-hub-sites) | 수정한 날짜 |
+| 8/8/2019 | [OneDrive 또는 SharePoint에서 파일을 다운로드 하거나 다운로드할 수 없도록 방지](/AlchemyInsights/sharepoint-onedrive-download-files) | 수정한 날짜 |
+| 8/8/2019 | [SharePoint Online에서 검색 스키마 관리](/AlchemyInsights/sharepoint-search-schema) | 수정한 날짜 |
+| 8/8/2019 | [SharePoint 워크플로를 만드는 단계](/AlchemyInsights/steps-to-create-a-sharepoint-workflow) | 수정한 날짜 |
+| 8/8/2019 | [기본 루트 사이트를 최신 사이트로 바꾸기](/AlchemyInsights/swap-your-classic-root-site-with-a-modern-site) | 수정한 날짜 |
+| 8/8/2019 | [SharePoint Online에서 "탐색기에서 열기" 문제 해결](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | 수정한 날짜 |
+| 8/8/2019 | [워크플로 문제 해결](/AlchemyInsights/workflow-troubleshooting) | 수정한 날짜 |
+| 8/8/2019 | [감사 로그 사용 및 검색](/AlchemyInsights/enable-auditing) | 수정한 날짜 |
+| 8/8/2019 | [감사 로그 사용 및 검색](/AlchemyInsights/enable-auditing) | 수정한 날짜 |

@@ -12,12 +12,12 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: 66d53db659bcf8940a0572e88afeecc9a3781430
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e4e88f315b94e4b1318fada8abde8413233c41a6
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379719"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389654"
 ---
 # <a name="minecraft-edition-with-office-365-education-for-free"></a>무료 Office 365 교육을 제공 하는 Minecraft Edition
 
@@ -36,4 +36,3 @@ ms.locfileid: "35379719"
 [교사는 Minecraft를 가져오고 배포 하는 방법을 알아봅니다](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   
 [IT 관리자가 Minecraft를 가져오고 배포 하는 방법에 대해 알아보고](https://docs.microsoft.com/education/windows/school-get-minecraft)Minecraft의 사용 권한을 관리 하는 방법을 알아봅니다.
-  
