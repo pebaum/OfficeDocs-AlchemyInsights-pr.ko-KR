@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903712"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387765"
 ---
 # <a name="update-payment-details"></a>지불 정보 업데이트
 
-1. 관리 센터에서 [결제 방법](https://go.microsoft.com/fwlink/p/?linkid=2018806) 페이지로 이동하거나 **청구** \> ** 결제 방법 **을 선택하십시오.
+1. 관리 센터에서 **청구** \> [결제 방법](https://go.microsoft.com/fwlink/p/?linkid=2018806) 페이지로 이동합니다.
 
     > [!NOTE]
     > 업데이트가 완료되기 전에 관리 홈페이지로 돌아가는 루프가 발생하면 Inprivate 또는 시크릿 모드를 사용해 보세요.
@@ -37,4 +37,4 @@ ms.locfileid: "35903712"
 
 5. 결제 방법을 제거 하려면 **삭제**를 선택합니다.
 
-자세한 내용은 [비즈니스용 Office 365에서 신용 카드 또는 은행 계좌 추가, 업데이트 또는 제거](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) 및 [신용 카드 및 은행 계좌 문제 해결](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)을 참조하세요.
+자세한 내용은 [비즈니스용 Office 365에서 신용 카드 또는 은행 계좌 추가, 업데이트 또는 제거](https://docs.microsoft.com/ko-KR/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) 및 [신용 카드 및 은행 계좌 문제 해결](https://docs.microsoft.com/ko-KR/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)을 참조하세요.

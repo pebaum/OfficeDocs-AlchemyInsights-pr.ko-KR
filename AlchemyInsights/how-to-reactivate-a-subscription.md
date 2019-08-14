@@ -13,18 +13,18 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 5d446cefffb1598a5d2c8cd17b6eba64205f00f2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 886f6933daed7fc21c858591286b05b7093d627e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383643"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390842"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>구독을 다시 활성화하는 방법
 
 구독이 만료되었거나 취소되었거나 Microsoft에서 구독을 비활성화한 경우 Microsoft 365 관리 센터에서 다시 활성화할 수 있습니다.
   
-1. 관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동하거나 **청구** \> **구독**을 선택합니다.
+1. 관리 센터에서 **청구** \> [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동합니다.
 
 2. 다시 활성화하려는 구독을 선택합니다.
 
@@ -36,5 +36,4 @@ ms.locfileid: "35383643"
 
 6. 몇 분 후에 구독이 활성 상태로 표시되지 않으면 페이지를 새로 고칩니다.
 
-자세한 내용은 다음을 참조하세요. [Office 365 비즈니스 에디션 갱신](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
-  
+자세한 내용은 다음을 참조하세요. [Office 365 비즈니스 에디션 갱신](https://docs.microsoft.com/ko-KR/office365/admin/subscriptions-and-billing/renew-your-subscription)

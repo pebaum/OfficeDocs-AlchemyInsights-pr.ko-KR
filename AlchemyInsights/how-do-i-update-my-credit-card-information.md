@@ -13,16 +13,16 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 3f83db2fa1aab6a9f8171be3a423a5d87ac8ca48
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 23e2ea7cab1ccf3a2eb64b60137932ac38cff8aa
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386019"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389002"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>신용 카드 정보를 업데이트하려면 어떻게 하나요?
 
-1. 관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동하거나 **청구** \> **구독**을 선택합니다.
+1. 관리 센터에서 **청구** \> [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동합니다.
 
 2. 업데이트하려는 신용 카드 또는 은행 계좌로 구입한 구독을 선택한 다음 **결제 정보 업데이트**를 선택합니다.
 
@@ -33,5 +33,6 @@ ms.locfileid: "35386019"
 
 5. 확인 메시지가 나타납니다.
 
-자세한 내용은 [신용 카드 및 은행 계좌 문제 해결](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)을 참조하세요.
-  
+자세한 내용은 [신용 카드 및 은행 계좌 문제 해결](https://docs.microsoft.com/ko-KR/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)을 참조하세요.
+
+새 관리 센터를 사용하고 있나요? 새 단계에 대한 내용은 [비즈니스용 Office 365에서 신용 카드 또는 은행 계좌 추가, 업데이트 또는 제거](https://docs.microsoft.com/ko-KR/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)를 참조하세요.
