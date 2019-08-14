@@ -13,16 +13,16 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 91b2ddf5a121595ecec8790ae625849894b01875
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358547"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385618"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>선불 구독에 좌석 추가
 
-1. 관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동하거나 **청구** \> **구독**을 선택합니다.
+1. 관리 센터에서 **청구** \> [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.
 
 2. 사용자를 추가할 선불 구독을 선택 합니다.
 
@@ -36,3 +36,5 @@ ms.locfileid: "35358547"
 6. 제품 키를 입력 하 고 **다음**을 선택 합니다.
 
 7. 더 많은 사용자를 추가 하는 옵션을 선택 하 고 **다음**을 선택한 다음 사용을 선택 합니다. ****
+
+새 관리 센터를 사용 하 고 있나요? 새 단계는 [제품 키를 사용 하 여 유료 구독 추가 또는 확장](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key)을 참조 하세요.

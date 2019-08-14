@@ -13,18 +13,18 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366755"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387850"
 ---
 # <a name="trying-to-find-a-trial"></a>평가판을 찾으려고 하나요?
 
-새 서비스를 사용해 보려는 경우 Microsoft 365 관리 센터에서 평가판에 사용할 수 있는 구독 목록을 확인할 수 있습니다.
+새 서비스를 사용해 보려는 경우 관리 센터에서 평가판에 사용할 수 있는 구독 목록을 확인할 수 있습니다.
   
-1. [서비스 구매](https://go.microsoft.com/fwlink/p/?linkid=868433) 페이지로 이동 하거나 **대금 청구** \> **구매 서비스**를 선택 합니다.
+1. 관리 센터에서 **결제** \> [구매 서비스](https://go.microsoft.com/fwlink/p/?linkid=868433) 페이지로 이동 합니다.
 
 2. 사용자의 요구에 맞는 구독을 찾고, 마우스를 위로 가져가면, **무료 평가판 시작**을 선택 합니다.
 

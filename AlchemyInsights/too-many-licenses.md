@@ -13,20 +13,20 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: e84f1102a5862bf76bbb24a99fa13835dedd6a79
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367403"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388030"
 ---
 # <a name="too-many-licenses"></a>라이선스가 너무 많음
 
 너무 많은 라이선스에 대 한 비용이 청구 되는 경우 일반적으로 더 많은 라이선스를 구입 해야 하는 경우이 문제가 발생 합니다.
   
- **구매한 라이선스 수 줄이기**
+**구매한 라이선스 수 줄이기**
   
-1. 관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동하거나 **청구** \> **구독**을 선택합니다.
+1. 관리 센터에서 **청구** \> [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.
 
 2. 왼쪽에서 라이선스를 제거할 구독을 선택 합니다.
 
@@ -35,3 +35,5 @@ ms.locfileid: "35367403"
 4. 필요한 총 사용자 수를 입력 합니다. 예를 들어 현재 25 개의 라이선스가 있고 5를 제거 하려면이 필드에 20을 입력 합니다.
 
 5. Choose **Submit**.
+
+새 관리 센터를 사용 하 고 있나요? 새 단계는 [Office 365 비즈니스 에디션 구독에서 라이선스 제거](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)를 참조 하세요.
