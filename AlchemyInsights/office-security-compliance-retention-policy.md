@@ -3,28 +3,53 @@ title: 보존 정책에 대 한 추가 정보
 ms.author: stephow
 author: msft-stephow
 manager: laurawi
+ms.date: 08/14/2019
 ms.audience: admin
 ms.topic: article
 ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
-ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
+ms.collection: Adm_O365
+ms.custom:
+- "9000048"
+- "1983"
+ms.openlocfilehash: 8d85116443b74369d33008ae8a398abc4597b6d4
+ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35448841"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36404844"
 ---
 # <a name="more-info-about-retention-policies"></a>보존 정책에 대 한 추가 정보
 
-대부분의 조직에서는 데이터의 양과 복잡도가 매일 증가 하 여 전자 메일, 문서, 인스턴트 메시지 등의 정보를 늘릴 수 있습니다.
-이 정보를 효과적으로 관리 하는 것이 중요 하며 보존 정책을 통해 이러한 목표를 달성할 수 있습니다. 보존 정책에 대 한 자세한 내용은 다음 링크를 참조 하세요.
+대부분의 조직에서는 데이터의 양과 복잡도가 매일 증가 하 여 전자 메일, 문서, 인스턴트 메시지 등의 정보를 늘릴 수 있습니다. 이 정보를 효과적으로 관리 하는 것이 중요 하며 보존 정책을 통해 이러한 목표를 달성할 수 있습니다. 보존 정책에 대 한 자세한 내용은 다음 링크를 참조 하세요.
 
-- [보존 정책 개요](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+## <a name="a-from-security-and-compliance-center"></a>A) 보안 및 준수 센터에서
 
-- [보존 태그 및 보존 정책](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- 보안 및 규정 준수 > 데이터 거 버 넌 스 > 보존으로 이동
+  - [이](https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies) 문서 참조
 
-- [전체 조직 또는 특정 위치에 보존 정책 적용](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)
+- 보안 및 규정 준수 > eDiscovery> Advanced eDiscovery로 이동 합니다. 
+  - [이](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases) 문서 참조
 
-- [Exchange 관리 센터에서 새로 만들어지거나 업데이트 된 보존 정책이 사서함에 적용 되지 않음](https://docs.microsoft.com/alchemyinsights/retention-policies-in-exchange-admin-center-not-working)
+- 보안 및 규정 준수 > 분류 > 보존으로 이동
+  - 다음 문서 참조
+    - [민감도 레이블](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
+    - [레이블 개요](https://docs.microsoft.com/en-us/office365/securitycompliance/labels)
 
+## <a name="b-legacy-ediscovery-policies"></a>B) 레거시 eDiscovery 정책
+
+- [이](https://support.office.com/en-us/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) 문서 참조
+
+## <a name="c-site-closure-and-deletion-policies"></a>C) 사이트 종료 및 삭제 정책
+
+- [이](https://support.office.com/en-us/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) 문서 참조  
+
+## <a name="d-information-rights-management-irm"></a>D) IRM (정보 권한 관리)
+
+- 다음 문서 참조
+  - [목록/라이브러리의 IRM](https://support.office.com/en-us/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [IRM 개요](https://support.office.com/en-us/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+
+> [!Note]
+> 여전히 레거시 eDiscovery 또는 IRM 또는 사이트 폐쇄 및 삭제 정책을 사용 하는 경우에는 보안 및 준수 정책으로 이동 하는 것이 좋습니다.
