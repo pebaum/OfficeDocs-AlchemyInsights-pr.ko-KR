@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 9f4a175239bc20aaf489615da63ef35002030a70
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d0af4c933f262fe1ec4c2a6ff16d5f6195398b0d
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369671"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444814"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Exchange 관리 센터의 보존 정책
 
@@ -56,4 +56,9 @@ ms.locfileid: "35369671"
   ```
 
  **참고:** 사서함이 10mb 보다 작으면 관리 되는 폴더 도우미가 사서함을 자동으로 처리 하지 않습니다.
-  
+ 
+Exchange 관리 센터의 보존 정책에 대 한 자세한 내용은 다음 항목을 참조 하십시오.
+- [보존 태그 및 보존 정책](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [사서함에 보존 정책 적용](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [보존 태그 추가 또는 제거](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [사서함에 대 한 보류 유형을 식별 하는 방법](https://docs.microsoft.com/en-us/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
