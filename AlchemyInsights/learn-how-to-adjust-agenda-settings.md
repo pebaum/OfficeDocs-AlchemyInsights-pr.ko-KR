@@ -13,15 +13,15 @@ ms.custom:
 - "603"
 - "3800002"
 ms.assetid: d9d92a75-2ddc-41eb-b705-b2767d733f22
-ms.openlocfilehash: 62570cb9475d091fe3aa97679fd7e9dfa9b7c57b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f7a08d64f2462036cdebc947d70126f43814884f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381087"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497557"
 ---
-# <a name="learn-how-to-configure-agenda-settings"></a><span data-ttu-id="87043-102">안건 설정을 구성 하는 방법 알아보기</span><span class="sxs-lookup"><span data-stu-id="87043-102">Learn how to configure agenda settings</span></span>
+# <a name="learn-how-to-configure-agenda-settings"></a><span data-ttu-id="6fd30-102">안건 설정을 구성 하는 방법 알아보기</span><span class="sxs-lookup"><span data-stu-id="6fd30-102">Learn how to configure agenda settings</span></span>
 
-<span data-ttu-id="87043-103">회의록 설정은 웹용 Outlook의 **일정** 설정에 있습니다.</span><span class="sxs-lookup"><span data-stu-id="87043-103">Agenda settings are located in the **Calendar** settings in Outlook on the web.</span></span> <span data-ttu-id="87043-104">자세한 내용은 [웹용 Outlook의 일정 설정을](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f)참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="87043-104">For more information, see [Calendar settings in Outlook on the web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).</span></span>
+<span data-ttu-id="6fd30-103">회의록 설정은 웹용 Outlook의 **일정** 설정에 있습니다.</span><span class="sxs-lookup"><span data-stu-id="6fd30-103">Agenda settings are located in the **Calendar** settings in Outlook on the web.</span></span> <span data-ttu-id="6fd30-104">자세한 내용은 [웹용 Outlook의 일정 설정을](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f)참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="6fd30-104">For more information, see [Calendar settings in Outlook on the web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).</span></span>
 
-<span data-ttu-id="87043-105">관리자는 Exchange Online PowerShell의 **설정-CalendarNotification** cmdlet을 사용 하 여 의제 설정을 구성할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="87043-105">Admins can use the **Set-CalendarNotification** cmdlet in Exchange Online PowerShell to configure agenda settings.</span></span> <span data-ttu-id="87043-106">자세한 내용은 [설정-CalendarNotification](https://technet.microsoft.com/library/dd351284)을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="87043-106">For more information, see [Set-CalendarNotification](https://technet.microsoft.com/library/dd351284).</span></span>
+<span data-ttu-id="6fd30-105">관리자는 Exchange Online PowerShell의 **설정-CalendarNotification** cmdlet을 사용 하 여 의제 설정을 구성할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="6fd30-105">Admins can use the **Set-CalendarNotification** cmdlet in Exchange Online PowerShell to configure agenda settings.</span></span> <span data-ttu-id="6fd30-106">자세한 내용은 [설정-CalendarNotification](https://technet.microsoft.com/library/dd351284)을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="6fd30-106">For more information, see [Set-CalendarNotification](https://technet.microsoft.com/library/dd351284).</span></span>
