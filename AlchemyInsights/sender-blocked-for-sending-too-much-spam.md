@@ -13,20 +13,20 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 76dc4d5fe0a9c3d348decb9f762b7cc02eb50b43
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 369fad874a82e2f1938fffb9153e0b66de7aa5f4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355811"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509295"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a><span data-ttu-id="b3a86-102">계정이 너무 많은 스팸을 보내 차단됨</span><span class="sxs-lookup"><span data-stu-id="b3a86-102">Account is blocked for sending too much spam</span></span>
+# <a name="account-is-blocked-for-sending-too-much-spam"></a><span data-ttu-id="7e86d-102">계정이 너무 많은 스팸을 보내 차단됨</span><span class="sxs-lookup"><span data-stu-id="7e86d-102">Account is blocked for sending too much spam</span></span>
 
-<span data-ttu-id="b3a86-103">보낸 사람 계정이 손상되었을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b3a86-103">The sending account may be compromised.</span></span> <span data-ttu-id="b3a86-104">다음을 수행해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="b3a86-104">You will need to:</span></span>
+<span data-ttu-id="7e86d-103">보낸 사람 계정이 손상되었을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7e86d-103">The sending account may be compromised.</span></span> <span data-ttu-id="7e86d-104">다음을 수행해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="7e86d-104">You will need to:</span></span>
   
-1. <span data-ttu-id="b3a86-105">[계정이 손상되었는지 여부를 판단합니다](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised).</span><span class="sxs-lookup"><span data-stu-id="b3a86-105">[Determine if the account is compromised](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised).</span></span> <span data-ttu-id="b3a86-106">침해된 경우 [Office 365에서 손상된 이메일 계정에 응답](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)의 단계를 따릅니다.</span><span class="sxs-lookup"><span data-stu-id="b3a86-106">If compromised, follow the steps for [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span></span>
+1. <span data-ttu-id="7e86d-105">[계정이 손상되었는지 여부를 판단합니다](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised).</span><span class="sxs-lookup"><span data-stu-id="7e86d-105">[Determine if the account is compromised](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised).</span></span> <span data-ttu-id="7e86d-106">침해된 경우 [Office 365에서 손상된 이메일 계정에 응답](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)의 단계를 따릅니다.</span><span class="sxs-lookup"><span data-stu-id="7e86d-106">If compromised, follow the steps for [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span></span>
 
-2. <span data-ttu-id="b3a86-107">제한된 사용자로 이동하여 &amp; 준수 센터의 **[계정을 차단 해제](https://protection.office.com/?hash=/restrictedusers)** 합니다.</span><span class="sxs-lookup"><span data-stu-id="b3a86-107">Go to Restricted Users to **[unblock the account](https://protection.office.com/?hash=/restrictedusers)** in Security &amp; Compliance Center.</span></span> <span data-ttu-id="b3a86-108">완료되면 *1시간 이내*에 메시지를 다시 보낼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b3a86-108">Once done, you should be able to resume sending messages  *within 1 hour*  .</span></span>
+2. <span data-ttu-id="7e86d-107">제한된 사용자로 이동하여 &amp; 준수 센터의 **[계정을 차단 해제](https://protection.office.com/?hash=/restrictedusers)** 합니다.</span><span class="sxs-lookup"><span data-stu-id="7e86d-107">Go to Restricted Users to **[unblock the account](https://protection.office.com/?hash=/restrictedusers)** in Security &amp; Compliance Center.</span></span> <span data-ttu-id="7e86d-108">완료되면 *1시간 이내*에 메시지를 다시 보낼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7e86d-108">Once done, you should be able to resume sending messages  *within 1 hour*  .</span></span>
 
-3. <span data-ttu-id="b3a86-109">향후 계정 손상을 방지하는 데 도움이 되도록 [Office 365 보안 모범 사례](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx)의 권장 사항을 따르세요.</span><span class="sxs-lookup"><span data-stu-id="b3a86-109">To help prevent future account compromises, follow the recommendations in [Security best practices for Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).</span></span>
+3. <span data-ttu-id="7e86d-109">향후 계정 손상을 방지하는 데 도움이 되도록 [Office 365 보안 모범 사례](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx)의 권장 사항을 따르세요.</span><span class="sxs-lookup"><span data-stu-id="7e86d-109">To help prevent future account compromises, follow the recommendations in [Security best practices for Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).</span></span>
   

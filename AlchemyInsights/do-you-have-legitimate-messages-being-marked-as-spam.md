@@ -12,22 +12,22 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: e12979eab0a5d7aada04e42403241bbc54d1f105
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3a1cc0b5cfed4a149641a1295898c8f0b77797dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389295"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529637"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a><span data-ttu-id="717d0-102">정상적인 메시지가 스팸으로 표시되고 있나요?</span><span class="sxs-lookup"><span data-stu-id="717d0-102">Do you have legitimate messages being marked as spam?</span></span>
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a><span data-ttu-id="4e0f2-102">정상적인 메시지가 스팸으로 표시되고 있나요?</span><span class="sxs-lookup"><span data-stu-id="4e0f2-102">Do you have legitimate messages being marked as spam?</span></span>
 
-<span data-ttu-id="717d0-103">위의 진단을 시도하거나 [정상적인 메시지가 스팸으로 표시되는 문제를 해결하기 위한 단계별 가이드](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="717d0-103">Try the above diagnostic or try this [step by step guide for troubleshooting good messages being marked as spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span></span>
+<span data-ttu-id="4e0f2-103">위의 진단을 시도하거나 [정상적인 메시지가 스팸으로 표시되는 문제를 해결하기 위한 단계별 가이드](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="4e0f2-103">Try the above diagnostic or try this [step by step guide for troubleshooting good messages being marked as spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span></span>
   
-<span data-ttu-id="717d0-104">이러한 유형의 문제를보고하는 가장 좋은 방법은 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="717d0-104">The best way to report these types of issues is to:</span></span>
+<span data-ttu-id="4e0f2-104">이러한 유형의 문제를보고하는 가장 좋은 방법은 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="4e0f2-104">The best way to report these types of issues is to:</span></span>
   
-1. <span data-ttu-id="717d0-105">사용자에 대한 [보고 추가 기능을 사용하도록 설정](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in)합니다.</span><span class="sxs-lookup"><span data-stu-id="717d0-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
+1. <span data-ttu-id="4e0f2-105">사용자에 대한 [보고 추가 기능을 사용하도록 설정](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in)합니다.</span><span class="sxs-lookup"><span data-stu-id="4e0f2-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
 
-2. <span data-ttu-id="717d0-106">사용자에게 [메시지를 정크가 아닌 것으로 보고](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US)하도록 합니다.</span><span class="sxs-lookup"><span data-stu-id="717d0-106">Have the user [report the message as Not Junk](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span>
+2. <span data-ttu-id="4e0f2-106">사용자에게 [메시지를 정크가 아닌 것으로 보고](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US)하도록 합니다.</span><span class="sxs-lookup"><span data-stu-id="4e0f2-106">Have the user [report the message as Not Junk](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span>
 
-<span data-ttu-id="717d0-107">지원 티켓을 열려면 아래에서 최소한 **하나의 전체 원본 메시지**의 전체 이메일 헤더를 첨부합니다.</span><span class="sxs-lookup"><span data-stu-id="717d0-107">If you'd like to open a support ticket, please attach the full email headers from at least **one entire original message** below.</span></span>
+<span data-ttu-id="4e0f2-107">지원 티켓을 열려면 아래에서 최소한 **하나의 전체 원본 메시지**의 전체 이메일 헤더를 첨부합니다.</span><span class="sxs-lookup"><span data-stu-id="4e0f2-107">If you'd like to open a support ticket, please attach the full email headers from at least **one entire original message** below.</span></span>
   
