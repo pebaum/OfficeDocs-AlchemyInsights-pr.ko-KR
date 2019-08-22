@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 994d71ca6f140008336d7edb8387f6e044c22d2d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fc718d6a5907fd97d0a7fc55c5dc8a31d4959d13
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422721"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531024"
 ---
 # <a name="who-has-a-file-checked-out"></a>파일을 체크 아웃 한 사람
 
-파일을 체크 아웃 한 사람을 확인 하려면 다음 단계 중 하나를 수행 합니다.
+SharePoint에서 파일을 체크 아웃 한 사람을 확인 하려면 다음 단계 중 하나를 수행 하면 됩니다.
   
 1. **체크 아웃 한 내용을** 커서로 가리키면 파일을 체크 아웃 한 사용자에 게 알려 주는 도구 설명이 표시 됩니다. 
     
-2. 라이브러리의 기본 보기에 * * 체크 아웃 한 사람 * * 열을 추가 합니다. 이렇게 하면 모든 사용자가 문서를 체크 아웃 한 사람을 쉽게 확인할 수 있습니다. 
+2. **체크 아웃 한 사람** 열을 라이브러리의 기본 보기에 추가 합니다. 이렇게 하면 모든 사용자가 문서를 체크 아웃 한 사람을 쉽게 확인할 수 있습니다. 
     
 SharePoint에서 체크 아웃 한 사람 열을 추가 하는 방법에 대 한 자세한 내용은 [목록 또는 라이브러리에서 열 만들기](https://go.microsoft.com/fwlink/?linkid=2019591)를 참조 하세요. 
   
