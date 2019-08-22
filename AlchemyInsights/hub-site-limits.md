@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: d0d5e949a23e9a8570aa0c157d1577ea16270151
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: c3a2bd02cd610e8fc6e5eb296817eb439a055af5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34717632"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539359"
 ---
-# <a name="hub-site-limits-and-restrictions"></a>허브 사이트 제한 및 제한 사항
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>SharePoint 허브 사이트 제한 및 제한 사항
 
 - 새 최신 템플릿을 사용 하는 팀 사이트 또는 커뮤니케이션 사이트를 선택 하는 것이 좋습니다. 클래식 팀 사이트를 사용 하는 경우 허브 탐색은 최신 페이지에만 표시 되며, 허브 사이트 설정은 최신 페이지에만 표시 됩니다.
 
