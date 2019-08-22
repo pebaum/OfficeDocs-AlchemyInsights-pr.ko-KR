@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: e7b1b58f0b5bf73d50721cf2715b366280867431
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: de0a6940680bc4ec5193c8aa9345b0b214b5fd5b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404055"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527657"
 ---
 # <a name="enable-external-sharing"></a>외부 공유 사용
 
- **공유를 사용 하도록 설정 하는 방법:**
+ SharePoint Online에서 공유를 사용 하도록 설정 하려면:
   
 - **전역 공유**
     
@@ -27,7 +27,7 @@ ms.locfileid: "32404055"
     
 - **관리 공유-SharePoint 관리 센터**
     
-- 외부 공유-두 옵션 중 하나를 선택 해야 합니다.
+    외부 공유-두 옵션 중 하나를 선택 해야 합니다.
     
   - "초대 공유를 허용 하 고 인증 된 사용자로 로그인 할 수 있는 외부 사용자 허용"
     

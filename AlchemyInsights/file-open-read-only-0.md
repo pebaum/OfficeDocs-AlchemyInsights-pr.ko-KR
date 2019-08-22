@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6a828f8d-ff31-40a7-b701-b2339e771817
-ms.openlocfilehash: be232b682b7bb3d24f59ad10501edbd796e6bcaf
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4c774864a03b7dbc099f64b7906fa4a0bc26c63c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401759"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525749"
 ---
 # <a name="file-open-read-only"></a>파일을 읽기 전용으로 열기
 
@@ -22,7 +22,7 @@ ms.locfileid: "32401759"
   
  **내 바이러스 백신으로 인해 읽기 전용으로 열기**
   
-일부 바이러스 백신 프로그램은 보안상 안전 하지 않은 파일을 읽기 전용으로 여는 방법으로 보호할 수 있습니다. 이러한 설정을 조정 하는 방법에 대 한 자세한 내용은 바이러스 백신 공급자에 게 문의 해야 할 수도 있습니다. bits defender에는 응용 프로그램 제외 추가에 대 한 콘텐츠 (예: [bitdefender Control Center에서 응용 프로그램 또는 프로세스 제외를 추가 하는 방법](https://www.bitdefender.com/support/how-to-add-application-or-process-exclusions-in-bitdefender-control-center-1119.mdl))가 포함 되어 있습니다.
+일부 바이러스 백신 프로그램은 보안상 안전 하지 않은 파일을 읽기 전용으로 여는 방법으로 보호할 수 있습니다. 이러한 설정을 조정 하는 방법에 대 한 자세한 내용은 바이러스 백신 공급자에 게 문의 해야 할 수도 있습니다. Bits Defender에는 응용 프로그램 제외 추가에 대 한 콘텐츠 (예: [Bitdefender Control Center에서 응용 프로그램 또는 프로세스 제외를 추가 하는 방법](https://www.bitdefender.com/support/how-to-add-application-or-process-exclusions-in-bitdefender-control-center-1119.mdl))가 포함 되어 있습니다.
   
  **파일 속성이 읽기 전용으로 설정 되어 있습니까?**
   
@@ -34,11 +34,11 @@ ms.locfileid: "32401759"
   
  **OneDrive가 꽉 차서 있나요?**
   
-파일이 onedrive에 저장 되 고 onedrive 저장소 공간이 가득 찬 경우 할당 된 공간에 도달할 때까지 문서를 저장할 수 없습니다. 알림 센터에서 onedrive 아이콘을 클릭 하 고 저장소 관리를 선택 하 여 onedrive의 사용 가능한 공간을 확인 하 고 화면 왼쪽 아래 [http://onedrive.live.com](http://onedrive.live.com)에 있는 사용 된 공간을 확인할 수 있습니다.
+파일이 OneDrive에 저장 되 고 OneDrive 저장소 공간이 가득 찬 경우 할당 된 공간에 도달할 때까지 문서를 저장할 수 없습니다. 알림 센터에서 OneDrive 아이콘을 클릭 하 고 저장소 관리를 선택 하 여 OneDrive의 사용 가능한 공간을 확인 하 고 화면 왼쪽 아래 [http://onedrive.live.com](http://onedrive.live.com)에 있는 사용 된 공간을 확인할 수 있습니다.
   
  **Office 정품 인증 여부**
   
-Office가 활성화 되지 않았거나 구독이 만료 된 경우에는 읽기 전용 기능 제한 모드로 설정 되어 있을 수 있습니다. office를 정품 인증 하는 방법에 대 한 자세한 내용은 [office의 사용 허가 되지 않은 제품 및 정품 인증 오류](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)를 참조 하세요.
+Office가 활성화 되지 않았거나 구독이 만료 된 경우에는 읽기 전용 기능 제한 모드로 설정 되어 있을 수 있습니다. Office를 정품 인증 하는 방법에 대 한 자세한 내용은 [office의 사용 허가 되지 않은 제품 및 정품 인증 오류](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)를 참조 하세요.
   
  **다른 모든 작업이 실패 하면 ...**
   

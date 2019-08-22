@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 06cd582c30a59a94ee117728bd5daebecca77bc8
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 777c2d8d530d03d58180f43b362ee065439b56b3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758001"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507421"
 ---
 # <a name="sync-errors-due-to-duplicate-objects"></a>개체가 중복 되어 동기화 오류가 발생 했습니다.
 
-디렉터리 동기화가 완료 되 면 다음 오류 메시지 중 하나가 표시 될 수 있습니다.
+Office 365에서 디렉터리 동기화가 완료 되 면 다음과 같은 오류 메시지 중 하나가 나타날 수 있습니다.
 
 - 이 개체와 연결 된 다음 특성은 로컬 디렉터리의 다른 개체와 이미 연결 되어 있을 수 있는 값을 가지 므로 Microsoft Online Services에서이 개체를 업데이트할 수 없습니다.
 

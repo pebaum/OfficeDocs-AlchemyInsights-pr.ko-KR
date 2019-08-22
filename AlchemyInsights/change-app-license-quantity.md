@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 9ad8935083d39a0f54fa23c450a571931db10a00
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606796"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519773"
 ---
 # <a name="change-app-license-quantity"></a>앱 라이선스 수량 변경
+
+보유 하 고 있는 라이선스 수를 보거나 변경 하 고 Microsoft 365 관리 센터에서 사용자에 게 할당할 수 있습니다. 
 
 ## <a name="to-change-license-quantity"></a>라이선스 수량을 변경 하려면
 

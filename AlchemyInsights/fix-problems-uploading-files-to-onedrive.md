@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
-ms.openlocfilehash: 018efff5a881f4825659f4d236fd7f87ef84def5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d06445cf609b70e83701699082c43203270a0962
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401226"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525169"
 ---
 # <a name="fix-problems-uploading-files-to-onedrive"></a>OneDrive에 파일을 업로드 하는 문제 해결
 
@@ -21,7 +21,7 @@ ms.locfileid: "32401226"
   
 - 파일 이름을 바꾸고 다시 시도 하십시오. 파일 이름의 일부 파일 이름 및 문자는 허용 되지 않습니다. 
     
-- 파일을 동기화 하는 경우 onedrive 폴더 (예: 데스크톱으로 이동)로 이동 하 고 onedrive 동기화 상태가 "최신"으로 표시 되 면 다시 이동 합니다. 
+- 파일을 동기화 하는 경우 OneDrive 폴더 (예: 데스크톱으로 이동)로 이동 하 고 OneDrive 동기화 상태가 "최신"으로 표시 되 면 다시 이동 합니다. 
     
 [추가 문제 해결 팁](https://go.microsoft.com/fwlink/?linkid=873155)
   

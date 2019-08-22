@@ -11,12 +11,12 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: 8215b0a5cde5adffa3bec37d6699418557f914dd
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363818"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517037"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>콘텐츠가 SharePoint 검색 결과에 표시 되지 않음
 
@@ -28,7 +28,7 @@ ms.locfileid: "35363818"
 
 3. 페이지, 문서 또는 사용자 지정 페이지 레이아웃이 **주 버전** 으로 게시 되었는지 확인 합니다. 검색에서 3 단계를 수행 하면 [SharePoint Online의 모든 결과가 반환 되지 않습니다](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. 사용자에 게 콘텐츠를 볼 수 있는 **권한이** 있는지 확인 합니다. [SharePoint에서 사용 권한 수준 이해](https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels)의 단계를 따릅니다.
+4. 사용자에 게 콘텐츠를 볼 수 있는 **권한이** 있는지 확인 합니다. [SharePoint에서 사용 권한 수준 이해](https://docs.microsoft.com/sharepoint/understanding-permission-levels)의 단계를 따릅니다.
     
 5. 새 관리 속성을 추가 하 여 검색 스키마를 변경한 경우, 관리 속성을 편집 하거나, 관리 속성을 제거한 다음 크롤링을 요청 하 고 다시 인덱스를 변경 해야 합니다. [크롤링 수동 요청 및 사이트, 라이브러리 또는 목록에 대 한 다시 인덱싱](https://docs.microsoft.com/sharepoint/crawl-site-content)의 단계를 수행 하 여 콘텐츠를 **다시 색인화** 합니다. 이 작업은 시간이 다소 걸릴 수 있으며, 24 시간 정도 기다린 후에 결과를 다시 확인 하세요.
 

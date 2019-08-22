@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: 7fc1190fb7b93dce945e366cf8b90112a97a2f3f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5ac56fa78c66cf3b246bc0cc01f040e27310d629
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402709"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527016"
 ---
 # <a name="error-attributevaluemustbeunique"></a>오류: AttributeValueMustBeUnique
 
-AttributeValueMustBeUnique 오류가 발생 하는 가장 일반적인 원인은 ProxyAddresses 및/또는 UserPrincipalName 특성에 대해 다른 sourceanchor (immutableId)의 값이 같은 개체 두 개를 사용 하는 것입니다. AttributeValueMustBeUnique 오류를 해결 하려면
+AttributeValueMustBeUnique 오류가 발생 하는 가장 일반적인 원인은 ProxyAddresses 및/또는 UserPrincipalName 특성에 대해 다른 SourceAnchor (immutableId)의 값이 같은 개체 두 개를 사용 하는 것입니다. AttributeValueMustBeUnique 오류를 해결 하려면
   
 1. 중복 되는 proxyAddresses, userPrincipalName 또는 기타 특성 값을 식별 하 여 오류를 발생 시킵니다. 또한 충돌에 관여 하는 두 개 이상의 개체를 식별 합니다. 동기화를 위해 Azure AD Connect Health에서 생성 한 보고서는 두 개체를 식별 하는 데 도움이 될 수 있습니다.
     

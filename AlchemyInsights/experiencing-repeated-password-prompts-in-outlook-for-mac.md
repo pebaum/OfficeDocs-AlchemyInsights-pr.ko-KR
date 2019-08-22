@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: 5459a2d29fd5847f5841142d77d84805c3d12b01
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7da849fbacbbc32272731cf5829b26437983af4e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402337"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526613"
 ---
 # <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Outlook for Mac에서 암호 프롬프트가 반복 되 고 있나요?
 
@@ -21,6 +21,6 @@ ms.locfileid: "32402337"
   
 영향을 받는 사용자의 Mac로 이동한 후 Outlook을 열고 **도움말** \> **지원 서비스**를 클릭 합니다.
   
-outlook for mac for app 고객 지원에 대 한 자세한 내용은이 문서: [outlook의 새 연락처 지원 기능 for mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx) 를 참조 하세요.
+Outlook for Mac for app 고객 지원에 대 한 자세한 내용은이 문서: [2016 outlook의 새 연락처 지원 기능 For mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx) 를 참조 하세요.
   
 

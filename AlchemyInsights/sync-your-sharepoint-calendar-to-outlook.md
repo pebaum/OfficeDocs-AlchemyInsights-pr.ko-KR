@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 0fdab2f37554cd91aeb2a71101f6841fe148f66d
-ms.sourcegitcommit: 01fc5e0c25e691351d58295f055a1c64402867a0
+ms.openlocfilehash: 18606337eac550d6b68d442f109f599810bb391e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36399754"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507349"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>장치에 일정을 동기화 할 때 발생 하는 문제
 
@@ -33,4 +33,4 @@ SharePoint 달력을 Outlook과 동기화 하려면 다음 단계를 수행 하�
 >[!Note]
 > 동기화 된 Outlook 일정을 변경 하면 SharePoint 일정에도 표시 되 고 그 반대의 경우도 마찬가지입니다.
 
-Office 365 그룹에 대 한 자세한 내용은이 [문서](https://support.office.com/en-us/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)를 참조 하십시오.
+Office 365 그룹에 대 한 자세한 내용은이 [문서](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)를 참조 하십시오.

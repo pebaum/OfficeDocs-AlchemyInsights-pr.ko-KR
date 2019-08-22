@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: fc49978fbd2c07381dae83061b1a1868cd1df0d0
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059258"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507637"
 ---
-# <a name="search-in-sharepoint-online"></a>SharePoint Online의 검색
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>SharePoint Online의 콘텐츠 크롤링 및 인덱싱
 
 사용자가 SharePoint Online에서 검색 내용을 찾을 수 있도록 콘텐츠를 크롤링한 후 검색 인덱스에 추가 해야 합니다. 콘텐츠는 미리 정의 된 크롤링 일정 (크롤링 일정을 변경할 수 없음)에 따라 자동으로 크롤링됩니다. 크롤러는 마지막 크롤링 이후에 변경된 콘텐츠를 선택하고 인덱스를 업데이트합니다. 콘텐츠가 크롤링되 고 인덱스가 업데이트 되도록 하려면 다음 사항에 유의 하십시오.
 
@@ -30,7 +30,8 @@ ms.locfileid: "36059258"
 
     크롤링을 시작한 후에 24 시간 이상이 통과 한 경우에는 지원 사례를 기록 하세요. 대부분의 경우에는 이미 솔루션을 사용 하 고 있습니다. 솔루션을 완료 하려면 최소한 24 시간 이상 기다려 주세요.
 
->[! Important!]: 사이트, 문서 (라이브러리) 또는 목록이 삭제 되었지만 여전히 검색 결과에 표시 되는 경우 사용자에 게 액세스 하려고 할 때 **오류 404 파일을 찾을 수 없습니다** . 라는 오류가 표시 됩니다. 이 문제는 추가 조사를 위한 지원 사례로 기록해 야 합니다. 
+> [!IMPORTANT]
+> 사이트, 문서 (라이브러리) 또는 목록이 삭제 되어 여전히 검색 결과에 표시 되는 경우 사용자에 게 액세스 하려고 할 때 **오류 404 파일을 찾을 수 없습니다** . 라는 오류가 표시 됩니다. 이 문제는 추가 조사를 위한 지원 사례로 기록해 야 합니다. 
 
 
 

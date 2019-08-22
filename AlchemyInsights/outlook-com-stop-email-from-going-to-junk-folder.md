@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 6dfccf70f1d200a57b916b8aa7bea1a154a7cfad
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 062a0d9bfbd83ed40457f603cc739e3a916c7045
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35696947"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511925"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>정크 메일 폴더로 이동 하지 못하도록 메시지를 중지 합니다.
 
-정크 메일 폴더의 전자 메일 메시지가 정크 메일이 아니면 다음과 같이 진행 되는 것을 알 수 있습니다.
+Outlook.com의 정크 메일 폴더에 있는 전자 메일 메시지가 정크 메일이 아니면 다음과 같이 진행 되는 것을 알 수 있습니다.
 
 1. [정크 메일 폴더](https://outlook.live.com/mail/junkemail)를 엽니다.
 1. 메시지를 선택 합니다. (*참고:* 정크 메일 폴더의 항목은 30 일 후에 삭제 됩니다.)

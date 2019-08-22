@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: c869609fa4527f46121eda563e0735378bcb0d3d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32394602"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519305"
 ---
 # <a name="change-intune-mdm-authority"></a>Intune MDM 기관 변경
 
@@ -25,10 +25,10 @@ ms.locfileid: "32394602"
     
  **MDM 기관 공동 존재**
   
-- 이미 Office 365 mdm을 사용 하도록 설정 했지만 Intune mdm을 사용해 보려는 경우 두 MDM 기관을 동시에 활성화할 수 있습니다.
+- 이미 Office 365 MDM을 사용 하도록 설정 했지만 Intune MDM을 사용해 보려는 경우 두 MDM 기관을 동시에 활성화할 수 있습니다.
     
-- 이미 O365 mdm 활성이 있는 관리자는 Azure portal에서 Intune mdm을 활성 상태로 표시만 할 수 있습니다.
+- 이미 O365 MDM 활성이 있는 관리자는 Azure portal에서 Intune MDM을 활성 상태로 표시만 할 수 있습니다.
     
-- Intune mdm이 있지만 Office 365 MDM을 사용 하려면 아래에서 티켓을 여시겠습니까? 지원 담당자가 사용 하도록 설정 하는 데 도움이 됩니다.
+- Intune MDM이 있지만 Office 365 MDM을 사용 하려면 아래에서 티켓을 여시겠습니까? 지원 담당자가 사용 하도록 설정 하는 데 도움이 됩니다.
     
 

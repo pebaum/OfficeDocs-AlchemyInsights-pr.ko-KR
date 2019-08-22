@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: 63f6ef815751b9cb0d5eebab006e374c61426733
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 31a4294f7035f2ff69bb30b65261f5210fc1a3d0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402301"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527096"
 ---
 # <a name="excel-autofilter-issue"></a>Excel 자동 필터 문제
 
-excel 2016을 사용할 때 자동 필터 드롭다운에 사용할 수 있는 확인란이 모두 표시 되지 않거나 확인란이 클릭 가능 하지 않으면 이전에 실행 한 Excel 빌드의 알려진 문제로 인 한 것일 수 있습니다. 
+Excel 2016을 사용할 때 자동 필터 드롭다운에 사용할 수 있는 확인란이 모두 표시 되지 않거나 확인란이 클릭 가능 하지 않으면 이전에 실행 한 Excel 빌드의 알려진 문제로 인 한 것일 수 있습니다. 
   
 이 문제는 이제 **버전 1707 (8326.2073)** 이상에서 수정 되었습니다. 업데이트를 즉시 받으려면 Excel을 열고 **파일** \> **계정** \> **업데이트 옵션** \> **업데이트**를 선택 합니다.
   
