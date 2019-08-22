@@ -12,16 +12,16 @@ ms.custom:
 - "1271"
 - "1963"
 - "8000078"
-ms.openlocfilehash: 6b3b8d2136236abe7ca71c613f5c991a67bf4f99
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: 0699b73e9df875f4fee2bb169540b43e48a72a95
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36049110"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536441"
 ---
 # <a name="empty-inbox"></a>빈 받은 편지함
 
-**받은 편지함이 비어 있음**
+**내 Outlook.com 받은 편지함이 비어 있음**
 
 - Firefox 브라우저의 특정 추가 기능에서는 받은 편지함이 로드 되지 않을 수 있습니다. Firefox 지원을 방문 하 여 추가 기능을 [사용 하지 않도록 설정 하거나 제거](https://support.mozilla.org/kb/disable-or-remove-add-ons)하는 방법을 알아보세요.
 

@@ -12,16 +12,16 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: 353703d159072cc8daa7f52d02f7fc1afd72d1df
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: c20b8c0919ebe89c473a1f7b9067cceecf13f2c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701437"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537463"
 ---
 # <a name="change-your-email-name"></a>전자 메일 이름 변경
 
-전자 메일 주소가 하나인 경우 받는 사람이 메시지에 표시 되는 이름으로 변경 하려면 다음을 수행 합니다.
+Outlook.com 전자 메일 주소가 1 개 있는 경우 받는 사람에 게 메시지에 표시 되는 이름으로 변경 하려면 다음을 수행 합니다.
   
 1. 페이지 오른쪽 위 모서리에 있는 계정 사진을 선택 합니다.
 2. **내 프로필**을 선택 합니다.

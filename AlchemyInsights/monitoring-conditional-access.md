@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 756c5e98ed3e9cedd0152b5747ea6bf1ed31778e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 374814f4eabd61433a15876ebf7f351819933c21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418475"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538760"
 ---
-# <a name="monitoring-conditional-access"></a>조건부 액세스 모니터링
+# <a name="monitoring-conditional-access-for-exchange"></a>Exchange에 대 한 조건부 액세스 모니터링
 
 조건부 액세스를 사용 하는 사용자는 조직의 액세스 요구 사항을 충족 하지 않는 경우 알림 전자 메일을 받게 됩니다. 이 문제를 해결 하려면 다음 해결 방법 중 하나 이상을 수행 하는 것이 좋습니다.
   

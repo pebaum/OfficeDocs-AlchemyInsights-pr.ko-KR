@@ -7,15 +7,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: 108bed3dc8ca617abfaba2f7f1aa27a672f3d8c7
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 814e2157147b192d9a23084ed6d9715777a4dc3d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736338"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535151"
 ---
-"설정"
-
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online 또는 OneDrive "설정"
 
 사용자가 기존 Office 365 테 넌 트에 추가 되 면 프로 비전 프로세스가 완료 될 때까지 SharePoint Online 또는 비즈니스용 OneDrive 아이콘이 "설정"으로 표시 될 수 있습니다.

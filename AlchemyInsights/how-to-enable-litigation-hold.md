@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 5d88e5bf12d244943e1d985522deb2443f6bb844
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35937864"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540763"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>사서함을 법적 보존 상태로 설정
 
@@ -26,4 +26,4 @@ ms.locfileid: "35937864"
 
 - 단일 사용자에 대해 소송 보존을 사용 하도록 설정 하려면 [다음 단계를 수행](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)합니다. 소송 보존을 사용 하도록 설정 하면 사서함의 모든 콘텐츠가 보존 됩니다.
 
-- 조직의 모든 사서함에 대 한 보류를 설정 하려면 [다음 단계를 수행](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-litigation-hold)하 여 Office 365 보존 정책을 사용할 수 있습니다. 조직 전체 보존 정책의 경우 새 사용자가 정책에 자동으로 할당 됩니다.
+- 조직의 모든 사서함에 대 한 보류를 설정 하려면 [다음 단계를 수행](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold)하 여 Office 365 보존 정책을 사용할 수 있습니다. 조직 전체 보존 정책의 경우 새 사용자가 정책에 자동으로 할당 됩니다.

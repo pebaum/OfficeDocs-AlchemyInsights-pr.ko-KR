@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 6e1c6870440cab3a74f697cd71ab463b2b4aad0b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 381326b9edc8e3f56f443551b95f1410fd3752a8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419574"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36548721"
 ---
 # <a name="open-a-sharepoint-library-in-file-explorer"></a>파일 탐색기에서 SharePoint 라이브러리 열기
 
-1. internet explorer 10 또는 internet explorer 11에서 라이브러리로 이동 합니다. 
+1. Internet Explorer 10 또는 Internet Explorer 11에서 라이브러리로 이동 합니다. 
     
 2. 오른쪽 위에 있는 보기 아이콘을 클릭 한 다음 **파일 탐색기에서 보기**를 클릭 합니다.
     

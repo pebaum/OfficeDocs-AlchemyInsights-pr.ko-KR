@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 81ee40a9f9598b6a9fbc0f28c04a0d229c8442c8
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35602005"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535361"
 ---
 # <a name="stop-messages-from-going-into-your-junk-email-folder"></a>정크 메일 폴더로 이동 하지 못하도록 메시지를 중지 합니다.
 
-특정 사람이 나 도메인의 메시지가 정크 메일 폴더에 있는 것을 원하지 않는 경우가 있습니다. 수신 허용-보낸 사람 목록에 있는 주소나 도메인에서 보낸 메시지가 정크 메일 폴더로 이동 되지 않습니다.
+특정 사람이 나 도메인의 메시지가 Outlook.com의 정크 메일 폴더에 있는 것을 원하지 않는 경우가 있습니다. 수신 허용-보낸 사람 목록에 있는 주소나 도메인에서 보낸 메시지가 정크 메일 폴더로 이동 되지 않습니다.
 
 1. [수신 허용-보낸 사람 설정을](https://go.microsoft.com/fwlink/?linkid=2035804)엽니다.
 2. **수신 허용-보낸 사람 및 도메인**에서 추가 하려는 전자 메일 주소 또는 도메인을 입력 하 고 **추가**를 선택 합니다.
