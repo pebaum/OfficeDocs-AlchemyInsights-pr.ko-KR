@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: f3b429dc9d5007c139ff292fae6649696fc42b81
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389870"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539503"
 ---
-# <a name="how-to-view-and-manage-apps"></a><span data-ttu-id="fc4a3-102">앱을 보고 관리 하는 방법</span><span class="sxs-lookup"><span data-stu-id="fc4a3-102">How to view and manage apps</span></span>
+# <a name="how-to-view-and-manage-apps"></a><span data-ttu-id="ef74e-102">앱을 보고 관리 하는 방법</span><span class="sxs-lookup"><span data-stu-id="ef74e-102">How to view and manage apps</span></span>
 
-<span data-ttu-id="fc4a3-103">앱을 보려면 새 관리 센터에 있어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="fc4a3-103">To view your apps, you must be in the new admin center.</span></span>  <span data-ttu-id="fc4a3-104">관리 센터 홈 페이지에서이를 전환할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fc4a3-104">You can toggle this on the admin center Home page.</span></span>  
+<span data-ttu-id="ef74e-103">Microsoft 365 관리 센터에서 앱을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ef74e-103">You can view your apps in the Microsoft 365 admin center.</span></span> 
 
-1. <span data-ttu-id="fc4a3-105">새 관리 센터를 켜면 **청구** > [제품 & 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="fc4a3-105">With new admin center turned on, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="ef74e-104">관리 센터에서 **청구** > [제품 & 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="ef74e-104">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="fc4a3-106">**Products & Services** 페이지에서 **앱** 탭을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fc4a3-106">On the **Products & Services** page, select the **Apps** tab.</span></span>
+2. <span data-ttu-id="ef74e-105">**Products & Services** 페이지에서 **앱** 탭을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ef74e-105">On the **Products & Services** page, select the **Apps** tab.</span></span>
