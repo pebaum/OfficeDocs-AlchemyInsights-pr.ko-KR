@@ -13,14 +13,14 @@ ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: 29633d96201d557ea70f4c3974c5730fe5b9f30e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 64e58d9ff51543919418668971c08ad90acee32f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357899"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499933"
 ---
-# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a><span data-ttu-id="b21b0-102">웹용 Outlook에서 표준 시간대 및 언어 설정 조정</span><span class="sxs-lookup"><span data-stu-id="b21b0-102">Adjust time zone and language settings in Outlook on the web</span></span>
+# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a><span data-ttu-id="4e0a5-102">웹용 Outlook에서 표준 시간대 및 언어 설정 조정</span><span class="sxs-lookup"><span data-stu-id="4e0a5-102">Adjust time zone and language settings in Outlook on the web</span></span>
 
-<span data-ttu-id="b21b0-103">Office 365 회사 또는 학교 계정을 사용 하 여 액세스 하는 웹에서 Outlook의 표준 시간대 및 언어 설정을 조정 하려면 [웹용 outlook에서 표준 시간대 및 언어 설정 변경을](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="b21b0-103">To adjust the time zone and language settings in Outlook on the web, which you access using your Office 365 work or school account, see [Change the time zone and language settings in Outlook on the web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).</span></span>
+<span data-ttu-id="4e0a5-103">Office 365 회사 또는 학교 계정을 사용 하 여 액세스 하는 웹에서 Outlook의 표준 시간대 및 언어 설정을 조정 하려면 [웹용 outlook에서 표준 시간대 및 언어 설정 변경을](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="4e0a5-103">To adjust the time zone and language settings in Outlook on the web, which you access using your Office 365 work or school account, see [Change the time zone and language settings in Outlook on the web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).</span></span>
   
