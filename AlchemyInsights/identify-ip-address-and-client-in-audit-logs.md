@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382959"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539035"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>감사 로그에서 IP 주소 및 클라이언트 식별
 
-사용자 또는 관리자가 수행한 활동에 해당 하는 IP 주소가 감사 로그에 표시 됩니다. 클라이언트 정보도 기록 됩니다. 이러한 정보를 식별 하는 단계는 다음과 같습니다.
+Office 365 사용자 또는 관리자가 수행한 활동에 해당 하는 IP 주소가 감사 로그에 표시 됩니다. 클라이언트 정보도 기록 됩니다. 이러한 정보를 식별 하는 단계는 다음과 같습니다.
 
-1. [Office 365 보안 & 준수 센터](https://protection.office.com/) 에 로그인 합니다.
+1. [Office 365 보안 & 준수 센터](https://protection.office.com/)에 로그인 합니다.
 
-2. **검색 및 조사** 를 클릭 하 고 **감사 로그 검색**을 선택 합니다.
+2. **검색** > **감사 로그 검색** 페이지로 이동 합니다.
 
    특정 활동에 관심이 있는 경우 **작업** 목록에서 선택 합니다. 그렇지 않으면 선택한 사용자에 대 한 모든 작업이 반환 됩니다 (기본 설정).
 

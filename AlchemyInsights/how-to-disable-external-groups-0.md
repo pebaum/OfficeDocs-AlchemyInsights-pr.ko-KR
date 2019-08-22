@@ -11,16 +11,16 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 111b558fc94d0305363097ba0e74078682c2802c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384903"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541231"
 ---
 # <a name="how-to-disable-external-groups"></a>외부 그룹을 사용 하지 않도록 설정 하는 방법
 
-외부 사용자는 네트워크에 액세스할 수 있는 옵션이 4 가지 있습니다.
+외부 사용자는 네 가지 방법으로 Yammer에서 네트워크에 액세스할 수 있습니다.
   
 1. **게스트 사용자** -Yammer 관리자는 외부 도메인의 대화 상대를 홈 네트워크의 사용자로 초대할 수 있습니다. 이러한 사용자에 게는 모든 회사 피드가 표시 되며 네트워크의 다른 그룹에도 참가할 수 있습니다.
 

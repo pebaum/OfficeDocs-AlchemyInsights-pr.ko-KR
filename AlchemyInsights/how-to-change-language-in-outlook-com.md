@@ -13,16 +13,16 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 1f354ea7195a0927abc5c46538b66c6c705bfc20
-ms.sourcegitcommit: 9c6c2ff5865275dc8e3d48132180108884647365
+ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34430556"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541672"
 ---
 # <a name="change-your-language"></a>언어 변경
 
-1. [**언어 및 시간**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) 설정 (**설정** \> - **모든 Outlook 설정을** > **일반** > **언어 및 시간**으로 보기)으로 이동 합니다.
+1. Outlook에서 언어를 chang [**언어 및 시간**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) 설정 (**설정** \> 의 **모든 Outlook 설정** > **일반** > **언어 및 시간**보기)으로 이동 합니다.
 
 2. 언어를 선택 합니다.
 

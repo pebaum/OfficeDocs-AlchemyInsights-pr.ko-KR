@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000676"
 - "2577"
-ms.openlocfilehash: 3198113aea314252399c98f5654654663366b0a1
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: ff539417606ebe2b78e484a96bc384ed33e6c994
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045475"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36543103"
 ---
 # <a name="onenote-class-notebook-issues-and-resolutions"></a>OneNote 수업용 전자 필기장 문제 및 해결 방법
 
@@ -28,7 +28,7 @@ ms.locfileid: "36045475"
 
 - **학생 제거:** [OneNote 용 수업용 전자 필기장에서 학생 제거](https://support.office.com/article/86dcf019-408f-4de8-8055-eb61f1578c3c)를 사용 하 여 시작 합니다. 학생 제거와 관련 된 문제는 [학생이 삭제 되었지만 해당 폴더가 여전히 표시 됨](https://support.office.com/article/0ed81eaa-c14a-436f-bb6f-ce95f130cc71)을 참조 하십시오.
 
-- **새 교사:** 새 교사가 수업용 전자 필기장을 설정 하도록 지원 하려면 [수업용 전자 필기장의 OneNote 용 공동 교사 추가 또는 제거](https://support.office.com/en-us/article/fdcb870b-49a7-4a14-9ea6-d817f88026f8) 를 검토 하거나 수업용 [전자 필기장을 새 교사에 게 전송](https://support.office.com/article/84ef5d4a-0eec-4d5b-bc22-1317bc3b9027)합니다.
+- **새 교사:** 새 교사가 수업용 전자 필기장을 설정 하도록 지원 하려면 [수업용 전자 필기장의 OneNote 용 공동 교사 추가 또는 제거](https://support.office.com/article/fdcb870b-49a7-4a14-9ea6-d817f88026f8) 를 검토 하거나 수업용 [전자 필기장을 새 교사에 게 전송](https://support.office.com/article/84ef5d4a-0eec-4d5b-bc22-1317bc3b9027)합니다.
 
 표시 되는 문제가 여기에 나열 되지 않으면 수업용 [전자 필기장](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea)의 [문제 해결](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea#ID0EAABAAA=Manage&ID0EABAAA=Troubleshoot) 섹션을 참조 하세요. 
 

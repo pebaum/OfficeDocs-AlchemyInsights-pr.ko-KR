@@ -13,12 +13,12 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: 6bd8057845d6112d889666d1cd10f1221e4b5a22
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ba5ade5c914600725ed2aff0a3aa0097adfb188f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380943"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542383"
 ---
 # <a name="make-an-email-alias-the-primary-address-for-a-user"></a>전자 메일 별칭을 사용 하 여 사용자의 기본 주소 만들기
 

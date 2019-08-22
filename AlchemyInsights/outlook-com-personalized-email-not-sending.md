@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
-ms.openlocfilehash: 69241cad34058df87886ee4db7826ceb2779fbf7
-ms.sourcegitcommit: 7c0575fd30f0f4448e530e1ec40eabb362cb4670
+ms.openlocfilehash: 7363af1d4fc1a0f4131bebc325485dc99a30e2eb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35595160"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545877"
 ---
-# <a name="my-personalized-email-address-isnt-sending-or-receiving"></a>개인 설정한 전자 메일 주소를 보내거나 받지 않음
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>개인 설정 된 Outlook.com 전자 메일 주소가 전송 되지 않거나 수신 되지 않음
 
 도구 모음에서 다이아몬드 아이콘을 선택 하 여 premium 대시보드를 엽니다.
 
