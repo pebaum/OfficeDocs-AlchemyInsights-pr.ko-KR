@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 956cf333f83dc681b7d74e984fdeb4c6c273d703
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769505"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544617"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>클라우드 서비스에서 문제가 발생 했습니까?
 
-클라우드 서비스에 문제가 있는 경우 지원 또는 시간 문제 해결을 호출 하기 전에 [서비스 상태](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) 를 확인 하 여 진행 중인 해결 방법에 알려진 문제가 있는지 확인할 수 있습니다. 이 문제는 일시적이 고 Microsoft에서 이미 식별 되었지만 문제점 식별 및 서비스 상태 대시보드에 게시 하는 시간 사이에 경과 될 수 있습니다. 계속 해 서 서비스 대시보드에서 추가 업데이트를 확인 하세요.
+클라우드 서비스에 문제가 있는 경우 지원 또는 시간 문제 해결을 호출 하기 전에 Microsoft 365 관리 센터에서 [서비스 상태](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) 를 확인 하 여 진행 중인 해결 방법에 알려진 문제가 있는지 확인할 수 있습니다. 이 문제는 일시적이 고 Microsoft에서 이미 식별 되었지만 문제점 식별 및 서비스 상태 대시보드에 게시 하는 시간 사이에 경과 될 수 있습니다. 계속 해 서 서비스 대시보드에서 추가 업데이트를 확인 하세요.
 
 **알림 정책**
 

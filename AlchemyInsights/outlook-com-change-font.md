@@ -14,16 +14,16 @@ ms.custom:
 - "1919"
 - "8000013"
 ms.assetid: 824035f6-90d3-4ea2-a92b-6b73b4ec0076
-ms.openlocfilehash: 69a6b5ccf8cbae6e29b99580df58a736176bb6b3
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: e60bf163d00bcffc9fde96b06941c56576b60ce8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36044714"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36547702"
 ---
 # <a name="change-font-or-font-size"></a>글꼴 또는 글꼴 크기 변경
 
-전자 메일을 읽을 때 브라우저의 zoom 함수를 사용 하 여 화면의 텍스트 크기를 더 크거나 작게 설정할 수 있습니다.
+Outlook.com에서 전자 메일을 읽을 때 브라우저의 zoom 함수를 사용 하 여 화면의 텍스트 크기를 더 크거나 작게 설정할 수 있습니다.
   
 메시지를 작성 하는 동안 글꼴이 나 글꼴 크기를 변경 하려면 다음을 수행 합니다.
   

@@ -14,14 +14,14 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: 43224a8d0383033e74ed71e5cbb549ade8d4617d
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: a91a67bce775292bd33f25301ea379fba91fa541
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36049254"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545396"
 ---
-# <a name="print-email-and-calendars"></a>전자 메일 및 일정 인쇄
+# <a name="print-email-and-calendars-in-outlookcom"></a>Outlook.com에서 전자 메일 및 일정 인쇄
 
 전자 메일 메시지를 인쇄 하려면:
   
