@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 3e428facb197db4987e822d1e0902b19ce4c32af
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4873fcfd66f196daeff3e407ccd10fe5b142cca6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357755"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494101"
 ---
-# <a name="deploy-office-apps"></a><span data-ttu-id="9d1c8-102">Office 앱 배포</span><span class="sxs-lookup"><span data-stu-id="9d1c8-102">Deploy Office apps</span></span>
+# <a name="deploy-office-apps"></a><span data-ttu-id="31294-102">Office 앱 배포</span><span class="sxs-lookup"><span data-stu-id="31294-102">Deploy Office apps</span></span>
 
-<span data-ttu-id="9d1c8-103">Office 배포 도구, System Center Configuration Manager를 사용 하 여 여러 최종 사용자에 게 운영 체제 디스크 이미지의 일부로 또는 RDS (원격 데스크톱 서비스) 또는 터미널을 사용한 Windows Server를 사용한 공유 컴퓨터 시나리오를 통해 Office 앱을 배포 하는 경우 서비스에서는 **Office 365 ProPlus 배포 관리자**의 단계별 지침을 사용 하는 것이 좋습니다.</span><span class="sxs-lookup"><span data-stu-id="9d1c8-103">For deploying Office apps to multiple end users via the Office Deployment Tool, System Center Configuration Manager, as part of an operating system disk image, or in a shared computer scenario using Windows Server with Remote Desktop Services (RDS) or Terminal Services, consider using the step by step guide in the **Office 365 ProPlus deployment advisor**.</span></span>
+<span data-ttu-id="31294-103">Office 배포 도구, System Center Configuration Manager를 사용 하 여 여러 최종 사용자에 게 운영 체제 디스크 이미지의 일부로 또는 RDS (원격 데스크톱 서비스) 또는 터미널을 사용한 Windows Server를 사용한 공유 컴퓨터 시나리오를 통해 Office 앱을 배포 하는 경우 서비스에서는 **Office 365 ProPlus 배포 관리자**의 단계별 지침을 사용 하는 것이 좋습니다.</span><span class="sxs-lookup"><span data-stu-id="31294-103">For deploying Office apps to multiple end users via the Office Deployment Tool, System Center Configuration Manager, as part of an operating system disk image, or in a shared computer scenario using Windows Server with Remote Desktop Services (RDS) or Terminal Services, consider using the step by step guide in the **Office 365 ProPlus deployment advisor**.</span></span>
   
-<span data-ttu-id="9d1c8-104">시작 하려면 테 넌 트 관리자 또는 전역 관리자로 로그인 되어 있는지 확인 하 고 여기 [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)를 클릭 하세요.</span><span class="sxs-lookup"><span data-stu-id="9d1c8-104">To get started, make sure that you're signed in as a tenant admin or global admin, and then click here: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).</span></span>
+<span data-ttu-id="31294-104">시작 하려면 테 넌 트 관리자 또는 전역 관리자로 로그인 되어 있는지 확인 하 고 여기 [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)를 클릭 하세요.</span><span class="sxs-lookup"><span data-stu-id="31294-104">To get started, make sure that you're signed in as a tenant admin or global admin, and then click here: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).</span></span>
   
