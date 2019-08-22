@@ -12,13 +12,13 @@ ms.custom:
 - "973"
 - "3500008"
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: 8a2e336a2c55c7939a01333f527f3b0b2111b3bb
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 392fda3b5e0dc9e625816c5fa3f8dd760924bb7b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379791"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36543967"
 ---
-# <a name="stalleddueto-errors-during-migration"></a><span data-ttu-id="2bd86-102">마이그레이션 중 발생 하는 StalledDueTo 오류</span><span class="sxs-lookup"><span data-stu-id="2bd86-102">StalledDueTo errors during migration</span></span>
+# <a name="stalleddueto-errors-during-migration"></a><span data-ttu-id="7d7bc-102">마이그레이션 중 발생 하는 StalledDueTo 오류</span><span class="sxs-lookup"><span data-stu-id="7d7bc-102">StalledDueTo errors during migration</span></span>
 
-<span data-ttu-id="2bd86-103">"StalledDueTo"로 시작 하는 다양 한 오류가 표시 될 수 있습니다. Exchange Online으로 마이그레이션하는 동안</span><span class="sxs-lookup"><span data-stu-id="2bd86-103">You might see a variety of errors that begin with "StalledDueTo…" during your migration to Exchange Online.</span></span> <span data-ttu-id="2bd86-104">이러한 오류는 대부분 완벽 하 게 정상 됩니다.</span><span class="sxs-lookup"><span data-stu-id="2bd86-104">Many of these errors are perfectly normal.</span></span> <span data-ttu-id="2bd86-105">자세한 내용은 [Exchange Online 마이그레이션의 리소스 기반 제한 및 우선 순위](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="2bd86-105">For more information, see [Resource Based Throttling and Prioritization in Exchange Online Migrations](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).</span></span>
+<span data-ttu-id="7d7bc-103">"StalledDueTo"로 시작 하는 다양 한 오류가 표시 될 수 있습니다. Exchange Online으로 마이그레이션하는 동안</span><span class="sxs-lookup"><span data-stu-id="7d7bc-103">You might see a variety of errors that begin with "StalledDueTo…" during your migration to Exchange Online.</span></span> <span data-ttu-id="7d7bc-104">이러한 오류는 대부분 완벽 하 게 정상 됩니다.</span><span class="sxs-lookup"><span data-stu-id="7d7bc-104">Many of these errors are perfectly normal.</span></span> <span data-ttu-id="7d7bc-105">자세한 내용은 [Exchange Online 마이그레이션의 리소스 기반 제한 및 우선 순위](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="7d7bc-105">For more information, see [Resource Based Throttling and Prioritization in Exchange Online Migrations](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).</span></span>
