@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 8d85116443b74369d33008ae8a398abc4597b6d4
-ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
+ms.openlocfilehash: ff9daf0489fb5feeb22bda19d55136caaea024cb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36404844"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36521681"
 ---
 # <a name="more-info-about-retention-policies"></a>보존 정책에 대 한 추가 정보
 
@@ -27,29 +27,29 @@ ms.locfileid: "36404844"
 ## <a name="a-from-security-and-compliance-center"></a>A) 보안 및 준수 센터에서
 
 - 보안 및 규정 준수 > 데이터 거 버 넌 스 > 보존으로 이동
-  - [이](https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies) 문서 참조
+  - [이](https://docs.microsoft.com/office365/securitycompliance/retention-policies) 문서 참조
 
 - 보안 및 규정 준수 > eDiscovery> Advanced eDiscovery로 이동 합니다. 
-  - [이](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases) 문서 참조
+  - [이](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) 문서 참조
 
 - 보안 및 규정 준수 > 분류 > 보존으로 이동
   - 다음 문서 참조
-    - [민감도 레이블](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-    - [레이블 개요](https://docs.microsoft.com/en-us/office365/securitycompliance/labels)
+    - [민감도 레이블](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+    - [레이블 개요](https://docs.microsoft.com/office365/securitycompliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>B) 레거시 eDiscovery 정책
 
-- [이](https://support.office.com/en-us/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) 문서 참조
+- [이](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) 문서 참조
 
 ## <a name="c-site-closure-and-deletion-policies"></a>C) 사이트 종료 및 삭제 정책
 
-- [이](https://support.office.com/en-us/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) 문서 참조  
+- [이](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) 문서 참조  
 
 ## <a name="d-information-rights-management-irm"></a>D) IRM (정보 권한 관리)
 
 - 다음 문서 참조
-  - [목록/라이브러리의 IRM](https://support.office.com/en-us/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [IRM 개요](https://support.office.com/en-us/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+  - [목록/라이브러리의 IRM](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [IRM 개요](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
 > 여전히 레거시 eDiscovery 또는 IRM 또는 사이트 폐쇄 및 삭제 정책을 사용 하는 경우에는 보안 및 준수 정책으로 이동 하는 것이 좋습니다.

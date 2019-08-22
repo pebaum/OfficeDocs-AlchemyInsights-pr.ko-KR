@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 03bb3ad01a716390ec50845b29ddf6cc81a83116
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6e67c2916e0c5739f6126064d45e175a7fd6f8d4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390613"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500221"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>탐색기에서 열기 문제 해결
 
 **탐색기에서 열기** 명령을 사용 하 여 SharePoint 또는 OneDrive에서 문서 라이브러리를 여는 일반적인 문제를 해결 합니다. 
   
-- internet explorer 10 또는 internet explorer 11을 사용 합니다. **탐색기에서 열기** 는 Microsoft Edge, Google Chrome, Firefox 및 기타 기능과 호환 되지 않습니다. Internet explorer를 제외한 모든 브라우저에서는 **탐색기에서 열기** 를 사용할 수 없습니다. 
+- Internet Explorer 10 또는 Internet Explorer 11을 사용 합니다. **탐색기에서 열기** 는 Microsoft Edge, Google Chrome, Firefox 및 기타 기능과 호환 되지 않습니다. Internet Explorer를 제외한 모든 브라우저에서는 **탐색기에서 열기** 를 사용할 수 없습니다. 
     
 - 현재 SharePoint 라이브러리 환경에서는 **탐색기에서 열기** 를 사용할 수 없습니다. 대신 **파일 탐색기에서 보기를** 사용 합니다. **파일 탐색기에서** **보기 옵션** \> 보기를 선택 합니다. 파일 탐색기의 보기는 Microsoft Edge, Google Chrome, Firefox 및 기타와 호환 되지 않습니다. Internet Explorer 에서만 사용할 수 있는 **파일 탐색기의 보기** 입니다. 
     

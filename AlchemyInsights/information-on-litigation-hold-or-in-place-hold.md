@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 7d300bd006c3e7fae68da1245037819396122fc9
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754936"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498961"
 ---
+# <a name="about-litigation-holds-and-in-place-holds"></a>소송 보존 및 원본 위치 유지 정보
+
 - 사서함에 소송 보존 또는 원본 위치 유지를 적용 하려면 [Exchange Online 계획 2 라이선스가](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) 필요 합니다. 다른 요금제가 있는 경우 계정에 별도의 [Exchange Online 보관](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) 라이선스를 할당 합니다. 
     
 - 단일 사용자에 대해 **소송 보존을 사용 하도록 설정 하려면** [여기](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)에 나와 있는 단계를 수행 합니다. 소송 보존을 사용 하도록 설정 하면 사서함의 모든 콘텐츠가 보존 됩니다.

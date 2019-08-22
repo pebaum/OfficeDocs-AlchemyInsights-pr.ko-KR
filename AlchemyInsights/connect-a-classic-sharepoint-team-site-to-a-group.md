@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1f6b170-bead-4e1c-b119-f6affd2b2264
-ms.openlocfilehash: a04d56256bfa55e2b4c912c5294891f109059c3c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 389880415621b7623c9f7ea9f43417eab878806a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408294"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36504777"
 ---
 # <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>클래식 SharePoint 팀 사이트를 새 Office 365 그룹에 연결
 
-sharepoint 사이트 모음을 Office 365 그룹에 연결할 준비가 되었는지 여부를 평가 하려면 [sharepoint modernization 스캐너 도구](https://go.microsoft.com/fwlink/?linkid=873066)를 사용 합니다. 이 도구를 사용 하 여 사이트 modernization 전략을 계획 하 고 주의가 필요한 영역을 포함 하는 심층 보고서를 만들 수 있습니다.
+SharePoint 사이트 모음을 Office 365 그룹에 연결할 준비가 되었는지 여부를 평가 하려면 [sharepoint modernization 스캐너 도구](https://go.microsoft.com/fwlink/?linkid=873066)를 사용 합니다. 이 도구를 사용 하 여 사이트 modernization 전략을 계획 하 고 주의가 필요한 영역을 포함 하는 심층 보고서를 만들 수 있습니다.
   
 추가 하는 새 메뉴 명령에서 사이트 모음 관리자가 기존 팀 사이트를 새 그룹에 연결할 수 있도록 하려면 별도의 작업을 수행 하지 않아도 됩니다. 그러나이 옵션을 사용 하지 않도록 설정 하려는 경우에는 기본 설정을 변경 해야 합니다. [방법을 알아보세요](https://go.microsoft.com/fwlink/?linkid=2004316). Office 365의 전역 및 SharePoint 관리자는 항상 PowerShell cmdlet 또는 API를 사용 하 여 사이트를 새 그룹에 연결할 수 있습니다.
   

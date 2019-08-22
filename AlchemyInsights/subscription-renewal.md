@@ -13,25 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388197"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501371"
 ---
 # <a name="subscription-recurring-billing"></a>구독 되풀이 대금 청구
 
-매월 또는 매년 구독 비용이 청구 되는 시기를 확인 하려면 (되풀이 되는 **청구** 를 설정 해야 하는 경우) 또는 만료 ( **되풀이** 비용이 해제 되 면):
+매월 또는 매년 Office 365 구독 비용이 청구 되는 시기를 확인 하려는 경우 (되풀이 되는 **대금 청구** 를 설정 하는 경우) 또는 만료 ( **되풀이** 비용이 해제 되 면):
   
-1. 관리 센터에서 **청구** \> [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.
+1. 관리 센터에서 **청구** \> [제품 & 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.
 
-2. 더 자세히 알고 싶은 구독을 선택 합니다.
+2. 보다 자세히 알고자 하는 구독의 경우 **대금 청구**에서 **갱신 설정** 또는 **만료** 예정 날짜를 참조 하세요.
 
-3. 구독 카드의 오른쪽에는 구독 상태, 되풀이 되는 **청구** 설정 및 다음 청구 또는 만료 날짜에 대 한 정보가 있습니다.
+4. 변경을 수행 하려면 **편집** 을 선택한 다음, 되풀이 되는 **청구** 설정 창에서 **해제** 를 선택 하 여 해제 합니다. 되풀이 되는 대금 청구를 사용 하지 않도록 설정 되어 있으면 **매월** 또는 **한 번** 을 선택 하 여 설정 합니다.
 
-4. 이 날짜를 초과 하는 서비스를 계속 사용 하려면 **되풀이 되는 대금 청구 설정** 전환 **켜기**를 설정 합니다. 상태에는 구독에 대 한 다음 청구 날짜가 표시 됩니다.
-
-5. 이 날짜에 서비스를 중지 하려면 되풀이 되는 **비용** 전환을 **해제**로 전환 합니다. 상태에는 구독이 만료 되는 날짜가 표시 됩니다.
-
-새 관리 센터를 사용 하 고 있나요? 새 단계에 대해서는 [되풀이 대금 청구 켜기 또는 끄기를](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription)참조 하세요.
+자세한 내용은 [켜기 정기 청구 끄기 또는 끄기를](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)참조 하세요.

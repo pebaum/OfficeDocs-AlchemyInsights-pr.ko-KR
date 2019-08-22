@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: f1a4803838b6511ef4fe7f03cafa4aa13b3c9734
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e4fea7188bd77ba876e2a245414372c3ff836059
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420706"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500416"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>액세스 거부 메시지 문제 해결
 
-"액세스가 거부 되었습니다." 라는 메시지가 공유 폴더에 있는 경우 사이트 모음 관리자가 "제한 된 액세스 사용자 권한 잠금 모드"를 사용 하도록 설정 했을 수 있습니다. 이 기능을 해제 하려면: 
+다른 사용자가 SharePoint의 공유 폴더에 "액세스 거부" 라는 메시지를 받은 경우 사이트 모음 관리자가 "제한 된 액세스 사용자 권한 잠금 모드"를 사용 하도록 설정 했을 수 있습니다. 이 기능을 해제 하려면: 
   
 1. 사이트로 이동 하 고 설정 아이콘을 클릭 한 다음 **사이트 설정을**클릭 합니다.
     

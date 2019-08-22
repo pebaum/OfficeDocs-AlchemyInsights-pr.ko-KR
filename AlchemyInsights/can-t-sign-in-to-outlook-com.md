@@ -14,12 +14,12 @@ ms.custom:
 - "842"
 - "8000050"
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
-ms.openlocfilehash: 3a75ccdd2adb67355ea90e44637bad40a11e65e4
-ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
+ms.openlocfilehash: 71a8f729e0192673489d3d6eab4284890e7d7665
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35704098"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505446"
 ---
 # <a name="i-cant-sign-in-or-forgot-my-password"></a>로그인 할 수 없거나 암호를 잊어버린 경우
 

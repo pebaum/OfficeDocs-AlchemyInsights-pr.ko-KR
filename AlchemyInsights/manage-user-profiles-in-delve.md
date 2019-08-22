@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 5e8cc5d68afd5c35a503db2333ac620760cf3a8c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408904"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497197"
 ---
 # <a name="manage-user-profiles-in-delve"></a>Delve에서 사용자 프로필 관리
 
-office Delve는 사용자가 office 365 사용자 프로필을 관리할 수 있도록 합니다. 사용자는 다음을 수행할 수 있습니다.
+Office Delve는 사용자가 Office 365 사용자 프로필을 관리할 수 있도록 합니다. 사용자는 다음을 수행할 수 있습니다.
   
 - 정보 보기 및 업데이트
     

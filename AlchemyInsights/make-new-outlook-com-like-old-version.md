@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
-ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
+ms.openlocfilehash: 34ff4a6a78b6b362c7929e77e8369d2d6e05c868
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35117619"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497521"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>새 Outlook.com를 이전 버전과 같은 모양으로 만드는 방법
 

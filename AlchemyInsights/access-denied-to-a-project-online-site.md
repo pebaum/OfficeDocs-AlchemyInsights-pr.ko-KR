@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: 992c5c5e90e1e6218a0318c29c34c465ce7a8a5c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b460f3b66a25b2724954c9ce5f2a7b30d8a4f1c4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359447"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495901"
 ---
-# <a name="help-with-permissions-in-project-online"></a>Project Online의 사용 권한에 대 한 도움말
+# <a name="give-users-permissions-in-project-online"></a>Project Online에서 사용자에 게 사용 권한 부여
 
 사용자에 게 SharePoint 사용 권한 모드를 사용 하 여 Project Web App 사이트에 대 한 액세스 권한을 부여 합니다.
 

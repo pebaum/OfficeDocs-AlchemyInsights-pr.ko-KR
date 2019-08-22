@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: 450b416b5e0635bb8868f7eaf8296930af68f1a5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4427626108df36a8b8b4f5535a8236bc4de59832
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408940"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497089"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>SharePoint 또는 OneDrive 저장소 관리
 
@@ -34,6 +34,6 @@ ms.locfileid: "32408940"
   
 - [OneDrive 관리 센터의 저장소 페이지로](https://admin.onedrive.com/?v=StorageSettings)이동 하 여 새 크기 (GB)를 입력 합니다.
     
-onedrive에서 사용 중인 저장소의 크기를 확인 하려면 [비즈니스용 onedrive 저장소 관리](https://go.microsoft.com/fwlink/?linkid=866429)를 참조 하세요. 각 요금제와 함께 제공 되는 저장소에 대 한 자세한 내용은 [비즈니스용 OneDrive 서비스 설명을](https://go.microsoft.com/fwlink/p/?LinkID=826071)참조 하세요.
+OneDrive에서 사용 중인 저장소의 크기를 확인 하려면 [비즈니스용 onedrive 저장소 관리](https://go.microsoft.com/fwlink/?linkid=866429)를 참조 하세요. 각 요금제와 함께 제공 되는 저장소에 대 한 자세한 내용은 [비즈니스용 OneDrive 서비스 설명을](https://go.microsoft.com/fwlink/p/?LinkID=826071)참조 하세요.
   
 

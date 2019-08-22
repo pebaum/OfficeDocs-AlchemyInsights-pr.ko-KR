@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: 6e877493f44b4636e1293582b5baf6bf98d1d251
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373718"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501481"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>터미널 서버에 office를 설치 하는 문제에 대 한 해결 방법
 
-공유 컴퓨터 활성화를 사용 하려면 office 365 ProPlus를 포함 하는 office 365 요금제가 있어야 합니다.
+공유 컴퓨터 활성화를 사용 하려면 Office 365 ProPlus를 포함 하는 Office 365 요금제가 있어야 합니다.
   
 - Office 365 ProPlus에 대해 공유 컴퓨터 활성화가 사용 하도록 설정 되어 있는지 확인
     
@@ -28,7 +28,7 @@ ms.locfileid: "32373718"
     
   - "사용자의 계정에서 찾은 제품은 공유 컴퓨터 시나리오에서 Office를 정품 인증 하는 데 사용할 수 없습니다."
   
-이 오류는 office 365 ProPlus를 포함 하는 office 365 요금제가 없다는 것을 의미 합니다.
+이 오류는 office 365 ProPlus를 포함 하는 Office 365 요금제가 없다는 것을 의미 합니다.
     
   - "허가 되지 않은 제품"
     

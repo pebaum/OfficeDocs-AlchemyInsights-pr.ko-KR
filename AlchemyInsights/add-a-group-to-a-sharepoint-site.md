@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 5bab5dae1b98fd2de57f07d5321b01dbec974b60
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398824"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495217"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>SharePoint 사이트에 그룹 추가
 
-Microsoft 팀에서 만든 사이트를 포함 하 여 일부 SharePoint 팀 사이트가 Office 365 그룹 소유자에 의해 관리 됩니다. sharepoint 사이트 및 콘텐츠는 Office 365 그룹과 sharepoint 그룹과 공유할 수도 있습니다. SharePoint 그룹은 사이트 및 콘텐츠에 대 한 사용 권한 집합이 모두 동일한 사용자 모음입니다. 클래식 사이트의 경우 한 번에 한 사람에 게 사용 권한을 할당 하는 대신 그룹을 사용 하 여 한 번에 여러 사용자에 게 동일한 사용 권한 수준을 간편 하 게 할당 하는 것이 좋습니다.
+Microsoft 팀에서 만든 사이트를 포함 하 여 일부 SharePoint 팀 사이트가 Office 365 그룹 소유자에 의해 관리 됩니다. SharePoint 사이트 및 콘텐츠는 Office 365 그룹과 SharePoint 그룹과 공유할 수도 있습니다. SharePoint 그룹은 사이트 및 콘텐츠에 대 한 사용 권한 집합이 모두 동일한 사용자 모음입니다. 클래식 사이트의 경우 한 번에 한 사람에 게 사용 권한을 할당 하는 대신 그룹을 사용 하 여 한 번에 여러 사용자에 게 동일한 사용 권한 수준을 간편 하 게 할당 하는 것이 좋습니다.
   
 Office 365 그룹 구성원 관리:
   
