@@ -9,18 +9,18 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389725"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496117"
 ---
-# <a name="recall-or-replace-an-email-message"></a>전자 메일 메시지 회수 또는 교체
+# <a name="recall-or-replace-an-outlook-email-message"></a>Outlook 전자 메일 메시지 회수 또는 교체
 
 - 관리자는 **PowerShell을 사용 하 여 사용자를 대신 하 여 메시지를 회수할**수 있습니다. 관리 센터에서 메시지를 회수할 수 없습니다.
 - **조직의 사용자에 게 전송 된 메시지만 회수할**수 있습니다. 예를 들어, 메시지가 Gmail 주소로 전송 된 경우에는 회수할 수 없습니다.
-- **PC에서 Outlook 2016에서 보낸 메시지만 회수할**수 있습니다. 사용자가 outlook for Mac 또는 웹용 outlook을 사용 하 여 메시지를 보낼 경우에는 회수할 수 없습니다.
+- **PC에서 Outlook 2016에서 보낸 메시지만 회수할**수 있습니다. 사용자가 Outlook for Mac 또는 웹용 Outlook을 사용 하 여 메시지를 보낼 경우에는 회수할 수 없습니다.
 
 전자 메일 메시지를 회수 하거나 교체 하려면:
 

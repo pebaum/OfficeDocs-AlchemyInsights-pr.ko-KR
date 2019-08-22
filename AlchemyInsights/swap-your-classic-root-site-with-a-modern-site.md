@@ -12,19 +12,19 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 0f6f962314d9099bd21c281a23ad2e95742da4a8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270750"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501085"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>기본 루트 사이트를 최신 사이트로 바꾸기
 
 환경을 4 월 2019 이전에 설정한 경우 Microsoft PowerShell을 사용 하 여 루트 사이트를 최신 사이트로 변경할 수 있습니다.
 
 - 루트 사이트로 사용 하려는 다른 사이트가 있는 경우 루트 사이트를 해당 사이트로 바꿀 수 있습니다 (교체). 
-    - [SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) 를 사용 하 여 원본 사이트를 보관 하는 동안 사이트의 위치를 다른 사이트와 교환 합니다. 두 팀 사이트 (그룹에 연결 되지 않음)와 통신 사이트에서 사용할 수 있습니다. 
+    - [SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) 를 사용 하 여 원본 사이트를 보관 하는 동안 사이트의 위치를 다른 사이트와 교환 합니다. 두 팀 사이트 (그룹에 연결 되지 않음)와 통신 사이트에서 사용할 수 있습니다. 
 
 - 사이트의 콘텐츠를 계속 사용할 수 있지만 기존 사이트를 통신 사이트로 변환 하는 데 도움이 되는 추가 기능이 곧 소개 될 예정입니다. 
 >[!Important]
