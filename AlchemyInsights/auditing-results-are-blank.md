@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: 7b17f774e0241dcb1d3226a39afb11b45a2ef37f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: befbb9d2de29231f5346284485aa55613d4f687b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397194"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517433"
 ---
-# <a name="auditing-results-are-blank"></a><span data-ttu-id="30cbf-102">감사 결과가 비어 있음</span><span class="sxs-lookup"><span data-stu-id="30cbf-102">Auditing results are blank</span></span>
+# <a name="auditing-results-are-blank"></a><span data-ttu-id="83679-102">감사 결과가 비어 있음</span><span class="sxs-lookup"><span data-stu-id="83679-102">Auditing results are blank</span></span>
 
- <span data-ttu-id="30cbf-103">**클래식 사이트에 대 한 감사 보고서**</span><span class="sxs-lookup"><span data-stu-id="30cbf-103">**Audit reports for classic sites**</span></span>
+ <span data-ttu-id="83679-103">**클래식 사이트에 대 한 감사 보고서**</span><span class="sxs-lookup"><span data-stu-id="83679-103">**Audit reports for classic sites**</span></span>
   
-<span data-ttu-id="30cbf-104">SharePoint 사이트 모음에 대 한 감사 보고서를 보려면 사이트 모음의 관리자 여야 합니다.</span><span class="sxs-lookup"><span data-stu-id="30cbf-104">To view an audit report for a SharePoint site collection, you must be an administrator for the site collection.</span></span> <span data-ttu-id="30cbf-105">자신을 관리자로 추가 하려면 [사이트 모음 관리자를 전역 또는 SharePoint 관리자로 추가](https://go.microsoft.com/fwlink/?linkid=869390)를 참조 하세요. 감사 로그 작업에 대 한 정보는 [View audit log reports](https://go.microsoft.com/fwlink/?linkid=395237)를 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="30cbf-105">To add yourself as an administrator, see [Add site collection admins as a global or SharePoint admin](https://go.microsoft.com/fwlink/?linkid=869390). For info about working with the audit log, see [View audit log reports](https://go.microsoft.com/fwlink/?linkid=395237).</span></span> 
+<span data-ttu-id="83679-104">SharePoint 사이트 모음에 대 한 감사 보고서를 보려면 사이트 모음의 관리자 여야 합니다.</span><span class="sxs-lookup"><span data-stu-id="83679-104">To view an audit report for a SharePoint site collection, you must be an administrator for the site collection.</span></span> <span data-ttu-id="83679-105">자신을 관리자로 추가 하려면 [사이트 모음 관리자를 전역 또는 SharePoint 관리자로 추가](https://go.microsoft.com/fwlink/?linkid=869390)를 참조 하세요. 감사 로그 작업에 대 한 정보는 [View audit log reports](https://go.microsoft.com/fwlink/?linkid=395237)를 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="83679-105">To add yourself as an administrator, see [Add site collection admins as a global or SharePoint admin](https://go.microsoft.com/fwlink/?linkid=869390). For info about working with the audit log, see [View audit log reports](https://go.microsoft.com/fwlink/?linkid=395237).</span></span> 
   
- <span data-ttu-id="30cbf-106">**Office 365 감사 로그 검색**</span><span class="sxs-lookup"><span data-stu-id="30cbf-106">**Search the Office 365 audit log**</span></span>
+ <span data-ttu-id="83679-106">**Office 365 감사 로그 검색**</span><span class="sxs-lookup"><span data-stu-id="83679-106">**Search the Office 365 audit log**</span></span>
   
-<span data-ttu-id="30cbf-107">[ &amp; 보안 및 준수 센터](https://protection.office.com)에서 감사 로그로 작업 하려면 Office 365의 전역 관리자 여야 합니다.</span><span class="sxs-lookup"><span data-stu-id="30cbf-107">You need to be a global admin in Office 365 to work with the audit log in the [Security &amp; Compliance Center](https://protection.office.com).</span></span> <span data-ttu-id="30cbf-108">시작 하기 전에 감사 로깅을 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="30cbf-108">Before you begin, turn on audit logging.</span></span> <span data-ttu-id="30cbf-109">그런 후 감사 로그 검색을 실행할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="30cbf-109">Then, you can run an audit log search.</span></span> 
+<span data-ttu-id="83679-107">[ &amp; 보안 및 준수 센터](https://protection.office.com)에서 감사 로그로 작업 하려면 Office 365의 전역 관리자 여야 합니다.</span><span class="sxs-lookup"><span data-stu-id="83679-107">You need to be a global admin in Office 365 to work with the audit log in the [Security &amp; Compliance Center](https://protection.office.com).</span></span> <span data-ttu-id="83679-108">시작 하기 전에 감사 로깅을 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="83679-108">Before you begin, turn on audit logging.</span></span> <span data-ttu-id="83679-109">그런 후 감사 로그 검색을 실행할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="83679-109">Then, you can run an audit log search.</span></span> 
   
-<span data-ttu-id="30cbf-110">[감사 로그를 검색 하는 방법을 알아봅니다](https://go.microsoft.com/fwlink/?linkid=708432).</span><span class="sxs-lookup"><span data-stu-id="30cbf-110">[Learn how to search the audit log](https://go.microsoft.com/fwlink/?linkid=708432).</span></span>
+<span data-ttu-id="83679-110">[감사 로그를 검색 하는 방법을 알아봅니다](https://go.microsoft.com/fwlink/?linkid=708432).</span><span class="sxs-lookup"><span data-stu-id="83679-110">[Learn how to search the audit log](https://go.microsoft.com/fwlink/?linkid=708432).</span></span>
   
 

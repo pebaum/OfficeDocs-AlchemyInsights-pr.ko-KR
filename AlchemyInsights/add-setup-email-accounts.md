@@ -11,23 +11,23 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 9aec8ef80f0ac8929d421c9a04142c7b7b8f6e71
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 39c9466f41002a1471a9fb81c93900f75260678d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358403"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494821"
 ---
-# <a name="setup-email-accounts"></a><span data-ttu-id="045b0-102">전자 메일 계정 설정</span><span class="sxs-lookup"><span data-stu-id="045b0-102">Setup email accounts</span></span>
+# <a name="setup-email-accounts"></a><span data-ttu-id="b606b-102">전자 메일 계정 설정</span><span class="sxs-lookup"><span data-stu-id="b606b-102">Setup email accounts</span></span>
 
-1. <span data-ttu-id="045b0-103">Outlook에서 **파일** \> **계정 추가**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="045b0-103">In Outlook, select **File** \> **Add Account**.</span></span>
+1. <span data-ttu-id="b606b-103">Outlook에서 **파일** \> **계정 추가**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="b606b-103">In Outlook, select **File** \> **Add Account**.</span></span>
 
-2. <span data-ttu-id="045b0-104">전자 메일 주소를 입력 하 고 **연결**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="045b0-104">Enter your email address and then click **Connect**.</span></span>
+2. <span data-ttu-id="b606b-104">전자 메일 주소를 입력 하 고 **연결**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="b606b-104">Enter your email address and then click **Connect**.</span></span>
 
-3. <span data-ttu-id="045b0-105">암호를 입력 하 고 **확인**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="045b0-105">Enter your password and then click **OK**.</span></span>
+3. <span data-ttu-id="b606b-105">암호를 입력 하 고 **확인**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="b606b-105">Enter your password and then click **OK**.</span></span>
 
-4. <span data-ttu-id="045b0-106">이러한 단계를 반복 하 여 여러 계정을 추가할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="045b0-106">You can repeat these steps to add multiple accounts.</span></span>
+4. <span data-ttu-id="b606b-106">이러한 단계를 반복 하 여 여러 계정을 추가할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b606b-106">You can repeat these steps to add multiple accounts.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="045b0-107">Gmail, Yahoo, iCloud와 같은 일부 전자 메일 계정에서는 Outlook을 사용 하 여 전자 메일을 보내고 받기 위해 2 단계 인증을 설정 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="045b0-107">Some email accounts, like Gmail, Yahoo, and iCloud, require you to set up two-factor authentication in order to use Outlook to send and receive email.</span></span> <span data-ttu-id="045b0-108">자세한 내용은 [Outlook에 전자 메일 계정 추가를](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="045b0-108">See [Add an email account to Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)for more information.</span></span>
+    > <span data-ttu-id="b606b-107">Gmail, Yahoo, iCloud와 같은 일부 전자 메일 계정에서는 Outlook을 사용 하 여 전자 메일을 보내고 받기 위해 2 단계 인증을 설정 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="b606b-107">Some email accounts, like Gmail, Yahoo, and iCloud, require you to set up two-factor authentication in order to use Outlook to send and receive email.</span></span> <span data-ttu-id="b606b-108">자세한 내용은 [Outlook에 전자 메일 계정 추가를](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="b606b-108">See [Add an email account to Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)for more information.</span></span>
   
