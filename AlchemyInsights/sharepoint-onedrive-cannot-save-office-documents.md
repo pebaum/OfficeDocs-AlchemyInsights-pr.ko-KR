@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 12fbfc203d17d317da02aa0e027b1c4373869a17
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: b0d9c7c5a21fe73f6611456018b33d6df89c11e8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759786"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36508033"
 ---
 # <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-library"></a>SharePoint 또는 OneDrive 문서 라이브러리에 Office 문서를 저장할 수 없음
 

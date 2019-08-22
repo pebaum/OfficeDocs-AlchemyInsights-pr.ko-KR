@@ -13,14 +13,14 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 62d67ad0ebaee202f41b0a0fa0e0c36f681588ac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385834"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510089"
 ---
-# <a name="receive-copy-of-your-billing-statement-in-email"></a>전자 메일로 청구서 사본 받기
+# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>전자 메일로 Office 365 청구 내역 받기
 
 청구서 사본을 전자 메일 첨부 파일로 받도록 선택할 수 있습니다. 이 경우 다음 사항에 유의하세요.
   
@@ -32,4 +32,4 @@ ms.locfileid: "36385834"
   
 1. 관리 센터에서 **대금 청구** \> [알림](https://go.microsoft.com/fwlink/p/?linkid=853212) 페이지로 이동 합니다.
 
-2. **청구서를 전자 메일 첨부 파일로 받으시겠습니까?** 아래의 토글을 **설정**으로 전환합니다. 언제든지 토글을 **해제**로 전환하여 청구서 전자 메일 수신을 중지할 수 있습니다.
+2. **청구서를 전자 메일 첨부 파일로 받음?** 에서 켜기/끄기를 **켜**둡니다 .로 전환 합니다. 언제든지 토글을 **해제**로 전환하여 청구서 전자 메일 수신을 중지할 수 있습니다.

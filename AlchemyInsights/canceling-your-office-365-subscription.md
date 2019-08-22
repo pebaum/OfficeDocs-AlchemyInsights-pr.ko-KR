@@ -13,12 +13,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: eddf21bfa9e891baf054ac53abe9affb95305688
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 548fef4d13a466e82c98d40fb25e546e45a871f5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387254"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519685"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Office 365 구독을 취소 하 시겠습니까?
 
@@ -30,4 +30,4 @@ ms.locfileid: "36387254"
 
 - 라이선스가 25 개를 초과 하는 경우에는 25 개 보다 적을 때까지 사용자를 제거 하거나 "사용자에 게 전화를 걸 수 있습니다." 옵션을 사용 하 여 지원 엔지니어와 의견을 보내주시기 바랍니다.
 
-- 구독 취소에 대 한 자세한 내용을 보거나 단계별 지침을 보려면 [구독 취소](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)를 참조 하십시오.
+- 구독 취소에 대 한 자세한 내용을 보거나 단계별 지침을 보려면 [구독 취소](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)를 참조 하십시오.

@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: f0126f7f753275e9bbf8c3a09a6af5faf9a27862
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 6aea12d44a44a3e11eaf3fb1bd47ff3e9dbfd9e7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758736"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507853"
 ---
-# <a name="create-group-connected-site-in-sharepoint-online"></a>SharePoint Online에서 그룹 연결 된 사이트 만들기
+# <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>SharePoint Online에서 연결 된 사이트를 만들거나 그룹화 하는 경우의 문제
 
 그룹 연결 사이트를 만들거나 다시 만들 때 몇 가지 일반적인 문제가 발생 합니다.
 

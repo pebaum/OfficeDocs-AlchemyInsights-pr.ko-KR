@@ -11,13 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: a7f33c877382130fa07578ab75938f05badd2301
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3effe20e8831571a34983a1f7a1addd8295551f2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406894"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36515165"
 ---
+# <a name="create-or-edit-an-outlook-profile"></a>Outlook 프로필 만들기 또는 편집
+
 새 Outlook 프로필을 만들거나, 프로필을 편집 하거나, 이름을 바꾸려면 다음 단계를 사용 합니다.
   
 1. Outlook에서 **파일** \> **계정 설정을** \> 선택 하 여 **프로필을 관리**합니다.
@@ -30,6 +32,6 @@ ms.locfileid: "32406894"
     
   - 프로필을 편집 하거나 이름을 바꾸려면 **속성**을 선택 합니다.
     
-outlook 프로필을 만들거나 편집 하는 데 문제가 있는 경우에는 영향을 받는 컴퓨터에서 [outlook 프로필 도구](https://aka.ms/SaRA-OutlookSetupProfile) 를 실행할 수 있습니다. 이 도구는 몇 가지 검사를 수행 하며 준비가 완료 되 면 전자 메일 주소로 Outlook 프로필을 만듭니다. 
+Outlook 프로필을 만들거나 편집 하는 데 문제가 있는 경우에는 영향을 받는 컴퓨터에서 [outlook 프로필 도구](https://aka.ms/SaRA-OutlookSetupProfile) 를 실행할 수 있습니다. 이 도구는 몇 가지 검사를 수행 하며 준비가 완료 되 면 전자 메일 주소로 Outlook 프로필을 만듭니다. 
   
 

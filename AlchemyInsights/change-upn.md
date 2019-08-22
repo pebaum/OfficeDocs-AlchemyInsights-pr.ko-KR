@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: f8c412bda739179b295d62a1d6a6e31a88cf59c2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 51f0f7331d40ce4c87836725eb41d6d4beb26c27
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32394118"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520853"
 ---
 # <a name="change-a-users-email-address"></a>사용자의 전자 메일 주소 변경
 
@@ -34,7 +34,7 @@ ms.locfileid: "32394118"
     
     "죄송 합니다." 라는 오류 메시지가 표시 되 면 **사용자를 편집할 수 없습니다. 사용자 정보를 검토 하 고 다시 시도 하세요**. "라는 사실은 Office 365 전역 관리자가 아니며 사용자의 이름을 변경할 수 있는 권한이 없다는 것을 의미 합니다.
     
-5. 해당 사용자의 기본 전자 메일 주소로 설정할 전자 메일 주소에 대해 **기본으로 설정**을 선택합니다. godaddy 로부터 구독을 구매한 경우에는 관리 콘솔에 로그인 하 여 기본 전자 메일 주소를 설정 해야 합니다. 
+5. 해당 사용자의 기본 전자 메일 주소로 설정할 전자 메일 주소에 대해 **기본으로 설정**을 선택합니다. GoDaddy 로부터 구독을 구매한 경우에는 관리 콘솔에 로그인 하 여 기본 전자 메일 주소를 설정 해야 합니다. 
     
 6. **저장**을 선택 하 고 **닫기를**선택한 다음 완료 되었습니다.
     

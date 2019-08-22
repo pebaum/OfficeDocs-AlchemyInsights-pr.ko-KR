@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385388"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522509"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Mac 사용자에 게 Office 라이선스를 할당 하는 방법
 
-- Microsoft 365 관리 센터에서 [활성 사용자](https://go.microsoft.com/fwlink/p/?linkid=834822) 페이지로 이동 하거나 **사용자** \> **활성 사용자**를 선택 합니다.
+1. 관리 센터에서 **사용자** \> [활성 사용자](https://go.microsoft.com/fwlink/p/?linkid=834822) 페이지로 이동 합니다.
 
-- 라이선스를 할당하려는 사용자의 이름 옆에 있는 상자를 선택합니다.
+2. 라이선스를 할당, 변경 또는 제거 하려는 사용자의 이름을 선택 합니다.
 
-- **제품 라이선스** 행에서 오른쪽에 있는 **편집**을 선택합니다.
+3. **라이선스 및 앱** 탭에서이 사용자에 게 할당 하려는 라이선스를 선택 합니다.
 
-- **제품 라이선스**s 창에서이 사용자에 게 할당 하려는 라이선스 **** 에 대 한 설정 위치로 전환 합니다.
+    기본적으로 해당 라이선스와 연결된 모든 서비스가 사용자에게 자동으로 할당됩니다. 사용자가 사용할 수 있는 서비스를 제한 하려면 해당 사용자에 게 제공 하지 않을 서비스에 대 한 확인란의 선택을 취소 합니다.
 
-- **제품 라이선스** 창의 아래쪽에서 **저장** \> **닫기** \> **닫기**를 선택합니다.
+4. 창 맨 아래에서 **변경 내용 저장**을 선택 합니다.
 
 자세한 내용: [비즈니스용 Office 365의 사용자에 게 라이선스 할당](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   

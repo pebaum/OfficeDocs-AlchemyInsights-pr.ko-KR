@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 8b54e5449ed0726170393916df58722bfabc1129
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2df788f74e7e6464d4a51653709e983046dd2f8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379071"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522185"
 ---
 # <a name="new-retention-labels-created-automatically"></a>자동으로 새로 만들어진 보존 레이블
 
-보안 또는 준수 관리 센터의 **보존 레이블** 아래 조직에서 자동으로 [세 가지 새 보존 레이블이](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) 생성 될 수 있습니다. 레이블 이름은 다음과 같습니다.
+보안 또는 준수 관리 센터의 **보존 레이블** 아래 조직에서 자동으로 작성 되는 [세 가지 새 Office 365 보존 레이블이](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) 표시 될 수 있습니다. 레이블 이름은 다음과 같습니다.
 
 - 운영 프로시저
 - 비즈니스 일반

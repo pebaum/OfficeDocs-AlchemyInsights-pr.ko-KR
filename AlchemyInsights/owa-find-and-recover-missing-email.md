@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom:
 - "8000003"
 - "1991"
-ms.openlocfilehash: 41d31bef53077ede8440733807671a78c0914030
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.openlocfilehash: 2b458c46f98b5f82fab33add6d66d7b34f8b9bfd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171173"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510413"
 ---
-# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts"></a>누락 되었거나 삭제 된 전자 메일, 일정 이벤트 또는 연락처 찾기 및 복구
+# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-in-outlook-on-the-web"></a>웹용 Outlook에서 누락 되거나 삭제 된 전자 메일, 일정 이벤트 또는 연락처 찾기 및 복구
 
 - 메일에서 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
  페이지 위쪽의 **검색** 창에서 [메시지 또는 연락처를 검색](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b)합니다.

@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: f135890774ba57198fd09ab74b32f1f72629c68a
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 1ff796e8e2db928bba997167271505d67cdc0740
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270066"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36508501"
 ---
-# <a name="external-contact-is-unable-to-accept-a-sharing-invite"></a>외부 연락처에서 공유 초대를 수락할 수 없음
+# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a>외부 연락처에서 SharePoint 초대를 수락할 수 없음
 
 외부에서 공유 초대를 수락할 수 없는 경우 아래 링크를 방문 하세요.
 
@@ -23,5 +23,5 @@ ms.locfileid: "36270066"
 
 - [공유 폴더에 대 한 액세스 거부](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de?ui=en-US&rs=en-US&ad=US)
 
-- [Sharepoint 및 OneDrive의 OSE 공유 오류](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [SharePoint 및 OneDrive에서 오류 공유](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 7bba3d7fc4e432c7c266ce8aa87322fc784a8ac0
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 1e925ef8e83dfc5d16b4d19dee88f1a26abe6ef4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754281"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520529"
 ---
 # <a name="check-in-several-files-at-once"></a>여러 파일을 한 번에 체크 인
 
-파일을 체크 인하고 체크 아웃 하는 것은 콘텐츠를 업데이트 하는 방법을 추적 하 고 제어 하는 좋은 방법입니다. 사이트에서 파일을 변경 하려는 경우 다른 사용자가 편집할 수 없도록 하려면 파일을 체크 아웃 합니다. 파일을 체크 아웃 한 경우 온라인 또는 오프 라인으로 편집 하 고 필요한 경우 여러 번 저장할 수 있습니다.
+SharePoint 라이브러리에서 파일을 체크 인하는 것은 콘텐츠를 업데이트 하는 방법을 추적 하 고 제어 하는 좋은 방법입니다. 사이트에서 파일을 변경 하려는 경우 다른 사용자가 편집할 수 없도록 하려면 파일을 체크 아웃 합니다. 파일을 체크 아웃 한 경우 온라인 또는 오프 라인으로 편집 하 고 필요한 경우 여러 번 저장할 수 있습니다.
 
 다음은이 기능과 관련 된 몇 가지 유용한 링크입니다.
 
