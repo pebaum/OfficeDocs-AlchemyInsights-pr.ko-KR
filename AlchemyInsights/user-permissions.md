@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 6fc7e4211691e0f29b9a65db2d33540804ea7b4a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e3e18f7ee5315b076e9059feaeda8b445d89c476
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423693"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531941"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>SharePoint 및 OneDrive의 사용자 사용 권한
 
-조직의 사용자가 sharepoint 또는 onedrive에 액세스할 수 없는 경우 sharepoint 및 onedrive를 포함 하는 라이선스가 있는지 확인 하세요. 
+조직의 사용자가 SharePoint 또는 OneDrive에 액세스할 수 없는 경우 SharePoint 및 OneDrive를 포함 하는 라이선스가 있는지 확인 하세요. 
   
 1. [Microsoft 365 관리 센터에서 활성 사용자 페이지로](https://portal.office.com/adminportal/home#/users) 이동 하 여 사용자를 선택 합니다. 
     

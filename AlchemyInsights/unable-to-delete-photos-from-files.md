@@ -14,16 +14,16 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 5074cadecea9ea66367e3ddbcddc73ec182d7250
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 509c36f9f07c13ee27c83d7754da541879c7ca1b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366467"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533129"
 ---
 # <a name="unable-to-delete-photos-from-files"></a>파일에서 사진을 삭제할 수 없음
 
-파일 또는 사진을 삭제 하려면 다음을 수행 합니다.
+Outlook.com에서 파일의 사진을 삭제 하려면 다음을 수행 합니다.
   
 1. **받은 편지함** 또는 보낸 팩스 **함** 폴더로 이동 하 여 첨부 된 전자 메일 메시지를 삭제 합니다.
 
