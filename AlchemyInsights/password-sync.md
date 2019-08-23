@@ -14,18 +14,18 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 735604a097b6b86bd39207de230f8cef3163e96b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372962"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555383"
 ---
 # <a name="enable-password-sync"></a>암호 동기화 사용
 
-1.  O365 관리 센터 홈 페이지에서 **DirSync 상태** 를 선택 합니다. 
+1.  Microsoft 365 관리 센터 홈 페이지에서 **DirSync 상태** 를 선택 합니다. 
     
-     * 또는 **사용자** \> * * 활성 사용자 *로 이동 하 여*활성 사용자 페이지에서 **더 많은** \> **디렉터리 동기화를 선택 합니다.** * 
+     *또는 **사용자** \> **활성 사용자**로 이동 하 여 활성 사용자 페이지에서 **더 많은** \> **디렉터리 동기화를 선택 합니다.*** 
     
 2. 디렉터리 동기화 창에서 **DirSync 관리로 이동을**선택 합니다. 
     

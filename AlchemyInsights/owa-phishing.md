@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000289"
-ms.openlocfilehash: ce55ab1025bd4b3f22c7313cc8cc91cef6e726f6
-ms.sourcegitcommit: c65fb26afcaa8446c3e5490ed14c4f403b9d0945
+ms.openlocfilehash: d9f199035251c8b4f8041fc8530d1eca2eb3c7e8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34683156"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556594"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>피싱 전자 메일을 처리 하는 방법
+# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>웹용 Outlook에서 피싱 전자 메일을 처리 하는 방법
 
 피싱 사기는 합법적인 것으로 나타나지만 실제로는 개인 정보나 비용을 도용 하려는 전자 메일입니다. 또한 Scammers는 자신 으로부터 전자 메일을 받은 것 처럼 보이도록 하기 위해 스푸핑 이라는 기법을 사용할 수 있습니다.
 

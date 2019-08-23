@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 3cdf5909595b5b1fac9aeb00865546c1dcff5f09
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 50f98fad1c4e37af1e8dacb76e0af1addafe0dc4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372170"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554901"
 ---
 # <a name="user-profile-and-photo-synchronization"></a>사용자 프로필 및 사진 동기화
 
@@ -25,6 +25,6 @@ ms.locfileid: "32372170"
   
 프로필 동기화 프로세스에 대 한 자세한 내용은 [SharePoint Online의 사용자 프로필 동기화 정보](https://go.microsoft.com/fwlink/?linkid=2022639) 를 참조 하세요.
     
-- **office delve의 업데이트 프로필** -delve 사용자는 office 365 프로필을 관리할 수 있습니다. 자세한 내용은 [Office Delve에서 프로필 보기 및 업데이트](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba)를 참조 하세요.
+- **Office delve의 업데이트 프로필** -delve 사용자는 Office 365 프로필을 관리할 수 있습니다. 자세한 내용은 [Office Delve에서 프로필 보기 및 업데이트](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba)를 참조 하세요.
     
 
