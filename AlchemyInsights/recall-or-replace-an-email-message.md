@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356603"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553438"
 ---
-# <a name="recall-or-replace-an-email-message"></a>전자 메일 메시지 회수 또는 교체
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Office 365에서 전자 메일 메시지 회수 또는 교체
 
 - **조직의 사용자에 게 전송 된 메시지만 회수할**수 있습니다. 예를 들어, 메시지가 Gmail 주소로 전송 된 경우에는 회수할 수 없습니다.
 - **PC 용 Outlook 2016에서 보낸 메시지만 회수할**수 있습니다. 사용자가 Outlook for Mac 또는 웹용 Outlook을 사용 하 여 메시지를 보낼 경우에는 회수할 수 없습니다.
 - 관리자 인 경우 **PowerShell을 사용 하 여 사용자를 대신 하 여 메시지를 회수할**수 있습니다. 관리 센터에서 메시지를 회수할 수 없습니다. 자세한 내용을 보려면 아래로 스크롤하여 "조직의 전자 메일 메시지 검색 및 삭제"로 이동 합니다.
 
-***보낸 전자 메일 메시지 회수 또는 교체***
+**보낸 전자 메일 메시지 회수 또는 교체**
 
 1. Outlook 창 왼쪽의 폴더 창에서 보낸 편지함 폴더를 선택 합니다.
 2. 회수할 메시지를 엽니다. 메시지를 열려면 두 번 클릭 해야 합니다. 메시지를 읽기 창에 표시 하도록 선택 해도 메시지를 회수할 수 없습니다.

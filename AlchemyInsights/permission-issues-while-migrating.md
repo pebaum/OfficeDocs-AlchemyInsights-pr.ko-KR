@@ -8,15 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.openlocfilehash: 3f420a0f930ccb227ad6d2b4b88a9726627bbdb7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3dac4e527aa181c89e6530a219c6f0596b417464
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372206"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554896"
 ---
 # <a name="permissions-issues-while-migrating"></a>마이그레이션 중 사용 권한 문제
 
-sharepoint Online으로 마이그레이션하는 동안의 일반적인 사용 권한 문제에 대 한 자세한 내용은 [사용 권한 및 sharepoint 마이그레이션 도구 이해](https://go.microsoft.com/fwlink/?linkid=2019753) 를 참조 하십시오.
+SharePoint Online으로 마이그레이션하는 동안의 일반적인 사용 권한 문제에 대 한 자세한 내용은 [사용 권한 및 Sharepoint 마이그레이션 도구 이해](https://go.microsoft.com/fwlink/?linkid=2019753) 를 참조 하십시오.
   
 

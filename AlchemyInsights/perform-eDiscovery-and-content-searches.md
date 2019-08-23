@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444778"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555239"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>콘텐츠 검색 및 eDiscovery 검색을 수행 하는 방법
 
@@ -32,6 +32,6 @@ ms.locfileid: "36444778"
 4. 키워드 및 콘텐츠 위치를 포함 하 여 필요한 검색 조건을 입력 합니다.  
 5. **저장 & 실행** 을 클릭 하 여 검색의 이름을 지정한 다음 시작한 다음 결과를 미리 봅니다.
 
-콘텐츠 검색, 결과 내보내기 및 데이터를 보관 하기 위한 eDiscovery 사례 만들기에 대 한 자세한 내용은 [Content Search](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) and [eDiscovery 사례](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases)를 참조 하십시오.
+콘텐츠 검색, 결과 내보내기 및 데이터를 보관 하기 위한 eDiscovery 사례 만들기에 대 한 자세한 내용은 [Content Search](https://docs.microsoft.com/office365/securitycompliance/content-search) and [eDiscovery 사례](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)를 참조 하십시오.
 
-[요구 사항 및 제한을](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) 검토 하 고, [부분적으로 인덱싱된 항목](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) 및 기타 결과를 확인 하 여 콘텐츠 검색에 대해 자세히 알아봅니다.
+[요구 사항 및 제한을](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) 검토 하 고, [부분적으로 인덱싱된 항목](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) 및 기타 결과를 확인 하 여 콘텐츠 검색에 대해 자세히 알아봅니다.

@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 3f5ce5dbd9307aae9fc497f501d1da9194c45ff9
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.openlocfilehash: bf4ae61907e2a179bba39edb4f8eb05608e00907
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171311"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556715"
 ---
 # <a name="print-email-calendars-and-attachments"></a>전자 메일, 일정 및 첨부 파일 인쇄
 
-전자 메일 메시지를 인쇄 하려면:
+웹용 Outlook에서 전자 메일 메시지를 인쇄 하려면 다음과 같이 하세요.
   
 1. 인쇄 하려는 메시지를 선택 합니다.
 1. 메시지의 오른쪽 위 모서리에서 세 개의 점을 선택 하 고 **인쇄**를 선택 합니다.
