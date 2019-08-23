@@ -12,26 +12,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: 52c63d8909796f8d0d114a46c5255e4073e8c47d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e7ecfd8c2f1a532355bfb8c2c0a846fc0d6e88b1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369779"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551565"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a><span data-ttu-id="6cde3-102">SharePoint Online을 클래식 모드로 제한</span><span class="sxs-lookup"><span data-stu-id="6cde3-102">Restrict SharePoint Online to classic mode</span></span>
+# <a name="restrict-sharepoint-online-to-classic-mode"></a><span data-ttu-id="8adae-102">SharePoint Online을 클래식 모드로 제한</span><span class="sxs-lookup"><span data-stu-id="8adae-102">Restrict SharePoint Online to classic mode</span></span>
 
-<span data-ttu-id="6cde3-103">일부 조직은 여전히 클래식 모드 환경을 필요로 합니다.</span><span class="sxs-lookup"><span data-stu-id="6cde3-103">Some organizations still require the Classic mode experience.</span></span> <span data-ttu-id="6cde3-104">클래식 모드를 세분화 된 수준에서 제거할 계획이 없는 경우에는 더 이상 목록 및 라이브러리에 대 한 전체 조직 (테 넌 트)을 클래식 모드로 제한할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="6cde3-104">While there are no plans to remove classic mode at a granular level, it is no longer possible to restrict an entire organization (tenant) to classic mode for lists and libraries.</span></span>
+<span data-ttu-id="8adae-103">일부 조직은 여전히 클래식 모드 환경을 필요로 합니다.</span><span class="sxs-lookup"><span data-stu-id="8adae-103">Some organizations still require the Classic mode experience.</span></span> <span data-ttu-id="8adae-104">클래식 모드를 세분화 된 수준에서 제거할 계획이 없는 경우에는 더 이상 목록 및 라이브러리에 대 한 전체 조직 (테 넌 트)을 클래식 모드로 제한할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="8adae-104">While there are no plans to remove classic mode at a granular level, it is no longer possible to restrict an entire organization (tenant) to classic mode for lists and libraries.</span></span>
 
-<span data-ttu-id="6cde3-105">관리자는 다음과 같은 수준에서 제공 하는 세분화 된 옵트아웃 스위치를 사용 하 여 클래식 모드에서 개별 목록 및 라이브러리를 관리할 수 있는 다음과 같은 옵션을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="6cde3-105">The admin will have the following options to manage individual lists and libraries in classic mode using granular opt-out switches that we provide at the following levels:</span></span>
+<span data-ttu-id="8adae-105">관리자는 다음과 같은 수준에서 제공 하는 세분화 된 옵트아웃 스위치를 사용 하 여 클래식 모드에서 개별 목록 및 라이브러리를 관리할 수 있는 다음과 같은 옵션을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="8adae-105">The admin will have the following options to manage individual lists and libraries in classic mode using granular opt-out switches that we provide at the following levels:</span></span>
 
-- <span data-ttu-id="6cde3-106">사이트 모음</span><span class="sxs-lookup"><span data-stu-id="6cde3-106">site collection</span></span>
-- <span data-ttu-id="6cde3-107">사이트</span><span class="sxs-lookup"><span data-stu-id="6cde3-107">site</span></span>
-- <span data-ttu-id="6cde3-108">목록</span><span class="sxs-lookup"><span data-stu-id="6cde3-108">list</span></span>
-- <span data-ttu-id="6cde3-109">라이브러리</span><span class="sxs-lookup"><span data-stu-id="6cde3-109">library</span></span>
+- <span data-ttu-id="8adae-106">사이트 모음</span><span class="sxs-lookup"><span data-stu-id="8adae-106">site collection</span></span>
+- <span data-ttu-id="8adae-107">사이트</span><span class="sxs-lookup"><span data-stu-id="8adae-107">site</span></span>
+- <span data-ttu-id="8adae-108">목록</span><span class="sxs-lookup"><span data-stu-id="8adae-108">list</span></span>
+- <span data-ttu-id="8adae-109">라이브러리</span><span class="sxs-lookup"><span data-stu-id="8adae-109">library</span></span>
 
-<span data-ttu-id="6cde3-110">또한 현대에서 지원 되지 않는 특정 기능 및 사용자 지정 내용을 사용 하는 목록은 여전히 클래식 모드로 자동 전환 됩니다.</span><span class="sxs-lookup"><span data-stu-id="6cde3-110">Additionally, lists that use certain features and customizations that are not supported by modern will still be automatically switched to classic mode.</span></span>
+<span data-ttu-id="8adae-110">또한 현대에서 지원 되지 않는 특정 기능 및 사용자 지정 내용을 사용 하는 목록은 여전히 클래식 모드로 자동 전환 됩니다.</span><span class="sxs-lookup"><span data-stu-id="8adae-110">Additionally, lists that use certain features and customizations that are not supported by modern will still be automatically switched to classic mode.</span></span>
 
-<span data-ttu-id="6cde3-111">2019 년 4 월 1 일부 터, 최신 목록 및 라이브러리에 대 한 테 넌 트 수준 옵트아웃을 사용 하지 않도록 설정 하는 프로세스는 시작 하 고 5 월 31 2019 일까지 계속 진행 됩니다.</span><span class="sxs-lookup"><span data-stu-id="6cde3-111">Beginning April 1, 2019, the process to disable the tenant level opt out of modern list and libraries will start and continue through May 31, 2019.</span></span>  <span data-ttu-id="6cde3-112">테 넌 트 옵트아웃의 결과로 클래식 모드에 있는 목록 및 라이브러리는 자동으로 최신으로 이동 됩니다.</span><span class="sxs-lookup"><span data-stu-id="6cde3-112">The lists and libraries that are in classic mode as a result of tenant opt-out will automatically be shifted to modern.</span></span>
+<span data-ttu-id="8adae-111">2019 년 4 월 1 일부 터, 최신 목록 및 라이브러리에 대 한 테 넌 트 수준 옵트아웃을 사용 하지 않도록 설정 하는 프로세스는 시작 하 고 5 월 31 2019 일까지 계속 진행 됩니다.</span><span class="sxs-lookup"><span data-stu-id="8adae-111">Beginning April 1, 2019, the process to disable the tenant level opt out of modern list and libraries will start and continue through May 31, 2019.</span></span>  <span data-ttu-id="8adae-112">테 넌 트 옵트아웃의 결과로 클래식 모드에 있는 목록 및 라이브러리는 자동으로 최신으로 이동 됩니다.</span><span class="sxs-lookup"><span data-stu-id="8adae-112">The lists and libraries that are in classic mode as a result of tenant opt-out will automatically be shifted to modern.</span></span>
 
-<span data-ttu-id="6cde3-113">클래식 모드를 사용 해야 하는 경우 여기 [](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) 및 PnP Powershell 명령 [여기](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) 에는 클래식 모드 환경을 사용할 때 사용할 수 있는 옵션 및 도구에 대 한 추가 정보를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="6cde3-113">If you require classic mode please see more information [here](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) and PnP Powershell instruction [here](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) that describes options and tools you can use today to use the classic mode experience.</span></span>
+<span data-ttu-id="8adae-113">클래식 모드를 사용 해야 하는 경우 여기 [](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) 및 PnP Powershell 명령 [여기](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) 에는 클래식 모드 환경을 사용할 때 사용할 수 있는 옵션 및 도구에 대 한 추가 정보를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="8adae-113">If you require classic mode please see more information [here](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) and PnP Powershell instruction [here](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) that describes options and tools you can use today to use the classic mode experience.</span></span>
