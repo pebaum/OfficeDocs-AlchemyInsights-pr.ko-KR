@@ -16,12 +16,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 92761e4679a155781555daec023ee9602d62a857
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9fc1980b5c1d5a0bd9df032b14e2010b7f0d5873
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356099"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551853"
 ---
 # <a name="restore-a-deleted-mailbox"></a>삭제된 사서함 복원
 
@@ -35,5 +35,5 @@ ms.locfileid: "35356099"
 
 3. Exchange Online 라이선스 할당 및 **저장** 누르기
 
-공유 사서함을 복구 하려는 경우 30 일 동안에도 복구할 수 있습니다. **사용자** \> 를 **삭제** 한 사용자 아래에서 찾을 수 있습니다. 공유 사서함에는 라이선스가 필요 하지 않습니다. 삭제 된 사용자를 복원 해야 하는 경우 [Office 365에서 사용자 복원을](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user)참조 하세요.
+공유 사서함을 복구 하려는 경우 30 일 동안에도 복구할 수 있습니다. **사용자** \> 를 **삭제** 한 사용자 아래에서 찾을 수 있습니다. 공유 사서함에는 라이선스가 필요 하지 않습니다. 삭제 된 사용자를 복원 해야 하는 경우 [Office 365에서 사용자 복원을](https://docs.microsoft.com/office365/admin/add-users/restore-user)참조 하세요.
   

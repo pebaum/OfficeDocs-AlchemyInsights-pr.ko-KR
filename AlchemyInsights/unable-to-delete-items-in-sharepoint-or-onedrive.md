@@ -11,16 +11,16 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: d25214f26a3168e3e350b5cc31ca870e65d48ad9
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b25e6d144dcefcfed4258e78ad5cfd4089ba7d1e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366539"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558659"
 ---
 # <a name="unable-to-delete-items"></a>항목을 삭제할 수 없음
 
-항목을 삭제 하는 데 문제가 있나요?
+SharePoint 항목을 삭제 하는 데 문제가 있나요?
 
 - 항상 항목을 삭제 하거나 [사이트 모음 관리자](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) 가 항목을 제거할 수 있는 [적절 한 권한이](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) 있는지 확인 합니다.
 

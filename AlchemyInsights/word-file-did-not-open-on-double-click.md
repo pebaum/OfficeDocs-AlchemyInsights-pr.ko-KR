@@ -1,5 +1,5 @@
 ---
-title: WD 파일을 두 번 클릭 했을 때 열리지 않음
+title: 두 번 클릭 하면 Word 파일이 열리지 않음
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 5eedc991d787c2e50d9f92eae3acf4fa367c08f1
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752767"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558191"
 ---
-# <a name="solutions-for-files-opening-in-wrong-apps"></a>잘못 된 앱에서 열리는 파일에 대 한 솔루션
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word 문서가 잘못 된 앱에서 열리거나 열리지 않음
 
 다음 제안 중 하나를 사용해 보세요.
 
 **Word를 기본으로 선택**
 
-* 문서를 마우스 오른쪽 단추로 클릭 하 고 **연결 프로그램**을 선택한 다음 **Word** 를 선택 합니다.
+- 문서를 마우스 오른쪽 단추로 클릭 하 고 **연결 프로그램**을 선택한 다음 **Word** 를 선택 합니다.
 
 **빠른 복구 실행**
 

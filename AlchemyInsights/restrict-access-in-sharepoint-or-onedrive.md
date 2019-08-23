@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: e0fbec6eb269a173664e2b9a1efe6eefb527b96f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e5458226fe33bd5cb3da1f608fb113b888fbfd16
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32383877"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551457"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>SharePoint 또는 OneDrive에서 액세스 제한
 
@@ -23,7 +23,7 @@ SharePoint 및 OneDrive에서는 액세스할 그룹 또는 개인 에게만 액
   
 - 예를 들어 파일 하나를 제외 하 고 폴더의 모든 내용을 공유 하려면 해당 파일을 공유 하지 않는 새 위치로 이동 합니다.
     
-- 폴더에 하위 폴더가 두 개 있는 경우 하나의 하위 폴더를 그룹 a 및 B와 공유 하 고 두 번째 하위 폴더에 대 한 액세스만 허용 하려면 상위 폴더를 그룹 a와 공유 하 고 그룹 B를 첫 번째 하위 폴더에 추가 합니다.
+- 폴더에 하위 폴더가 두 개 있는 경우 하나의 하위 폴더를 그룹 A 및 B와 공유 하 고 두 번째 하위 폴더에 대 한 액세스만 허용 하려면 상위 폴더를 그룹 A와 공유 하 고 그룹 B를 첫 번째 하위 폴더에 추가 합니다.
     
 [파일 또는 폴더 공유 중지](https://go.microsoft.com/fwlink/?linkid=2008861)
   

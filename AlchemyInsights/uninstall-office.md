@@ -13,12 +13,12 @@ ms.custom:
 - "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: 아래 단계에서는 PC에서 Office를 제거 하는 방법을 설명 합니다.
-ms.openlocfilehash: 3878013d452cd03f378254a8dfbbe396e7509d0e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a9d7b9b4239eeff76cb6934184224a2bcb5b98d3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366395"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558443"
 ---
 # <a name="uninstall-office"></a>Office 제거
 

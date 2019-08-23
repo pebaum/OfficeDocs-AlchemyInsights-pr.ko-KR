@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 8749b365638a2c5441743cd6d58f2728a36914ef
-ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
+ms.openlocfilehash: 19873107de9450cd276253194c08cd0a84cd4a82
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "36204138"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555743"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>정크 메일 폴더로 이동 하지 못하도록 메시지를 중지 합니다.
+# <a name="stop-messages-from-going-to-your-junk-email-folder-in-outlook-on-the-web"></a>웹용 Outlook에서 정크 메일 폴더로 이동 하는 메시지를 중지 합니다.
 
 정크 메일 폴더의 전자 메일 메시지가 정크 메일이 아니면 다음과 같이 진행 되는 것을 알 수 있습니다.
 

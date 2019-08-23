@@ -12,16 +12,16 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: cc01e0cef157ad41f5a972f434c69fa3af208c9b
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: d156c414d741003f2ebddc63b2bc95167027169d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36271879"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558083"
 ---
 # <a name="workflow-troubleshooting"></a>워크플로 문제 해결
 
-워크플로 문제 해결 및 디버깅:
+SharePoint 워크플로를 디버깅 하는 방법에 대 한 자세한 내용은 다음을 검토 하십시오.
 - 디버깅 워크플로는 이전 버전과 비슷합니다.  자세한 내용은 [SharePoint 워크플로 디버깅](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)을 참조 하십시오.
 - 문제 해결에 대 한 자세한 내용은 [SharePoint Server 워크플로 유효성 검사 오류 문제 해결](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)을 참조 하세요.
  

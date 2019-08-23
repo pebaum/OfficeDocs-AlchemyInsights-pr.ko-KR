@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171363"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557507"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>사서함 모양 변경
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Outlook 사서함 모양 변경
 
 메시지 목록과 읽기 창의 모양을 변경 하 여 원하는 방식으로 표시 되 고 작동 하도록 할 수 있습니다. 메시지 목록의 위나 맨 아래에 새 메시지를 표시 해야 하는 경우 메시지를 개별적으로 표시할지 또는 대화로 표시할지를 선택 합니다.
 

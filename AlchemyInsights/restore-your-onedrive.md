@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: aa8fce9a3666e875efe0260f3604e13292dd4a26
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 2750a91a243543df073b016e41d3332a968123a1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370476"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551673"
 ---
 # <a name="restore-your-onedrive"></a>OneDrive 복원
 
-여러 onedrive 파일을 삭제, overwritted 손상 또는 맬웨어로 감염 된 경우 지난 30 일 이내에 이전 시간으로 onedrive를 복원할 수 있습니다.
+여러 OneDrive 파일을 삭제, overwritted 손상 또는 맬웨어로 감염 된 경우 지난 30 일 이내에 이전 시간으로 OneDrive를 복원할 수 있습니다.
   
 1. 웹 브라우저에서 OneDrive로 이동 합니다.
     

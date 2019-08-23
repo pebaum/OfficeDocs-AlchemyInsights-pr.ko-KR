@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 63b2ee1dfdb4458f9767300c263df7b3fb367ea8
-ms.sourcegitcommit: c65fb26afcaa8446c3e5490ed14c4f403b9d0945
+ms.openlocfilehash: 151356f9bafa1fea6eb2c33d157e3fb7038ceef7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34683155"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555599"
 ---
-# <a name="mark-email-messages-as-junk"></a>전자 메일 메시지를 정크 메일로 표시
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>웹용 Outlook에서 전자 메일 메시지를 정크 메일로 표시
 
 메시지를 정크 메일 또는 스팸으로 표시 하려면 메시지 목록에서 메시지를 선택 하 고 **정크** > **정크**을 선택 합니다.
 
