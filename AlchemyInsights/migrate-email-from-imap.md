@@ -11,16 +11,16 @@ ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: cc0d14d1dd1dc2aec3916d69f7804359de58b604
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 90c291dfbe9eb35dd878040806d5ea649e09097f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379935"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544689"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>"허용된 도메인 아님" 오류 메시지가 표시되는 경우
 
-사용자 또는 그룹에 전자 메일 주소를 추가하거나 사서함을 마이그레이션하는 동안에는 다음 오류가 표시될 수 있습니다. **이 도메인은 아직 Exchange System에 허용된 도메인이 아니기 때문에 사용할 수 없습니다.**
+사용자 또는 그룹에 전자 메일 주소를 추가하거나 Office 365 사서함을 마이그레이션하는 동안에는 다음 오류가 표시될 수 있습니다. **이 도메인은 아직 Exchange System에 허용된 도메인이 아니기 때문에 사용할 수 없습니다.**
   
 대부분의 경우 이 오류는 조직에서 완전하게 설정되지 않은 도메인 이름 *(예: contoso.com)* 의 결과입니다.
   

@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 418aea3140a787b4eead14dbc7d127a70564098a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423109"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506194"
 ---
 # <a name="trying-to-verify-your-domain"></a>도메인을 확인하려고 하시나요?
 
-도메인을 소유하고 있는지 확인하려면 도메인 등록 기관에 TXT 레코드를 추가해야 합니다. **설정** \> **도메인**을 클릭한 다음 **도메인 추가**를 클릭하여 도메인 마법사를 추가합니다. 
+도메인을 소유하고 있는지 확인하려면 도메인 등록 기관에 TXT 레코드를 추가해야 합니다. **설정** \> **도메인** 그리고 **도메인 추가**로 이동하여 Microsoft 365 관리 센터에서 새 도메인 마법사를 따르세요. 
   
 아래 문서의 지침에 따라 TXT 레코드를 추가하여 도메인을 확인합니다. 도메인에 대한 특정 지침을 확인하려면 도메인 등록 기관을 선택하세요.
   
