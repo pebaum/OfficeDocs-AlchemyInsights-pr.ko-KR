@@ -13,12 +13,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518045"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575954"
 ---
 # <a name="buy-additional-office-365-licenses"></a>추가 Office 365 라이선스 구입
 
@@ -32,9 +32,10 @@ ms.locfileid: "36518045"
 
     > [!NOTE]
     > 신용 카드 또는 은행 계좌에 따라 구독을 결제 하는 경우 주문 확인을 받은 직후 구입 하는 모든 새 라이선스를 사용할 수 있습니다. 송장 단위로 결제 하는 경우 새 라이선스를 사용할 수 있을 때까지 신용 검사를 기다려야 할 수 있습니다.
-  
+
+이전 관리 센터를 사용 하 고 있나요? 이전 단계 또는 자세히 알아보려면 [Office 365 for business 구독에 대 한 라이선스 구입](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)을 참조 하세요.  
+
 **추가 리소스**
 
 - [비즈니스용 Office 365에서 사용자에 게 라이선스 할당](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-자세한 내용은 [비즈니스용 Office 365 구독에 대 한 라이선스 구매](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)를 참조 하세요.

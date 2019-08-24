@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 2f75f1e60af06da47fe846e84bbb370dd60084e9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5ea73c967013822854dbd408d4628d991c90378
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543859"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620765"
 ---
 # <a name="modern-site-as-root-site"></a>최신 사이트를 루트 사이트로
 
-Microsoft는 클래식 사이트 루트 사이트를 최신 사이트로 바꾸는 데 사용할 수 있는 새로운 기능을 배포 하기 시작 했습니다. [SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) 를 사용 하 여 원본 사이트를 보관 하는 동안 사이트의 위치를 다른 사이트와 교환 합니다. 두 팀 사이트 (그룹에 연결 되지 않음)와 통신 사이트에서 사용할 수 있습니다. 
+Microsoft는 클래식 사이트 루트 사이트를 최신 사이트로 바꾸는 데 사용할 수 있는 새로운 기능을 배포 하기 시작 했습니다. [SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) 를 사용 하 여 원본 사이트를 보관 하는 동안 사이트의 위치를 다른 사이트와 교환 합니다. 두 팀 사이트 (그룹에 연결 되지 않음)와 통신 사이트에서 사용할 수 있습니다. 
 
 >[!Important]
 > 최신 통신 사이트를 만들려면 클래식 루트 사이트를 삭제 하지 마십시오. 이 기능은 Microsoft에서 지원 되지 않습니다. 루트 사이트를 삭제 하면 사이트를 복원 하거나 같은 URL에 새 사이트를 만들 때까지 조직의 모든 SharePoint 사이트가 모든 사용자에 게 액세스 하지 못하게 됩니다. 메시지 센터를 통해이 기능을 전달 합니다. 잠시 후 테 넌 트에서 기능을 사용 하도록 설정 해야 합니다.

@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840521"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620729"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>SharePoint 또는 OneDrive를 사용 하려고 할 때 유지 관리 메시지에 대 한 읽기 전용
 
-사용자는 SharePoint 또는 OneDrive를 사용 하려고 할 때 **유지 관리 메시지에 대 한 읽기 전용** 을 받을 수 있습니다.  이 경우 [메시지 센터로](https://portal.office.com/adminportal/home#/MessageCenter)이동 하 여 테 넌 트에서 활성 유지 관리가 진행 되 고 있는지 확인 합니다. 또한 [서비스 상태](https://portal.office.com/adminportal/home#/servicehealth) 대시보드를 확인 하 여 발생할 수 있는 모든 권고/인시던트가 있는지 확인 해야 합니다.
+사용자는 다음 시나리오 중 하나에 대해 SharePoint 또는 OneDrive를 사용 하려고 할 때 **유지 관리 메시지에 대 한 읽기 전용** 을 받을 수 있습니다. 
 
-메시지 센터 또는 서비스 상태 대시보드가 테 넌 트에 대 한 현재 유지 관리에 대해 언급 하지 않은 경우이는 브라우저 캐싱 문제일 수 있습니다.
+-   계획 된 또는 활성 유지 관리 활동  [메시지 센터](https://portal.office.com/adminportal/home#/messagecenter)를 탐색 하 여 확인 합니다.
+-   발생할 수 있는 높은 우선 순위의 활성 서비스 인시던트 [서비스 상태](https://portal.office.com/adminportal/home#/servicehealth)를 탐색 하 여 모든 권고/인시던트를 확인 합니다.
+-   서버에 대 한 예기치 않은 이벤트 (30 분 미만)로 인해 발생할 수 있는 사소한 자동 복구 복구 시나리오입니다. 
+    
+    이러한 사소한 복구를 위한 메시지 센터 또는 서비스 상태 게시물은 제공 되지 않지만 곧 정상적으로 백업 해야 합니다.
+
+위의 세 가지 시나리오 중 하나에 문제가 발생 하 여 서비스를 복원 했지만 사용자 브라우저 캐시가 지워지지 않은 경우도 있습니다.
 
 사이트를 탐색 하기 전에 브라우저 캐시를 지워야 합니다.
 
