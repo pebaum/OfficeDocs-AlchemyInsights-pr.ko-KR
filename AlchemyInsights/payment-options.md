@@ -13,14 +13,14 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388678"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555275"
 ---
-# <a name="payment-options"></a>결제 옵션
+# <a name="payment-options-for-office-365-for-business-subscriptions"></a>비즈니스용 Office 365 구독을 위한 결제 옵션
 
 **결제 옵션**
   
@@ -30,7 +30,7 @@ ms.locfileid: "36388678"
   
 신용 카드 또는 은행 계좌로 결제하는 경우 구독 기간이 끝날 때까지 구독 요금이 송장 날짜 다음날에 자동으로 청구됩니다. 필요한 경우 언제든지 [신용 카드 또는 은행 계좌 정보를 업데이트](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)할 수 있습니다. 또한 [전자 메일로 청구서 사본 받기](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email) 선택할 수 있습니다.
   
-신용 카드가 거부되거나 연체료가 있는 경우 **청구** \> [구독](https://portal.office.com/adminportal/home#/subscriptions) 페이지에서 **지금 바로 결제** 옵션을 선택할 수 있습니다.
+신용 카드가 거부되거나 연체료가 있는 경우 **청구** \> [제품 및 서비스](https://portal.office.com/adminportal/home#/subscriptions) 페이지에서 **잔액 결제** 옵션을 선택할 수 있습니다.
   
 **송장으로 결제(수표 또는 전자 자금 이체)**
   
