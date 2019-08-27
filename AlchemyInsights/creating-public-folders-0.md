@@ -12,18 +12,18 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: f4b85ebd2ced927a5cd0d7c79c9df6fe93fa9e8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514877"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631816"
 ---
 # <a name="creating-public-folders"></a>공용 폴더 만들기
 
 사용자가 Office 365에서 공용 폴더를 사용할 수 있으려면 먼저 공용 폴더 사서함을 하나 이상 만들어야 합니다. 만들 작업
   
-1. O365 포털에서 왼쪽 탐색 메뉴를 사용 하 여 **관리 센터** \> **Exchange**로 이동 합니다.
+1. Microsoft 365 관리 센터에서 **관리 센터** \> **Exchange**로 이동 합니다.
 
 2. **공용** \> 폴더 **공용 폴더 사서함**으로 이동한 다음 **추가**를 클릭 합니다.
 

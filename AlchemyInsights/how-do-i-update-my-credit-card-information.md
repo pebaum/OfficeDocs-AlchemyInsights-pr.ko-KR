@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 85e6691e02ae04fd2813dc8a883b879ff4bca1ff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ba0625d61d1a51f8e011765992dead21a15831f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522797"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575348"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>신용 카드 정보를 업데이트하려면 어떻게 하나요?
 
@@ -33,4 +33,4 @@ ms.locfileid: "36522797"
 
 4. 필요에 따라 신용 카드 또는 은행 계좌 정보(신용 카드 또는 은행 계좌에 표시된 이름, 청구 주소, 전화 번호 또는 만료 날짜)를 업데이트한 다음 **저장** > **완료**를 선택합니다.
 
-자세한 내용은 [비즈니스용 Office 365에서 신용 카드 또는 은행 계좌 추가, 업데이트 또는 제거](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)를 참조하세요.
+이전 관리 센터를 사용하고 있나요? 이전 단계에 대한 자세한 내용은 [비즈니스용 Office 365에서 신용 카드 또는 은행 계좌 추가, 업데이트 또는 제거](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)를 참조하세요.
