@@ -13,23 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539935"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574768"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="8c90c-102">구독을 다시 활성화하는 방법</span><span class="sxs-lookup"><span data-stu-id="8c90c-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="bf894-102">구독을 다시 활성화하는 방법</span><span class="sxs-lookup"><span data-stu-id="bf894-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="8c90c-103">구독이 만료되었거나 취소되었거나 Microsoft에서 구독을 비활성화한 경우 Microsoft 365 관리 센터에서 다시 활성화할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="8c90c-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="bf894-103">구독이 만료되었거나 취소되었거나 Microsoft에서 구독을 비활성화한 경우 Microsoft 365 관리 센터에서 다시 활성화할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="bf894-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="8c90c-104">관리 센터에서 **청구** \> [제품 및 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="8c90c-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="bf894-104">관리 센터에서 **청구** \> [제품 및 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="bf894-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="8c90c-105">**청구**에서 **갱신 설정**이나 **만료일**로 이동하여 **편집**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="8c90c-105">Under **Billing**, next to **Renews on** or **Expiring on**, select **Edit**.</span></span>
+2. <span data-ttu-id="bf894-105">다시 활성화하려는 구독을 찾습니다.</span><span class="sxs-lookup"><span data-stu-id="bf894-105">Find the key that you want to change.</span></span> <span data-ttu-id="bf894-106">**청구** 섹션에서 **다시 활성화**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="bf894-106">In the **Billing** section, choose **Reactivate**.</span></span>
 
-3. <span data-ttu-id="8c90c-106">**반복 대금 청구 설정** 창에서 원하는 옵션을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="8c90c-106">In the **Recurring billing settings** pane, select the option you want.</span></span> <span data-ttu-id="8c90c-107">반복 대금 청구가 꺼져 있는 경우, **월별**이나 **한 번**을 선택하여 켭니다.</span><span class="sxs-lookup"><span data-stu-id="8c90c-107">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
+    <span data-ttu-id="bf894-107">사용 가능한 작업으로 **다시 활성화**가 표시되지 않으면 지원 서비스에 문의하여 구독을 다시 활성화하세요.</span><span class="sxs-lookup"><span data-stu-id="bf894-107">If you don't see **Reactivate** as an available action, call support to reactivate your subscription.</span></span>
 
-4. <span data-ttu-id="8c90c-108">**변경 내용 제출**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="8c90c-108">Select **Submit change**.</span></span>
+3. <span data-ttu-id="bf894-108">결제 세부 정보를 확인합니다.</span><span class="sxs-lookup"><span data-stu-id="bf894-108">Confirm your payment details.</span></span> <span data-ttu-id="bf894-109">여기에서 기존 결제 정보를 업데이트할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="bf894-109">You can update your existing payment information here.</span></span> <span data-ttu-id="bf894-110">결제 방법 입력이 완료되면 **다시 활성화**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="bf894-110">When you're finished entering your payment method, choose **Reactivate**.</span></span>
 
-<span data-ttu-id="8c90c-109">자세한 내용은 다음을 참조하세요. [Office 365 비즈니스 에디션 갱신](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="8c90c-109">For more information, see: [Renew Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)</span></span>
+<span data-ttu-id="bf894-111">이전 관리 센터를 사용하고 있나요?</span><span class="sxs-lookup"><span data-stu-id="bf894-111">Are you using the old admin center?</span></span> <span data-ttu-id="bf894-112">이전 단계에 대한 자세한 내용은 [구독 다시 활성화](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="bf894-112">For old steps, or to learn more, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
