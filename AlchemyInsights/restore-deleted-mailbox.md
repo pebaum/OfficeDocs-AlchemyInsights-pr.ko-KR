@@ -2,7 +2,6 @@
 title: 삭제 된 사서함 복원
 ms.author: pebaum
 author: pebaum
-ms.date: 9/12/2017
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -16,24 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 9fc1980b5c1d5a0bd9df032b14e2010b7f0d5873
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 44b23be5e75a0669821bbeb07b0f064eeef6d021
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551853"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666378"
 ---
 # <a name="restore-a-deleted-mailbox"></a>삭제된 사서함 복원
 
-사용자가 Exchange Online 라이선스를 잃으면 해당 사서함은 30 일간 보존 되며 사용자에 게 라이선스를 다시 할당 하 여 복구할 수 있습니다.
+사용자가 Exchange Online 라이선스를 잃어 잃으면 해당 사서함은 30 일간 보존 되며 사용자에 게 라이선스를 다시 할당 하 여 복구할 수 있습니다.
   
- *이 작업은 30 일 이내에만 작동 합니다.*  관리 포털에서 다음 위치로 이동 합니다.
+ *이 작업은 30 일 이내에만 작동 합니다.*  
   
-1. **사용자** \> **활성** 사용자 해당 하는 사용자를 선택 합니다.
+1. Microsoft 365 관리 센터에서 **사용자** \> **활성 사용자** 페이지로 이동 합니다. 해당 하는 사용자를 선택 합니다.
 
-2. 제품 라이선스를 수정 하려면 **편집** 을 클릭 합니다.
+2. **라이선스 및 앱** 탭에서 Exchange Online 라이선스를 할당 하 고 **변경 내용 저장**을 선택 합니다.
 
-3. Exchange Online 라이선스 할당 및 **저장** 누르기
-
-공유 사서함을 복구 하려는 경우 30 일 동안에도 복구할 수 있습니다. **사용자** \> 를 **삭제** 한 사용자 아래에서 찾을 수 있습니다. 공유 사서함에는 라이선스가 필요 하지 않습니다. 삭제 된 사용자를 복원 해야 하는 경우 [Office 365에서 사용자 복원을](https://docs.microsoft.com/office365/admin/add-users/restore-user)참조 하세요.
+공유 사서함을 복구 하려는 경우 30 일 동안에도 복구할 수 있습니다. **사용자** \> 를 **삭제**한 사용자 아래에서 찾을 수 있습니다. 공유 사서함에는 라이선스가 필요 하지 않습니다. 삭제 된 사용자를 복원 해야 하는 경우 [Office 365에서 사용자 복원을](https://docs.microsoft.com/office365/admin/add-users/restore-user)참조 하세요.
   
