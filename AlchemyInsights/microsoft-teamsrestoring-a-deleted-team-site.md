@@ -2,7 +2,6 @@
 title: Microsoft 팀-삭제 된 팀 사이트 복원
 ms.author: heidip
 author: microsoftheidi
-ms.date: 6/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,14 +10,14 @@ ms.custom:
 - "404"
 - "6500002"
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 45d2303134c83c8fb16533ff07dec0cf52ee8ba8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 84aaa331fdd4d4e10fcbebe41800c86b3a457649
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544797"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666954"
 ---
-# <a name="restoring-a-deleted-team-site"></a><span data-ttu-id="a7e29-102">삭제 된 팀 사이트 복원</span><span class="sxs-lookup"><span data-stu-id="a7e29-102">Restoring a Deleted Team Site</span></span>
+# <a name="restoring-a-deleted-team-in-microsoft-teams"></a><span data-ttu-id="d7fef-102">Microsoft 팀에서 삭제 된 팀 복원</span><span class="sxs-lookup"><span data-stu-id="d7fef-102">Restoring a deleted Team in Microsoft Teams</span></span>
 
-<span data-ttu-id="a7e29-103">실수로 팀을 삭제 했습니까?</span><span class="sxs-lookup"><span data-stu-id="a7e29-103">Did you accidentally delete a team?</span></span> <span data-ttu-id="a7e29-104">팀을 삭제 한 후 30 일이 지난 경우에는 사용자가 다시 작업할 수 있습니다. 복원할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a7e29-104">If it’s been less than 30 days since you deleted the team, you’re in luck; you can restore it.</span></span> <span data-ttu-id="a7e29-105">이렇게 하려면 다음 단계를 수행 하 여 [삭제 된 팀 복원](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)</span><span class="sxs-lookup"><span data-stu-id="a7e29-105">To do so, follow the steps here: [Restoring a deleted team](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)</span></span>
+<span data-ttu-id="d7fef-103">실수로 팀을 삭제 했습니까?</span><span class="sxs-lookup"><span data-stu-id="d7fef-103">Did you accidentally delete a team?</span></span> <span data-ttu-id="d7fef-104">팀을 삭제 한 후 30 일이 지난 경우에는 사용자가 다시 작업할 수 있습니다. 복원할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="d7fef-104">If it’s been less than 30 days since you deleted the team, you’re in luck; you can restore it.</span></span> <span data-ttu-id="d7fef-105">이렇게 하려면 다음 단계를 수행 하 여 [삭제 된 팀 복원](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)</span><span class="sxs-lookup"><span data-stu-id="d7fef-105">To do so, follow the steps here: [Restoring a deleted team](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)</span></span>
   
