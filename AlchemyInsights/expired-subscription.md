@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575594"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665046"
 ---
 # <a name="expired-subscription"></a>만료 된 구독
 
@@ -34,7 +34,7 @@ ms.locfileid: "36575594"
 
 3. 결제 정보를 확인 합니다. 여기에서 기존 결제 정보를 업데이트할 수 있습니다. 결제 방법 입력이 끝나면 **재 활성화**를 선택 합니다.
 
-이전 관리 센터를 사용 하 고 있나요? 이전 단계 또는 자세한 내용을 보려면 [구독 다시 활성화](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)를 참조 하세요.
+자세한 내용은 [구독 다시 활성화](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)를 참조 하세요.
 
 **새 구매 만들기**
   
@@ -46,4 +46,4 @@ ms.locfileid: "36575594"
 
 4. 나머지 단계를 수행 하 여 체크 아웃을 완료 합니다.
 
-이전 관리 센터를 사용 하 고 있나요? 이전 단계 또는 자세히 알아보려면 [다른 구독 구입](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)을 참조 하세요.
+자세한 내용은 [다른 구독 구매](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)를 참조 하세요.

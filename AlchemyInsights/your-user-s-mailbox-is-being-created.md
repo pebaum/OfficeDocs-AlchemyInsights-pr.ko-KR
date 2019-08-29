@@ -2,7 +2,6 @@
 title: 사용자의 사서함을 만들고 있습니다.
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 3/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +10,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 01d13109604410ba8ca201acb7e3b3bc2aaf6cca
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 38741e07444474cf377aa69504b16764417d1d44
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557767"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665658"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>사용자 사서함을 만들고 있습니다.
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a>사용자 사서함 만들기 시간이 오래 걸리는 경우
 
 새 사서함을 사용할 준비가 되 면 최대 24 시간이 걸릴 수 있습니다.
   
-사용자의 사서함이 1 시간 이상 "준비 중" 상태인 경우 사용자에 게 Exchange 라이선스를 제거 하 고 다시 추가 하 고, "내 전화를 드리겠습니다." 옵션을 사용 하 여 지원 엔지니어와 의견을 교환 해 봅니다.
+사용자의 사서함이 1 시간 이상 "준비 중" 상태인 경우 사용자에 게 Exchange 라이선스를 제거 하 고 다시 추가 하거나 [지원 서비스에 문의](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?tabs=online)하세요.

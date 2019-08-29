@@ -3,7 +3,6 @@ title: 955 MFA를 구성 하는 방법
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/15/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +11,12 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 2864e583d8214434530efb663ee71d75dcd9100a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 851aed83ff87777666130dfd2009073d852cb643
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541159"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664038"
 ---
 # <a name="configure-multi-factor-authentication-in-office-365"></a>Office 365에서 다단계 인증 구성
 

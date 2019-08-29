@@ -3,7 +3,6 @@ title: 감사 로그 사용 및 검색
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527729"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665082"
 ---
 # <a name="enable-and-search-the-audit-log"></a>감사 로그 사용 및 검색
+
+**Office 365**
 
 Office 365 감사 로그를 검색 하려면 [다음 단계](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)를 수행 합니다.
 
@@ -28,7 +29,7 @@ Office 365 감사 로그를 검색 하려면 [다음 단계](https://docs.micros
 
 - Exchange 관리 활동은 기본적으로 감사 됩니다.
 
-- Office 365에서 기본적으로 사서함 감사를 사용 하도록 설정 하는 프로세스를 진행 중입니다. 그때까지 단일 사서함 또는 조직의 모든 사서함에 대 한 감사를 사용 하도록 설정 하려면 [이 문서](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)를 참조 하세요.
+- 사서함 감사는 기본적으로 Office 365에서 사용 하도록 설정 되어 있습니다. 자세한 내용은 [이 문서](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)를 참조 하세요.
 
 - Office 365 Exchange Online의 그룹 사서함 및 공용 폴더 사서함은 감사 로깅을 지원 하지 않습니다.
 

@@ -13,12 +13,12 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: dbcaf1a838bd29105e5a4643735d82b8a63f35d1
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4f71ec857cb77a1146dcb060007594b0f115b6a5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575384"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664434"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>신용 카드 정보를 제거 하려면 어떻게 해야 합니까?
 
@@ -33,4 +33,4 @@ ms.locfileid: "36575384"
 
 4. **결제 방법 삭제** 창에서 **삭제**를 선택 합니다.
 
-이전 관리 센터를 사용 하 고 있나요? 이전 단계에 대 한 자세한 내용은 [비즈니스용 Office 365에서 신용 카드 또는 은행 계좌 추가, 업데이트 또는 제거](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)를 참조 하세요.
+자세한 내용은 [비즈니스용 Office 365에서 신용 카드 또는 은행 계좌 추가, 업데이트 또는 제거](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)를 참조 하세요.

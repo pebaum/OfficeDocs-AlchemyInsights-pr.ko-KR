@@ -3,7 +3,6 @@ title: Project Web App 사이트에 대 한 액세스 거부
 ms.author: efrene
 author: efrene
 manager: pamg
-ms.date: 4/09/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: b460f3b66a25b2724954c9ce5f2a7b30d8a4f1c4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495901"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661230"
 ---
 # <a name="give-users-permissions-in-project-online"></a>Project Online에서 사용자에 게 사용 권한 부여
 
 사용자에 게 SharePoint 사용 권한 모드를 사용 하 여 Project Web App 사이트에 대 한 액세스 권한을 부여 합니다.
 
 1. 관리자로 Project Online에 로그인 합니다.
-2. Project Web App 홈 페이지에서 오른쪽 위 모서리에 있는 **공유**를 선택 합니다.
+2. Project Web App 홈 페이지의 오른쪽 위 모서리에서 **공유** 를 선택 합니다.
 3. **Project Web App 공유** 대화 상자에서 사용자 **초대** 상자에 액세스 권한을 부여할 사용자의 이름을 입력 합니다.
 4. **옵션 표시**를 선택 하 고 **사용 권한 수준 선택** 메뉴에서 project **Web App에 대 한 프로젝트 관리자**를 선택 합니다.
 5. **공유**를 선택 합니다.

@@ -3,25 +3,24 @@ title: 305 보관 사서함 크기를 늘립니다.
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391377"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661806"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>보관 사서함 크기 늘리기
 
 Office 365은 사용자 계정에 할당 된 라이선스를 기반으로 보관 사서함의 크기를 [제한](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) 합니다. 보관 사서함이 허용 되는 크기의 90%에 도달 하면 사용자에 게 전자 메일 알림이 수신 됩니다. 보관 사서함의 크기 제한에 도달 하면 사용자는 보관 사서함으로 항목을 더 이상 이동할 수 없습니다. 크기 제한에 도달 하면 Office 365에서 보관 사서함의 크기를 늘리지 않습니다. 대신 사용자는 다음 작업을 수행 하 여 보관 사서함의 공간을 늘릴 수 있습니다.
 
-- Outlook을 사용 하 여 .pst 파일로 항목 내보내기
+- Outlook을 사용 하 여 항목을 .pst 파일로 내보냅니다.
 
 - 보관 사서함에서 항목을 삭제 합니다.
 
