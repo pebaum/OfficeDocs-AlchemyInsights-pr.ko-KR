@@ -13,12 +13,12 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 1adf0879ad7e4a0152315d4c7ce290b386de13da
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 015a3e81b4f96d71f34439c2b8977fdbcb1ec567
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576026"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661446"
 ---
 # <a name="manage-recurring-billing"></a>되풀이 되는 대금 청구 관리
 
@@ -32,4 +32,4 @@ Microsoft 365 관리 센터에서 되풀이 되는 대금 청구를 설정 하�
 
 4. **변경 제출을**선택 합니다.
 
-이전 관리 센터를 사용 하 고 있나요? 이전 단계 또는 자세한 내용은 [Turn 반복 청구 끄기 또는 끄기를](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on)참조 하세요.
+자세한 내용은 [켜기 정기 결제 끄기 또는 끄기를](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on)참조 하세요.

@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574548"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663966"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>되풀이 되는 대금 청구를 다시 활성화 하 고 관리 하는 방법
 
@@ -32,7 +32,7 @@ ms.locfileid: "36574548"
 
 3. 결제 정보를 확인 합니다. 여기에서 기존 결제 정보를 업데이트할 수 있습니다. 결제 방법 입력이 끝나면 **재 활성화**를 선택 합니다.
 
-이전 관리 센터를 사용 하 고 있나요? 이전 단계 또는 자세한 내용을 보려면 [구독 다시 활성화](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription)를 참조 하세요. 
+자세한 내용은 [구독 다시 활성화](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription)를 참조 하세요. 
 
 월별 또는 연간 대금 청구를 관리 하려면 되풀이 되는 **대금 청구** 를 설정 하거나 해제 합니다.
   
@@ -46,4 +46,4 @@ ms.locfileid: "36574548"
 
 5. **변경 제출을**선택 합니다.
 
-이전 관리 센터를 사용 하 고 있나요? 이전 단계 또는 자세한 내용은 [Turn 반복 청구 끄기 또는 끄기를](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)참조 하세요.
+자세한 내용은 [켜기 정기 결제 끄기 또는 끄기를](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)참조 하세요.

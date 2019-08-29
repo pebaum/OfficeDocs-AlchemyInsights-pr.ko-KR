@@ -13,12 +13,12 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74d558db780958ea5d5fa56382e852b8684e550a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501371"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666018"
 ---
 # <a name="subscription-recurring-billing"></a>구독 되풀이 대금 청구
 
@@ -30,4 +30,4 @@ ms.locfileid: "36501371"
 
 4. 변경을 수행 하려면 **편집** 을 선택한 다음, 되풀이 되는 **청구** 설정 창에서 **해제** 를 선택 하 여 해제 합니다. 되풀이 되는 대금 청구를 사용 하지 않도록 설정 되어 있으면 **매월** 또는 **한 번** 을 선택 하 여 설정 합니다.
 
-자세한 내용은 [켜기 정기 청구 끄기 또는 끄기를](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)참조 하세요.
+자세한 내용은 [켜기 정기 결제 끄기 또는 끄기를](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)참조 하세요.

@@ -3,7 +3,6 @@ title: OneDrive 일반적인 문제 및 해결 방법
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 8/7/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +11,16 @@ ms.collection: Admin_O365
 ms.custom:
 - "9000293"
 - "1901"
-ms.openlocfilehash: 88804e84f8bc3155abdf90e1c9961806367299d9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ffd92db8c2ff810e1cc12dae3cf9a5cb559a8f9d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543751"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660870"
 ---
 # <a name="onedrive-common-issues-and-resolutions"></a>OneDrive 일반적인 문제 및 해결 방법
 
-OneDrive에 대 한 질문을 하 고 있는 것 같습니다. 오류, 사용 중인 기능 등을 포함 하 여 문제를 설명 하는 하나 또는 두 개의 문장으로 질문을 다시 입력 하는 것이 더 나은 답을 얻을 수 있습니다.  
-
-다음에는 몇 가지 자주 요청 되는 항목이 나와 있습니다.
+다음은 OneDrive 문제와 관련 된 몇 가지 자주 묻는 항목입니다.
 
 - **Onedrive 동기화 설정**: 비즈니스용 [onedrive 파일을 동기화](https://go.microsoft.com/fwlink/?linkid=533375) 하거나 [SharePoint 파일](https://go.microsoft.com/fwlink/?linkid=871666) 을 Windows 용 onedrive 동기화 클라이언트와 동기화 합니다.  Mac 사용 파일을 [OneDrive와](https://support.office.com/article/Sync-files-with-the-OneDrive-sync-client-on-Mac-OS-X-d11b9f29-00bb-4172-be39-997da46f913f) 도 함께 동기화 할 수 있습니다.
 

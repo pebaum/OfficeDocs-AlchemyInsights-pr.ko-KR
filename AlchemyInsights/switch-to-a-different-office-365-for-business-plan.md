@@ -3,7 +3,6 @@ title: 다른 Office 365 for Business 요금제로 전환
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 8177f08163c85856cf4446592d10177170ba1e28
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 2374f8e0c38b63bb45921ba78a2b56ad065ed49c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575990"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665982"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>다른 Office 365 for Business 요금제로 전환
 
@@ -33,5 +32,5 @@ ms.locfileid: "36575990"
 4. 업그레이드할 계획을 찾은 다음 **upgrade (업그레이드** ) 단추를 선택 합니다.
 
 5. 필요한 라이선스 수를 입력 하 고 매달 지불할 지, 아니면 전체를 지불 하도록 선택 하 고, **체크 아웃**을 선택 합니다.
-   
-이전 관리 센터를 사용 하 고 있나요? 이전 단계 또는 자세히 알아보려면 [다른 요금제로 업그레이드를](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)참조 하세요.  
+
+자세한 내용은 [다른 요금제로 업그레이드를](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)참조 하세요.  

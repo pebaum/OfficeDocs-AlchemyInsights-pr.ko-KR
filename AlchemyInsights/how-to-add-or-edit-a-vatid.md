@@ -12,16 +12,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff90ca14e4036b9a3b470e08cf749fd437ba6d78
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575004"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664326"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>VatID를 추가 하거나 편집 하는 방법
 
-1.  Microsoft 365 관리 센터에서 **청구** \> [제품 & 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.
+1. Microsoft 365 관리 센터에서 **청구** \> [제품 & 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.
 
 2. 업데이트 하려는 구독의 구독 카드를 찾습니다.
 
@@ -31,7 +31,7 @@ ms.locfileid: "36575004"
 
     완료 되 면 VAT는 다음 청구서에 청구 되지 않습니다.
 
-이전 관리 센터를 사용 하 고 있나요? 이전 단계 또는 자세한 내용은 [어떤 세금을 Office 365에 대해 부과할 것인가?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) 를 참조 하세요.
+자세한 내용은 [어떤 세금에서 Office 365에 대해 부과할 것인가?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) 를 참조 하세요.
 
 **추가 리소스**
 

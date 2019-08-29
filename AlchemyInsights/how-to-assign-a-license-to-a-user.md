@@ -3,7 +3,6 @@ title: 사용자에 게 라이선스를 할당 하는 방법
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 142a0ada8caa410228562aad4549a5d75b313b7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 418d7f7d0c3ea8a64e9a635872b954f51808b6f5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522473"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664254"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>사용자에 게 라이선스를 할당 하는 방법
 
@@ -34,4 +33,4 @@ ms.locfileid: "36522473"
 
 4. 창 맨 아래에서 **변경 내용 저장**을 선택 합니다.
 
-자세한 내용은 [비즈니스용 office 365의 사용자에 게 라이선스 할당](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)및 [비즈니스용 office 365의 사용자](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users)에 대 한 라이선스 제거를 참조 하세요.
+자세한 내용은 [사용자에 게 라이선스 할당](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)및 [사용자 로부터 라이선스 제거](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users)를 참조 하세요.

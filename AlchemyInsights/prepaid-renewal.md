@@ -13,12 +13,12 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554627"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666702"
 ---
 # <a name="prepaid-office-365-renewal"></a>선불 Office 365 갱신
 
@@ -35,4 +35,4 @@ ms.locfileid: "36554627"
 
 5. 주문 세부 정보를 검토 한 다음 **** 사용을 선택 합니다.
 
-자세한 내용은 [제품 키 사용을 위해 유료 구독에 라이선스 추가 또는 확장](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)을 참조 하세요.
+자세한 내용은 [제품 키를 사용 하 여 유료 구독에 라이선스 추가 또는 확장](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)을 참조 하세요.

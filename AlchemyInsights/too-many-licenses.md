@@ -13,12 +13,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549081"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665946"
 ---
 # <a name="too-many-licenses"></a>라이선스가 너무 많음
 
@@ -32,4 +32,4 @@ ms.locfileid: "36549081"
 
 3. **총 라이선스** 상자에이 구독에 필요한 총 라이선스 수를 입력 한 다음 **변경 제출을**선택 합니다. 예를 들어 110개의 라이선스가 있는데 그중 5개를 제거해야 하는 경우 105를 입력합니다.
 
-자세한 내용은 [Office 365 비즈니스 에디션 구독에서 라이선스 제거](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)를 참조하세요.
+자세한 내용은 [Office 365 비즈니스 에디션 구독에서 라이선스 제거](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)를 참조 하세요.

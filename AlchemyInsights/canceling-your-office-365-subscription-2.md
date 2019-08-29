@@ -13,12 +13,12 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 75ce59fedadc22291062affd2220b08057910966
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576098"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665478"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Office 365 구독을 취소 하 시겠습니까?
 
@@ -28,4 +28,4 @@ ms.locfileid: "36576098"
   
 또는 지원 엔지니어에 게 문의 하는 **데 도움이 필요** 하세요를 선택 합니다.
   
-이전 관리 센터를 사용 하 고 있나요? 이전 단계 또는 자세한 내용은 [구독 취소](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)를 참조 하세요.
+자세한 내용은 [구독 취소](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)를 참조 하세요.
