@@ -2,7 +2,6 @@
 title: 삭제 된 사서함 복원
 ms.author: pebaum
 author: pebaum
-ms.date: 9/12/2017
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -16,24 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 9fc1980b5c1d5a0bd9df032b14e2010b7f0d5873
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 44b23be5e75a0669821bbeb07b0f064eeef6d021
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551853"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666378"
 ---
-# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="a5d73-102">삭제된 사서함 복원</span><span class="sxs-lookup"><span data-stu-id="a5d73-102">Restore a deleted mailbox</span></span>
+# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="4747f-102">삭제된 사서함 복원</span><span class="sxs-lookup"><span data-stu-id="4747f-102">Restore a deleted mailbox</span></span>
 
-<span data-ttu-id="a5d73-103">사용자가 Exchange Online 라이선스를 잃으면 해당 사서함은 30 일간 보존 되며 사용자에 게 라이선스를 다시 할당 하 여 복구할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a5d73-103">When the user loses its Exchange Online license, their mailbox is retained for 30 days and can be recovered by simply re-assigning the license to the user.</span></span>
+<span data-ttu-id="4747f-103">사용자가 Exchange Online 라이선스를 잃어 잃으면 해당 사서함은 30 일간 보존 되며 사용자에 게 라이선스를 다시 할당 하 여 복구할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="4747f-103">When a user loses an Exchange Online license, their mailbox is retained for 30 days and can be recovered by simply re-assigning the license to the user.</span></span>
   
- <span data-ttu-id="a5d73-104">*이 작업은 30 일 이내에만 작동 합니다.*</span><span class="sxs-lookup"><span data-stu-id="a5d73-104">*This will work only within 30 days.*</span></span>  <span data-ttu-id="a5d73-105">관리 포털에서 다음 위치로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="a5d73-105">In the Admin Portal, go to:</span></span>
+ <span data-ttu-id="4747f-104">*이 작업은 30 일 이내에만 작동 합니다.*</span><span class="sxs-lookup"><span data-stu-id="4747f-104">*This will work only within 30 days.*</span></span>  
   
-1. <span data-ttu-id="a5d73-106">**사용자** \> **활성** 사용자</span><span class="sxs-lookup"><span data-stu-id="a5d73-106">**Users** \> **Active** users.</span></span> <span data-ttu-id="a5d73-107">해당 하는 사용자를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="a5d73-107">Select the user in question.</span></span>
+1. <span data-ttu-id="4747f-105">Microsoft 365 관리 센터에서 **사용자** \> **활성 사용자** 페이지로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="4747f-105">In the Microsoft 365 admin center, go to the **Users** \> **Active users** page.</span></span> <span data-ttu-id="4747f-106">해당 하는 사용자를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="4747f-106">Select the user in question.</span></span>
 
-2. <span data-ttu-id="a5d73-108">제품 라이선스를 수정 하려면 **편집** 을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="a5d73-108">Press **Edit** to modify Product licenses</span></span>
+2. <span data-ttu-id="4747f-107">**라이선스 및 앱** 탭에서 Exchange Online 라이선스를 할당 하 고 **변경 내용 저장**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="4747f-107">On the **Licenses and Apps** tab, assign the Exchange Online license and select **Save changes**.</span></span>
 
-3. <span data-ttu-id="a5d73-109">Exchange Online 라이선스 할당 및 **저장** 누르기</span><span class="sxs-lookup"><span data-stu-id="a5d73-109">Assign the Exchange Online license and press **Save**</span></span>
-
-<span data-ttu-id="a5d73-110">공유 사서함을 복구 하려는 경우 30 일 동안에도 복구할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a5d73-110">If you are trying to recover a Shared mailbox, it is also recoverable for 30 days.</span></span> <span data-ttu-id="a5d73-111">**사용자** \> 를 **삭제** 한 사용자 아래에서 찾을 수 있습니다. 공유 사서함에는 라이선스가 필요 하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="a5d73-111">You can find them under **Users** \> **Deleted** users; shared mailboxes do not require a license.</span></span> <span data-ttu-id="a5d73-112">삭제 된 사용자를 복원 해야 하는 경우 [Office 365에서 사용자 복원을](https://docs.microsoft.com/office365/admin/add-users/restore-user)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="a5d73-112">If you realize that you need to restore a deleted user, please see [Restore a user in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).</span></span>
+<span data-ttu-id="4747f-108">공유 사서함을 복구 하려는 경우 30 일 동안에도 복구할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="4747f-108">If you are trying to recover a Shared mailbox, it is also recoverable for 30 days.</span></span> <span data-ttu-id="4747f-109">**사용자** \> 를 **삭제**한 사용자 아래에서 찾을 수 있습니다. 공유 사서함에는 라이선스가 필요 하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="4747f-109">You can find them under **Users** \> **Deleted users**; shared mailboxes do not require a license.</span></span> <span data-ttu-id="4747f-110">삭제 된 사용자를 복원 해야 하는 경우 [Office 365에서 사용자 복원을](https://docs.microsoft.com/office365/admin/add-users/restore-user)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="4747f-110">If you realize that you need to restore a deleted user, please see [Restore a user in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).</span></span>
   
