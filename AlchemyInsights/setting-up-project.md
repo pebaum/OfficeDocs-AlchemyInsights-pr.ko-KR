@@ -2,7 +2,6 @@
 title: 프로젝트 설정
 ms.author: pebaum
 author: pebaum
-ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +11,17 @@ ms.custom:
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: 문서에 대해 500 개 이하의 단어를 대상으로 지정 합니다.
-ms.openlocfilehash: 551ccbb34135b415fa90893ac3e6230762e718b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0a9d519b34dad0519cc2a1dbf6a8ed26e73b04d8
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508861"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666198"
 ---
-# <a name="setting-up-project"></a><span data-ttu-id="20ead-103">프로젝트 설정</span><span class="sxs-lookup"><span data-stu-id="20ead-103">Setting up Project</span></span>
+# <a name="setting-up-project"></a><span data-ttu-id="8ae3d-103">프로젝트 설정</span><span class="sxs-lookup"><span data-stu-id="8ae3d-103">Setting up Project</span></span>
 
-<span data-ttu-id="20ead-104">Office 365 구독을 사용 하 여 Project를 설정 하는 데 도움이 필요한 것 같습니다.</span><span class="sxs-lookup"><span data-stu-id="20ead-104">Looks like you need help setting up Project with your Office 365 subscription.</span></span>
-<span data-ttu-id="20ead-105">Mac 사용자에 대 한 참고 사항: 지금은 MacOS에서 Project 제품을 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="20ead-105">Notice for Mac users: The Project product is not available for MacOS at this time.</span></span> <span data-ttu-id="20ead-106">PC가 있는 경우 아래 단계에 따라 소프트웨어를 설치할 수 있어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="20ead-106">If you have a PC you should be able to install the software using the steps below.</span></span>
+ <span data-ttu-id="8ae3d-104">Microsoft Project를 설정 하려면 [이 문서](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)에 나와 있는 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="8ae3d-104">To set up Microsoft Project, follow the steps in [this article](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx).</span></span>
+
+<span data-ttu-id="8ae3d-105">**Mac 사용자에 대 한 참고 사항:** 지금은 MacOS에서 Project 제품을 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="8ae3d-105">**Notice for Mac users:** The Project product is not available for MacOS at this time.</span></span> 
   
-<span data-ttu-id="20ead-107">[이 문서](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)에 나와 있는 단계를 수행 하 여 설치를 완료할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="20ead-107">You can follow the steps in [this article](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)to get your setup completed.</span></span>
-  
-<span data-ttu-id="20ead-108">설치 하는 동안 오류가 발생 하는 경우 [지원 및 복구 도우미를 사용 하 여 Project 설치](https://aka.ms/SaRA-ProjectSetupScenario)</span><span class="sxs-lookup"><span data-stu-id="20ead-108">If you are running into errors during setup, [Install Project using the Support and Recovery Assistant](https://aka.ms/SaRA-ProjectSetupScenario)</span></span>
+<span data-ttu-id="8ae3d-106">설치 하는 동안 오류가 발생 하는 경우 [지원 및 복구 도우미를 사용 하 여 Project를 설치](https://aka.ms/SaRA-ProjectSetupScenario)합니다.</span><span class="sxs-lookup"><span data-stu-id="8ae3d-106">If you are running into errors during setup, [install Project using the Support and Recovery Assistant](https://aka.ms/SaRA-ProjectSetupScenario).</span></span>
