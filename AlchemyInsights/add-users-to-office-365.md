@@ -12,23 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: fe5c4c7ca5fa5cce199c826f8488c564bf2cdef1
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: f6a0b4cd536abbcd407235ddd0eeced8721cd994
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903079"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660690"
 ---
-# <a name="add-a-user-to-office-365"></a><span data-ttu-id="d0a73-102">Office 365에 사용자 추가</span><span class="sxs-lookup"><span data-stu-id="d0a73-102">Add a user to Office 365</span></span>
+# <a name="add-a-user-to-office-365"></a><span data-ttu-id="83e89-102">Office 365에 사용자 추가</span><span class="sxs-lookup"><span data-stu-id="83e89-102">Add a user to Office 365</span></span>
 
-<span data-ttu-id="d0a73-103">Office 365에 사용자를 추가하려면 다음 단계를 사용합니다.</span><span class="sxs-lookup"><span data-stu-id="d0a73-103">Use these steps to add a user to Office 365:</span></span>
-  
-1. <span data-ttu-id="d0a73-104">[활성 사용자](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)로 이동합니다(또는 왼쪽 탐색 영역에서 **사용자** > \> **활성 사용자** 선택).</span><span class="sxs-lookup"><span data-stu-id="d0a73-104">Go to [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (Or, on the left nav choose **Users** \> **Active users**).</span></span>
+1. <span data-ttu-id="83e89-103">Microsoft 365 관리 센터에서 **사용자** >  [활성 사용자](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)로 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="83e89-103">In the Microsoft 365 admin center, choose Users to go to the Active users page.</span></span>
 
-2. <span data-ttu-id="d0a73-105">
-            \*\*사용자 추가**를 클릭합니다.</span><span class="sxs-lookup"><span data-stu-id="d0a73-105">Click **Add a user**.</span></span>
+2. <span data-ttu-id="83e89-104">
+            \*\*사용자 추가**를 클릭합니다.</span><span class="sxs-lookup"><span data-stu-id="83e89-104">Click **Add a user**.</span></span>
 
-3. <span data-ttu-id="d0a73-p101">사용자의 정보를 입력합니다. 입력을 마쳤으면 **추가**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="d0a73-p101">Fill in the information for the user. Choose **Add** when you are done.</span></span>
+3. <span data-ttu-id="83e89-105">사용자의 정보를 입력합니다.</span><span class="sxs-lookup"><span data-stu-id="83e89-105">Fill in the information for the user.</span></span> <span data-ttu-id="83e89-106">작업이 완료되면 **추가 완료**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="83e89-106">Choose **Finish adding** when you are done.</span></span>
 
-[<span data-ttu-id="d0a73-108">자세한 정보...</span><span class="sxs-lookup"><span data-stu-id="d0a73-108">Read more...</span></span>](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+<span data-ttu-id="83e89-107">이전 관리 센터를 사용하고 있나요?</span><span class="sxs-lookup"><span data-stu-id="83e89-107">Are you using the old admin center?</span></span> <span data-ttu-id="83e89-108">이전 단계 또는 자세한 내용은 [Office 365에 개별적으로 또는 대량으로 사용자 추가](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="83e89-108">For old steps, or to learn more, see [ Add users individually or in bulk to Office 365](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec).</span></span>
   
