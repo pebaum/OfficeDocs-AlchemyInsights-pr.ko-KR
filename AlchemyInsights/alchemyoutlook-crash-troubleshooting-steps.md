@@ -13,16 +13,16 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: bcc23c54e38c0e3f06c243c53a6cc7fd1f8e7c0e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664578"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737123"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook 충돌 문제 해결 단계
 
-Outlook 데스크톱 충돌 문제가 발생 하는 경우 다음의 세 단계를 시작 합니다 (이 문서에서 자세히 설명 됨). [outlook에서 Office 365을 사용 하 여 충돌 하거나 응답을 중지 하는 문제를 해결 하는 방법](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us) 에 대해 설명 합니다.
+Outlook 데스크톱 충돌 문제가 발생 하는 경우 다음의 세 단계를 시작 합니다 (이 문서에서 자세히 설명 됨). [outlook에서 Office 365을 사용 하 여 충돌 하거나 응답을 중지 하는 문제를 해결 하는 방법](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues) 에 대해 설명 합니다.
   
 1 단계: 추가 기능에서 발생할 수 있는 문제를 조사 합니다.
   

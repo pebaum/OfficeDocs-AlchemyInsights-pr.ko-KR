@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661410"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734387"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>사서함에 대 한 사용 권한 변경
 
 사용자가 자신의 Office 365 사서함에 액세스 해야 하는 경우 해당 사서함에 대 한 작업을 수행 하기 위한 권한을 부여 받아야 합니다. 이러한 사용 권한을 할당 하는 방법은 사서함 유형에 따라 다릅니다. 사용자에 게 액세스 권한이 필요한 경우 다음을 수행 합니다.
   
-- 다른 사용자의 사서함- [Office 365에서 다른 사용자에 게 사서함 사용 권한 부여를](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8)참조 하세요.
+- 다른 사용자의 사서함- [Office 365에서 다른 사용자에 게 사서함 사용 권한 부여를](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user)참조 하세요.
     
 - 공유 사서함- [공유 사서함에서 구성원 추가 또는 제거](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7)를 참조 하세요.
     
