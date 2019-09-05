@@ -13,19 +13,19 @@ ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
 ms.custom:
 - "647"
 - "2000016"
-ms.openlocfilehash: 660a581ada8e7146abf366d83450171b2f440f8f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 28b32d18a134b7ae7d2495750768934058cb4408
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540439"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735323"
 ---
-# <a name="how-to-install-mac-office-from-the-portal"></a><span data-ttu-id="6d17d-102">포털에서 Mac Office를 설치 하는 방법</span><span class="sxs-lookup"><span data-stu-id="6d17d-102">How to install Mac Office from the portal</span></span>
+# <a name="how-to-install-mac-office-from-the-portal"></a><span data-ttu-id="f996c-102">포털에서 Mac Office를 설치 하는 방법</span><span class="sxs-lookup"><span data-stu-id="f996c-102">How to install Mac Office from the portal</span></span>
 
-1. <span data-ttu-id="6d17d-103">[컴퓨터에서 Mac 용 Office 2011을 제거](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA)합니다.</span><span class="sxs-lookup"><span data-stu-id="6d17d-103">[Uninstall Office 2011 for Mac from your computers](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span></span>
+1. <span data-ttu-id="f996c-103">[컴퓨터에서 Mac 용 Office 2011을 제거](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA)합니다.</span><span class="sxs-lookup"><span data-stu-id="f996c-103">[Uninstall Office 2011 for Mac from your computers](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span></span>
 
-2. <span data-ttu-id="6d17d-104">[Mac 소프트웨어 다운로드가 Office 365 관리 포털에서 사용 되도록 설정 되어 있는지 확인](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360?wt.mc_id=Alchemy_ClientDIA)합니다.</span><span class="sxs-lookup"><span data-stu-id="6d17d-104">[Ensure Mac Software downloads are enabled on the Office 365 admin portal](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360?wt.mc_id=Alchemy_ClientDIA).</span></span>
+2. <span data-ttu-id="f996c-104">[Office 365에서 소프트웨어 다운로드 설정을 관리](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365)합니다.</span><span class="sxs-lookup"><span data-stu-id="f996c-104">[Manage software download settings in Office 365](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).</span></span>
 
-3. <span data-ttu-id="6d17d-105">[Mac 사용자에 게 Office 라이선스를 할당](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)합니다.</span><span class="sxs-lookup"><span data-stu-id="6d17d-105">[Assign an Office license to your Mac users](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span></span>
+3. <span data-ttu-id="f996c-105">[사용자에 게 라이선스를 할당](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)합니다.</span><span class="sxs-lookup"><span data-stu-id="f996c-105">[Assign licenses to users](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span>
 
-4. <span data-ttu-id="6d17d-106">그러면 사용자가 Office 소프트웨어를 직접 설치 하거나 [Mac 사용자에 게 Office 배포를](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac)사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="6d17d-106">Users can then install the Office software themselves, or you can use [Deploy Office to your Mac users](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span></span>
+4. <span data-ttu-id="f996c-106">그러면 사용자가 Office 소프트웨어를 직접 설치 하거나 [Mac 사용자에 게 Office 배포를](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac)사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f996c-106">Users can then install the Office software themselves, or you can use [Deploy Office to your Mac users](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span></span>
