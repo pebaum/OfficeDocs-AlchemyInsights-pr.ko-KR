@@ -1,6 +1,6 @@
 ---
 title: SharePoint Online을 클래식 모드로 제한
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 3/27/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: e7ecfd8c2f1a532355bfb8c2c0a846fc0d6e88b1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18d263593d99f24c3020336ae601df14dbbf5411
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551565"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752074"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>SharePoint Online을 클래식 모드로 제한
 
@@ -34,4 +34,4 @@ ms.locfileid: "36551565"
 
 2019 년 4 월 1 일부 터, 최신 목록 및 라이브러리에 대 한 테 넌 트 수준 옵트아웃을 사용 하지 않도록 설정 하는 프로세스는 시작 하 고 5 월 31 2019 일까지 계속 진행 됩니다.  테 넌 트 옵트아웃의 결과로 클래식 모드에 있는 목록 및 라이브러리는 자동으로 최신으로 이동 됩니다.
 
-클래식 모드를 사용 해야 하는 경우 여기 [](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) 및 PnP Powershell 명령 [여기](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) 에는 클래식 모드 환경을 사용할 때 사용할 수 있는 옵션 및 도구에 대 한 추가 정보를 참조 하세요.
+클래식 모드를 사용 해야 하는 경우 여기 및 PnP Powershell 명령 [여기](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) 에는 클래식 모드 환경을 사용할 때 사용할 수 있는 옵션 및 도구에 [대 한 추가 정보를](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) 참조 하세요.

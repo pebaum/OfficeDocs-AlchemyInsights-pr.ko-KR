@@ -1,18 +1,18 @@
 ---
 title: 사이트 또는 목록을 서식 파일로 저장
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: a74d14f1743b9a016346f7bf0943523b1ab21f91
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1fe0a2f5bf65ef4e8cabf3d05a701c8eff966435
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551637"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752038"
 ---
 # <a name="save-site-or-list-as-a-template"></a>사이트 또는 목록을 서식 파일로 저장
 
@@ -39,7 +39,7 @@ SharePoint 사이트 서식 파일은 특정 비즈니스 요구를 중심으로
 - 사이트에서 너무 많은 리소스를 사용 하 고 있기 때문에 사이트 서식 파일이 50 메가바이트 (MB) 제한을 초과 합니다.
 
 
-- 조회 열을 사용 하는 목록의 데이터를 표시 하는 데 문제가 있습니다. 자세한 내용은 [Template 생성 목록에서 SharePoint Online의 올바른 조회 목록의 데이터를 표시 하지 않습니다](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).를 참조 하세요.
+- 조회 열을 사용 하는 목록의 데이터를 표시 하는 데 문제가 있습니다. 자세한 내용은 [Template 생성 목록에서 SharePoint Online의 올바른 조회 목록의 데이터를 표시 하지 않습니다](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).를 참조 하세요.
 
 
 일반적인 문제 및 솔루션에 대 한 자세한 내용은 [사이트 서식 파일 만들기 및 사용](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)을 참조 하세요.

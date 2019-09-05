@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 6e67c2916e0c5739f6126064d45e175a7fd6f8d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500221"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742739"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>탐색기에서 열기 문제 해결
 
@@ -31,6 +31,6 @@ ms.locfileid: "36500221"
 > [!NOTE]
 > 파일 탐색기에서 라이브러리를 여는 것은 여러 파일 및 폴더를 한 번 복사 하거나 이동 해야 하지만 라이브러리에서 정기적으로 작업 하려는 경우 동기화 하는 것이 좋습니다. 파일 탐색기에서 열기 문제를 해결 하려면 [탐색기에서 열기](https://go.microsoft.com/fwlink/?linkid=871665)를 참조 하십시오. 동기화 설정에 대 한 자세한 내용은 [SharePoint 파일을 새 OneDrive 동기화 클라이언트와 동기화](https://go.microsoft.com/fwlink/?linkid=871666)를 참조 하세요.
   
-자세한 내용은 [SharePoint Online의 문제를 해결 하기 위해 "탐색기에서 열기" 명령을 사용](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) 하는 방법에 대 한 문서를 참조 하세요. 
+자세한 내용은 [SharePoint Online의 문제를 해결 하기 위해 "탐색기에서 열기" 명령을 사용](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) 하는 방법에 대 한 문서를 참조 하세요. 
   
 

@@ -1,6 +1,6 @@
 ---
 title: OneDrive 또는 SharePoint에 파일 업로드
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: ddb29e04597e86ee4e54d700666548b5d2b30a81
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 1494e0009634942e8720859b39ccc5a0caf70aee
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660834"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748535"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>OneDrive 또는 SharePoint에 파일 업로드
 
@@ -25,7 +25,7 @@ ms.locfileid: "36660834"
 
 - [동기화를 사용 하 여 업로드](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
 
-- [파일 제한 (잘못 된 문자, 파일 업로드 크기, 경로 길이 등)](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [파일 제한 (잘못 된 문자, 파일 업로드 크기, 경로 길이 등)](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
 - [OneDrive 동기화 문제 해결](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 

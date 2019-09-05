@@ -13,12 +13,12 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551817"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745079"
 ---
 # <a name="restore-a-user-in-office-365"></a>Office 365에서 사용자 복원
 
@@ -32,4 +32,4 @@ ms.locfileid: "36551817"
 
 4. **전자 메일 보내기/닫기**를 클릭 하면 작업이 완료 됩니다.
 
-쉽지 않습니까? 화면 촬영에 대 한 자세한 내용 및 단계는이 문서의 [Office 365에서 사용자 복원을](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)참조 하세요. 대신 사용자 사서함을 복원 해야 하는 경우: [Exchange Online에서 사용자 사서함 삭제 또는 복원을](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)참조 하세요.
+쉽지 않습니까? 화면 촬영에 대 한 자세한 내용 및 단계는이 문서의 [Office 365에서 사용자 복원을](https://docs.microsoft.com/office365/admin/add-users/restore-user)참조 하세요. 대신 사용자 사서함을 복원 해야 하는 경우: [Exchange Online에서 사용자 사서함 삭제 또는 복원을](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)참조 하세요.

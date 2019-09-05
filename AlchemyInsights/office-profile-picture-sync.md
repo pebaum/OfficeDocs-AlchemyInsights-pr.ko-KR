@@ -1,18 +1,18 @@
 ---
 title: 사용자 프로필 사진 동기화
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: e63da2e0e67f2ed1f4f95d128b3215c8378ee81e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6d2a3d08a6ee20cd4f62457b5365449fc5781606
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521861"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753855"
 ---
 # <a name="sync-a-users-profile-picture"></a>사용자 프로필 사진 동기화
 
@@ -30,4 +30,4 @@ ms.locfileid: "36521861"
 
 참고: 그림을 이미 업로드 한 경우 SharePoint 또는 OneDrive 타일을 클릭 하 여 해당 그림을 다시 동기화 해 볼 수 있습니다.
 
-자세한 내용은 [Office 365에서 프로필 사진 동기화에 대 한 정보](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요.
+자세한 내용은 [Office 365에서 프로필 사진 동기화에 대 한 정보](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)를 참조 하세요.

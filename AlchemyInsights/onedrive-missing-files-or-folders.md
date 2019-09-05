@@ -1,24 +1,24 @@
 ---
 title: 'OneDrive: 파일 또는 폴더가 누락 됨'
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: e24e4e1a0d33f7e857fc6af25914286ae2df0b2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f94eb6f08485c28e0c98e084b25f2bc6456d3350
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521249"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753262"
 ---
 # <a name="onedrive-missing-files-or-folders"></a>OneDrive: 파일 또는 폴더가 누락 됨
 
 **사이트의 휴지통을 확인**합니다.
 
-- [SharePoint 사이트의 휴지통에서 항목 복원](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&rs=en-US&ad=US)
+- [SharePoint 사이트의 휴지통에서 항목 복원](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 - [OneDrive에서 삭제 된 파일 또는 폴더 복원](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 

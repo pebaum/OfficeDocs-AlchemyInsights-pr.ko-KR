@@ -1,6 +1,6 @@
 ---
 title: 1491-검색이 예상 대로 반환 되지 않음-결과
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 9432ba267e423ea5bbcfbc40f4ea914901207140
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132693"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753860"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>관련 정보를 찾기 위한 콘텐츠 검색 도구
 

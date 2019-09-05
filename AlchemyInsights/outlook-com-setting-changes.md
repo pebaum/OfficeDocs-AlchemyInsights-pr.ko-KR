@@ -1,6 +1,6 @@
 ---
 title: Outlook.com 설정
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 3/21/2019
@@ -9,13 +9,24 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a86cd709a86199c1db427faff74fb1270d217eee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b710fdd2f258b8142bb536205ce7e969c4669e2c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535397"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752902"
 ---
 # <a name="settings-in-outlookcom"></a>Outlook.com의 설정
 
-<ul type="disc"> <li><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">받는 사람이 조직 내부 또는 외부에 있고 해당 사용자가 Office 365 또는 Outlook.com 전자 메일 계정을 사용 하는 경우 다음 클라이언트에서 메시지를 열 때 <strong>outlook 2016, 웹/Outlook Web App의 outlook에서</strong> 별도의 작업을 수행 하지 않아도 됩니다. <strong>Outlook 모바일 앱</strong></span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">대리인</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">보호 된 전자 메일을 보낸 사용자의 보호 된 메시지를 열 수 없습니다. 원래 받는 사람 (보호 된 전자 메일을 보낸 사람)만 전자 메일의 정보를 볼 수 있습니다.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">받는 사람이 다른 인터넷 서비스 공급자에 있고 메시지를 열고 &lsquo;이름이 message.rpmsg&rsquo; 첨부&nbsp;파일을 볼 수 없는 경우에는 다음 지침을 따르십시오.</span> <ul type="circle"> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">를 선택 합니다 <strong style="mso-bidi-font-weight: normal;"></strong> . 메시지입니다.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">사용자가 &lsquo; <strong style="mso-bidi-font-weight: normal;">일회용 암호를 사용 하 여 로그인</strong> 을 선택 해야 하는 페이지로 리디렉션됩니다.&rsquo;</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">단일 사용 암호가 같은 전자 메일 주소로 전송 됩니다. 브라우저 창에 코드를 입력 하 고 <strong style="mso-bidi-font-weight: normal;">계속</strong> 을 선택 하 여 메시지를 읽습니다.</span></li> </ul> </li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">다른 Office 365 조직의 메시지를 암호화할 수 없는 경우이 <a href="https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">문서</span></a> 에 지정 된 해결 방법을 따르세요.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">받는 사람의 사서함이 <strong>Yahoo 또는 Gmail </strong>에 있는 경우이 <a href="https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">문서</span></a>에 나와 있는 <span style="mso-bidi-font-weight: bold;">지침을 따르세요</span> .</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">보호 정책은 <a href="https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types"><span style="color: blue;">알려진 파일 형식</span></a>에만 적용 됩니다. PDF 및 비즈니스용 OneDrive 첨부 파일은 암호화에 대해 지원 되지 않습니다.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">공유 사서함</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">현재 클라이언트를 통해 암호화 된 메시지를 열 수 없습니다.</span></li> </ul>
+받는 사람이 조직 내부 또는 외부에 있고 해당 사용자가 Office 365 또는 Outlook.com 전자 메일 계정을 사용 하는 경우 다음 클라이언트에서 메시지를 열 때 **outlook 2016, 웹/Outlook Web App의 outlook에서 별도의 작업을 수행 하지 않아도 됩니다. Outlook 모바일 앱**
+
+보호 된 전자 메일을 보낸 사용자의 **대리인이** 보호 된 메시지를 열 수 없습니다. 원래 받는 사람 (보호 된 전자 메일을 보낸 사람)만 전자 메일의 정보를 볼 수 있습니다.
+
+- 받는 사람이 다른 인터넷 서비스 공급자에 있고 메시지를 열고 ' 이름이 message.rpmsg&nbsp;' 첨부 파일을 볼 수 없는 경우에는 다음 지침을 따릅니다.
+    - 메시지 **읽기** 를 선택 합니다.
+    - 이러한 사용자는 **일회용 암호를 사용 하 여 로그인**을 선택 해야 하는 페이지로 리디렉션됩니다.
+    - 단일 사용 암호가 같은 전자 메일 주소로 전송 됩니다. 브라우저 창에 코드를 입력 하 고 **계속** 을 선택 하 여 메시지를 읽습니다.
+- 다른 Office 365 조직의 메시지를 암호화할 수 없는 경우이 [문서](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)에 지정 된 해결 방법을 따르세요.
+- 받는 사람의 사서함이 **Yahoo 또는 Gmail**에 있는 경우이 [문서](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)에 나와</span> 있는 지침을 따르세요.
+- 보호 정책은 [알려진 파일 형식](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)에만 적용 됩니다. PDF 및 비즈니스용 OneDrive 첨부 파일은 암호화에 대해 지원 되지 않습니다.
+- 공유 사서함은 **현재 모든 클라이언트를 통해 암호화 된 메시지를 열 수 없습니다**. 

@@ -12,15 +12,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 9dca67b4cab81f564256d40e91750fc2ce217fd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1649ff6579895a79f6fd0f96db698d40e61ba3b8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505873"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737627"
 ---
 # <a name="create-and-manage-room-mailboxes"></a>대화방 사서함 만들기 및 관리
 
 대화방 사서함을 만들고 수정 하려면 [room 사서함 만들기 및 관리](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)를 참조 하세요.
 
-대화방 및 장비 사서함에 대 한 자세한 내용은 [room 및 장비 사서함](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx)을 참조 하십시오.
+대화방 및 장비 사서함에 대 한 자세한 내용은 [room 및 장비 사서함](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)을 참조 하십시오.

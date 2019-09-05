@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: be5fac4cf4f1516575b8310347dd1d1948010538
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504541"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744827"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>민감도 레이블 표시 안 함
 
@@ -33,4 +33,4 @@ ms.locfileid: "36504541"
 
 - DLP (데이터 손실 방지) 지원: 현재는 보존 레이블만 DLP 정책의 조건으로 사용할 수 있습니다.  DLP 정책의 민감도 레이블에 대 한 지원은 아직 사용할 수 없지만 작업 하 고 있습니다.
 
-가능한 문제에 대 한 자세한 내용은 [민감도 레이블의 알려진 문제](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc?ui=en-US&rs=en-US&ad=US)를 참조 하십시오.
+가능한 문제에 대 한 자세한 내용은 [민감도 레이블의 알려진 문제](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)를 참조 하십시오.

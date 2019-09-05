@@ -13,12 +13,12 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 0edb3f738f55406ba97872311f1bde907e0ed6c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501697"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743351"
 ---
 # <a name="solutions-for-error-30068-39"></a>오류 30068-39 해결 방법
 
@@ -26,7 +26,7 @@ ms.locfileid: "36501697"
   
 - 컴퓨터를 다시 시작 하 고 [Office를 설치](https://portal.office.com/OLS/MySoftware.aspx)해 봅니다.
 
-- **Microsoft 간편 실행**[서비스가 사용 하지 않도록 설정 되어](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) 있고 사용 하지 않도록 설정 되어 있는지 확인 하 고 상태를 **수동** 또는 **자동**으로 변경 합니다.
+- **Microsoft 간편 실행** [서비스가 사용 하지 않도록 설정 되어](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) 있고 사용 하지 않도록 설정 되어 있는지 확인 하 고 상태를 **수동** 또는 **자동**으로 변경 합니다.
 
 - [지원 및 복구 도우미](https://aka.ms/SARA-OfficeUninstall-Alchemy)를 다운로드 하 고 설치 합니다.
 

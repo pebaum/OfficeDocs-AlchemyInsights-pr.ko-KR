@@ -1,6 +1,6 @@
 ---
 title: 사용자 권한
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 5/21/2018
 ms.audience: ITPro
@@ -8,22 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: b5653648d2c5e136cc35e3fe98f777f5932e4ac8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ca104d8b5ed2a472faae565a04d1926504b1a95f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502777"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749806"
 ---
 # <a name="user-permissions-in-sharepoint"></a>SharePoint의 사용자 권한
 
-SharePoint 사이트를 만든 후 해당 사이트 또는 콘텐츠에 대한 사용자 액세스를 제공하거나 제한하고자 할 수 있습니다. 사용 권한을 사용 하는 가장 쉬운 방법은 제공 되는 [기본 그룹](https://support.office.com/article/default-sharepoint-groups-13bb2b6b-dd8c-447e-b71b-0e4bb9efe1d3) 및 사용 권한 수준을 사용 하는 것 이며,이는 대부분의 일반적인 시나리오를 다룹니다. 그러나 필요한 경우 기본 수준보다 더 세부적으로 사용 권한을 설정할 수 있습니다. 자세한 내용은 [SharePoint에서 사용 권한 수준 이해](https://docs.microsoft.com/sharepoint/understanding-permission-levels)를 참조 하세요.
+SharePoint 사이트를 만든 후 해당 사이트 또는 콘텐츠에 대한 사용자 액세스를 제공하거나 제한하고자 할 수 있습니다. 사용 권한을 사용 하는 가장 쉬운 방법은 제공 되는 [기본 그룹](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) 및 사용 권한 수준을 사용 하는 것 이며,이는 대부분의 일반적인 시나리오를 다룹니다. 그러나 필요한 경우 기본 수준보다 더 세부적으로 사용 권한을 설정할 수 있습니다. 자세한 내용은 [SharePoint에서 사용 권한 수준 이해](https://docs.microsoft.com/sharepoint/understanding-permission-levels)를 참조 하세요.
 
 특정 권한 수준 관리에 대 한 자세한 내용을 보려면 아래 링크를 방문 하세요.
 
 - [SharePoint 목록 또는 라이브러리에 대한 사용 권한 편집 및 관리](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [SharePoint 그룹 만들기 및 관리](https://support.office.com/article/create-and-manage-sharepoint-groups-b1e3cd23-1a78-4264-9284-87fed7282048)
+- [SharePoint 그룹 만들기 및 관리](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
 - [사용 권한 수준을 만들고 편집 하는 방법](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
 

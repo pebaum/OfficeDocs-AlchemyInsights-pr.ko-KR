@@ -13,16 +13,16 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501049"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743279"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>"허가 되지 않은 제품" 오류 해결을 위한 제안 사항
 
-Office 365 Business 또는 Business Premium과 같은 클라이언트 라이선스를 허용 하 고 [사용자에 게 라이선스가 할당 되었는지 확인](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)하는 구독이 있는지 확인 합니다. [설치 비활성화](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) 구독에서 지 원하는 설치 수를 초과 하는 경우 확인 합니다.
+Office 365 Business 또는 Business Premium과 같은 클라이언트 라이선스를 허용 하 고 [사용자에 게 라이선스가 할당 되었는지 확인](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)하는 구독이 있는지 확인 합니다. [설치 비활성화](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) 구독에서 지 원하는 설치 수를 초과 하는 경우 확인 합니다.
   
 사용자가 라이선스가 할당 된 것과 동일한 계정을 사용 하 여 로그인 하 고 있는지 확인 합니다.
   
