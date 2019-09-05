@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 3a054debbfa600c42480bb6e6bdd709ba041972a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d1c3a1bc4e61bd9167a5d7a18f064819a4686c4
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499285"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739247"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>사서함 크기를 늘리도록 요금제 전환
 
@@ -30,6 +30,6 @@ ms.locfileid: "36499285"
     
 4. 체크 아웃이 끝나면 Office 365에서 스위치를 완료 하는 데 몇 분 정도 걸립니다. 바로 새 구독 사용을 시작할 수 있습니다.
     
-자세한 내용은 [다른 Office 365 요금제로 전환을](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)참조 하십시오.
+자세한 내용은 [다른 Office 365 요금제로 전환을](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)참조 하십시오.
   
 

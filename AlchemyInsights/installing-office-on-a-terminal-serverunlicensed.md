@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498421"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735395"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>터미널 서버에 Office 설치
 
@@ -26,7 +26,7 @@ RDS (원격 데스크톱 서비스)를 사용 하 여 Windows Server에 Office 3
 
 - [공유 컴퓨터 활성화](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)를 사용 하도록 설정 해야 합니다.
 
-***기본 설치 설정을 사용 하는***office 365 포털에서 RDS에 Office 365 ProPlus를 설치 하려면 다음 단계를 수행 합니다.
+Microsoft 365 관리 센터에서 ***기본 설치 설정을 사용 하는***Office 365 PROPLUS를 RDS에 설치 하려면 다음 단계를 수행 합니다.
   
 1. 보유 하 고 있는 Office 365 요금제를 확인 합니다. [방법 알아보기](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -34,7 +34,7 @@ RDS (원격 데스크톱 서비스)를 사용 하 여 Windows Server에 Office 3
 
 3. Office가 다른 Office 365 계획을 사용 하 여 RDS 서버에 이미 설치 되어 있는 경우에는 제거 합니다. 예를 들어 제어판으로 이동 하 여 \> 프로그램을 제거 합니다. 문제가 발생 하는 경우 [Microsoft 지원 및 복구 도우미를](https://aka.ms/SARA-OfficeUninstall-Alchemy) 사용 하 여 제거 합니다.
 
-4. RDS 서버에서 관리자 계정을 사용 하 여 Office 365 포털에 로그인 하 고 [office 365 ProPlus를 설치](https://portal.office.com/OLS/MySoftware.aspx)합니다.
+4. RDS 서버에서 관리자 계정으로 Microsoft 365 관리 센터에 로그인 하 고 [Office 365 ProPlus를 설치](https://portal.office.com/OLS/MySoftware.aspx)합니다.
 
 5. Office를 설치한 후에는 열거나 Office 응용 프로그램에 ***로그인 하지 마세요*** .
 

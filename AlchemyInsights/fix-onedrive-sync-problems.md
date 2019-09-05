@@ -13,12 +13,12 @@ ms.custom:
 - "824"
 - "5800003"
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
-ms.openlocfilehash: 24aff29e854ba6e00a70737213dfaaafcb33eaf4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07239ddfeb313a7644226150000c09d5b861aa54
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525255"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739895"
 ---
 # <a name="fix-onedrive-sync-problems"></a>OneDrive 동기화 문제 해결
 
@@ -28,6 +28,6 @@ ms.locfileid: "36525255"
     
 - OneDrive 연결을 끊고 OneDrive 설치 프로그램을 다시 실행 하십시오: 작업 표시줄의 맨 오른쪽에 있는 알림 영역에서 파란색 OneDrive 클라우드 아이콘을 마우스 오른쪽 단추로 클릭 합니다. **설정을**클릭 하 고 **이 PC 연결 끊기를**클릭 합니다. OneDrive 시작 마법사의 단계에 따라 OneDrive를 다시 설정 합니다.
     
-[동기화 문제 해결을 위한 추가 단계](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US)
+[동기화 문제 해결을 위한 추가 단계](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90)
   
 

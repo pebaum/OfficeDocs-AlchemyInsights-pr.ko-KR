@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: d4bfdb44c04eb6838f4a265e55a4873d14c78f6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557983"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738095"
 ---
 # <a name="workflow-is-not-starting"></a>워크플로가 시작 되지 않음
 
@@ -33,7 +33,7 @@ ms.locfileid: "36557983"
 
     - 워크플로는 실시간으로 실행 되도록 설계 되지 않으므로 지연은 디자인 동작이 됩니다.
 
-   -  워크플로가 복잡 한 XMOL (Extensible Object Markup Language) 인 경우 컴파일이 느려질 수 있습니다. [이](https://support.microsoft.com/en-us/kb/3043697) 문서를 확인 하세요.
+   -  워크플로가 복잡 한 XMOL (Extensible Object Markup Language) 인 경우 컴파일이 느려질 수 있습니다. [이](https://support.microsoft.com//kb/3043697) 문서를 확인 하세요.
 
     - Microsoft SharePoint 2013 워크플로 플랫폼 유형을 사용 하 여 워크플로를 단순화 하거나 다시 디자인 해야 합니다.
 

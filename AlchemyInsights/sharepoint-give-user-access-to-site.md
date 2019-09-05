@@ -1,6 +1,6 @@
 ---
 title: 액세스 요청 기능
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 11/14/2018
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 059eeab6cc3aa14f90258edc39144bc6bce928c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14ae1064de9e26a4b9d9540205020af11ca2daee
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503821"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751534"
 ---
 # <a name="give-users-access-to-sharepoint-site"></a>사용자에 게 SharePoint 사이트에 대 한 액세스 권한 부여
 
@@ -24,7 +24,7 @@ ms.locfileid: "36503821"
 
 다음은 액세스 요청과 관련 된 몇 가지 일반적인 링크입니다.
 
-- [SharePoint Online에서 대기 중인 요청을 처리할 때 "액세스 거부" 또는 "승인을 요청 하지 못했습니다."](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
+- [SharePoint Online에서 대기 중인 요청을 처리할 때 "액세스 거부" 또는 "승인을 요청 하지 못했습니다."](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
 - [액세스 요청 설정 변경](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 

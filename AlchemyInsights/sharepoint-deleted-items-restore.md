@@ -12,18 +12,18 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 544e65430cce72329933933927883521b2d79e7c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d68581fed677d2578e92b667e1fd29ee27c53336
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666126"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744575"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>SharePoint에서 삭제 된 항목 복원
 
-Sharepoint에서 항목 또는 사이트를 삭제 하면 즉시 제거 되지 않습니다. 삭제 된 항목은 일정 기간 동안 휴지통으로 이동 합니다. 이 시간 동안 삭제 한 항목을 원래 위치로 복원할 수 있습니다. 자세한 내용을 보려면 아래 링크를 방문 하세요.
+SharePoint에서 항목 또는 사이트를 삭제 하면 즉시 제거 되지 않습니다. 삭제 된 항목은 일정 기간 동안 휴지통으로 이동 합니다. 이 시간 동안 삭제 한 항목을 원래 위치로 복원할 수 있습니다. 자세한 내용을 보려면 아래 링크를 방문 하세요.
 
-- [SharePoint 사이트의 휴지통에서 항목 복원](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [SharePoint 사이트의 휴지통에서 항목 복원](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
 - [OneDrive에서 삭제 된 파일 또는 폴더 복원](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
@@ -37,8 +37,8 @@ Sharepoint에서 항목 또는 사이트를 삭제 하면 즉시 제거 되지 �
 
 **파일 복원 기능**
 
-OneDrive 또는 Sharepoint 파일의 수가 너무 많이 삭제, 덮어쓰기, 손상 또는 감염 된 경우 파일 복원 기능을 사용 하 여 전체 OneDrive 또는 Sharepoint 라이브러리를 이전 시간으로 복원할 수 있습니다.
+OneDrive 또는 SharePoint 파일의 수가 너무 많이 삭제, 덮어쓰기, 손상 또는 감염 된 경우 파일 복원 기능을 사용 하 여 전체 OneDrive 또는 SharePoint 라이브러리를 이전 시간으로 복원할 수 있습니다.
 
 - [OneDrive 라이브러리 복원](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 
-- [문서 라이브러리 복원](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [문서 라이브러리 복원](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)

@@ -11,12 +11,12 @@ ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: 90c291dfbe9eb35dd878040806d5ea649e09097f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e4e2430ff2fc9b493d93897ca3429bbee82e96e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544689"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738815"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>"허용된 도메인 아님" 오류 메시지가 표시되는 경우
 
@@ -24,5 +24,5 @@ ms.locfileid: "36544689"
   
 대부분의 경우 이 오류는 조직에서 완전하게 설정되지 않은 도메인 이름 *(예: contoso.com)* 의 결과입니다.
   
-[Office 365에 도메인 추가](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)에 나와 있는 지침을 따라 도메인이 완전하게 설정되어 있는지 확인하세요.
+[Office 365에 도메인 추가](https://docs.microsoft.com/office365/admin/setup/add-domain)에 나와 있는 지침을 따라 도메인이 완전하게 설정되어 있는지 확인하세요.
   

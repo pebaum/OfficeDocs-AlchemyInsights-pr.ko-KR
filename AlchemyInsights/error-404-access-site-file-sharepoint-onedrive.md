@@ -7,12 +7,12 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 98c390e1781d9c00fbc0dbabc633594726f2fda0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527405"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740219"
 ---
 # <a name="error-404-file-not-found"></a>오류 404: 파일을 찾을 수 없음
 
@@ -22,4 +22,4 @@ ms.locfileid: "36527405"
 다음은이 문제를 해결 하는 데 도움이 될 수 있는 방법입니다.
 - 새 관리 센터 미리 보기에 있는 최신 사이트 (통신, 그룹 연결 또는 기타 사이트)의 [삭제 된 사이트를 보고 복원](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)합니다.
 - [Sharepoint 사이트의 휴지통에 있는 항목 복원](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): 이름이 바뀌거나 이동 또는 삭제 된 파일 (또는 기타 항목)을 확인 하기 위해 Sharepoint 또는 OneDrive 사이트로 이동 하 여 사이트 콘텐츠에서 휴지통을 볼 수 있습니다.
-- [Office 365 보안 &amp; 및 준수 센터에서 감사 로그 검색](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c): 아직 항목을 찾을 수 없는 경우 감사 로그 (로깅이 사용 하도록 설정 된 경우)를 검색 합니다.
+- [보안 &amp; 및 준수 센터에서 감사 로그 검색](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)(로깅이 사용 하도록 설정 된 경우)에서 아직 항목을 찾을 수 없는 경우 감사 로그를 검색 합니다.

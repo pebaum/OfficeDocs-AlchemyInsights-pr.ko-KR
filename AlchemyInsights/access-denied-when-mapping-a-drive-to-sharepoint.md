@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: c73358ebfbdede5b4e43ca2c35146f6611958e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c41bfd9d25c8aa946a4ec5156be6d2424f4e2133
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495865"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737483"
 ---
 # <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>네트워크 드라이브에 매핑된 SharePoint 라이브러리 문제 해결
 
@@ -26,7 +26,7 @@ ms.locfileid: "36495865"
 
 - **액세스가 거부 되었습니다. 이 위치에서 파일을 열기 전에 먼저 웹 사이트를 신뢰할 수 있는 사이트 목록에 추가 하 고 웹 사이트로 이동한 후 자동으로 로그인 하는 옵션을 선택 해야 합니다.**
 
-[매핑된 네트워크 드라이브 문제 해결](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx)에 대 한 도움말을 확인 합니다.
+[매핑된 네트워크 드라이브 문제 해결](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)에 대 한 도움말을 확인 합니다.
   
 라이브러리를 네트워크 드라이브로 매핑하는 기능은 일시적 이며 Internet Explorer 에서만 지원 됩니다. 대신, [주문형 파일](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)을 포함 하는 [새 OneDrive 동기화 클라이언트와 SharePoint 파일을 동기화](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) 합니다. 로컬 저장소 공간을 사용 하지 않고 OneDrive의 모든 파일에 액세스 합니다.
   

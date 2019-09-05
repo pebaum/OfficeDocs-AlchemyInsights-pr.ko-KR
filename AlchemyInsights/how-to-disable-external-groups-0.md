@@ -11,12 +11,12 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a467cc5deea6ae3a6f12832d238928daf4800039
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541231"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739571"
 ---
 # <a name="how-to-disable-external-groups"></a>외부 그룹을 사용 하지 않도록 설정 하는 방법
 
@@ -30,5 +30,5 @@ ms.locfileid: "36541231"
 
 4. **외부 네트워크** -이 옵션을 사용 하면 관리자가 네트워크에 만들 수 있는 외부 네트워크에 외부 사용자를 초대할 수 있습니다. 이 옵션은 외부 커뮤니티를 호스트 하는 데 가장 적합 합니다.
 
-자세한 내용은 Yammer 대화 및 [외부 메시징 FAQ (yammer)](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199) [에 외부 메시징 참가자 추가](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US) 를 참조 하세요.
+자세한 내용은 Yammer 대화 및 [외부 메시징 FAQ (yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq) [에 외부 메시징 참가자 추가](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) 를 참조 하세요.
   

@@ -11,12 +11,12 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: 4683a71438ec31f9e9211404a9c66c4e45e0e1df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540907"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739499"
 ---
 # <a name="how-to-disable-external-groups"></a>외부 그룹을 사용 하지 않도록 설정 하는 방법
 
@@ -30,5 +30,5 @@ Exchange Online 관리 센터에서 규칙을 만들었으면 다음 단계에 �
 
 - **저장**을 선택합니다.
 
-자세한 내용은 [Exchange 전송 규칙을 사용 하 여 Yammer 네트워크에서 외부 메시징 제어](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9) 를 참조 하세요.
+자세한 내용은 [Yammer 네트워크에서 외부 메시징 사용 안 함을](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)참조 하세요.
   

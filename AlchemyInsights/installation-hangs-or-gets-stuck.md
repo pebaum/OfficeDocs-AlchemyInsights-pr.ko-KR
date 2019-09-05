@@ -12,12 +12,12 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 321f357f97f4cf1031e5485a6a3f91397b0fbcab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498637"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735431"
 ---
 # <a name="office-installation-hangs-or-gets-stuck"></a>Office 설치가 중단 되거나 중지 됨
 
@@ -27,7 +27,7 @@ ms.locfileid: "36498637"
 
 - 유선 연결 사용
 
-- 인터넷에 연결 되어 있지 않은 경우 [office offline installer를 사용 하](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) 여 office 설치[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
+- 인터넷에 연결 되어 있지 않은 경우 [office offline installer를 사용 하](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) 여 office 설치
 
 - 바이러스 백신 소프트웨어 일시적으로 끄기
 

@@ -12,12 +12,12 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: baefa04a536e71358f1a6cd143c4c727c290e28c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 3a32db7dfda23da343e7475c0ee6497b942a8492
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664650"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737375"
 ---
 # <a name="creating-email-signatures"></a>전자 메일 서명 만들기
 
@@ -29,7 +29,7 @@ ms.locfileid: "36664650"
 
 - Outlook.com을 사용 하 여 전자 메일 서명을 만들려면 [Outlook.com에서 전자 메일 서명을 만들고 추가](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx) 합니다.
 
-- 회사에서 전송 되는 모든 전자 메일에 대해 전역 메시지 서명을 만들려고 합니다. [Office 365에서 조직 차원의 서명 및 고](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx) 지 사항 만들기
+- 회사에서 전송 되는 모든 전자 메일에 대해 전체 메시지 서명을 만들려고 합니다. [조직 차원의 서명 및 부인 만들기](https://docs.microsoft.com/office365/admin/setup/create-signatures-and-disclaimers)
 
  **팁:** 조직 차원의 서명을 "고 지 사항" 이라고 합니다.
   

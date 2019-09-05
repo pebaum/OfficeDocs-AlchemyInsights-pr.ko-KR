@@ -13,20 +13,20 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: ebab0e09aa2eb4a1605a44a670489fbe5660be32
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493922"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737087"
 ---
 # <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>관리자 역할 정의 및 할당 방법
 
 관리자 역할에 대 한 질문이 있는 것 처럼 보입니다. 다음 문서에서는 모든 질문에 대 한 답변을 제공 합니다.
   
-- [Office 365 관리자 역할 정보](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
+- [관리자 역할 소개](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [관리자 역할 할당](https://support.office.com/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
+- [관리자 역할 할당](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
 질문에 응답 하지 않습니까? 문제 없습니다! 지원 엔지니어에 게 문의 하려면 "전화를 받을 수 있습니다." 옵션을 사용 합니다.
   

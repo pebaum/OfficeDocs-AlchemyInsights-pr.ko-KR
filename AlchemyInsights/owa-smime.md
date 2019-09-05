@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 46de7befada6c67f9bc91f358201944cb1daaee2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3702311f55af63ba461bb680fe3eb57e63c5d9ef
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555923"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741299"
 ---
 # <a name="encrypt-messages-using-smime"></a>S/MIME을 사용 하 여 메시지 암호화
 
@@ -29,4 +29,4 @@ ms.locfileid: "36555923"
  **설정** > **모든 Outlook 설정을 봅니다**.
 2. **메일** > **S/MIME**을 선택 합니다.
 
-읽기 [자세한 내용은 웹에서 Outlook의 S/MIME을 사용 하 여 메시지https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480 암호화] (? wt. Mc_id = Office_Outlook_com_Alchemy)를 참조 하세요.
+자세한 내용은 [웹에서 Outlook의 S/MIME을 사용 하 여 메시지 암호화](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480?wt.mc_id=Office_Outlook_com_Alchemy) 를 참조 하세요.

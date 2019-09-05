@@ -11,16 +11,16 @@ ms.custom:
 - "683"
 - "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: a3e12e84d30dc3fed34142c5c60d8fa2ffd6ee56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5549801bfd0fd84c232f483f8d9fbd250c389aec
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523481"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739859"
 ---
 # <a name="migrating-email-from-imap-email-system-to-office-365"></a>IMAP 전자 메일 시스템에서 Office 365로 전자 메일 마이그레이션
 
-IMAP 메일 시스템에서 전자 메일을 마이그레이션하려면 다음 프로세스를 따르세요. [Microsoft 365 관리 센터의 IMAP 마이그레이션](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)
+IMAP 메일 시스템에서 전자 메일을 마이그레이션하려면 다음 프로세스를 따르세요. [Microsoft 365 관리 센터의 IMAP 마이그레이션](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
   
 많은 대규모 조직에서는 사용자 기대치를 관리 하기 위해 신중한 계획을 세워야 합니다. [IMAP 사서함을 Office 365로 마이그레이션하는 방법에 대해 알아야 할 사항](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) 문서는 변경 사항을 관리 하는 데 도움이 됩니다.
 

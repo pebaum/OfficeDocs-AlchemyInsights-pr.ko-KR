@@ -11,12 +11,12 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 4a98c08eb785b1406c661fb84b5b3e6981c31826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538473"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734711"
 ---
 # <a name="network-migration"></a>네트워크 마이그레이션
 
@@ -29,7 +29,7 @@ O365 테 넌 트가 1 테 넌 트의 여러 Yammer 네트워크 (많은 네트�
 
 - 1:1 구성에 대 한 구성을 수정 하려면 네트워크 마이그레이션 도구를 계속 사용 합니다.
 
-- 네트워크 마이그레이션에 대 한 자세한 내용은 [네트워크 마이그레이션: 여러 Yammer 네트워크 통합](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002) 을 참조 하세요.
+- 네트워크 마이그레이션에 대 한 자세한 내용은 [네트워크 마이그레이션: 여러 Yammer 네트워크 통합](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)을 참조 하세요.
 
 참고 사항:
   

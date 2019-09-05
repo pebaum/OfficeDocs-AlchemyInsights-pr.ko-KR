@@ -1,6 +1,6 @@
 ---
 title: SharePoint Online 시작
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: ae27a9fc342eb4fc4633ffd5518d63600b978db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c0220dd2535a1ef41aeef99e2bfc3fe28bac03a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504001"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751678"
 ---
 # <a name="workflows-in-sharepoint"></a>SharePoint의 워크플로
 
@@ -29,5 +29,5 @@ SharePoint 워크플로에서 전자 메일을 보내지 않는 경우 조직에
 
 워크플로를 실행 하는 경우 전자 메일 메시지가 전송 되지 않으며, 내부 상태가 일시 중단 됨 또는 받는 사람에 게 보낼 수 없음으로 설정 됩니다.
 
-자세한 내용은 다음 [문서](https://support.office.com/article/-daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or-unable-to-send-to-a-recipient-error-in-a-sharepoint-online-workflow-89d02169-5fa6-4259-affc-73edb6ca9fb6?ui=en-US&amp;rs=en-US&amp;ad=US)를 참조 하세요.
+자세한 내용은 다음 [문서](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)를 참조 하세요.
 

@@ -13,12 +13,12 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: eb69643f1760aa69ee45637b2099220ce4359692
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520565"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738527"
 ---
 # <a name="check-aad-identity-sync-status"></a>AAD Id 동기화 상태 확인
 
@@ -30,5 +30,5 @@ ms.locfileid: "36520565"
 
 - 디렉터리 동기화 창에서 DirSync 관리로 이동을 선택 합니다.
 
-디렉터리 동기화에 문제가 있으면 오류가이 페이지에 표시 됩니다. 발생할 수 있는 다양 한 오류에 대 한 자세한 내용은 [Office 365에서 디렉터리 동기화 오류 파악](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067)를 참조 하세요.
+디렉터리 동기화에 문제가 있으면 오류가이 페이지에 표시 됩니다. 발생할 수 있는 다른 오류에 대 한 자세한 내용은 [Office 365에서 디렉터리 동기화 오류 보기](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors)를 참조 하세요.
   

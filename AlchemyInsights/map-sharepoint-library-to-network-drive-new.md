@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 8226b88c0f472d0e35ff462dc5a5259487a8ef06
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7b16cb448684d3f68be84fda4d9de201b953ffb
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497025"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734891"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>네트워크 드라이브에 SharePoint 라이브러리 매핑
 
@@ -28,6 +28,6 @@ ms.locfileid: "36497025"
 **매핑된 네트워크 드라이브를 구성 하 고 문제를 해결 하는 방법**
 
 
-[구성 및 매핑된 네트워크 드라이브 문제 해결을](https://support.office.com/article/troubleshoot-mapped-network-drives-that-connect-to-sharepoint-online-ef399c67-4578-4c3a-adbe-0b489084eabe?ui=en-US&amp;rs=en-US&amp;ad=US)참조 하세요.
+[SharePoint Onlines에 연결 되는 매핑된 네트워크 드라이브 문제 해결을](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)참조 하세요.
 
 참고: Windows 8 또는 Windows 7이 포함 된 Internet Explorer 10을 사용 하는 경우 드라이브를 매핑하면 **액세스 거부** 또는 **경로에 액세스할 수 없는** 경우이 문제를 해결 하려면 [이 핫픽스](https://support.microsoft.com/help/2846960) 를 설치 합니다. 
