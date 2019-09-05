@@ -1,34 +1,34 @@
 ---
 title: SharePoint 또는 OneDrive에서 액세스 제한
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: bc0028626c8934e57e5580477b193a70e49d87be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b1ec30a55ec0c08b291228ee90771bc56a55a36d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504217"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751750"
 ---
-# <a name="irm-protection-to-sharepoint-files"></a><span data-ttu-id="4d793-102">SharePoint 파일에 대 한 IRM 보호</span><span class="sxs-lookup"><span data-stu-id="4d793-102">IRM Protection to SharePoint files</span></span>
+# <a name="irm-protection-to-sharepoint-files"></a><span data-ttu-id="b8674-102">SharePoint 파일에 대 한 IRM 보호</span><span class="sxs-lookup"><span data-stu-id="b8674-102">IRM Protection to SharePoint files</span></span>
 
 
-<span data-ttu-id="4d793-103">SharePoint Online 내에서 IRM 보호는 목록 및 라이브러리 수준의 파일에 적용 됩니다.</span><span class="sxs-lookup"><span data-stu-id="4d793-103">Within SharePoint Online, IRM protection is applied to files at the list and library level.</span></span> <span data-ttu-id="4d793-104">조직에서 IRM 보호를 사용 하려면 먼저 권한 관리를 설정 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="4d793-104">Before your organization can use IRM protection, you must first set up Rights Management.</span></span> <span data-ttu-id="4d793-105">IRM은 azure Information Protection의 Azure 권한 관리 서비스에 의존 하 여 사용 제한을 암호화 및 할당 합니다.</span><span class="sxs-lookup"><span data-stu-id="4d793-105">IRM relies on the Azure Rights Management service from Azure Information Protection to encrypt and assign usage restrictions.</span></span> <span data-ttu-id="4d793-106">일부 Office 365 계획에는 Azure 권한 관리 등이 포함 됩니다.</span><span class="sxs-lookup"><span data-stu-id="4d793-106">Some Office 365 plans include Azure Rights Management, but not all.</span></span> 
+<span data-ttu-id="b8674-103">SharePoint Online 내에서 IRM 보호는 목록 및 라이브러리 수준의 파일에 적용 됩니다.</span><span class="sxs-lookup"><span data-stu-id="b8674-103">Within SharePoint Online, IRM protection is applied to files at the list and library level.</span></span> <span data-ttu-id="b8674-104">조직에서 IRM 보호를 사용 하려면 먼저 권한 관리를 설정 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="b8674-104">Before your organization can use IRM protection, you must first set up Rights Management.</span></span> <span data-ttu-id="b8674-105">IRM은 azure Information Protection의 Azure 권한 관리 서비스에 의존 하 여 사용 제한을 암호화 및 할당 합니다.</span><span class="sxs-lookup"><span data-stu-id="b8674-105">IRM relies on the Azure Rights Management service from Azure Information Protection to encrypt and assign usage restrictions.</span></span> <span data-ttu-id="b8674-106">일부 Office 365 계획에는 Azure 권한 관리 등이 포함 됩니다.</span><span class="sxs-lookup"><span data-stu-id="b8674-106">Some Office 365 plans include Azure Rights Management, but not all.</span></span> 
 
-<span data-ttu-id="4d793-107">자세한 내용은 다음을 참조하세요:</span><span class="sxs-lookup"><span data-stu-id="4d793-107">To learn more, see:</span></span>
+<span data-ttu-id="b8674-107">자세한 내용은 다음을 참조하세요:</span><span class="sxs-lookup"><span data-stu-id="b8674-107">To learn more, see:</span></span>
 
-- <span data-ttu-id="4d793-108">[Office 응용 프로그램 및 서비스가 Azure 권한 관리를 지 원하는 방법](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)</span><span class="sxs-lookup"><span data-stu-id="4d793-108">[How Office applications and services support Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).</span></span>
+- <span data-ttu-id="b8674-108">[Office 응용 프로그램 및 서비스가 Azure 권한 관리를 지 원하는 방법](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)</span><span class="sxs-lookup"><span data-stu-id="b8674-108">[How Office applications and services support Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).</span></span>
 
-- <span data-ttu-id="4d793-109">[SharePoint 관리 센터에서 IRM (정보 권한 관리)을 설정](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)합니다.</span><span class="sxs-lookup"><span data-stu-id="4d793-109">[Set up Information Rights Management (IRM) in SharePoint admin center](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).</span></span>
+- <span data-ttu-id="b8674-109">[SharePoint 관리 센터에서 IRM (정보 권한 관리)을 설정](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)합니다.</span><span class="sxs-lookup"><span data-stu-id="b8674-109">[Set up Information Rights Management (IRM) in SharePoint admin center](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).</span></span>
 
-- <span data-ttu-id="4d793-110">[IRM을 사용 하도록 설정 하는 SharePoint 문서 라이브러리 및 목록](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists)</span><span class="sxs-lookup"><span data-stu-id="4d793-110">[IRM-enable SharePoint document libraries and lists](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).</span></span>
+- <span data-ttu-id="b8674-110">[IRM을 사용 하도록 설정 하는 SharePoint 문서 라이브러리 및 목록](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists)</span><span class="sxs-lookup"><span data-stu-id="b8674-110">[IRM-enable SharePoint document libraries and lists](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).</span></span>
 
-- <span data-ttu-id="4d793-111">[Office의 정보 권한 관리](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c)</span><span class="sxs-lookup"><span data-stu-id="4d793-111">[Information Rights Management in Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).</span></span>
+- <span data-ttu-id="b8674-111">[Office의 정보 권한 관리](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c)</span><span class="sxs-lookup"><span data-stu-id="b8674-111">[Information Rights Management in Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).</span></span>
 
-- <span data-ttu-id="4d793-112">[Exchange Online의 정보 권한 관리](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online)</span><span class="sxs-lookup"><span data-stu-id="4d793-112">[Information Rights Management in Exchange Online](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).</span></span>
+- <span data-ttu-id="b8674-112">[Exchange Online의 정보 권한 관리](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online)</span><span class="sxs-lookup"><span data-stu-id="b8674-112">[Information Rights Management in Exchange Online](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).</span></span>
 
 
