@@ -13,22 +13,21 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: a18878032c2da76c930c6d4d3fa572f46350de39
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031b79da47892b4449bfd3d6f1157d1c41e60473
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523373"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739787"
 ---
-# <a name="having-email-delivery-issues"></a><span data-ttu-id="2fc7c-102">전자 메일 배달 문제가 있나요?</span><span class="sxs-lookup"><span data-stu-id="2fc7c-102">Having email delivery issues?</span></span>
+# <a name="having-email-delivery-issues"></a><span data-ttu-id="d6fa2-102">전자 메일 배달 문제가 있나요?</span><span class="sxs-lookup"><span data-stu-id="d6fa2-102">Having email delivery issues?</span></span>
 
-<span data-ttu-id="2fc7c-103">사용자가 다음 도메인으로 보낸 전자 메일을 받을 수 없음을 발견했습니다.</span><span class="sxs-lookup"><span data-stu-id="2fc7c-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
+<span data-ttu-id="d6fa2-103">사용자가 다음 도메인으로 보낸 전자 메일을 받을 수 없음을 발견했습니다.</span><span class="sxs-lookup"><span data-stu-id="d6fa2-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
   
-<span data-ttu-id="2fc7c-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="2fc7c-104">{HealthCheckString}</span></span>
+<span data-ttu-id="d6fa2-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="d6fa2-104">{HealthCheckString}</span></span>
   
-<span data-ttu-id="2fc7c-105">도메인(DNS) 설정의 NS 또는 MX 레코드가 전자 메일을 통해 Office 365 서비스로 전송되기 위해 올바르게 구성되지 않았습니다.</span><span class="sxs-lookup"><span data-stu-id="2fc7c-105">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service.</span></span> <span data-ttu-id="2fc7c-106">자세한 내용은 [Office 365에서 DNS 레코드 업데이트](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="2fc7c-106">You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span>
+<span data-ttu-id="d6fa2-105">도메인(DNS) 설정의 NS 또는 MX 레코드가 전자 메일을 통해 Office 365 서비스로 전송되기 위해 올바르게 구성되지 않았습니다.</span><span class="sxs-lookup"><span data-stu-id="d6fa2-105">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service.</span></span> <span data-ttu-id="d6fa2-106">자세한 지침은 [DNS 호스팅 공급자에 상관없이 Office 365용 DNS 레코드 만들기](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="d6fa2-106">See [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for instructions.</span></span>
   
-<span data-ttu-id="2fc7c-107">수정하려면 Microsoft 365 관리 센터의 [도메인](https://admin.microsoft.com/adminportal/home#/Domains) 페이지로 이동하여 도움을 받을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2fc7c-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span>
+<span data-ttu-id="d6fa2-107">수정하려면 Microsoft 365 관리 센터의 [도메인](https://admin.microsoft.com/adminportal/home#/Domains) 페이지로 이동하여 도움을 받을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="d6fa2-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span>
   
-<span data-ttu-id="2fc7c-108">다른 일반적인 해결 방법은 [도메인 FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="2fc7c-108">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span>
   
