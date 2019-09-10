@@ -11,12 +11,12 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4dde8373b1580ad134b3459784e60ed247cc0fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504776"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821808"
 ---
 # <a name="connected-accounts-are-no-longer-supported"></a>연결 된 계정이 더 이상 지원 되지 않음
 
@@ -26,7 +26,7 @@ Microsoft는 2018 년 9 월 15 일에 연결 된 계정 기능을 사용 하 여
   
 [Outlook.com에서 자동 전달 설정 또는 해제](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[자동으로 Gmail 메시지를 다른 계정으로 전달](https://support.google.com/mail/answer/10957?hl=en)
+[자동으로 Gmail 메시지를 다른 계정으로 전달](https://aka.ms/forward-gmail-messages)
   
-[Yahoo 메일에서 자동 전자 메일 전달](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1)
+[Yahoo 메일에서 자동 전자 메일 전달](https://aka.ms/yahoo-email-forwarding)
   

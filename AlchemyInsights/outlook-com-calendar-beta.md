@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 8e76edd920a86445b2edc4745d39538233413c04
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75622ce992347e11dee57b3ba1b080bc498cda5b
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548145"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821988"
 ---
 # <a name="new-calendar-experiences-coming-to-outlookcom"></a>Outlook.com에 대 한 새로운 일정 경험
 
@@ -27,4 +27,4 @@ ms.locfileid: "36548145"
 
 여기서는 이벤트 아이콘 컬렉션을 확장 하 고 기존 디자인의 모양과 느낌을 업데이트 했으며, 이제 이벤트에 적절 한 아이콘을 자동으로 추가 하 여 표시 되는 내용을 한눈에 파악할 수 있습니다.
 
-[Outlook.com Calendar UserVoice 채널](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197)을 통해 새로운 기능에 대 한 의견을 제공할 수 있습니다.
+[Outlook.com Calendar UserVoice 채널](https://go.microsoft.com/fwlink/?linkid=2103075)을 통해 새로운 기능에 대 한 의견을 제공할 수 있습니다.

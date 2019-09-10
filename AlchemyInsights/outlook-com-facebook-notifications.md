@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 80ddadfedb5a8a0dff2a7b9cf371e03fae58bdff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e389deb7347e13c0e4ba658da4d355ffe11049c
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536981"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822101"
 ---
 # <a name="facebook-notifications-using-outlookcom"></a>Outlook.com을 사용 하는 Facebook 알림
 
-Facebook에서 알림을 수신 하지 않으려면 [facebook 설정을](https://www.facebook.com/settings?tab=notifications) 변경 하거나 받은 편지함 규칙을 설정할 수 있습니다.
+Facebook에서 알림을 수신 하지 않으려면 [facebook 설정을](https://aka.ms/facebook-notifications-settings) 변경 하거나 받은 편지함 규칙을 설정할 수 있습니다.
 
 1. [규칙 설정](https://outlook.live.com/mail/options/mail/rules/inboxRules)으로 이동 합니다.
 1. **새 규칙 추가**를 선택 합니다.

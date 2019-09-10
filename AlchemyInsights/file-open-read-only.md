@@ -9,12 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 5c28d5f1c6951971aab329060e24b8458e848dd7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "765"
+- "2200014"
+ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525677"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822240"
 ---
 # <a name="file-open-read-only"></a>파일을 읽기 전용으로 열기
 
@@ -22,7 +25,7 @@ ms.locfileid: "36525677"
   
  **내 바이러스 백신으로 인해 읽기 전용으로 열기**
   
-일부 바이러스 백신 프로그램은 보안상 안전 하지 않은 파일을 읽기 전용으로 여는 방법으로 보호할 수 있습니다. 이러한 설정을 조정 하는 방법에 대 한 자세한 내용은 바이러스 백신 공급자에 게 문의 해야 할 수도 있습니다. Bits Defender에는 응용 프로그램 제외 추가에 대 한 콘텐츠 (예: [Bitdefender Control Center에서 응용 프로그램 또는 프로세스 제외를 추가 하는 방법](https://www.bitdefender.com/support/how-to-add-application-or-process-exclusions-in-bitdefender-control-center-1119.mdl))가 포함 되어 있습니다.
+일부 바이러스 백신 프로그램은 보안상 안전 하지 않은 파일을 읽기 전용으로 여는 방법으로 보호할 수 있습니다. 이러한 설정을 조정 하는 방법에 대 한 자세한 내용은 바이러스 백신 공급자에 게 문의 해야 할 수도 있습니다. Bits Defender에는 응용 프로그램 제외 추가에 대 한 콘텐츠 (예: [Bitdefender Control Center에서 응용 프로그램 또는 프로세스 제외를 추가 하는 방법](https://aka.ms/AA6098i))가 포함 되어 있습니다.
   
  **파일 속성이 읽기 전용으로 설정 되어 있습니까?**
   
