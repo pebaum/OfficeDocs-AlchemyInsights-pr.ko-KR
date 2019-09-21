@@ -12,12 +12,12 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504397"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068029"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint 및 OneDrive 감사 로그
 
@@ -38,9 +38,12 @@ SharePoint 또는 OneDrive 내에 추가 구성은 필요 하지 않습니다.
 
 **SharePoint 클래식 감사 로그**
 
-- [클래식 SharePoint 감사 로그 보기 및 사용](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+SPO 레거시 감사를 UAL (통합 감사 로그)로 마이그레이션 했습니다. 즉, 모든 SPO 레거시 감사 보고서는 이제 UAL를 통해 켜지 며 레거시 감사 신호가 UAL로 마이그레이션 되었음을 의미 합니다.
 
-각 사이트 모음 별로 감사를 사용 하도록 설정 해야 합니다. 
+주요 변경 사항:
 
-**참고**: 이러한 클래식 감사 로그 보다 더 효과적이 고 고급 감사 옵션을 위해 최신 통합 감사 로그를 사용 하는 것이 좋습니다.
+- 기능을 사용할 수 없기 때문에 트리밍
+- 감사에 대해 특정 이벤트를 선택 하는 섹션을 사용할 수 없습니다. 기본적으로 사용할 수 있는 감사 이벤트의 전체 목록은 [이 문서](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) 를 참조 하세요.
+- **사용자 지정 된 보고서** 의 "위치" 옵션을 사용할 수 없습니다. 
+- "문서 열기 또는 다운로드" 이벤트를 사용할 수 없습니다. 
 
