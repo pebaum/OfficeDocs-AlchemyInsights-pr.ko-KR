@@ -17,10 +17,10 @@ ms.contentlocale: ko-KR
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36743027"
 ---
-# <a name="the-domain-is-already-in-use"></a><span data-ttu-id="9f1cc-102">도메인이 이미 사용 중입니다.</span><span class="sxs-lookup"><span data-stu-id="9f1cc-102">The domain is already in use</span></span>
+# <a name="the-domain-is-already-in-use"></a><span data-ttu-id="a29dd-102">도메인이 이미 사용 중입니다.</span><span class="sxs-lookup"><span data-stu-id="a29dd-102">The domain is already in use</span></span>
 
-<span data-ttu-id="9f1cc-103">추가하려는 도메인이 이미 다른 조직에 속합니다.</span><span class="sxs-lookup"><span data-stu-id="9f1cc-103">The domain you're trying to add already belongs to another organization.</span></span> <span data-ttu-id="9f1cc-104">이 조직에 도메인을 추가하기 전에 다른 조직에서 해당 도메인을 제거해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="9f1cc-104">You must first remove the domain from that organization before you can add it to this organization.</span></span> <span data-ttu-id="9f1cc-105">아래 문서는 이러한 절차를 안내합니다.</span><span class="sxs-lookup"><span data-stu-id="9f1cc-105">The articles below will guide you through these processes.</span></span>
+<span data-ttu-id="a29dd-103">추가하려는 도메인이 이미 다른 조직에 속합니다.</span><span class="sxs-lookup"><span data-stu-id="a29dd-103">The domain you're trying to add already belongs to another organization.</span></span> <span data-ttu-id="a29dd-104">이 조직에 도메인을 추가하기 전에 다른 조직에서 해당 도메인을 제거해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="a29dd-104">You must first remove the domain from that organization before you can add it to this organization.</span></span> <span data-ttu-id="a29dd-105">아래 문서는 이러한 절차를 안내합니다.</span><span class="sxs-lookup"><span data-stu-id="a29dd-105">The articles below will guide you through these processes.</span></span>
   
-- [<span data-ttu-id="9f1cc-106">Office 365에서 도메인 제거</span><span class="sxs-lookup"><span data-stu-id="9f1cc-106">Remove a domain from Office 365</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
+- [<span data-ttu-id="a29dd-106">Office 365에서 도메인 제거</span><span class="sxs-lookup"><span data-stu-id="a29dd-106">Remove a domain from Office 365</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
 
-- [<span data-ttu-id="9f1cc-107">도메인을 추가하고 DNS 레코드 만들기</span><span class="sxs-lookup"><span data-stu-id="9f1cc-107">Add a domain and create DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [<span data-ttu-id="a29dd-107">도메인을 추가하고 DNS 레코드 만들기</span><span class="sxs-lookup"><span data-stu-id="a29dd-107">Add a domain and create DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

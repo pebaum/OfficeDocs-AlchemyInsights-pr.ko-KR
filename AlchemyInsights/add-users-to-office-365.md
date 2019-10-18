@@ -19,14 +19,14 @@ ms.contentlocale: ko-KR
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36737843"
 ---
-# <a name="add-a-user-to-office-365"></a><span data-ttu-id="19b53-102">Office 365에 사용자 추가</span><span class="sxs-lookup"><span data-stu-id="19b53-102">Add a user to Office 365</span></span>
+# <a name="add-a-user-to-office-365"></a><span data-ttu-id="d51c4-102">Office 365에 사용자 추가</span><span class="sxs-lookup"><span data-stu-id="d51c4-102">Add a user to Office 365</span></span>
 
-1. <span data-ttu-id="19b53-103">Microsoft 365 관리 센터에서 **사용자** >  [활성 사용자](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)로 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="19b53-103">In the Microsoft 365 admin center, choose Users to go to the Active users page.</span></span>
+1. <span data-ttu-id="d51c4-103">Microsoft 365 관리 센터에서 **사용자** >  [활성 사용자](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)로 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="d51c4-103">In the Microsoft 365 admin center, choose Users to go to the Active users page.</span></span>
 
-2. <span data-ttu-id="19b53-104">
-            \*\*사용자 추가**를 클릭합니다.</span><span class="sxs-lookup"><span data-stu-id="19b53-104">Click **Add a user**.</span></span>
+2. <span data-ttu-id="d51c4-104">
+            \*\*사용자 추가**를 클릭합니다.</span><span class="sxs-lookup"><span data-stu-id="d51c4-104">Click **Add a user**.</span></span>
 
-3. <span data-ttu-id="19b53-105">사용자의 정보를 입력합니다.</span><span class="sxs-lookup"><span data-stu-id="19b53-105">Fill in the information for the user.</span></span> <span data-ttu-id="19b53-106">작업이 완료되면 **추가 완료**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="19b53-106">Choose **Finish adding** when you are done.</span></span>
+3. <span data-ttu-id="d51c4-105">사용자의 정보를 입력합니다.</span><span class="sxs-lookup"><span data-stu-id="d51c4-105">Fill in the information for the user.</span></span> <span data-ttu-id="d51c4-106">작업이 완료되면 **추가 완료**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="d51c4-106">Choose **Finish adding** when you are done.</span></span>
 
-<span data-ttu-id="19b53-107">이전 관리 센터를 사용하고 있나요?</span><span class="sxs-lookup"><span data-stu-id="19b53-107">Are you using the old admin center?</span></span> <span data-ttu-id="19b53-108">이전 단계 또는 자세한 내용은 [Office 365에 개별적으로 또는 대량으로 사용자 추가](https://docs.microsoft.com/office365/admin/add-users/add-users)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="19b53-108">For old steps, or to learn more, see [ Add users individually or in bulk to Office 365](https://docs.microsoft.com/office365/admin/add-users/add-users).</span></span>
+<span data-ttu-id="d51c4-107">이전 관리 센터를 사용하고 있나요?</span><span class="sxs-lookup"><span data-stu-id="d51c4-107">Are you using the old admin center?</span></span> <span data-ttu-id="d51c4-108">이전 단계 또는 자세한 내용은 [Office 365에 개별적으로 또는 대량으로 사용자 추가](https://docs.microsoft.com/office365/admin/add-users/add-users)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="d51c4-108">For old steps, or to learn more, see [ Add users individually or in bulk to Office 365](https://docs.microsoft.com/office365/admin/add-users/add-users).</span></span>
   

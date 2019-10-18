@@ -21,14 +21,14 @@ ms.contentlocale: ko-KR
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36742415"
 ---
-# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="79663-102">다양한 유형의 공유 Outlook 일정 및 설정 방법</span><span class="sxs-lookup"><span data-stu-id="79663-102">Different types of shared calendars and how to set them up</span></span>
+# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="c650c-102">다양한 유형의 공유 Outlook 일정 및 설정 방법</span><span class="sxs-lookup"><span data-stu-id="c650c-102">Different types of shared calendars and how to set them up</span></span>
 
-- [<span data-ttu-id="79663-103">공유 사서함 만들기</span><span class="sxs-lookup"><span data-stu-id="79663-103">Create a shared mailbox</span></span>](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
+- [<span data-ttu-id="c650c-103">공유 사서함 만들기</span><span class="sxs-lookup"><span data-stu-id="c650c-103">Create a shared mailbox</span></span>](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
 
-- [<span data-ttu-id="79663-104">회의실 및 장비 사서함</span><span class="sxs-lookup"><span data-stu-id="79663-104">Room and equipment mailboxes</span></span>](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
+- [<span data-ttu-id="c650c-104">회의실 및 장비 사서함</span><span class="sxs-lookup"><span data-stu-id="c650c-104">Room and equipment mailboxes</span></span>](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
 
-- [<span data-ttu-id="79663-105">일정 그룹 만들기</span><span class="sxs-lookup"><span data-stu-id="79663-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
+- [<span data-ttu-id="c650c-105">일정 그룹 만들기</span><span class="sxs-lookup"><span data-stu-id="c650c-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
 
-- [<span data-ttu-id="79663-106">다른 사람과 Outlook 일정 공유</span><span class="sxs-lookup"><span data-stu-id="79663-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [<span data-ttu-id="c650c-106">다른 사람과 Outlook 일정 공유</span><span class="sxs-lookup"><span data-stu-id="c650c-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-<span data-ttu-id="79663-107">다른 일정에서 약속 있음/없음 정보를 볼 수 없거나 다른 사람이 내 일정에서 약속 있음/없음 정보를 볼 수 없는 경우 [Office 365용 Microsoft 지원 및 복구 도우미 사용](https://diagnostics.office.com/)을 사용하세요.</span><span class="sxs-lookup"><span data-stu-id="79663-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="c650c-107">다른 일정에서 약속 있음/없음 정보를 볼 수 없거나 다른 사람이 내 일정에서 약속 있음/없음 정보를 볼 수 없는 경우 [Office 365용 Microsoft 지원 및 복구 도우미 사용](https://diagnostics.office.com/)을 사용하세요.</span><span class="sxs-lookup"><span data-stu-id="c650c-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
