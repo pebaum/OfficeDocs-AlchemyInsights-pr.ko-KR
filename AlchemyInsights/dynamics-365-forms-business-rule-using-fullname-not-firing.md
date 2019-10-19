@@ -10,10 +10,10 @@ ms.custom:
 - "1928"
 - "6200018"
 ms.openlocfilehash: 91e091502f2b431c380663f3b938580b6cc963c4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528978"
 ---
 # <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>통합 inteface 앱에서 전체 이름 필드를 지원 하지 않음

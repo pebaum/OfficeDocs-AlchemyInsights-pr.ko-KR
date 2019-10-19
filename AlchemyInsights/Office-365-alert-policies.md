@@ -13,10 +13,10 @@ ms.custom:
 - "3200002"
 ms.assetid: ''
 ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661302"
 ---
 # <a name="office-365-alert-policies"></a>Office 365 경고 정책
@@ -31,7 +31,7 @@ Office 365 보안 & 준수 센터는 Office 365 Enterprise 또는 Office 365 US 
 경고를 검토 하 고 작업을 수행 하려면
 
 1. [보안 & 준수 센터로](https://protection.office.com) 이동 하 여 로그인 합니다.
-2. 경고 보기를 클릭 합니다.**** **** > 
+2. 경고 보기 **를 클릭 합니다**.**** > 
 3. 알림을 클릭 하 여 경고에 대 한 정보가 포함 된 플라이 아웃 페이지를 표시 합니다.
 
 [의심 스러운 받은 편지함 규칙을 제거](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)하는 등 경고에 대해 작업을 수행할 수 있습니다. 또는 알림 플라이 아웃 페이지에서 **해결** 을 클릭 하 여 알림을 닫아야 합니다.

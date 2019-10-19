@@ -13,10 +13,10 @@ ms.custom:
 - "9000191"
 - "2383"
 ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36735899"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>외부 사용자가 공유 초대를 수락할 수 없음
