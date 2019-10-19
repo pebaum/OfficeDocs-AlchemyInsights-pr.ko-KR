@@ -13,15 +13,15 @@ ms.custom:
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
 ms.openlocfilehash: efc3680dccdf71b28049d31d86a6d5417437b769
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36740507"
 ---
-# <a name="deleting-users"></a><span data-ttu-id="5a486-102">사용자 삭제</span><span class="sxs-lookup"><span data-stu-id="5a486-102">Deleting users</span></span>
+# <a name="deleting-users"></a><span data-ttu-id="58abc-102">사용자 삭제</span><span class="sxs-lookup"><span data-stu-id="58abc-102">Deleting users</span></span>
 
-<span data-ttu-id="5a486-103">사용자 액세스를 즉시 차단 하 고 정보를 유지 해야 하 [는 경우 Office 365 데이터에 대 한 이전 직원의 액세스 차단](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="5a486-103">If you want to immediately block user access and need to keep their information, please see [Block a former employee's access to Office 365 data](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data).</span></span>
+<span data-ttu-id="58abc-103">사용자 액세스를 즉시 차단 하 고 정보를 유지 해야 하 [는 경우 Office 365 데이터에 대 한 이전 직원의 액세스 차단](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="58abc-103">If you want to immediately block user access and need to keep their information, please see [Block a former employee's access to Office 365 data](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data).</span></span>
   
-<span data-ttu-id="5a486-104">사용자를 삭제 하 고 해당 데이터에 상관 하지 않으려면 [조직에서 사용자 삭제](https://docs.microsoft.com/office365/admin/add-users/delete-a-user)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="5a486-104">If you simply want to delete the user and are not concerned with any of their data, please see [Delete a user from your organization](https://docs.microsoft.com/office365/admin/add-users/delete-a-user).</span></span> <span data-ttu-id="5a486-105">이렇게 하면 라이선스를 즉시 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5a486-105">This will immediately free up their license.</span></span>
+<span data-ttu-id="58abc-104">사용자를 삭제 하 고 해당 데이터에 상관 하지 않으려면 [조직에서 사용자 삭제](https://docs.microsoft.com/office365/admin/add-users/delete-a-user)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="58abc-104">If you simply want to delete the user and are not concerned with any of their data, please see [Delete a user from your organization](https://docs.microsoft.com/office365/admin/add-users/delete-a-user).</span></span> <span data-ttu-id="58abc-105">이렇게 하면 라이선스를 즉시 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="58abc-105">This will immediately free up their license.</span></span>
   

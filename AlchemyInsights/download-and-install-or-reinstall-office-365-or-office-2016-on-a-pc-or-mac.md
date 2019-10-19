@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8d7abd5a-5004-4d16-aad9-8083df213ea3
 ms.openlocfilehash: 54015c673e414772e9fd000f6bc012021852752b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529601"
 ---
-# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a><span data-ttu-id="43375-102">PC 또는 Mac에 Office 365 또는 Office 2016 다운로드 및 설치 또는 다시 설치</span><span class="sxs-lookup"><span data-stu-id="43375-102">Download and install or reinstall Office 365 or Office 2016 on a PC or Mac</span></span>
+# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a><span data-ttu-id="e588d-102">PC 또는 Mac에 Office 365 또는 Office 2016 다운로드 및 설치 또는 다시 설치</span><span class="sxs-lookup"><span data-stu-id="e588d-102">Download and install or reinstall Office 365 or Office 2016 on a PC or Mac</span></span>
 
-<span data-ttu-id="43375-103">구독에 포함 된 Office 제품을 다운로드 하 고 설치 하려면 [내 소프트웨어](https://portal.office.com/OLS/MySoftware.aspx) \> **사무실로** 이동 하 여 **설치**를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="43375-103">To download and install Office products included in your subscription, go to [My Software](https://portal.office.com/OLS/MySoftware.aspx) \> **Office** and click **Install**.</span></span> 
+<span data-ttu-id="e588d-103">구독에 포함 된 Office 제품을 다운로드 하 고 설치 하려면 [내 소프트웨어](https://portal.office.com/OLS/MySoftware.aspx) \> **사무실로** 이동 하 여 **설치**를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="e588d-103">To download and install Office products included in your subscription, go to [My Software](https://portal.office.com/OLS/MySoftware.aspx) \> **Office** and click **Install**.</span></span> 
   
-<span data-ttu-id="43375-104">자세한 내용은 [Office 365 다운로드 및 설치 또는 다시](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch)설치를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="43375-104">For detailed instructions, see [Download and install or reinstall Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).</span></span>
+<span data-ttu-id="e588d-104">자세한 내용은 [Office 365 다운로드 및 설치 또는 다시](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch)설치를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="e588d-104">For detailed instructions, see [Download and install or reinstall Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).</span></span>
   
-<span data-ttu-id="43375-105">오프 라인으로 Office를 설치 해야 하 [는 경우 office 2016 오프 라인 설치 관리자 사용](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="43375-105">If you need to install Office offline, see [Use the Office 2016 offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).</span></span>
+<span data-ttu-id="e588d-105">오프 라인으로 Office를 설치 해야 하 [는 경우 office 2016 오프 라인 설치 관리자 사용](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="e588d-105">If you need to install Office offline, see [Use the Office 2016 offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).</span></span>
   
 

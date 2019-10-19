@@ -1,5 +1,5 @@
 ---
-title: SharePoint에 대해 외부 공유 설정 또는 해제
+title: SharePoint의 외부 공유 설정 또는 해제
 ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
@@ -11,25 +11,25 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
 ms.openlocfilehash: 2f61a34cb0b510af7c4fcc6193a977662c328063
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36750922"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a><span data-ttu-id="f53e7-102">경고 메시지: 조직의 정책이 사용자와의 공유를 허용 하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="f53e7-102">Warning message: Your organization's policies don't allow you to share with these users</span></span>
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a><span data-ttu-id="90056-102">경고 메시지: 조직의 정책이 사용자와의 공유를 허용 하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="90056-102">Warning message: Your organization's policies don't allow you to share with these users</span></span>
 
-<span data-ttu-id="f53e7-103">조직의 외부 사용자와 공유 하려고 하면 사용자에 게 경고 메시지가 표시 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f53e7-103">Users may experience a warning message when trying to share with external users of your organization.</span></span> <span data-ttu-id="f53e7-104">이 메시지는 **조직의 정책에 따라 이러한 사용자와의 공유를 허용 하지 않습니다. Office 365 관리 센터에서 외부 공유로 이동 하 여이 기능을 사용 하도록 설정**합니다.</span><span class="sxs-lookup"><span data-stu-id="f53e7-104">The message is **Your organization's policies don't allow you to share with these users. Go to External Sharing in the Office 365 admin center to enable it**.</span></span> <span data-ttu-id="f53e7-105">이 문제는 일반적으로 외부 사용자와의 공유를 시도 하거나 새 외부 사용자와 공유할 때 발생 합니다.</span><span class="sxs-lookup"><span data-stu-id="f53e7-105">This often happens the first time attempting to share with external users or when sharing with new external users.</span></span>
+<span data-ttu-id="90056-103">조직의 외부 사용자와 공유 하려고 하면 사용자에 게 경고 메시지가 표시 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="90056-103">Users may experience a warning message when trying to share with external users of your organization.</span></span> <span data-ttu-id="90056-104">이 메시지는 **조직의 정책에 따라 이러한 사용자와의 공유를 허용 하지 않습니다. Office 365 관리 센터에서 외부 공유로 이동 하 여이 기능을 사용 하도록 설정**합니다.</span><span class="sxs-lookup"><span data-stu-id="90056-104">The message is **Your organization's policies don't allow you to share with these users. Go to External Sharing in the Office 365 admin center to enable it**.</span></span> <span data-ttu-id="90056-105">이 문제는 일반적으로 외부 사용자와의 공유를 시도 하거나 새 외부 사용자와 공유할 때 발생 합니다.</span><span class="sxs-lookup"><span data-stu-id="90056-105">This often happens the first time attempting to share with external users or when sharing with new external users.</span></span>
 
-<span data-ttu-id="f53e7-106">조직의 **SharePoint 및 OneDrive 외부 공유 설정을** 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="f53e7-106">Check the **SharePoint and OneDrive External Sharing settings** for your organization.</span></span>
+<span data-ttu-id="90056-106">조직의 **SharePoint 및 OneDrive 외부 공유 설정을** 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="90056-106">Check the **SharePoint and OneDrive External Sharing settings** for your organization.</span></span>
 
-1. <span data-ttu-id="f53e7-107">[Microsoft 365 관리 센터](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)에서 **SharePoint**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="f53e7-107">In your [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), select **SharePoint**.</span></span>
-3. <span data-ttu-id="f53e7-108">**공유** 를 선택 하 여 외부 공유 설정을 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="f53e7-108">Select **Sharing** to see the External sharing settings.</span></span>
+1. <span data-ttu-id="90056-107">[Microsoft 365 관리 센터](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)에서 **SharePoint**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="90056-107">In your [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), select **SharePoint**.</span></span>
+3. <span data-ttu-id="90056-108">**공유** 를 선택 하 여 외부 공유 설정을 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="90056-108">Select **Sharing** to see the External sharing settings.</span></span>
 
-<span data-ttu-id="f53e7-109">특정 사이트에 대 한 **외부 공유 설정을** 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="f53e7-109">Check the **External Sharing settings** for a specific site.</span></span>
+<span data-ttu-id="90056-109">특정 사이트에 대 한 **외부 공유 설정을** 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="90056-109">Check the **External Sharing settings** for a specific site.</span></span>
 
-1. <span data-ttu-id="f53e7-110">[Microsoft 365 관리 센터](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)에서 **SharePoint**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="f53e7-110">In your [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), select **SharePoint**.</span></span>
-2. <span data-ttu-id="f53e7-111">사용 가능한 사이트를 보려면 **활성 사이트** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="f53e7-111">Select **Active Sites** to see your sites that are available.</span></span>
-3. <span data-ttu-id="f53e7-112">확인 하려는 사이트를 선택 하 고 메뉴 모음에 표시 되는 **공유** 단추를 선택 하 여 사이트에 대 한 설정을 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="f53e7-112">Select the site you want to check, and then select the **Sharing** button that displays in the menu bar to verify the settings for the site.</span></span>
+1. <span data-ttu-id="90056-110">[Microsoft 365 관리 센터](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)에서 **SharePoint**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="90056-110">In your [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), select **SharePoint**.</span></span>
+2. <span data-ttu-id="90056-111">사용 가능한 사이트를 보려면 **활성 사이트** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="90056-111">Select **Active Sites** to see your sites that are available.</span></span>
+3. <span data-ttu-id="90056-112">확인 하려는 사이트를 선택 하 고 메뉴 모음에 표시 되는 **공유** 단추를 선택 하 여 사이트에 대 한 설정을 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="90056-112">Select the site you want to check, and then select the **Sharing** button that displays in the menu bar to verify the settings for the site.</span></span>
 
-<span data-ttu-id="f53e7-113">자세한 내용은 [외부 공유 개요](https://docs.microsoft.com/sharepoint/external-sharing-overview)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="f53e7-113">For more information, see [External sharing overview](https://docs.microsoft.com/sharepoint/external-sharing-overview).</span></span>
+<span data-ttu-id="90056-113">자세한 내용은 [외부 공유 개요](https://docs.microsoft.com/sharepoint/external-sharing-overview)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="90056-113">For more information, see [External sharing overview](https://docs.microsoft.com/sharepoint/external-sharing-overview).</span></span>

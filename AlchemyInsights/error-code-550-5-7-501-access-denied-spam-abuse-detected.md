@@ -12,16 +12,16 @@ ms.custom:
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
 ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36740147"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="b97c7-102">550 5.7.501 액세스 거부, 스팸 남용 감지 됨</span><span class="sxs-lookup"><span data-stu-id="b97c7-102">550 5.7.501 Access denied, spam abuse detected</span></span>
+# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="16346-102">550 5.7.501 액세스 거부, 스팸 남용 감지 됨</span><span class="sxs-lookup"><span data-stu-id="16346-102">550 5.7.501 Access denied, spam abuse detected</span></span>
 
-<span data-ttu-id="b97c7-103">일반적으로이 메시지는 사용자가 Office 365에서 새 테 넌 트에 할당 된 *onmicrosoft.com* 도메인을 사용 하 여 IP 주소에서 전자 메일 메시지를 보낼 때 발생 합니다.</span><span class="sxs-lookup"><span data-stu-id="b97c7-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Office 365.</span></span> <span data-ttu-id="b97c7-104">이 문제를 해결 하는 가장 쉬운 방법은 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="b97c7-104">The easiest way to resolve this problem is to:</span></span>
+<span data-ttu-id="16346-103">일반적으로이 메시지는 사용자가 Office 365에서 새 테 넌 트에 할당 된 *onmicrosoft.com* 도메인을 사용 하 여 IP 주소에서 전자 메일 메시지를 보낼 때 발생 합니다.</span><span class="sxs-lookup"><span data-stu-id="16346-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Office 365.</span></span> <span data-ttu-id="16346-104">이 문제를 해결 하는 가장 쉬운 방법은 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="16346-104">The easiest way to resolve this problem is to:</span></span>
 
-1. <span data-ttu-id="b97c7-105">[테 넌 트에 도메인을 추가](https://docs.microsoft.com//office365/admin/setup/add-domain)합니다.</span><span class="sxs-lookup"><span data-stu-id="b97c7-105">[Add a domain to your tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span></span>
+1. <span data-ttu-id="16346-105">[테 넌 트에 도메인을 추가](https://docs.microsoft.com//office365/admin/setup/add-domain)합니다.</span><span class="sxs-lookup"><span data-stu-id="16346-105">[Add a domain to your tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span></span>
 
-2. <span data-ttu-id="b97c7-106">[사용자의 기본 전자 메일 주소](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) 를 방금 추가한 새 사용자 지정 도메인으로 변경 합니다.</span><span class="sxs-lookup"><span data-stu-id="b97c7-106">[Change your users' primary email address](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) to the new custom domain you just added.</span></span>
+2. <span data-ttu-id="16346-106">[사용자의 기본 전자 메일 주소](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) 를 방금 추가한 새 사용자 지정 도메인으로 변경 합니다.</span><span class="sxs-lookup"><span data-stu-id="16346-106">[Change your users' primary email address](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) to the new custom domain you just added.</span></span>

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
 ms.openlocfilehash: c9a874c1b2a5d6c7d5e22aeb23b50d61b88c9da3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516209"
 ---
-# <a name="microsoft-flow"></a><span data-ttu-id="85947-102">Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="85947-102">Microsoft Flow</span></span>
+# <a name="microsoft-flow"></a><span data-ttu-id="6b1ec-102">Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="6b1ec-102">Microsoft Flow</span></span>
 
-<span data-ttu-id="85947-103">Microsoft Flow를 사용 하면 일반적인 작업을 자동화할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="85947-103">Microsoft Flow helps you automate common tasks.</span></span> <span data-ttu-id="85947-104">이 도구를 사용 하 여 목록 및 라이브러리에 대 한 워크플로를 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="85947-104">Use it to set up workflows for lists and libraries.</span></span> <span data-ttu-id="85947-105">SharePoint Online 또는 OneDrive에서 목록이 나 라이브러리에 흐름을 추가 하는 방법에 대 한 자세한 내용은 [Create a flow](https://go.microsoft.com/fwlink/?linkid=869408)를 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="85947-105">To learn how to add a flow to a list or library in SharePoint Online or OneDrive, see [Create a flow](https://go.microsoft.com/fwlink/?linkid=869408).</span></span>
+<span data-ttu-id="6b1ec-103">Microsoft Flow를 사용 하면 일반적인 작업을 자동화할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="6b1ec-103">Microsoft Flow helps you automate common tasks.</span></span> <span data-ttu-id="6b1ec-104">이 도구를 사용 하 여 목록 및 라이브러리에 대 한 워크플로를 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="6b1ec-104">Use it to set up workflows for lists and libraries.</span></span> <span data-ttu-id="6b1ec-105">SharePoint Online 또는 OneDrive에서 목록이 나 라이브러리에 흐름을 추가 하는 방법에 대 한 자세한 내용은 [Create a flow](https://go.microsoft.com/fwlink/?linkid=869408)를 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="6b1ec-105">To learn how to add a flow to a list or library in SharePoint Online or OneDrive, see [Create a flow](https://go.microsoft.com/fwlink/?linkid=869408).</span></span>
   
-[<span data-ttu-id="85947-106">Microsoft Flow 관련 비디오</span><span class="sxs-lookup"><span data-stu-id="85947-106">Videos about Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=864641)
+[<span data-ttu-id="6b1ec-106">Microsoft Flow 관련 비디오</span><span class="sxs-lookup"><span data-stu-id="6b1ec-106">Videos about Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[<span data-ttu-id="85947-107">Microsoft Flow 웹 사이트</span><span class="sxs-lookup"><span data-stu-id="85947-107">Microsoft Flow website</span></span>](https://go.microsoft.com/fwlink/?linkid=864642)
+[<span data-ttu-id="6b1ec-107">Microsoft Flow 웹 사이트</span><span class="sxs-lookup"><span data-stu-id="6b1ec-107">Microsoft Flow website</span></span>](https://go.microsoft.com/fwlink/?linkid=864642)
   
 
