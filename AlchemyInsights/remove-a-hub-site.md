@@ -11,12 +11,12 @@ ms.custom:
 - "866"
 - "5300012"
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: aacb11aa21adf704c89f7dd7a6a4006cfbf6e628
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ccd0bb32ea6b5a043412ba0040dfde78a672810a
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552861"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745367"
 ---
 # <a name="remove-a-hub-site"></a>허브 사이트 제거
 
@@ -28,5 +28,5 @@ ms.locfileid: "36552861"
 
 3. **확인**을 클릭합니다.
 
-[허브 사이트에 대해 자세히 알아보기](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f?ui=en-US&amp;rs=en-US&amp;ad=US)
+[허브 사이트에 대해 자세히 알아보기](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f)
   

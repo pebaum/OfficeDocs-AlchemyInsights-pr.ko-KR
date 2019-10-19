@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
 ms.openlocfilehash: bef0612903b9bb455aa34e90d35d6b7b9093b4e0
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36750670"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>SharePoint 또는 OneDrive에서 액세스 제한
@@ -35,7 +35,7 @@ Office 365의 SharePoint 또는 전역 관리자로 서, 관리 되지 않는 �
 
 **네트워크 위치 제한**
 
-IT 관리자는 사용자가 신뢰 하는 정의 된 네트워크 위치를 기반으로 SharePoint 및 OneDrive 리소스에 대 한 액세스를 제어할 수 있습니다. 이를 위치 기반 정책이 라고도 합니다. 자세한 내용은 [네트워크 위치를 기반으로 SharePoint Online 및 OneDrive 데이터에 대 한 제어 액세스](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location) 를 참조 하세요.
+IT 관리자는 사용자가 신뢰 하는 정의 된 네트워크 위치를 기반으로 SharePoint 및 OneDrive 리소스에 대 한 액세스를 제어할 수 있습니다. 이를  위치 기반 정책이라고도 합니다. 자세한 내용은 [네트워크 위치를 기반으로 SharePoint Online 및 OneDrive 데이터에 대 한 제어 액세스](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location) 를 참조 하세요.
 
 **사이트 잠금 제한** 
 

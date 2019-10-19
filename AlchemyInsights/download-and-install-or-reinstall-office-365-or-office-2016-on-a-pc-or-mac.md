@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8d7abd5a-5004-4d16-aad9-8083df213ea3
 ms.openlocfilehash: 54015c673e414772e9fd000f6bc012021852752b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529601"
 ---
 # <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a>PC 또는 Mac에 Office 365 또는 Office 2016 다운로드 및 설치 또는 다시 설치

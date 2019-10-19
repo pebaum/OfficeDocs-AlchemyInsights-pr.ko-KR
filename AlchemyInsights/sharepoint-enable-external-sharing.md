@@ -9,10 +9,10 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
 ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36744431"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>SharePoint Online에서 외부 공유 사용
@@ -25,7 +25,7 @@ ms.locfileid: "36744431"
 
 - [사이트 또는 문서를 공유하면 어떻게 되나요?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [SharePoint Online에 대한 외부 공유 설정 또는 해제](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [SharePoint Online의 외부 공유 설정 또는 해제](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
 - [사이트에 대한 외부 공유 설정 또는 해제](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
