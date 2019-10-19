@@ -14,17 +14,17 @@ ms.custom:
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
 ms.openlocfilehash: c44983a73e90961835f447ef1ae9714cc29059fb
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36738563"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="deb04-102">공유 사서함 보내기 동작 변경</span><span class="sxs-lookup"><span data-stu-id="deb04-102">Changing shared mailbox Send As behavior</span></span>
+# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="8b479-102">공유 사서함 보내기 동작 변경</span><span class="sxs-lookup"><span data-stu-id="8b479-102">Changing shared mailbox Send As behavior</span></span>
 
-<span data-ttu-id="deb04-p101">기본적으로 공유 사서함에서 보낸 메시지는 공유 사서함의 보낸 편지함 폴더에 저장되지 않습니다. 대신, 메시지를 보낸 사람의 보낸 편지함 폴더에 저장됩니다.</span><span class="sxs-lookup"><span data-stu-id="deb04-p101">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
+<span data-ttu-id="8b479-p101">기본적으로 공유 사서함에서 보낸 메시지는 공유 사서함의 보낸 편지함 폴더에 저장되지 않습니다. 대신, 메시지를 보낸 사람의 보낸 편지함 폴더에 저장됩니다.</span><span class="sxs-lookup"><span data-stu-id="8b479-p101">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
   
-<span data-ttu-id="deb04-105">모든 구성원이 보낸 전자 메일을 볼 수 있도록 하려면 Microsoft 365 관리 센터에서 공유 사서함 세부 정보를 편집 하 고 **보낸 항목** \> **편집**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="deb04-105">If you want to all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
+<span data-ttu-id="8b479-105">모든 구성원이 보낸 전자 메일을 볼 수 있도록 하려면 Microsoft 365 관리 센터에서 공유 사서함 세부 정보를 편집 하 고 **보낸 항목** \> **편집**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="8b479-105">If you want to all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
   
-<span data-ttu-id="deb04-106">자세한 내용은 [공유 사서함 만들기](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)를 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="deb04-106">To read more, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
+<span data-ttu-id="8b479-106">자세한 내용은 [공유 사서함 만들기](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)를 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="8b479-106">To read more, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
   
