@@ -10,10 +10,10 @@ ms.custom:
 - "1926"
 - "6200018"
 ms.openlocfilehash: cbdedd2c5fcf5517243e60e36d86479d6c3f7814
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529025"
 ---
 # <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>필드를 프로그래밍 방식으로 변경 하는 경우 OnChange 이벤트가 발생 하지 않음
