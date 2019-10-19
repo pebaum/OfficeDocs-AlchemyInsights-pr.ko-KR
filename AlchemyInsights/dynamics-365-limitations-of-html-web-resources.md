@@ -10,16 +10,16 @@ ms.custom:
 - "1473"
 - "6200020"
 ms.openlocfilehash: d3b8dd968b3b4a5f774336b529718bc20870f955
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528521"
 ---
-# <a name="webpage-html-web-resources-limitations"></a><span data-ttu-id="2859a-102">웹 페이지 (HTML)에 대 한 제한</span><span class="sxs-lookup"><span data-stu-id="2859a-102">Webpage (HTML) web resources limitations</span></span>
+# <a name="webpage-html-web-resources-limitations"></a><span data-ttu-id="5c9e7-102">웹 페이지 (HTML)에 대 한 제한</span><span class="sxs-lookup"><span data-stu-id="5c9e7-102">Webpage (HTML) web resources limitations</span></span>
 
-* <span data-ttu-id="2859a-103">HTML 웹 리소스에는 서버에서 실행 해야 하는 코드가 포함 될 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="2859a-103">An HTML web resource can’t contain any code that must be executed on the server.</span></span> <span data-ttu-id="2859a-104">ASP.NET 페이지는 HTML 웹 리소스로 업로드할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="2859a-104">ASP.NET pages can’t be uploaded as HTML web resources.</span></span>
+* <span data-ttu-id="5c9e7-103">HTML 웹 리소스에는 서버에서 실행 해야 하는 코드가 포함 될 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="5c9e7-103">An HTML web resource can’t contain any code that must be executed on the server.</span></span> <span data-ttu-id="5c9e7-104">ASP.NET 페이지는 HTML 웹 리소스로 업로드할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="5c9e7-104">ASP.NET pages can’t be uploaded as HTML web resources.</span></span>
 
-* <span data-ttu-id="2859a-105">HTML 웹 리소스는 제한 된 개수의 쿼리 문자열 매개 변수만 허용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2859a-105">HTML web resources can only accept a limited number of query string parameters.</span></span> <span data-ttu-id="2859a-106">추가 정보: [HTML 웹 리소스에 매개 변수 전달](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)</span><span class="sxs-lookup"><span data-stu-id="2859a-106">More information: [Pass parameters to HTML web resources](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)</span></span>
+* <span data-ttu-id="5c9e7-105">HTML 웹 리소스는 제한 된 개수의 쿼리 문자열 매개 변수만 허용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5c9e7-105">HTML web resources can only accept a limited number of query string parameters.</span></span> <span data-ttu-id="5c9e7-106">추가 정보: [HTML 웹 리소스에 매개 변수 전달](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)</span><span class="sxs-lookup"><span data-stu-id="5c9e7-106">More information: [Pass parameters to HTML web resources](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)</span></span>
 
-[<span data-ttu-id="2859a-107">웹 페이지 (HTML)</span><span class="sxs-lookup"><span data-stu-id="2859a-107">Webpage (HTML) web resources</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[<span data-ttu-id="5c9e7-107">웹 페이지 (HTML)</span><span class="sxs-lookup"><span data-stu-id="5c9e7-107">Webpage (HTML) web resources</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
