@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.openlocfilehash: b9b90dad6c5fa41afcd4e4c9a929594735eca066
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554339"
 ---
 # <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>내 프로필 변경 내용이 SharePoint 사용자 프로필 응용 프로그램에 동기화 되는 경우
