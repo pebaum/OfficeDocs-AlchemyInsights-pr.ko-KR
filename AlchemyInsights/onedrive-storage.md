@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661050"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658299"
 ---
-# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="50167-102">OneDrive 저장소 관리</span><span class="sxs-lookup"><span data-stu-id="50167-102">Manage your OneDrive storage</span></span>
+# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="a8ade-102">OneDrive 저장소 관리</span><span class="sxs-lookup"><span data-stu-id="a8ade-102">Manage your OneDrive storage</span></span>
 
-<span data-ttu-id="50167-103">신규 및 기존 OneDrive 사용자에 대 한 기본 저장소를 변경 하려면:</span><span class="sxs-lookup"><span data-stu-id="50167-103">To change the default storage for new and existing OneDrive users:</span></span>
-  
-- <span data-ttu-id="50167-104">[OneDrive 관리 센터의 저장소 페이지로](https://admin.onedrive.com/?v=StorageSettings)이동한 다음 새 금액 (GB)을 입력 합니다.</span><span class="sxs-lookup"><span data-stu-id="50167-104">Go to the [Storage page of the OneDrive admin center](https://admin.onedrive.com/?v=StorageSettings), and then enter a new amount in GB.</span></span>
+<span data-ttu-id="a8ade-103">전체 테 넌 트 할당량으로의 OneDrive 저장소 공간이 계산 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="a8ade-103">OneDrive Storage space does not count toward overall Tenant Quota.</span></span> 
 
-<span data-ttu-id="50167-105">이 저장 공간 설정은 특정 저장 용량 제한을 설정 하지 않은 모든 사용자에 게 적용 됩니다.</span><span class="sxs-lookup"><span data-stu-id="50167-105">This storage space setting applies to all users for whom you haven't set specific storage limits.</span></span> <span data-ttu-id="50167-106">특정 사용자에 대 한 저장소 공간을 변경 하려면 Microsoft PowerShell을 사용 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="50167-106">To change the storage space for specific users, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="50167-107">이 작업을 수행 하는 방법에 대 한 자세한 내용은 [PowerShell을 사용 하 여 사용자의 OneDrive 저장소 공간 변경을](https://go.microsoft.com/fwlink/?linkid=866402)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="50167-107">For information on how to do this, see [Change your users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span></span> <span data-ttu-id="50167-108">OneDrive에서 사용 중인 저장소의 크기를 확인 하려면 [비즈니스용 onedrive 저장소 관리](https://go.microsoft.com/fwlink/?linkid=866429)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="50167-108">To check how much storage you're using in your own OneDrive, see [Manage your OneDrive for Business storage](https://go.microsoft.com/fwlink/?linkid=866429).</span></span> <span data-ttu-id="50167-109">각 요금제와 함께 제공 되는 저장소에 대 한 자세한 내용은 [비즈니스용 OneDrive 서비스 설명을](https://go.microsoft.com/fwlink/p/?LinkID=826071)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="50167-109">For info about the storage that comes with each plan, see [OneDrive for Business service description](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span></span>
+<span data-ttu-id="a8ade-104">[사용자/계획에 따라 OneDrive 저장소 공간이 할당 되는 방식을](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user)알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="a8ade-104">Learn [how OneDrive storage space is allocated per user/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span></span>
+
+<span data-ttu-id="a8ade-105">[OneDrive에서 사용 중인 저장소의 크기](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)를 알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="a8ade-105">Learn [how much storage you are using in your OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span></span>
+
+<span data-ttu-id="a8ade-106">[PowerShell을 사용 하 여 OneDrive 저장소 할당량을 가져오는 방법을](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614)알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="a8ade-106">Learn [how to get OneDrive Storage Quota using PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span></span>
+
+<span data-ttu-id="a8ade-107">Microsoft는 처음에는 사용자 당 1TB를 제공 하며 관리자는 사용자 당 최대 5mb를 늘릴 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a8ade-107">Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="a8ade-108">[OneDrive 사용자에 대 한 기본 저장소 공간을 설정](https://docs.microsoft.com/onedrive/set-default-storage-space)하는 방법을 알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="a8ade-108">Learn how to [set the default storage space for OneDrive users](https://docs.microsoft.com/onedrive/set-default-storage-space).</span></span>
+
+<span data-ttu-id="a8ade-109">[특정 사용자의 OneDrive 저장소 공간을 변경 하는 방법](https://docs.microsoft.com/onedrive/change-user-storage)에 대해 알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="a8ade-109">Learn [how to change a specific user's OneDrive storage space](https://docs.microsoft.com/onedrive/change-user-storage).</span></span>
+
+<span data-ttu-id="a8ade-110">[전역 관리자가 PowerShell을 사용 하 여 모든 사용자에 대해 OneDrive 저장소 할당량을 설정 하는 방법을](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b)알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="a8ade-110">Learn [how Global Admins can set OneDrive Storage Quota for all users using PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span></span>
   
