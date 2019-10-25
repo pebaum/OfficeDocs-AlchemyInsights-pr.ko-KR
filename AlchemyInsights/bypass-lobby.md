@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
+ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637783"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37654262"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>컨트롤 로비 설정 및 참여 수준 제어
 
@@ -24,7 +24,7 @@ ms.locfileid: "37637783"
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-이 cmdlet은 현재 비즈니스용 Skype PowerShell 모듈을 사용 해야 합니다. 이 cmdlet을 사용 하도록 설정 하려면 PowerShell을 통해 정책 관리를 참조 하세요.
+이 cmdlet은 현재 비즈니스용 Skype PowerShell 모듈을 사용 해야 합니다. 이 cmdlet을 사용 하도록 설정 하려면 [PowerShell을 통해 정책 관리](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)를 참조 하세요.
 
 새 정책을 설정 하 여 사용자에 게 적용 해야 할 수 있습니다. 글로벌 정책을 수정 하면 사용자에 게 자동으로 적용 됩니다. 정책이 변경 되는 경우 정책이 적용 되려면 최소 4 시간 및 24 시간까지 기다려야 합니다.
 

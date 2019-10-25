@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661050"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658299"
 ---
 # <a name="manage-your-onedrive-storage"></a>OneDrive 저장소 관리
 
-신규 및 기존 OneDrive 사용자에 대 한 기본 저장소를 변경 하려면:
-  
-- [OneDrive 관리 센터의 저장소 페이지로](https://admin.onedrive.com/?v=StorageSettings)이동한 다음 새 금액 (GB)을 입력 합니다.
+전체 테 넌 트 할당량으로의 OneDrive 저장소 공간이 계산 되지 않습니다. 
 
-이 저장 공간 설정은 특정 저장 용량 제한을 설정 하지 않은 모든 사용자에 게 적용 됩니다. 특정 사용자에 대 한 저장소 공간을 변경 하려면 Microsoft PowerShell을 사용 해야 합니다. 이 작업을 수행 하는 방법에 대 한 자세한 내용은 [PowerShell을 사용 하 여 사용자의 OneDrive 저장소 공간 변경을](https://go.microsoft.com/fwlink/?linkid=866402)참조 하세요. OneDrive에서 사용 중인 저장소의 크기를 확인 하려면 [비즈니스용 onedrive 저장소 관리](https://go.microsoft.com/fwlink/?linkid=866429)를 참조 하세요. 각 요금제와 함께 제공 되는 저장소에 대 한 자세한 내용은 [비즈니스용 OneDrive 서비스 설명을](https://go.microsoft.com/fwlink/p/?LinkID=826071)참조 하세요.
+[사용자/계획에 따라 OneDrive 저장소 공간이 할당 되는 방식을](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user)알아봅니다.
+
+[OneDrive에서 사용 중인 저장소의 크기](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)를 알아봅니다.
+
+[PowerShell을 사용 하 여 OneDrive 저장소 할당량을 가져오는 방법을](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614)알아봅니다.
+
+Microsoft는 처음에는 사용자 당 1TB를 제공 하며 관리자는 사용자 당 최대 5mb를 늘릴 수 있습니다. [OneDrive 사용자에 대 한 기본 저장소 공간을 설정](https://docs.microsoft.com/onedrive/set-default-storage-space)하는 방법을 알아봅니다.
+
+[특정 사용자의 OneDrive 저장소 공간을 변경 하는 방법](https://docs.microsoft.com/onedrive/change-user-storage)에 대해 알아봅니다.
+
+[전역 관리자가 PowerShell을 사용 하 여 모든 사용자에 대해 OneDrive 저장소 할당량을 설정 하는 방법을](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b)알아봅니다.
   
