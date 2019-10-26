@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
 ms.openlocfilehash: 9033e8da6b3032b47b761b89e18af643100afaa0
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36519089"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a><span data-ttu-id="02b0b-102">SharePoint 목록 또는 라이브러리에 대 한 사용 권한 변경</span><span class="sxs-lookup"><span data-stu-id="02b0b-102">Change permissions for a SharePoint list or library</span></span>
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a><span data-ttu-id="c0fa7-102">SharePoint 목록 또는 라이브러리에 대 한 사용 권한 변경</span><span class="sxs-lookup"><span data-stu-id="c0fa7-102">Change permissions for a SharePoint list or library</span></span>
 
-1. <span data-ttu-id="02b0b-103">웹 브라우저에서 SharePoint 사이트로 이동 하 여 목록 또는 라이브러리를 엽니다.</span><span class="sxs-lookup"><span data-stu-id="02b0b-103">Go to the SharePoint site in a web browser and open the list or library.</span></span>
+1. <span data-ttu-id="c0fa7-103">웹 브라우저에서 SharePoint 사이트로 이동 하 여 목록 또는 라이브러리를 엽니다.</span><span class="sxs-lookup"><span data-stu-id="c0fa7-103">Go to the SharePoint site in a web browser and open the list or library.</span></span>
     
-2. <span data-ttu-id="02b0b-104">오른쪽 위에 있는 설정 아이콘을 클릭 한 다음, **라이브러리 설정** 또는 **목록 설정을**클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="02b0b-104">Click the Settings icon in the upper right, and then click **Library settings** or **List settings**.</span></span> <span data-ttu-id="02b0b-105">이 명령이 표시 되지 않으면 **라이브러리** 또는 **목록** 탭을 선택 하 여 리본 메뉴를 연 다음 리본 메뉴에서 **라이브러리 설정** 또는 **목록 설정을** 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="02b0b-105">(If you don't see the command, choose the **Library** or **List** tab to open the ribbon, and then click **Library Settings** or **List Settings** on the ribbon.)</span></span> 
+2. <span data-ttu-id="c0fa7-104">오른쪽 위에 있는 설정 아이콘을 클릭 한 다음, **라이브러리 설정** 또는 **목록 설정을**클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="c0fa7-104">Click the Settings icon in the upper right, and then click **Library settings** or **List settings**.</span></span> <span data-ttu-id="c0fa7-105">이 명령이 표시 되지 않으면 **라이브러리** 또는 **목록** 탭을 선택 하 여 리본 메뉴를 연 다음 리본 메뉴에서 **라이브러리 설정** 또는 **목록 설정을** 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="c0fa7-105">(If you don't see the command, choose the **Library** or **List** tab to open the ribbon, and then click **Library Settings** or **List Settings** on the ribbon.)</span></span> 
     
-3. <span data-ttu-id="02b0b-106">**사용 권한 및 관리**에서이 **목록에 대 한 사용 권한** 또는 **이 문서 라이브러리에 대 한 사용**권한을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="02b0b-106">Under **Permissions and Management**, click **Permissions for this list** or **Permissions for this document library**.</span></span>
+3. <span data-ttu-id="c0fa7-106">**사용 권한 및 관리**에서이 **목록에 대 한 사용 권한** 또는 **이 문서 라이브러리에 대 한 사용**권한을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="c0fa7-106">Under **Permissions and Management**, click **Permissions for this list** or **Permissions for this document library**.</span></span>
     
-<span data-ttu-id="02b0b-107">기본적으로 SharePoint 목록 및 라이브러리는 사이트에서 사용 권한을 상속 받습니다.</span><span class="sxs-lookup"><span data-stu-id="02b0b-107">Note that by default, SharePoint lists and libraries inherit their permissions from the site.</span></span> <span data-ttu-id="02b0b-108">사용 권한 상속을 끊으면 현재 사용 권한이 목록 또는 라이브러리에 복사 되 고 그 안에 있는 모든 항목이 됩니다.</span><span class="sxs-lookup"><span data-stu-id="02b0b-108">If you break permissions inheritance, the current permissions will be copied to the list or library and everything within it.</span></span> <span data-ttu-id="02b0b-109">사이트에 대 한 사용 권한이 나중에 변경 되는 경우 변경 내용이 목록 또는 라이브러리 및 그 안에 있는 항목에 적용 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="02b0b-109">If the permissions for the site are later changed, the changes won't be applied to the list or library and the items within it.</span></span>
+<span data-ttu-id="c0fa7-107">기본적으로 SharePoint 목록 및 라이브러리는 사이트에서 사용 권한을 상속 받습니다.</span><span class="sxs-lookup"><span data-stu-id="c0fa7-107">Note that by default, SharePoint lists and libraries inherit their permissions from the site.</span></span> <span data-ttu-id="c0fa7-108">사용 권한 상속을 끊으면 현재 사용 권한이 목록 또는 라이브러리에 복사 되 고 그 안에 있는 모든 항목이 됩니다.</span><span class="sxs-lookup"><span data-stu-id="c0fa7-108">If you break permissions inheritance, the current permissions will be copied to the list or library and everything within it.</span></span> <span data-ttu-id="c0fa7-109">사이트에 대 한 사용 권한이 나중에 변경 되는 경우 변경 내용이 목록 또는 라이브러리 및 그 안에 있는 항목에 적용 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="c0fa7-109">If the permissions for the site are later changed, the changes won't be applied to the list or library and the items within it.</span></span>
   
 

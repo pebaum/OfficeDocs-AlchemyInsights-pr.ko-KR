@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36497593"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a><span data-ttu-id="92c89-102">SharePoint Online에 업로드할 수 없는 파일</span><span class="sxs-lookup"><span data-stu-id="92c89-102">Files that can't be uploaded to SharePoint Online</span></span>
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a><span data-ttu-id="95131-102">SharePoint Online에 업로드할 수 없는 파일</span><span class="sxs-lookup"><span data-stu-id="95131-102">Files that can't be uploaded to SharePoint Online</span></span>
 
-<span data-ttu-id="92c89-103">파일이 SharePoint Online에 업로드 되지 않는 경우 다음을 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="92c89-103">If a file won't upload to SharePoint Online, make sure:</span></span>
+<span data-ttu-id="95131-103">파일이 SharePoint Online에 업로드 되지 않는 경우 다음을 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="95131-103">If a file won't upload to SharePoint Online, make sure:</span></span>
   
-- <span data-ttu-id="92c89-104">크기가 15gb 미만 이어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="92c89-104">It's less than 15 GB in size.</span></span>
+- <span data-ttu-id="95131-104">크기가 15gb 미만 이어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="95131-104">It's less than 15 GB in size.</span></span>
     
-- <span data-ttu-id="92c89-105">파일 이름을 포함 한 전체 경로가 400 자 보다 적습니다.</span><span class="sxs-lookup"><span data-stu-id="92c89-105">The entire path, including the file name, is fewer than 400 characters.</span></span>
+- <span data-ttu-id="95131-105">파일 이름을 포함 한 전체 경로가 400 자 보다 적습니다.</span><span class="sxs-lookup"><span data-stu-id="95131-105">The entire path, including the file name, is fewer than 400 characters.</span></span>
     
-- <span data-ttu-id="92c89-106">파일 이름에는 " \* :? \< \></span><span class="sxs-lookup"><span data-stu-id="92c89-106">The file name doesn't contain the characters " \* : \< \> ?</span></span> <span data-ttu-id="92c89-107">/ \ | 이며 [잘못 된 이름](https://go.microsoft.com/fwlink/?linkid=866430)목록에는 없습니다.</span><span class="sxs-lookup"><span data-stu-id="92c89-107">/ \ | and isn't on the list of [invalid names](https://go.microsoft.com/fwlink/?linkid=866430).</span></span>
+- <span data-ttu-id="95131-106">파일 이름에는 " \* :? \< \></span><span class="sxs-lookup"><span data-stu-id="95131-106">The file name doesn't contain the characters " \* : \< \> ?</span></span> <span data-ttu-id="95131-107">/ \ | 이며 [잘못 된 이름](https://go.microsoft.com/fwlink/?linkid=866430)목록에는 없습니다.</span><span class="sxs-lookup"><span data-stu-id="95131-107">/ \ | and isn't on the list of [invalid names](https://go.microsoft.com/fwlink/?linkid=866430).</span></span>
     
-<span data-ttu-id="92c89-108">OneDrive 데스크톱 앱을 사용 하 여 파일을 업로드 하려는 경우 파일 및 폴더를 동기화 하거나 [OneDrive 동기화 문제를 해결할](https://go.microsoft.com/fwlink/?linkid=866431) [때 제한 사항 및 제한](http://go.microsoft.com/fwlink/p/?LinkID=717734) 사항을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="92c89-108">If you're trying to upload the file by using the OneDrive desktop app, see [Restrictions and limitations when you sync files and folders](http://go.microsoft.com/fwlink/p/?LinkID=717734) or [Fix OneDrive sync problems](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
+<span data-ttu-id="95131-108">OneDrive 데스크톱 앱을 사용 하 여 파일을 업로드 하려는 경우 파일 및 폴더를 동기화 하거나 [OneDrive 동기화 문제를 해결할](https://go.microsoft.com/fwlink/?linkid=866431) [때 제한 사항 및 제한](http://go.microsoft.com/fwlink/p/?LinkID=717734) 사항을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="95131-108">If you're trying to upload the file by using the OneDrive desktop app, see [Restrictions and limitations when you sync files and folders](http://go.microsoft.com/fwlink/p/?LinkID=717734) or [Fix OneDrive sync problems](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
   
 

@@ -13,14 +13,14 @@ ms.custom:
 - "1799"
 - "9000201"
 ms.openlocfilehash: c1c544cf9e9ccafc6623c686e639051af56d32d7
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36529673"
 ---
-# <a name="does-visio-work-on-a-mac"></a><span data-ttu-id="4fad9-102">Visio가 Mac에서 작동 합니까?</span><span class="sxs-lookup"><span data-stu-id="4fad9-102">Does Visio work on a Mac?</span></span>
+# <a name="does-visio-work-on-a-mac"></a><span data-ttu-id="4a44c-102">Visio가 Mac에서 작동 합니까?</span><span class="sxs-lookup"><span data-stu-id="4a44c-102">Does Visio work on a Mac?</span></span>
 
-<span data-ttu-id="4fad9-103">Mac 용 Visio 데스크톱 응용 프로그램이 없습니다.</span><span class="sxs-lookup"><span data-stu-id="4fad9-103">There is no Visio desktop application for Mac.</span></span> <span data-ttu-id="4fad9-104">그러나 앱이 필요한 사용자에 [게 Visio online 라이선스가 할당](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799)되어 있으면 웹 브라우저에서 [visio online의 다이어그램을 보고, 만들고, 편집할](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="4fad9-104">However, as long as the user who needs the app has a [Visio Online license assigned](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), they can [view, create, and edit diagrams in Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) in a web browser.</span></span>
+<span data-ttu-id="4a44c-103">Mac 용 Visio 데스크톱 응용 프로그램이 없습니다.</span><span class="sxs-lookup"><span data-stu-id="4a44c-103">There is no Visio desktop application for Mac.</span></span> <span data-ttu-id="4a44c-104">그러나 앱이 필요한 사용자에 [게 Visio online 라이선스가 할당](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799)되어 있으면 웹 브라우저에서 [visio online의 다이어그램을 보고, 만들고, 편집할](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="4a44c-104">However, as long as the user who needs the app has a [Visio Online license assigned](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), they can [view, create, and edit diagrams in Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) in a web browser.</span></span>
   
   

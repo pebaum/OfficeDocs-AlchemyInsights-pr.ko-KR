@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 72dada23e9d69ae1ad55d427766e8cb51b700fa2
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36511205"
 ---
-# <a name="outlook-on-the-web-account-hacked"></a><span data-ttu-id="f4127-102">해킹 당한 웹 계정의 Outlook 계정</span><span class="sxs-lookup"><span data-stu-id="f4127-102">Outlook on the web account hacked</span></span>
+# <a name="outlook-on-the-web-account-hacked"></a><span data-ttu-id="83a3c-102">해킹 당한 웹 계정의 Outlook 계정</span><span class="sxs-lookup"><span data-stu-id="83a3c-102">Outlook on the web account hacked</span></span>
 
-<span data-ttu-id="f4127-103">계정이 해킹 당한 경우 [의심 스러운 Office 365 계정 및 사서함으로 전자 메일 기능을 보호 하 고 복원 하는 방법](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox)에 대 한 지침을 따르세요.</span><span class="sxs-lookup"><span data-stu-id="f4127-103">If your account has been hacked, follow the instructions in [How to secure and restore email function to a suspected compromised Office 365 account and mailbox](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).</span></span>
+<span data-ttu-id="83a3c-103">계정이 해킹 당한 경우 [의심 스러운 Office 365 계정 및 사서함으로 전자 메일 기능을 보호 하 고 복원 하는 방법](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox)에 대 한 지침을 따르세요.</span><span class="sxs-lookup"><span data-stu-id="83a3c-103">If your account has been hacked, follow the instructions in [How to secure and restore email function to a suspected compromised Office 365 account and mailbox](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).</span></span>
 
-<span data-ttu-id="f4127-104">계정이 손상 되는 것을 방지 하기 위해 취할 수 있는 추가 단계에 대 한 자세한 내용은 [Office 365에서 손상 된 전자 메일 계정에 응답](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="f4127-104">To learn more about additional steps you can take to prevent your account from being compromised, see [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span></span>
+<span data-ttu-id="83a3c-104">계정이 손상 되는 것을 방지 하기 위해 취할 수 있는 추가 단계에 대 한 자세한 내용은 [Office 365에서 손상 된 전자 메일 계정에 응답](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="83a3c-104">To learn more about additional steps you can take to prevent your account from being compromised, see [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span></span>
