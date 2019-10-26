@@ -13,10 +13,10 @@ ms.custom:
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
 ms.openlocfilehash: 20f28659b2b4a3d8920c2143cfa25bc109fc0096
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36742379"
 ---
 # <a name="turn-off-focused-inbox-in-email-clients"></a>전자 메일 클라이언트에서 중요 받은 편지함 해제
