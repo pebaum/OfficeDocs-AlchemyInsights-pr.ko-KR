@@ -9,26 +9,26 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 6c18059616c0900f330e0cdb5d1076ff28a5b76c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666558"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36745439"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>계정이 손상된 경우 권장 조치
 
 [비디오: 손상된 Office 365 계정 문제 해결](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
-1. 즉시 [계정 암호를 재설정](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c)합니다. 전자 메일을 통해 최종 사용자에게 새 암호를 알리지 마십시오.
+1. 즉시 [계정 암호를 재설정](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)합니다. 전자 메일을 통해 최종 사용자에게 새 암호를 알리지 마십시오.
 
-2. 사서함에 설정된 의심스러운 [전달 주소](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74)를 모두 제거합니다.
+2. 사서함에 설정된 의심스러운 [전달 주소](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding)를 모두 제거합니다.
 
 3. 사서함에 설정된 의심스러운 [받은 편지함 규칙 ](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED)을 모두 제거합니다.
 
 4. 사용자가 전자 메일을 보내지 못하도록 차단된 경우 [제한된 사용자 페이지로 이동하여 계정 차단을 해제하십시오](https://protection.office.com/?hash=/restrictedusers). 이 작업이 완료되면 사용자는 1시간 이내에 다시 메시지를 보낼 수 있습니다.
 
-5. 계정이 더 이상 해킹당하지 않는다고 확신할 때까지 [관리 역할 그룹](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504)에서 사용자 계정을 제거하십시오.
+5. 계정이 더 이상 해킹당하지 않는다고 확신할 때까지 [관리 역할 그룹](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles)에서 사용자 계정을 제거하십시오.
 
-향후 데이터 유출 또는 계정 해킹 가능성을 최소화하려면 [Office 365 보안 모범 사례](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3)을 읽어 보십시오.
+향후 데이터 유출 또는 계정 해킹 가능성을 최소화하려면 [Office 365 보안 로드맵](https://docs.microsoft.com//office365/securitycompliance/security-roadmap)을 읽는 것이 좋습니다.
   
