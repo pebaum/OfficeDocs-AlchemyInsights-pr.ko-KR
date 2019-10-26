@@ -12,10 +12,10 @@ ms.custom:
 - "8000048"
 - "814"
 ms.openlocfilehash: e63e31ea008558d57b0582d306afd34df4715631
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36537665"
 ---
 # <a name="cant-read-email-in-google-chrome-with-adblock"></a>AdBlock을 사용 하 여 Google Chrome에서 전자 메일을 읽을 수 없음
