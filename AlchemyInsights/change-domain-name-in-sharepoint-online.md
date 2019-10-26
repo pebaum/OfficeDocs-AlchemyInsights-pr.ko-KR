@@ -11,19 +11,19 @@ ms.custom:
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
 ms.openlocfilehash: 58da0e0dd4d7d02aba1ecd64a23dc2227596ec7a
-ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/24/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "37658335"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a><span data-ttu-id="53c07-102">SharePoint Online에서 도메인 이름 변경</span><span class="sxs-lookup"><span data-stu-id="53c07-102">Change domain name in SharePoint Online</span></span>
+# <a name="change-domain-name-in-sharepoint-online"></a><span data-ttu-id="ba51b-102">SharePoint Online에서 도메인 이름 변경</span><span class="sxs-lookup"><span data-stu-id="ba51b-102">Change domain name in SharePoint Online</span></span>
 
-<span data-ttu-id="53c07-103">그러나 Office 365에서 조직의 SharePoint Online 도메인 이름을 변경할 수는 없습니다.</span><span class="sxs-lookup"><span data-stu-id="53c07-103">Unfortunately, it isn't possible to change the SharePoint Online domain name for your organization in Office 365.</span></span> <span data-ttu-id="53c07-104">예를 들어 조직의 이름이 "Contoso"에서 "넷째 커피"로 변경 되는 경우 contoso.sharepoint.com를 fourthcoffee.sharepoint.com로 변경할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="53c07-104">For example, if the name of your organization changes from "Contoso" to "Fourth Coffee," you can't change contoso.sharepoint.com to fourthcoffee.sharepoint.com.</span></span>
+<span data-ttu-id="ba51b-103">그러나 Office 365에서 조직의 SharePoint Online 도메인 이름을 변경할 수는 없습니다.</span><span class="sxs-lookup"><span data-stu-id="ba51b-103">Unfortunately, it isn't possible to change the SharePoint Online domain name for your organization in Office 365.</span></span> <span data-ttu-id="ba51b-104">예를 들어 조직의 이름이 "Contoso"에서 "넷째 커피"로 변경 되는 경우 contoso.sharepoint.com를 fourthcoffee.sharepoint.com로 변경할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="ba51b-104">For example, if the name of your organization changes from "Contoso" to "Fourth Coffee," you can't change contoso.sharepoint.com to fourthcoffee.sharepoint.com.</span></span>
   
-<span data-ttu-id="53c07-105">도메인 이름 fourthcoffee.sharepoint.com를 사용 하려면 새 Office 365 구독을 구입 하 고 새 구독에 사용할 모든 전자 메일, 파일 및 기타 데이터를 이동 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="53c07-105">To use the domain name fourthcoffee.sharepoint.com, you would need to purchase a new Office 365 subscription and move all email, files, and any other data you want to keep to the new subscription.</span></span>
+<span data-ttu-id="ba51b-105">도메인 이름 fourthcoffee.sharepoint.com를 사용 하려면 새 Office 365 구독을 구입 하 고 새 구독에 사용할 모든 전자 메일, 파일 및 기타 데이터를 이동 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="ba51b-105">To use the domain name fourthcoffee.sharepoint.com, you would need to purchase a new Office 365 subscription and move all email, files, and any other data you want to keep to the new subscription.</span></span>
   
- <span data-ttu-id="53c07-106">**참고**:에서 https://contoso.sharepoint.com/sites/sample1 으로 https://contoso.sharepoint.com/sites/sample2사이트의 이름을 변경 하려면 [이 문서의](https://docs.microsoft.com/sharepoint/change-site-address)지침을 따릅니다.</span><span class="sxs-lookup"><span data-stu-id="53c07-106">**Note**: For example, to change the name of a site from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, follow the instructions in [this article](https://docs.microsoft.com/sharepoint/change-site-address).</span></span> 
+ <span data-ttu-id="ba51b-106">**참고**:에서 https://contoso.sharepoint.com/sites/sample1 으로 https://contoso.sharepoint.com/sites/sample2사이트의 이름을 변경 하려면 [이 문서의](https://docs.microsoft.com/sharepoint/change-site-address)지침을 따릅니다.</span><span class="sxs-lookup"><span data-stu-id="ba51b-106">**Note**: For example, to change the name of a site from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, follow the instructions in [this article](https://docs.microsoft.com/sharepoint/change-site-address).</span></span> 
   
-<span data-ttu-id="53c07-107">문서 라이브러리에서 항목을 이동 하는 방법에 대 한 자세한 내용은 [SharePoint 문서 라이브러리에서 항목 이동 또는 복사](https://go.microsoft.com/fwlink/?linkid=2025831)를 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="53c07-107">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?linkid=2025831).</span></span>
+<span data-ttu-id="ba51b-107">문서 라이브러리에서 항목을 이동 하는 방법에 대 한 자세한 내용은 [SharePoint 문서 라이브러리에서 항목 이동 또는 복사](https://go.microsoft.com/fwlink/?linkid=2025831)를 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="ba51b-107">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?linkid=2025831).</span></span>
   

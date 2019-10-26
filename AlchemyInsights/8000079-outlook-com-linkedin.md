@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
 ms.openlocfilehash: 136b349c374518e2b130184f2dc64d1bf9a7f7b0
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36494353"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="ac604-102">LinkedIn에서 온 것으로 주장 하는 정크 메일 문제</span><span class="sxs-lookup"><span data-stu-id="ac604-102">Issues with Junk email claiming to be from LinkedIn</span></span>
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="20704-102">LinkedIn에서 온 것으로 주장 하는 정크 메일 문제</span><span class="sxs-lookup"><span data-stu-id="20704-102">Issues with Junk email claiming to be from LinkedIn</span></span>
 
-<span data-ttu-id="ac604-103">LinkedIn에서 제공 하는 것으로 주장 하는 정크 메일을 받는 경우 해당 전자 메일을 필터링 하는 규칙을 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ac604-103">If you're receiving junk email which claims to be from LinkedIn, you can create a rule to filter those emails.</span></span>
-<span data-ttu-id="ac604-104">자세한 내용은 [Outlook.com에서 받은 편지함 규칙 사용](https://aka.ms/OutlookComInboxRules) 을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="ac604-104">See [Use inbox rules in Outlook.com](https://aka.ms/OutlookComInboxRules) for more information.</span></span>
+<span data-ttu-id="20704-103">LinkedIn에서 제공 하는 것으로 주장 하는 정크 메일을 받는 경우 해당 전자 메일을 필터링 하는 규칙을 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="20704-103">If you're receiving junk email which claims to be from LinkedIn, you can create a rule to filter those emails.</span></span>
+<span data-ttu-id="20704-104">자세한 내용은 [Outlook.com에서 받은 편지함 규칙 사용](https://aka.ms/OutlookComInboxRules) 을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="20704-104">See [Use inbox rules in Outlook.com](https://aka.ms/OutlookComInboxRules) for more information.</span></span>
 
 

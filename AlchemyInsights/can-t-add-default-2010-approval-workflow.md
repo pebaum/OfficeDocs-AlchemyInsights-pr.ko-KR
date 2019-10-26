@@ -13,17 +13,17 @@ ms.custom:
 - "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
 ms.openlocfilehash: d5486e218e9b6e3d632330bcc3a64b7b87952581
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36747682"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="94a86-102">기본 2010 승인 워크플로를 추가할 수 없음</span><span class="sxs-lookup"><span data-stu-id="94a86-102">Can't add default 2010 Approval Workflow</span></span>
+# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="8bf55-102">기본 2010 승인 워크플로를 추가할 수 없음</span><span class="sxs-lookup"><span data-stu-id="8bf55-102">Can't add default 2010 Approval Workflow</span></span>
 
-<span data-ttu-id="94a86-103">Microsoft SharePoint 사이트 모음에서는 목록 또는 라이브러리에 전역으로 다시 사용 가능한 워크플로 (예: "승인-SharePoint 2010")를 추가할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="94a86-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span> <span data-ttu-id="94a86-104">승인 워크플로가 누락 되었을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="94a86-104">The approval workflow may be missing.</span></span> <span data-ttu-id="94a86-105">이 문제를 해결 하려면 [SharePoint 목록 또는 라이브러리에 전역으로 다시 사용 가능한 워크플로를 추가할 수 없음을](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="94a86-105">To resolve this issue, refer to [Can't add a globally reusable workflow to a SharePoint list or library](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span></span>
+<span data-ttu-id="8bf55-103">Microsoft SharePoint 사이트 모음에서는 목록 또는 라이브러리에 전역으로 다시 사용 가능한 워크플로 (예: "승인-SharePoint 2010")를 추가할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="8bf55-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span> <span data-ttu-id="8bf55-104">승인 워크플로가 누락 되었을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="8bf55-104">The approval workflow may be missing.</span></span> <span data-ttu-id="8bf55-105">이 문제를 해결 하려면 [SharePoint 목록 또는 라이브러리에 전역으로 다시 사용 가능한 워크플로를 추가할 수 없음을](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="8bf55-105">To resolve this issue, refer to [Can't add a globally reusable workflow to a SharePoint list or library](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span></span>
 
-<span data-ttu-id="94a86-106">워크플로 승인에 대 한 자세한 내용은 [승인 워크플로 정보](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742)를 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="94a86-106">For more info about Workflow Approvals, see [All about Approval workflows](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span></span> 
+<span data-ttu-id="8bf55-106">워크플로 승인에 대 한 자세한 내용은 [승인 워크플로 정보](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742)를 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="8bf55-106">For more info about Workflow Approvals, see [All about Approval workflows](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span></span> 
  
-<span data-ttu-id="94a86-107">[유동의 최신 승인](https://flow.microsoft.com/blog/introducing-modern-approvals)에 대해 자세히 알아보세요.</span><span class="sxs-lookup"><span data-stu-id="94a86-107">Learn more about [Modern Approvals in Flow](https://flow.microsoft.com/blog/introducing-modern-approvals).</span></span> 
+<span data-ttu-id="8bf55-107">[유동의 최신 승인](https://flow.microsoft.com/blog/introducing-modern-approvals)에 대해 자세히 알아보세요.</span><span class="sxs-lookup"><span data-stu-id="8bf55-107">Learn more about [Modern Approvals in Flow](https://flow.microsoft.com/blog/introducing-modern-approvals).</span></span> 
   

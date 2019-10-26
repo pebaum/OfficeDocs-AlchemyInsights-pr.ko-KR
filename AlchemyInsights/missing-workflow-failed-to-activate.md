@@ -9,36 +9,36 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
 ms.openlocfilehash: f03d7e1441465050c4b0608f4100f217b183d2e2
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36753802"
 ---
-# <a name="missing-workflow-failed-to-activate"></a><span data-ttu-id="e96b9-102">누락 된 워크플로를 활성화 하지 못함</span><span class="sxs-lookup"><span data-stu-id="e96b9-102">Missing Workflow Failed to Activate</span></span>
+# <a name="missing-workflow-failed-to-activate"></a><span data-ttu-id="08b07-102">누락 된 워크플로를 활성화 하지 못함</span><span class="sxs-lookup"><span data-stu-id="08b07-102">Missing Workflow Failed to Activate</span></span>
 
-<span data-ttu-id="e96b9-103">Microsoft SharePoint 사이트 모음에서는 목록 또는 라이브러리에 전역으로 다시 사용 가능한 워크플로 (예: "승인-SharePoint 2010")를 추가할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="e96b9-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span>
+<span data-ttu-id="08b07-103">Microsoft SharePoint 사이트 모음에서는 목록 또는 라이브러리에 전역으로 다시 사용 가능한 워크플로 (예: "승인-SharePoint 2010")를 추가할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="08b07-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span>
   
-<span data-ttu-id="e96b9-104">이 문제를 해결 하려면 다음 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="e96b9-104">To resolve this issue, follow these steps:</span></span> 
+<span data-ttu-id="08b07-104">이 문제를 해결 하려면 다음 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="08b07-104">To resolve this issue, follow these steps:</span></span> 
   
-1. <span data-ttu-id="e96b9-105">SharePoint Designer 2013에서 사이트 모음의 루트 웹 사이트를 엽니다.</span><span class="sxs-lookup"><span data-stu-id="e96b9-105">Open the root website of the site collection in SharePoint Designer 2013.</span></span>
+1. <span data-ttu-id="08b07-105">SharePoint Designer 2013에서 사이트 모음의 루트 웹 사이트를 엽니다.</span><span class="sxs-lookup"><span data-stu-id="08b07-105">Open the root website of the site collection in SharePoint Designer 2013.</span></span>
   
-2. <span data-ttu-id="e96b9-106">**사이트 개체**에서 **워크플로**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e96b9-106">Under **Site Objects**, select **Workflows**.</span></span> 
+2. <span data-ttu-id="08b07-106">**사이트 개체**에서 **워크플로**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="08b07-106">Under **Site Objects**, select **Workflows**.</span></span> 
   
-3. <span data-ttu-id="e96b9-107">**워크플로** 리본 메뉴의 **새로 만들기** 섹션에서 **다시 사용할**수 있는 워크플로를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e96b9-107">In the **New** section of the **Workflows** ribbon, select **Reusable Workflow**.</span></span> 
+3. <span data-ttu-id="08b07-107">**워크플로** 리본 메뉴의 **새로 만들기** 섹션에서 **다시 사용할**수 있는 워크플로를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="08b07-107">In the **New** section of the **Workflows** ribbon, select **Reusable Workflow**.</span></span> 
   
-4. <span data-ttu-id="e96b9-108">**다시 사용할 수 있는 워크플로 만들기** 양식에서 \* \* *Repair2010* \* \* 이름을 입력 합니다.</span><span class="sxs-lookup"><span data-stu-id="e96b9-108">On the **Create Reusable Workflow** form, enter the name \*\* *Repair2010* \*\*.</span></span> <span data-ttu-id="e96b9-109">**플랫폼 유형**으로 **SharePoint 2010 워크플로**를 클릭 한 다음 **확인**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="e96b9-109">For **Platform Type**, click **SharePoint 2010 Workflow**, and then click **OK**.</span></span> 
+4. <span data-ttu-id="08b07-108">**다시 사용할 수 있는 워크플로 만들기** 양식에서 \* \* *Repair2010* \* \* 이름을 입력 합니다.</span><span class="sxs-lookup"><span data-stu-id="08b07-108">On the **Create Reusable Workflow** form, enter the name \*\* *Repair2010* \*\*.</span></span> <span data-ttu-id="08b07-109">**플랫폼 유형**으로 **SharePoint 2010 워크플로**를 클릭 한 다음 **확인**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="08b07-109">For **Platform Type**, click **SharePoint 2010 Workflow**, and then click **OK**.</span></span> 
   
-1. <span data-ttu-id="e96b9-110">**워크플로** 리본 메뉴의 **저장** 섹션에서 **게시**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e96b9-110">In the **Save** section of the **Workflow** ribbon, select **Publish**.</span></span> 
+1. <span data-ttu-id="08b07-110">**워크플로** 리본 메뉴의 **저장** 섹션에서 **게시**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="08b07-110">In the **Save** section of the **Workflow** ribbon, select **Publish**.</span></span> 
   
-2. <span data-ttu-id="e96b9-111">**워크플로** 리본 메뉴의 **관리** 섹션에서 **전역으로 게시**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e96b9-111">In the **Manage** section of the **Workflow** ribbon, select **Publish Globally**.</span></span> <span data-ttu-id="e96b9-112">확인 대화 상자가 나타나면 **확인**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e96b9-112">In the confirmation dialog box that appears, select **OK**.</span></span> 
+2. <span data-ttu-id="08b07-111">**워크플로** 리본 메뉴의 **관리** 섹션에서 **전역으로 게시**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="08b07-111">In the **Manage** section of the **Workflow** ribbon, select **Publish Globally**.</span></span> <span data-ttu-id="08b07-112">확인 대화 상자가 나타나면 **확인**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="08b07-112">In the confirmation dialog box that appears, select **OK**.</span></span> 
   
-3. <span data-ttu-id="e96b9-113">웹 브라우저에서 사이트 모음의 루트 웹 사이트를 찾은 다음 **사이트 설정** \> **사이트 모음 기능**에 액세스 합니다.</span><span class="sxs-lookup"><span data-stu-id="e96b9-113">In a web browser, locate the root website of the site collection, and then access **Site Settings** \> **Site Collection Features**.</span></span> <span data-ttu-id="e96b9-114">그런 다음 **워크플로** 기능을 설정/해제 합니다.</span><span class="sxs-lookup"><span data-stu-id="e96b9-114">Then, toggle the **Workflows** feature:</span></span> 
+3. <span data-ttu-id="08b07-113">웹 브라우저에서 사이트 모음의 루트 웹 사이트를 찾은 다음 **사이트 설정** \> **사이트 모음 기능**에 액세스 합니다.</span><span class="sxs-lookup"><span data-stu-id="08b07-113">In a web browser, locate the root website of the site collection, and then access **Site Settings** \> **Site Collection Features**.</span></span> <span data-ttu-id="08b07-114">그런 다음 **워크플로** 기능을 설정/해제 합니다.</span><span class="sxs-lookup"><span data-stu-id="08b07-114">Then, toggle the **Workflows** feature:</span></span> 
   
-<span data-ttu-id="e96b9-115">· 기능이 *활성화* 되 면 **비활성화를** 클릭 한 다음 **활성화**를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="e96b9-115">· If the feature is  *Activated*  , click **Deactivate,** and then click **Activate**.</span></span> 
+<span data-ttu-id="08b07-115">· 기능이 *활성화* 되 면 **비활성화를** 클릭 한 다음 **활성화**를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="08b07-115">· If the feature is  *Activated*  , click **Deactivate,** and then click **Activate**.</span></span> 
   
-<span data-ttu-id="e96b9-116">· 기능이 *비활성화* 되어 있으면 **활성화**를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="e96b9-116">· If the feature is  *Deactivated*  , click **Activate**.</span></span> 
+<span data-ttu-id="08b07-116">· 기능이 *비활성화* 되어 있으면 **활성화**를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="08b07-116">· If the feature is  *Deactivated*  , click **Activate**.</span></span> 
   
-<span data-ttu-id="e96b9-117">자세한 내용은 다음 [문서](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="e96b9-117">For more information please refer to the following [article](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span></span>
+<span data-ttu-id="08b07-117">자세한 내용은 다음 [문서](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="08b07-117">For more information please refer to the following [article](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span></span>
   
 
