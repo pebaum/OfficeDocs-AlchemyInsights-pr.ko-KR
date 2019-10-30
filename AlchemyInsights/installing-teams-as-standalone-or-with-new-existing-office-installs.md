@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: fc222b2ea469f4f4d5233e87f7c9fd291bb5794c
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344208"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768879"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>독립 실행형 또는 기존 Office 설치를 사용 하 여 팀 설치
 
-Microsoft 팀은 이제 Office 365 ProPlus, Office 365 Business 및 Office for Mac을 *새로 설치* 하는 과정에 포함 됩니다. 자세한 내용은 [Microsoft 팀이 Office의 새 설치에 포함 될 때 시작 되는 시기](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus) 를 참조 하세요.
+Microsoft 팀은 Office 365 ProPlus, Office 365 Business 및 Office for Mac을 *새로 설치* 하는 과정에 포함 됩니다. 자세한 내용은 [Microsoft 팀이 Office의 새 설치에 포함 될 때 시작 되는 시기](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus) 를 참조 하세요.
 
 또한 월별 채널에서 버전 1906 부터는 기존 설치를 최신 버전으로 업데이트할 때 Windows를 실행 하는 장치에 대 한 Office 365 ProPlus (및 Office 365 Business)의 *기존 설치에* 팀이 추가 됩니다. 자세한 내용은 [Office의 기존 설치에 대 한](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus) 자세한 내용을 참조 하세요.
 

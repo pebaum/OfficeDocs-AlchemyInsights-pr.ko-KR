@@ -2,19 +2,18 @@
 title: '오류 404: 파일을 찾을 수 없음'
 ms.author: efrene
 author: efrene
-ms.date: 9/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: d05755133bd3e335bea74c69f599b66e1c6017da
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36740219"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769273"
 ---
-# <a name="error-404-file-not-found"></a>오류 404: 파일을 찾을 수 없음
+# <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>오류 404: SharePoint 또는 OneDrive에서 파일을 찾을 수 없음
 
 **오류 404:** 사용자가 SharePoint 또는 OneDrive의 사이트 또는 파일에 액세스 하려고 할 때 파일을 찾을 수 없습니다. 이 오류는 일반적으로 사이트 또는 파일 또는 그룹의 이름을 바꾸거나 이동 하거나 삭제 하기 때문에 발생 합니다.
 사용자에 게 루트 사이트 모음에 대 한 액세스를 시도 하는 중 오류가 발생 하 고 삭제 되었습니다.

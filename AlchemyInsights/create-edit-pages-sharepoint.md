@@ -8,14 +8,14 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: c11d226c3c7105cea3abcc180a00262bb6e4244f
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 1bcaa2d45179e38a47569fba172300a259c5b661
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36754810"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769525"
 ---
-# <a name="create-and-edit-modern-pages-on-sharepoint-site"></a>SharePoint 사이트에서 최신 페이지 만들기 및 편집
+# <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a>SharePoint 사이트에서 최신 페이지 만들기 및 편집
 
 파일 및 페이지를 쉽고 빠르게 편집할 수 있으며 모든 장치에서 보기 좋게 표시 됩니다. 자세한 내용을 보려면 아래 링크를 방문 하세요.
 

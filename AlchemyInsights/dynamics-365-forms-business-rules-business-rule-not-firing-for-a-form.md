@@ -9,13 +9,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 95c51f61f9f5ac61d77bf3286f4e4602d47e4801
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 66911e4f87d54f635b397d02fefdcaadb68d0ecc
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36528931"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769381"
 ---
 # <a name="business-rule-not-firing-for-a-form"></a>양식에 대해 비즈니스 규칙이 발생 하지 않음
 
-* [비즈니스 규칙이 양식에 대해 발생 하지 않습니까?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)
+비즈니스 규칙에서 참조 되는 필드가 양식에 포함 되지 않았으므로 비즈니스 규칙이 실행 되지 않을 수 있습니다. 자세한 내용은 [양식에서 비즈니스 규칙이 발생 하지 않음?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)를 참조 하세요.

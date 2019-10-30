@@ -3,7 +3,6 @@ title: 제품 키를 사용 하 여 새 구독을 활성화 합니다.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: e371f550f7dd8e1716f55cbabfff2ae598c9a47d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495649"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766393"
 ---
 # <a name="activate-a-new-subscription-with-a-product-key"></a>제품 키를 사용 하 여 새 구독을 활성화 합니다.
 
-1. 제품 키를 사용 하 여 새 구독을 활성화 하려면 [https://office.com/setupkey](https://office.com/setupkey) 페이지로 이동 합니다.
+1. 제품 키를 사용 하 여 새 Office 365 구독을 정품 인증 하려면 [https://office.com/setupkey](https://office.com/setupkey)로 이동 합니다.
 
 2. Office 365 제품 키를 입력 하 고 화면의 지시에 따라 구독을 활성화 합니다. 정품 인증에 문제가 있는 경우 이 [일반적인 제품 키 오류 및 해결 방법 목록](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions)을 확인하세요.

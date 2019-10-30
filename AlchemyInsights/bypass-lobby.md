@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37654262"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768446"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>컨트롤 로비 설정 및 참여 수준 제어
 
-전화 접속, 외부 및 익명 사용자를 포함 하 여 모든 사용자가 로비를 우회 하도록 허용 하려는 경우 PowerShell을 사용 하 여이 작업을 수행할 수 있습니다. 다음은 조직에 대 한 전역 모임 정책을 수정 하는 예입니다.
+전화 접속, 외부 및 익명 사용자를 비롯 한 모든 사용자가 Microsoft 팀의 로비를 우회 하도록 허용 하려면 PowerShell을 사용 하 여이 작업을 수행할 수 있습니다. 다음은 조직에 대 한 전역 모임 정책을 수정 하는 예입니다.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 

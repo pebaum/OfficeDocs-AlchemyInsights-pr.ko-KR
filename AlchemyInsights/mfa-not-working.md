@@ -11,15 +11,15 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36545177"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768843"
 ---
-# <a name="issues-with-mfa"></a>MFA 문제
-사용자가 MFA (multi-factor authentication)를 사용 하 여 로그인 할 수 없는 경우 확인 해야 할 몇 가지 사항이 있습니다.
+# <a name="issues-with-azure-mfa"></a>Azure MFA 관련 문제
+사용자가 MFA (다단계 인증)를 사용 하 여 로그인 할 수 없는지 확인 해야 하는 몇 가지 사항이 있습니다.
 
 1. 영향을 받는 사용자가 Azure Active Directory 포털에서 차단 될 수 있습니다. 이 경우 특정 사용자에 대 한 인증 시도가 자동으로 거부 됩니다. [이 문서에서 설명 하는 단계에 따라 차단을 해제 하세요.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 

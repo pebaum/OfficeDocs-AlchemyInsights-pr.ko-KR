@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: fb29d30eb676de8d367002010d3eabebd73bc54b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c452169a260dd8b6f2aea32729c4228e54c18e77
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36756142"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769021"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>누락 되었거나 삭제 된 사이트 모음 복구
 
-누락 되었거나 삭제 된 사이트 모음을 복구 하는 방법
+SharePoint에서 누락 되거나 삭제 된 사이트 모음을 복구 하는 방법에 대 한 자세한 내용은 다음 문서를 참조 하세요.
 
 [삭제된 사이트 복원](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
@@ -27,6 +27,6 @@ ms.locfileid: "36756142"
 
 사이트를 찾을 수 없는 경우 [Office 365 보안 &amp; 및 준수 센터에서 감사 로그를 검색](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)하는 것이 좋습니다.
 
-**참고**: "최신" 팀 사이트는 **클래식** SharePoint 관리 UI에 표시 되지 않습니다. [새 Sharepoint 관리 센터](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)에서 "최신" 사이트의 목록에 액세스할 수 있습니다.
+**참고:** "최신" 팀 사이트는 **클래식** SHAREPOINT 관리 UI에 표시 되지 않습니다. [새 Sharepoint 관리 센터](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)에서 "최신" 사이트의 목록에 액세스할 수 있습니다.
 
 

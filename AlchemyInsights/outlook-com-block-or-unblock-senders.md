@@ -15,16 +15,16 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643700"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768734"
 ---
 # <a name="block-or-unblock-senders"></a>보낸 사람 차단 또는 차단 해제
 
-차단 된 보낸 사람에 게 있는 전자 메일 주소 또는 도메인의 메시지가 정크 메일 폴더로 바로 이동 합니다. 30 일 후에 정크 메일 폴더에서 전자 메일이 자동으로 제거 되며 복구할 수 없습니다. Se; 제거할 항목을 확인 합니다.
+차단 된 보낸 사람에 있는 전자 메일 주소 또는 도메인의 메시지가 Outlook 정크 메일 폴더로 직접 이동 합니다. 30 일 후에 정크 메일 폴더에서 전자 메일이 자동으로 제거 되며 복구할 수 없습니다. 제거할 항목을 선택 합니다.
 
 **받은 편지함에서:**
 

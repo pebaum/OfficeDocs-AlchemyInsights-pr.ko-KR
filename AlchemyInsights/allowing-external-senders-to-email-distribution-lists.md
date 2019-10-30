@@ -3,7 +3,6 @@ title: 714 외부 보낸 사람에 게 전자 메일 메일 그룹을 사용할 
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 1978e27e605c124299e5737315e7e2926e7238c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506557"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768230"
 ---
 # <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>외부 보낸 사람이 메일 그룹에 메시지를 보낼 수 있도록 허용
 
 조직 외부의 사용자가 메일 그룹에 메시지를 보낼 때 오류가 발생 하거나 메일 그룹이 외부 보낸 사람 으로부터 메일을 수신 하도록 구성 되어 있는지 확인 하려면 다음 단계를 수행 합니다.
 
-1. [Office 365 관리 포털](https://portal.office.com/adminportal/home#/groups)의 **그룹** 노드로 이동 합니다.
+1. Office 365 관리 센터에서 **그룹** > [그룹](https://portal.office.com/adminportal/home#/groups) 페이지로 이동 합니다.  
 
-2. 메일 그룹을 선택 하 고 그룹 속성 날아오기가 표시 되 면 **외부 보낸 사람 허용**이 포함 된 섹션에서 **편집** 을 클릭 합니다.
+2. 메일 그룹을 선택 하 고 그룹 속성 창에서 **설정** 탭을 선택 합니다.
 
-3. **세부 정보 편집** 이 표시 되 면 **조직 외부의 사용자가이 메일 그룹에 전자 메일을 보낼 수 있도록 허용** 하는지 확인 합니다. 이 **설정 되어 있는**경우 **저장**을 클릭 합니다.
+3. **외부 보낸 사람이이 그룹에 전자 메일을 보낼 수 있도록 허용**을 선택 하 고 **저장**을 선택 합니다.

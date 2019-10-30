@@ -2,7 +2,6 @@
 title: 1800021 Outlook for Mac에서 규칙을 만드는 방법
 ms.author: supravee
 author: supravee
-ms.date: 7/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +10,16 @@ ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: 117abe766b7831d38b861a218a539c7487c5a67a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 80e1bba8b07b13077a984699353adfca9d56f0e0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541123"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769093"
 ---
 # <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Outlook for Mac에서 규칙을 만드는 방법
 
 1. 규칙에 의해 전송 되는 전자 메일 메시지를 저장할 폴더를 만들려면 루트 사서함을 선택 하 고 **구성** 탭에서 **새 폴더**를 클릭 하 고 폴더 이름을 입력 한 다음 enter 키를 누릅니다.
-
-    경우 
 
 2. 메시지 목록에서 o 규칙을 만들 전자 메일 메시지를 클릭 합니다.
 

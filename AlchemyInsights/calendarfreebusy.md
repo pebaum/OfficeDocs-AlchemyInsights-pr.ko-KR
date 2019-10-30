@@ -2,7 +2,6 @@
 title: 400 일정-FreeBusy
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,13 +9,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: 284f069416ee9fecbd623beb4f4174212179099c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c3e9f99f0132f3fffa492c995cd8c45959749ea
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396224"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768482"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>약속 있음/없음 일정 정보를 보는 문제
 
-다른 일정에서 약속 있음/없음 정보를 볼 수 없거나 다른 사람이 내 일정에서 약속 있음/없음 정보를 볼 수 없는 경우 [Office 365용 Microsoft 지원 및 복구 도우미 사용](https://diagnostics.office.com/)을 사용하세요.
+다른 Outlook 일정에서 약속 있음/없음 일정 정보를 볼 수 없거나 일정에 다른 사용자가 약속 있음/없음 정보를 볼 수 없는 경우 [Office 365 용 Microsoft 지원 및 복구 도우미](https://diagnostics.office.com/)를 사용 합니다.

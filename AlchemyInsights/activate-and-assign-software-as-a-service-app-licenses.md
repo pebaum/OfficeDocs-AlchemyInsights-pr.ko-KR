@@ -3,7 +3,6 @@ title: 소프트웨어 as-서비스 앱 라이선스 정품 인증 및 할당
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: d9cd02a778a7a979271b38e3df06c5bc7c1bdf6a
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 9ea12fcd222f10890b0e6ee66a185d6f4acb4073
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36385726"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766321"
 ---
 # <a name="activate-and-assign-software-as-a-service-app-licenses"></a>소프트웨어 as-서비스 앱 라이선스 정품 인증 및 할당 
 
@@ -27,7 +26,7 @@ ms.locfileid: "36385726"
 
 2. 관리 하려는 앱을 찾아 선택 합니다.
 
-3. **라이선스**의 **오류 메시지에서 계정 설정을**선택 합니다.  
+3. **라이선스**에서 **계정 설정을**선택 합니다.  
 
 ## <a name="to-assign-app-licenses"></a>앱 라이선스를 할당 하려면
 

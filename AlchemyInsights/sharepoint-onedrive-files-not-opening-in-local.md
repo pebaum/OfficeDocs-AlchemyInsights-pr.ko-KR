@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 8f6179e75f076fb452baf79cac71262a87595c93
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 6ae4ce4d48f136b9c9befbabacbcb554cf436b44
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750850"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766789"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>SharePoint에서 Office 파일을 여는 데 문제가 있습니다.
 
@@ -29,5 +29,5 @@ ms.locfileid: "36750850"
 
 자세한 내용 또는 자세한 내용은 [SharePoint 라이브러리에서 문서를 열 때 발생 하는 문제 해결](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)문서를 참조 하세요.
 
-**참고**: 기본적으로 브라우저나 클라이언트에서 여는 문서에 문제가 있는 경우 라이브러리 설정을 변경 해야 할 수 있습니다. 이 작업을 수행 하려면 브라우저에서 문서 열기 > 라이브러리 설정 > 고급 설정 > > 기어 아이콘을 가진 문제가 있는 라이브러리로 이동 합니다.
+**참고:** 기본적으로 브라우저나 클라이언트에서 여는 문서에 문제가 있는 경우 라이브러리 설정을 변경 해야 할 수 있습니다. 이 작업을 수행 하려면 오른쪽 위 모서리에 있는 기어 > 문제가 있는 라이브러리로 이동 > **라이브러리 설정** >  **고급 설정** > **브라우저에서 문서를 엽니다**.
 

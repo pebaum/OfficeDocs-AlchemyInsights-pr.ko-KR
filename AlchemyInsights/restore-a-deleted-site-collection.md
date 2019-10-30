@@ -3,7 +3,6 @@ title: 삭제된 사이트 복원
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/1/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 9e4e9ade058c60ecd7a6ce1b2a40c4996ac5676f
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: a1fb15869b9f576696de4eda4c0b2101bd6cca17
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36552478"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768554"
 ---
 # <a name="restore-a-deleted-site"></a>삭제된 사이트 복원
 
-관리자가 사이트를 삭제 하면 사이트가 영구적으로 삭제 되기 전까지 93 일 전에 보관 되는 사이트 모음 휴지통에 저장 됩니다. 사이트를 복원 하려면
+관리자가 SharePoint 사이트를 삭제 하면 사이트가 영구적으로 삭제 되기 전까지 93 일 전에 보관 되는 사이트 모음 휴지통에 저장 됩니다. 사이트를 복원 하려면
   
 1. 새 SharePoint 관리 센터에서 리본 메뉴의 **휴지통** 을 클릭 합니다. 
     

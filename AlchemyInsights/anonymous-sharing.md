@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: eaf958932ee1c1b4e33bd5dae96a48c37505739e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c2b06cc64d071a80fa6cafe0f066a3885e388d6b
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36747834"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768302"
 ---
 # <a name="anonymous-sharing"></a>익명 공유
 
@@ -23,7 +23,7 @@ ms.locfileid: "36747834"
   
 - **인증 된 외부 사용자에 대 한 공유 허용 및 익명 액세스 사용** 을 선택 합니다.
   
-(선택적으로, 지정된 일수가 지나면 링크가 만료되도록 설정하고 받는 사람이 링크를 사용하는 방식을 선택할 수 있습니다.)
+(선택 사항에 따라 지정 된 기간 (일) 동안 만료 되도록 링크를 설정 하 고 받는 사람이 링크를 사용할 수 있는 방법을 선택할 수 있습니다.)
     
  **익명으로 파일 또는 폴더 공유**
   
