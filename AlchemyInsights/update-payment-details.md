@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660942"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921820"
 ---
 # <a name="update-payment-details"></a>지불 정보 업데이트
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660942"
 4. 업데이트를 선택한 다음 **저장**을 선택합니다.
 
 5. 결제 방법을 제거 하려면 **삭제**를 선택합니다.
+
+**문제 해결**
+
+페이지를 로드하는 데 문제가 발생한 경우 다른 브라우저에서 웹 페이지를 열거나 Google Chrome의 시크릿 모드나 Microsoft Edge의 InPrivate 등의 개인 브라우저 창에서 페이지를 열어 보세요. 
 
 자세한 내용은 [비즈니스용 Office 365에서 신용 카드 또는 은행 계좌 추가, 업데이트 또는 제거](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) 및 [신용 카드 및 은행 계좌 문제 해결](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)을 참조하세요.
