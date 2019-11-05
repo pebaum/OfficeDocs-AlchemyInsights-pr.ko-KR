@@ -1,0 +1,27 @@
+---
+title: SharePoint에서 팀 사이트를 만드는 방법
+ms.author: v-miegge
+author: v-miegge
+manager: v-cojank
+ms.date: 11/04/2019
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "5200004"
+- "3177"
+ms.assetid: ''
+ms.openlocfilehash: 53d2bb66156363c18af48dc69385fe079f013e62
+ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37964219"
+---
+# <a name="how-to-create-a-team-site-in-sharepoint"></a>SharePoint에서 팀 사이트를 만드는 방법
+
+SharePoint Online [팀 사이트](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) 를 만들어 사용자와 팀이 프로젝트 작업을 수행 하 고 모든 장치에서 어디에서 든 정보를 공유할 수 있는 위치를 제공 합니다.
+
+* [SharePoint에서 팀 사이트 만들기](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d)
