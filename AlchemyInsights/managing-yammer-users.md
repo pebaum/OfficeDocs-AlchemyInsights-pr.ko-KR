@@ -12,10 +12,10 @@ ms.custom:
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
 ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36734927"
 ---
 # <a name="managing-yammer-users"></a>Yammer 사용자 관리
@@ -28,7 +28,7 @@ ms.locfileid: "36734927"
 
   - Office 365에서 Yammer 사용자 관리
 
-2. Yammer 관리 콘솔에서 사용자를 관리 하는 방법에 대 한 정보는 [yammer 사용자 추가, 차단 또는 제거](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) 를 참조 하세요. 성능 저하를 줄여주는 방법에는 다음이 포함됩니다.
+2. Yammer 관리 콘솔에서 사용자를 관리 하는 방법에 대 한 정보는 [yammer 사용자 추가, 차단 또는 제거](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) 를 참조 하세요. 여기에는 다음이 포함됩니다.
 
   - 사용자 초대 또는 제거
 

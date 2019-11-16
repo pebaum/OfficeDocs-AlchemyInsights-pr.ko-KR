@@ -12,15 +12,15 @@ ms.custom:
 - "9000751"
 - "2689"
 ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768698"
 ---
 # <a name="empty-the-deleted-items-folder"></a>지운 편지함 폴더 비우기
 
-삭제 된 모든 Outlook 메시지를 제거 하려면 [지운 편지함 폴더로](https://outlook.live.com/mail/deleteditems) 이동한 후 **빈 폴더**를 선택 하 고 메시지 목록 위에 있는 **이 폴더** 에서 삭제 된 항목 복구를 선택 하 고 **빈 폴더**  다시
+삭제 된 모든 Outlook 메시지를 제거 하려면 [지운 편지함 폴더로](https://outlook.live.com/mail/deleteditems) 이동한 후 **빈 폴더**를 선택 하 고 메시지 목록 위에 있는 **이 폴더** 에서 삭제 된 항목 복구를 선택 하 고 **폴더** 를 다시 비우기를 선택 합니다.
 
 메시지를 많이 삭제 한 경우에는 해당 항목이 지운 편지함 폴더에서 이동 하거나 제거 될 때 다소 시간이 걸릴 수 있습니다. 항목을 삭제할 때까지 브라우저 창을 열어 두세요.
 

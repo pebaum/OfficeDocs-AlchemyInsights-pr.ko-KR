@@ -12,10 +12,10 @@ ms.custom:
 - "2673"
 - "9000740"
 ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768446"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>컨트롤 로비 설정 및 참여 수준 제어
@@ -38,6 +38,6 @@ ms.locfileid: "37768446"
 
 - 전화 [접속 사용자의 로비 사용 허용](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**출시 예정**)은 전화로 전화를 거는 사용자가 모임에 직접 참가할 지 또는 **자동 허용 사용자** 설정에 관계 없이 로비에서 대기할지 여부를 제어 하는 이끌이 별 정책입니다.
 
-- [이끌이가 로비 설정 재정의 허용](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**곧 예정**)은 모임 이끌이가 **자동으로 사용자** 를 승인 하 고 전화 접속을 허용 하는 관리자가 설정한 로비 설정을 재정의할 수 있는지 여부를 제어 하는 이끌이 별 정책입니다. ** 사용자가** 새 모임을 예약할 때 로비를 우회할 수 있습니다.
+- [이끌이가 로비 설정 재정의 허용](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**곧 예정**)은 모임 이끌이가 관리자가 **자동으로 사용자** **를 허용 하 고 전화 접속 사용자가** 새 모임을 예약할 때 로비를 우회 하도록 할 수 있는지 여부를 제어 하는 이끌이 별 정책입니다.
 
 **참고:** Microsoft 팀 회의 정책에 대 한 전체 개요를 보려면 [팀에서 모임 정책 관리](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) 를 참조 하세요.
