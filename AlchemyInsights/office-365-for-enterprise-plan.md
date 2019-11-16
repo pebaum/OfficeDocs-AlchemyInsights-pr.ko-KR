@@ -13,12 +13,12 @@ ms.custom:
 - "1500026"
 ms.assetid: 5e423a8a-db05-4c46-804b-b8d9c54ba62b
 ms.openlocfilehash: 25e349bd3353340b91b9d4401ad3e61f456b6263
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768770"
 ---
-# <a name="office-365-for-enterprise-plan"></a><span data-ttu-id="bcbf5-102">Enterprise 요금제 용 Office 365</span><span class="sxs-lookup"><span data-stu-id="bcbf5-102">Office 365 for Enterprise plan</span></span>
+# <a name="office-365-for-enterprise-plan"></a><span data-ttu-id="fefe2-102">Enterprise 요금제 용 Office 365</span><span class="sxs-lookup"><span data-stu-id="fefe2-102">Office 365 for Enterprise plan</span></span>
 
-<span data-ttu-id="bcbf5-103">Office 365에는 여러 가지 요금제가 제공 됩니다.</span><span class="sxs-lookup"><span data-stu-id="bcbf5-103">There are several different plans available with Office 365 for Enterprise.</span></span> <span data-ttu-id="bcbf5-104">[Enterprise 요금제 및 가격 산정을 위해 Office 365를 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)합니다.</span><span class="sxs-lookup"><span data-stu-id="bcbf5-104">[Compare Office 365 for Enterprise plans and pricing](https://products.office.com/business/compare-more-office-365-for-business-plans).</span></span>  
+<span data-ttu-id="fefe2-103">Office 365에는 여러 가지 요금제가 제공 됩니다.</span><span class="sxs-lookup"><span data-stu-id="fefe2-103">There are several different plans available with Office 365 for Enterprise.</span></span> <span data-ttu-id="fefe2-104">[Enterprise 요금제 및 가격 산정을 위해 Office 365를 비교](https://products.office.com/business/compare-more-office-365-for-business-plans)합니다.</span><span class="sxs-lookup"><span data-stu-id="fefe2-104">[Compare Office 365 for Enterprise plans and pricing](https://products.office.com/business/compare-more-office-365-for-business-plans).</span></span>  
