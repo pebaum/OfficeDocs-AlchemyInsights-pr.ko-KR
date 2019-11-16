@@ -13,14 +13,14 @@ ms.custom:
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
 ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36738419"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="79aeb-102">모든 사용자에 대해 중요 받은 편지함 켜기 또는 끄기</span><span class="sxs-lookup"><span data-stu-id="79aeb-102">Turn Focused Inbox on or off for everyone</span></span>
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="7b081-102">모든 사용자에 대해 중요 받은 편지함 켜기 또는 끄기</span><span class="sxs-lookup"><span data-stu-id="7b081-102">Turn Focused Inbox on or off for everyone</span></span>
 
-<span data-ttu-id="79aeb-103">자세한 내용은 [조직의 모든 사용자에 대해 중요 받은 편지함 구성을](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox)참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="79aeb-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
+<span data-ttu-id="7b081-103">자세한 내용은 [조직의 모든 사용자에 대해 중요 받은 편지함 구성을](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox)참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="7b081-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
 
-<span data-ttu-id="79aeb-104">**참고**:이 절차를 수행 하려면 Exchange Online PowerShell이 필요 합니다.</span><span class="sxs-lookup"><span data-stu-id="79aeb-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="79aeb-105">대신 Microsoft 365 관리 센터에서이 작업을 수행 하 시겠습니까?</span><span class="sxs-lookup"><span data-stu-id="79aeb-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="79aeb-106">여기에서 투표하세요.</span><span class="sxs-lookup"><span data-stu-id="79aeb-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)
+<span data-ttu-id="7b081-104">**참고**:이 절차를 수행 하려면 Exchange Online PowerShell이 필요 합니다.</span><span class="sxs-lookup"><span data-stu-id="7b081-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="7b081-105">대신 Microsoft 365 관리 센터에서이 작업을 수행 하 시겠습니까?</span><span class="sxs-lookup"><span data-stu-id="7b081-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="7b081-106">여기에서 투표하세요.</span><span class="sxs-lookup"><span data-stu-id="7b081-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)

@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
 ms.openlocfilehash: e18742425546d9d455d56fdf400338a45361633b
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36511355"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a><span data-ttu-id="bd79c-102">Outlook.com에서 내 프로필 사진 또는 이름 변경</span><span class="sxs-lookup"><span data-stu-id="bd79c-102">Change my profile picture or name in Outlook.com</span></span>
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a><span data-ttu-id="0e0ee-102">Outlook.com에서 내 프로필 사진 또는 이름 변경</span><span class="sxs-lookup"><span data-stu-id="0e0ee-102">Change my profile picture or name in Outlook.com</span></span>
 
-1. <span data-ttu-id="bd79c-103">[Microsoft 계정 정보](https://go.microsoft.com/fwlink/p/?linkid=860841)로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="bd79c-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
-1. <span data-ttu-id="bd79c-104">**이름 편집** 또는 **그림 변경을**선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="bd79c-104">Select **Edit name** or **Change picture**.</span></span>
+1. <span data-ttu-id="0e0ee-103">[Microsoft 계정 정보](https://go.microsoft.com/fwlink/p/?linkid=860841)로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="0e0ee-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+1. <span data-ttu-id="0e0ee-104">**이름 편집** 또는 **그림 변경을**선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="0e0ee-104">Select **Edit name** or **Change picture**.</span></span>
 
-<span data-ttu-id="bd79c-105">프로필 사진 또는 이름을 변경 하는 데 최대 24 시간이 걸릴 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="bd79c-105">Please allow up to 24 hours for changes to your profile photo or name to go into effect.</span></span>
+<span data-ttu-id="0e0ee-105">프로필 사진 또는 이름을 변경 하는 데 최대 24 시간이 걸릴 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="0e0ee-105">Please allow up to 24 hours for changes to your profile photo or name to go into effect.</span></span>

@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: 8f97f905f2db71cff299ee27d78138f254ed32f6
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36532625"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="1f19a-102">SharePoint 문서 라이브러리에 폴더 또는 파일 업로드</span><span class="sxs-lookup"><span data-stu-id="1f19a-102">Upload a folder or files to a SharePoint document library</span></span>
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="31c86-102">SharePoint 문서 라이브러리에 폴더 또는 파일 업로드</span><span class="sxs-lookup"><span data-stu-id="31c86-102">Upload a folder or files to a SharePoint document library</span></span>
 
-<span data-ttu-id="1f19a-103">폴더를 업로드 하려면 Microsoft Edge, Google Chrome 또는 Mozilla FireFox를 사용 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="1f19a-103">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox.</span></span> <span data-ttu-id="1f19a-104">클래식 라이브러리 환경에서 또는 Internet Explorer 10 또는 11을 사용 하 여 폴더를 업로드할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="1f19a-104">You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
+<span data-ttu-id="31c86-103">폴더를 업로드 하려면 Microsoft Edge, Google Chrome 또는 Mozilla FireFox를 사용 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="31c86-103">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox.</span></span> <span data-ttu-id="31c86-104">클래식 라이브러리 환경에서 또는 Internet Explorer 10 또는 11을 사용 하 여 폴더를 업로드할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="31c86-104">You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
   
-1. <span data-ttu-id="1f19a-105">폴더 또는 파일을 업로드 하려는 문서 라이브러리를 엽니다.</span><span class="sxs-lookup"><span data-stu-id="1f19a-105">Open the document library where you want to upload a folder or files.</span></span>
+1. <span data-ttu-id="31c86-105">폴더 또는 파일을 업로드 하려는 문서 라이브러리를 엽니다.</span><span class="sxs-lookup"><span data-stu-id="31c86-105">Open the document library where you want to upload a folder or files.</span></span>
     
-2. <span data-ttu-id="1f19a-106">컴퓨터에서 파일 탐색기를 열고 업로드할 하나 이상의 파일로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="1f19a-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
+2. <span data-ttu-id="31c86-106">컴퓨터에서 파일 탐색기를 열고 업로드할 하나 이상의 파일로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="31c86-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
     
-3. <span data-ttu-id="1f19a-107">폴더 또는 파일을 문서 라이브러리로 끌어 놓습니다.</span><span class="sxs-lookup"><span data-stu-id="1f19a-107">Drag the folder or files to the document library.</span></span> <span data-ttu-id="1f19a-108">업로드 한 항목이 라이브러리에 표시 되 면 페이지를 새로 고칩니다.</span><span class="sxs-lookup"><span data-stu-id="1f19a-108">If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
+3. <span data-ttu-id="31c86-107">폴더 또는 파일을 문서 라이브러리로 끌어 놓습니다.</span><span class="sxs-lookup"><span data-stu-id="31c86-107">Drag the folder or files to the document library.</span></span> <span data-ttu-id="31c86-108">업로드 한 항목이 라이브러리에 표시 되 면 페이지를 새로 고칩니다.</span><span class="sxs-lookup"><span data-stu-id="31c86-108">If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
     
-<span data-ttu-id="1f19a-109">창 사이에 항목을 끌어 업로드 하지 않으려는 경우 문서 라이브러리의 **업로드** 단추를 사용 하 여 업로드할 폴더를 선택할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1f19a-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
+<span data-ttu-id="31c86-109">창 사이에 항목을 끌어 업로드 하지 않으려는 경우 문서 라이브러리의 **업로드** 단추를 사용 하 여 업로드할 폴더를 선택할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="31c86-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
   
 
