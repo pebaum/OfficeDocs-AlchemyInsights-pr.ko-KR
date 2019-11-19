@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: 16f99b3bfce3513ada0e0c14ee8e3106cb7565d7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4bcf4a433fe5d49a61125dff60586ac717024da1
+ms.sourcegitcommit: 4ecd61b709d3ccb730dc120df9445754d5ae4f77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768374"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704359"
 ---
 # <a name="become-an-admin"></a>관리자 되기
 
 조직에 대 한 관리자 역할을 가정 하려면 Office 365의 테 넌 트를 사용 해야 합니다.
   
-이 가이드의 지침에 따라: [Do a admin 인수 In Office 365을](https://docs.microsoft.com/office365/admin/misc/become-the-admin) 참조 하세요.
+이 가이드의 지침을 따르세요: [Admin 인수](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#azure-ad-powershell-cmdlets-for-the-forcetakeover-option)
