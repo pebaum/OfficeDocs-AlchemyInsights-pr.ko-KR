@@ -13,16 +13,16 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 6e68e021525b9bff1c9666d0db5b44ea5d72c753
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63d2115c6c167ade1d39f8cdeca08de1a2e12d17
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549045"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711726"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>SharePoint 문서 라이브러리에서 항목 이동
 
-문서 라이브러리 내의 다른 위치로 항목을 이동할 수 있습니다. [대상 지정 된 릴리스 옵션을 설정한](https://go.microsoft.com/fwlink/?linkid=622980)경우 사이트 간에 항목을 이동할 수도 있습니다. 문서를 이동 하면 해당 기록도 이동 됩니다.
+문서 라이브러리 내의 다른 위치로 항목을 이동할 수 있습니다.
   
 1. 웹 브라우저에서 이동 하려는 파일, 폴더 또는 링크를 찾은 다음 **이동을**클릭 합니다.
 
@@ -34,3 +34,10 @@ ms.locfileid: "36549045"
     파일을 이동할 새 폴더를 만들려면 폴더 계층 구조에서 위치를 선택 하 고 **새 폴더**를 클릭 하 고 폴더 이름을 입력 한 다음 확인 표시를 클릭 하 여 이름을 저장 합니다.
 
 3. **여기로 이동을**클릭 합니다.
+
+ 파일을 이동 하는 경우 해당 파일이 대상으로 완전히 이동 될 때까지 원본 디렉터리에 계속 표시 되 고 삭제 됩니다. 파일은 이동이 완료 된 후 원본 사이트 휴지통에 유지 되 고 사용자가 휴지통에서 복구 하는 경우를 제외 하 고 일반 재활용 일정이 적용 됩니다.
+
+자세한 내용은 다음을 참조하세요.
+
+ - [SharePoint에서 파일 이동 또는 복사](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office 지원 문서)
+ - [Office 365의 임의 폴더에서 파일 이동](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft 기술 커뮤니티 블로그 문서) 
