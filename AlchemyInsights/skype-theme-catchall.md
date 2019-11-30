@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: 893a37e16d9582e1dade8b5cd708dd37cb7b1036
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: 2cc76aee6e904c055fdf2a18a61a9263ecd0ddc0
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316874"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627328"
 ---
 # <a name="skype-for-business-common-issues-and-resolutions"></a>비즈니스용 Skype 일반적인 문제 및 해결 방법 
 
@@ -34,4 +34,4 @@ ms.locfileid: "37316874"
 
 **Skype 연락처와 통신:** 비즈니스용 [Skype 사용자가 skype 연락처를 추가할 수 있도록](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)합니다.
 
-**비즈니스용 Skype를 Microsoft 팀으로 업그레이드:** [Microsoft 팀 업그레이드 시작](https://docs.microsoft.com/en-us/microsoftteams/upgrade-start-here) 을 검토 하 고 조직에서 팀을 채택 하는 동안 microsoft 팀과의 [동시](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) 사용에 대해 자세히 알아보세요. 
+**비즈니스용 Skype를 Microsoft 팀으로 업그레이드:** [Microsoft 팀 업그레이드 시작](https://docs.microsoft.com/microsoftteams/upgrade-start-here) 을 검토 하 고 조직에서 팀을 채택 하는 동안 microsoft 팀과의 [동시](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) 사용에 대해 자세히 알아보세요. 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 09cbbc28e3ad826dc3ed69a89e5ab3983c1aea24
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 88e139e9d1179dd1afb14686a4c4e3ee5e211ebc
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37373117"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626390"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>팀의 일반적인 문제 및 해결 방법
 
@@ -34,5 +34,5 @@ Microsoft 팀 문제에 대 한 보다 구체적인 답을 보려면 질문을 �
 - **누락 된 다이얼 패드 문제 해결:**  
     - 사용자에 게 [팀 라이선스가](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)할당 되었는지 확인 합니다.
     - 사용자에 게 [통화 요금제](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) 가 할당 되어 있는지 확인 합니다.
-    - 사용자가 [Enterprise Voice](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)를 사용할 수 있도록 설정 합니다.
+    - 사용자가 [Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)를 사용할 수 있도록 설정 합니다.
 - **팀의 알려진 문제:** [Microsoft 팀에 대 한 알려진 문제를](https://docs.microsoft.com/microsoftteams/known-issues)읽었습니다.

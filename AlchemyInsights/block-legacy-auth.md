@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: 11fbdff8857db747682b9b4a9d0367b06ac5fb6e
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 73c46cc9ad17553f53f90a53fa272609a208d4a6
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682195"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627292"
 ---
 # <a name="blocking-legacy-authentication"></a>레거시 인증 차단
 
@@ -25,4 +25,4 @@ ms.locfileid: "37682195"
 - 최신 인증을 사용 하지 않는 이전 버전의 Office 클라이언트 (예: Office 2010 클라이언트)
 - IMAP/SMTP/POP3와 같은 레거시 메일 프로토콜을 사용 하는 모든 클라이언트  
 
-레거시 인증을 차단 하 고 최신 인증을 사용 하는 방법에 대 한 자세한 내용은 [레거시 인증 차단을](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication)참조 하십시오.
+레거시 인증을 차단 하 고 최신 인증을 사용 하는 방법에 대 한 자세한 내용은 [레거시 인증 차단을](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication)참조 하십시오.

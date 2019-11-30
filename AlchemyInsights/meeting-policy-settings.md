@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2657"
 - "9000734"
-ms.openlocfilehash: dac06690b51459ca166c15a5ef0f4c7e7a6d36f0
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376712"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627580"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Microsoft 팀에서 모임 정책 관리
 
@@ -24,7 +24,7 @@ ms.locfileid: "37376712"
 
 모임 정책에 대 한 자세한 내용은 다음 리소스를 참조 하십시오.
 
-- 정책을 만들고, 변경 하 고, 사용자를 정책에 할당 하는 방법에 대 한 자세한 내용은 [팀에서 모임 정책 관리](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams)를 참조 하십시오.
+- 정책을 만들고, 변경 하 고, 사용자를 정책에 할당 하는 방법에 대 한 자세한 내용은 [팀에서 모임 정책 관리](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)를 참조 하십시오.
 
 - PowerShell cmdlet을 사용 하 여 정책을 변경 하려면 [팀 Powershell 개요](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)를 참조 하세요. 
     - 팀 회의 정책에 [비즈니스용 Skype PowerShell 모듈](https://www.microsoft.com/download/details.aspx?id=39366) 을 사용 해야 합니다. 

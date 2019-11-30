@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2723"
 - "9000779"
-ms.openlocfilehash: 286269f2a1171abfc76384c950564682742b26cd
-ms.sourcegitcommit: b4484881c6058c472c42856a49e95122fd133aa8
+ms.openlocfilehash: 7bbdce60f71016a6acee3818905e6dc13d0ab3bd
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37466242"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627816"
 ---
 # <a name="commonly-requested-content-for-excel"></a>일반적으로 요청 되는 Excel 콘텐츠
 
@@ -32,4 +32,4 @@ Excel 질문에 대 한 보다 정확한 답을 보려면 오류, 사용 중인 
 - ["메모리가 부족 하 여이 작업을 완료할 수 없습니다." 오류](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors)
 - [자동 저장 이란?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
 - [파일이 읽기 전용으로 열림](https://support.office.com/article/why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15)
-- [PowerBI에 대 한 도움말](https://powerbi.microsoft.com/en-us/support/)
+- [PowerBI에 대 한 도움말](https://powerbi.microsoft.com/support/)
