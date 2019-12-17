@@ -1,23 +1,23 @@
 ---
 title: SharePoint Online에서 외부 공유 사용
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 131ed77f8cb38610ff21b97dd1b6eb3ec575d510
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36744431"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051683"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>SharePoint Online에서 외부 공유 사용
 
-조직에서 문서를 공유 하거나 공급 업체, 클라이언트 또는 고객과 직접 공동 작업을 수행 하는 경우 [SharePoint Online의 외부 공유 기능](https://docs.microsoft.com/sharepoint/external-sharing-overview) 을 사용 하 여 콘텐츠를 사용자의 외부에 있는 사용자와 공유할 수 있습니다. 조직.
+조직에서 문서를 공유 하거나 공급 업체, 클라이언트 또는 고객과 직접 공동 작업을 수행 해야 하는 경우 [SharePoint Online의 외부 공유 기능](https://docs.microsoft.com/sharepoint/external-sharing-overview) 을 사용 하 여 조직 외부의 사용자와 콘텐츠를 공유할 수 있습니다.
 
 외부 공유 (게스트)에 대 한 자세한 내용은 아래 링크를 방문 하세요.
 

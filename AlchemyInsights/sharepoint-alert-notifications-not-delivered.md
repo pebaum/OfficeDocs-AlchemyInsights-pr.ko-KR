@@ -1,7 +1,7 @@
 ---
 title: SharePoint 경고 알림이 배달 되지 않음
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 978ca8df40736228932ae6f6a7c33ad0b159d4e5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36744647"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40047073"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint 경고 알림이 배달 되지 않음
 
@@ -43,7 +43,7 @@ ms.locfileid: "36744647"
 - **Advanced Threat Protection에서 보내는 경고**: [SharePoint 및 OneDrive에 대 한 ATP](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)를 참조 하세요.
 - **데이터 손실 방지 정책에 의해 전송 된 경고**: [DLP 정책에 대 한 전자 메일 알림을](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)참조 하세요.
 
-## <a name="related-topics"></a>관련 항목
+## <a name="related-topics"></a>관련 주제
 
 SharePoint Online에서 Microsoft Flow를 시도 하 고 싶으십니까?
 

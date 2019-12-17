@@ -1,7 +1,7 @@
 ---
 title: Outlook.com 설정
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386371"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053267"
 ---
 # <a name="settings-in-outlookcom"></a>Outlook.com의 설정
 
-받는 사람이 조직 내부 또는 외부에 있고 해당 사용자가 Office 365 또는 Outlook.com 전자 메일 계정을 사용 하는 경우 다음 클라이언트에서 메시지를 열 때 **outlook 2016, 웹/Outlook Web App의 outlook에서 별도의 작업을 수행 하지 않아도 됩니다. Outlook 모바일 앱**
+받는 사람이 조직 내부 또는 외부에 있고 해당 사용자가 Office 365 또는 Outlook.com 전자 메일 계정을 사용 하는 경우에는 **outlook 2016, 웹/Outlook Web App의 outlook, outlook 모바일 앱** 에서 메시지를 열 때 특별 한 작업을 수행 하지 않아도 됩니다.
 
 보호 된 전자 메일을 보낸 사용자의 **대리인이** 보호 된 메시지를 열 수 없습니다. 원래 받는 사람 (보호 된 전자 메일을 보낸 사람)만 전자 메일의 정보를 볼 수 있습니다.
 

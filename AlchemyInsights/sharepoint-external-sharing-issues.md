@@ -1,19 +1,19 @@
 ---
 title: 외부 사용자가 SharePoint Online의 콘텐츠에 액세스할 수 없음
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 06e964ec2d9f8b9cf1a8185ce78f067e7a0e42e3
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: aea01148f009bd67571c75798e62a48148867c98
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744107"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051575"
 ---
 # <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>외부 사용자가 SharePoint Online의 콘텐츠에 액세스할 수 없음
 

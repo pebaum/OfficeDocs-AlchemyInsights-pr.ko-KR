@@ -1,19 +1,19 @@
 ---
 title: 액세스 거부 메시지 문제 해결
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: e4fea7188bd77ba876e2a245414372c3ff836059
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 05d12aee49b449e8a29e84021b41298fb9983859
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500416"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050711"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>액세스 거부 메시지 문제 해결
 

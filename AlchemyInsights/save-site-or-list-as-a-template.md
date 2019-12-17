@@ -1,18 +1,18 @@
 ---
 title: 사이트 또는 목록을 서식 파일로 저장
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: 1fe0a2f5bf65ef4e8cabf3d05a701c8eff966435
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 627f49991aaef984f731412045351d7a1862b376
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752038"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048730"
 ---
 # <a name="save-site-or-list-as-a-template"></a>사이트 또는 목록을 서식 파일로 저장
 

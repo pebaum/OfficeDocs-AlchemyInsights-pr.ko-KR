@@ -1,17 +1,17 @@
 ---
 title: OneDrive 및 SharePoint의 프로 비전 문제
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: 9dd38f3db7e74a82748e6db526f48b8e1c28c63d
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 5a34fe8821f4f0f314c43b58782cac4546faceac
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752470"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054347"
 ---
 # <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>OneDrive 및 SharePoint의 프로 비전 문제
 

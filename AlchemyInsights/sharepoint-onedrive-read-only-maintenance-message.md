@@ -1,7 +1,7 @@
 ---
 title: SharePoint 또는 OneDrive를 사용 하려고 할 때 유지 관리 메시지에 대 한 읽기 전용
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
-ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
+ms.openlocfilehash: 02cf1aa7abae365a3d317af9e785648d1c1517e1
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620729"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051287"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>SharePoint 또는 OneDrive를 사용 하려고 할 때 유지 관리 메시지에 대 한 읽기 전용
 

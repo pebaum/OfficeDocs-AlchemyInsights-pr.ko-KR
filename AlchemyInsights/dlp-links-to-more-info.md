@@ -1,7 +1,7 @@
 ---
 title: DLP 문제에 대 한 추가 정보
-ms.author: stephow
-author: stephow-MSFT
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.audience: admin
 ms.topic: article
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: 0717b99f500fd9173167d2e3fcaff1b920d22d74
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 358e7d23a84a6cdc45cbaff384c66af1de786b26
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665214"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052295"
 ---
 # <a name="information-about-dlp-issues"></a>DLP 문제에 대 한 정보
 
@@ -24,7 +24,7 @@ DLP 정책을 사용 하 여 Office 365에서 중요 한 정보를 식별, 모�
 
 자세한 내용은 다음 링크를 참조 하세요.
 
-- [데이터 손실 방지 개요](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
+- [데이터 손실 방지의 개요](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
 - [중요한 정보 유형이 찾는 항목](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
 - [사용자 지정 중요한 정보 유형 만들기](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
 - [전자 메일 알림 보내기 및 정책 팁 표시](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)

@@ -1,7 +1,7 @@
 ---
 title: 자동으로 새로 만들어진 보존 레이블
-ms.author: stephow
-author: stephow-MSFT
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 2df788f74e7e6464d4a51653709e983046dd2f8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e43edeedf443d8866817f604f6b41708e7284e6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522185"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054672"
 ---
 # <a name="new-retention-labels-created-automatically"></a>자동으로 새로 만들어진 보존 레이블
 
@@ -31,6 +31,6 @@ ms.locfileid: "36522185"
 
 1. 보안 또는 준수 관리 센터에서 **분류** > **레이블** > **보존** 탭을 선택 합니다.
 
-1. 레이블을 삭제 > **삭제** > **** 하려는 보존 레이블을 선택 합니다.
+1. **레이블을 삭제** > **삭제** > 하려는 보존 레이블을 선택 합니다.
 
 파일 계획 관리자를 사용 하 여 조직에서 보존 레이블 및 정책을 관리할 수 있습니다. 자세한 내용은 [파일 계획 관리자 개요](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager)를 참조 하세요.

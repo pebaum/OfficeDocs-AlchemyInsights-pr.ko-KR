@@ -1,19 +1,19 @@
 ---
 title: SharePoint Online 또는 OneDrive ' 설정 '
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 9/21/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: 22e2a6d4a86f7ee2ceecdab874c1daf865959090
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: b450eb76d438e027d2d6fa938f685fb65ac357ac
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36751102"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051395"
 ---
 # <a name="change-display-language-settings-in-sharepoint-or-onedrive"></a>SharePoint 또는 OneDrive의 표시 언어 설정 변경 
 

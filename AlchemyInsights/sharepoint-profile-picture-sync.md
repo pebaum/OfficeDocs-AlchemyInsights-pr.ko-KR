@@ -1,7 +1,7 @@
 ---
 title: 프로필 동기화
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,12 +10,12 @@ ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.custom:
 - "1828"
 - "9000231"
-ms.openlocfilehash: 32124a1fa46d5a42265e8ce326ae4effa19ca223
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 93caa0973ab4a960c9395c726a45a441609d2dac
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36818792"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051143"
 ---
 # <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>내 프로필 변경 내용이 SharePoint 사용자 프로필 응용 프로그램에 동기화 되는 경우
 

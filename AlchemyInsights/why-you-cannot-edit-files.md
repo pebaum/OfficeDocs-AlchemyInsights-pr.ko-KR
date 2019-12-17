@@ -1,7 +1,7 @@
 ---
 title: 파일 편집을 위해 잠김
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 4/26/2018
 ms.audience: ITPro
@@ -9,18 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: b73797749acae52aae66875691669930e1589904
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.custom:
+- "9000123"
+- "1622"
+- "1713"
+ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36748366"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049415"
 ---
 # <a name="why-cant-i-edit-files"></a>파일을 편집할 수 없는 이유는 무엇 인가요?
 
 문서, 워크시트 또는 프레젠테이션을 편집용으로 잠 궜으 며 Windows 데스크톱 응용 프로그램에서 열 수 없는 경우 다른 사용자가 파일을 이미 편집 중이거나 파일을 체크 아웃 한 것일 수 있습니다. [파일을 편집 하지 못할 수](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)있는 몇 가지 이유를 간략하게 살펴보겠습니다.
 
-**체크 아웃, 필수** 또는 **유효성 검사** 열 또는 메타 데이터를 포함 하는 라이브러리가 있거나, **초안 항목 보안** 을 **편집할 수 있는 사용자만** 또는의 버전 설정에서 **항목을 승인할 수 있는 사용자** 로만 설정 하는 경우 라이브러리
+**체크 아웃, 필수** 또는 **유효성 검사** 열 또는 메타 데이터를 포함 하는 라이브러리가 있거나 라이브러리의 버전 설정에서 **항목을 승인할 수** 있는 사용자 **만** 이 **초안 항목 보안** 을 설정 하는 경우:
 
 - SharePoint 문서 라이브러리의 경우 이러한 항목은 읽기 전용으로 동기화 됩니다.
 

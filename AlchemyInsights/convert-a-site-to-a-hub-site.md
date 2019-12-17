@@ -1,7 +1,7 @@
 ---
 title: 사이트를 허브 사이트로 변환
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 ms.date: 12/28/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,12 +11,12 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: 5d2f0ded6e32c62f880dce6314b5869231d6955d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5b8bb4d7a492db44888bb99bb21c59985295e13
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516749"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049955"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>SharePoint 허브 사이트 만들기
 
@@ -29,5 +29,5 @@ ms.locfileid: "36516749"
     > [!NOTE]
     >  새 템플릿을 사용 하는 팀 사이트 또는 커뮤니케이션 사이트를 선택 하는 것이 좋습니다. 클래식 팀 사이트를 사용 하는 경우 허브 탐색은 최신 페이지에만 표시 되며, 허브 사이트 설정은 최신 페이지에만 표시 됩니다. 다른 허브에 이미 연결 되어 있는 사이트는 허브 사이트로 등록할 수 없습니다.
   
-[허브 사이트에 대해 자세히 알아보기](https://go.microsoft.com/fwlink/?linkid=869149)
+[허브 사이트에 대한 자세한 정보](https://go.microsoft.com/fwlink/?linkid=869149).
   

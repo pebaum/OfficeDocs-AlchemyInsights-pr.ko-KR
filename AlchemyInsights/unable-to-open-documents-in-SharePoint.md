@@ -1,18 +1,18 @@
 ---
 title: SharePoint에서 문서를 열 수 없음
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9534aaa07e54d35f6600053e88f2072936c1c461
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 5b50f77b4656a0418786a557f2023abfd0b6d84f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36748540"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054924"
 ---
 # <a name="unable-to-open-documents-in-sharepoint"></a>SharePoint에서 문서를 열 수 없음
 

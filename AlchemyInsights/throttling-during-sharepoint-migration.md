@@ -1,7 +1,7 @@
 ---
 title: SharePoint 마이그레이션 중 제한
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,12 +10,12 @@ ms.custom:
 - "1987"
 - "9000353"
 ms.assetid: ''
-ms.openlocfilehash: 6958e9ae6ed322bdbdcfa49d977eafd420a68c31
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: a03014eff1b03367103242ba630ace6ee0f4acca
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36749122"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052439"
 ---
 # <a name="sharepoint-throttling"></a>SharePoint 제한
 

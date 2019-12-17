@@ -1,7 +1,7 @@
 ---
 title: 민감도 레이블 표시 안 함
-ms.author: stephow
-author: stephow-MSFT
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 4bf8e02246c966f22648467386a7862f0521fecf
-ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
+ms.openlocfilehash: 67719380aea0481f96c03fa591542e8e5a6e6993
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37207231"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048658"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>민감도 레이블 표시 안 함
 
@@ -34,8 +34,8 @@ ms.locfileid: "37207231"
 - DLP (데이터 손실 방지) 지원: 현재는 보존 레이블만 DLP 정책의 조건으로 사용할 수 있습니다.  DLP 정책의 민감도 레이블에 대 한 지원은 아직 사용할 수 없지만 작업 하 고 있습니다.
 
 - 민감도 레이블에서 암호화를 사용 하도록 설정 하는 경우 다음 중 하나를 선택할 수 있습니다.
-    - 지금 사용 권한 할당
-    - 사용자가 사용 권한을 할당할 수 있도록 허용
+    - 지금 권한 할당
+    - 사용자가 권한을 할당하도록 허용
 
 
 가능한 문제에 대 한 자세한 내용은 [민감도 레이블의 알려진 문제](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)를 참조 하십시오.
