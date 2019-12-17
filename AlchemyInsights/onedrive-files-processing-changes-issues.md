@@ -1,21 +1,21 @@
 ---
 title: 'OneDrive: 파일 또는 폴더가 누락 됨'
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: 5c38d323bd021ded8eccb3f12a46c9d04a3bcd13
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2011d8d3435b57818e77f7f710cf0de5b38de09c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36753334"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052547"
 ---
-# <a name="onedrive-troubleshoot-processing-changes"></a><span data-ttu-id="453f2-102">OneDrive: ' 변경 내용 처리 ' 문제 해결</span><span class="sxs-lookup"><span data-stu-id="453f2-102">OneDrive: Troubleshoot 'Processing changes'</span></span>
+# <a name="onedrive-troubleshoot-processing-changes"></a><span data-ttu-id="b721c-102">OneDrive: ' 변경 내용 처리 ' 문제 해결</span><span class="sxs-lookup"><span data-stu-id="b721c-102">OneDrive: Troubleshoot 'Processing changes'</span></span>
 
-<span data-ttu-id="453f2-103">오랜 시간 동안 "변경 내용 처리 중"이 표시 되는 경우 온라인 파일을 열거나, 큐에 파일이 많이 걸려 있거나, 파일을 동기화 하는 작업이 매우 큰 경우에는 [처리 중에 OneDrive](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd)가 중단 된 것을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="453f2-103">If you see "Processing changes" for an extended period of time, it could be because you have an online file open, lots of files stuck in a queue, or a very large file syncing, see [OneDrive stuck on processing](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd).</span></span>
+<span data-ttu-id="b721c-103">오랜 시간 동안 "변경 내용 처리 중"이 표시 되는 경우 온라인 파일을 열거나, 큐에 파일이 많이 걸려 있거나, 파일을 동기화 하는 작업이 매우 큰 경우에는 [처리 중에 OneDrive](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd)가 중단 된 것을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b721c-103">If you see "Processing changes" for an extended period of time, it could be because you have an online file open, lots of files stuck in a queue, or a very large file syncing, see [OneDrive stuck on processing](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd).</span></span>
 
-<span data-ttu-id="453f2-104">이 문서를 읽으면 "변경 내용 처리" 문제를 해결할 수 있습니다. 또한 Outlook과 같이 모든 시간을 변경 하는 파일을 포함 하는 경우이 메시지가 표시 됩니다. PST 파일 또는 데이터베이스)</span><span class="sxs-lookup"><span data-stu-id="453f2-104">Read this article to troubleshoot "Processing changes."You will also see this message if you have a file that changes all the time (like an Outlook .PST file or a database).</span></span> <span data-ttu-id="453f2-105">정기적으로 OneDrive에서 사용 중인 [Outlook 데이터 파일을 이동](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) 하는 방법에 대해 알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="453f2-105">Learn how to [move your Outlook data files](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) that you're using regularly out of OneDrive.</span></span>
+<span data-ttu-id="b721c-104">이 문서를 읽으면 "변경 내용 처리" 문제를 해결할 수 있습니다. 또한 Outlook과 같이 모든 시간을 변경 하는 파일을 포함 하는 경우이 메시지가 표시 됩니다. PST 파일 또는 데이터베이스)</span><span class="sxs-lookup"><span data-stu-id="b721c-104">Read this article to troubleshoot "Processing changes."You will also see this message if you have a file that changes all the time (like an Outlook .PST file or a database).</span></span> <span data-ttu-id="b721c-105">정기적으로 OneDrive에서 사용 중인 [Outlook 데이터 파일을 이동](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) 하는 방법에 대해 알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="b721c-105">Learn how to [move your Outlook data files](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) that you're using regularly out of OneDrive.</span></span>
