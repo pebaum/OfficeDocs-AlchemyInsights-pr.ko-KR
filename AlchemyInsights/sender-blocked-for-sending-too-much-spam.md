@@ -12,20 +12,15 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ca5dc9041bad4da9353601bdc39ecf986356f1b1
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 8aa9ab5e6db0d434c13ed9e2d325d28552b7caeb
+ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741038"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40886407"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>계정이 너무 많은 스팸을 보내 차단됨
 
-Office 365 계정이 너무 많은 스팸을 보내 차단되는 경우 보낸 사람 계정이 손상되었을 수 있습니다. 다음을 수행해야 합니다.
-  
-1. [계정이 손상되었는지 여부를 판단합니다](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account#symptoms-of-a-compromised-office-365-email-account). 침해된 경우 [Office 365에서 손상된 이메일 계정에 응답](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)의 단계를 따릅니다.
+사용자 중 누군가 전자 메일을 보낼 수 없도록 제한이 된 경우, 관리자는 **지원 사례를 열지 않고도** [계정을 직접 차단 해제](https://protection.office.com/?hash=/restrictedusers)할 수 있습니다. 사용자는 제한이 해제된 후 1시간 이내에 전자 메일을 보낼 수 있습니다.
 
-2. 제한된 사용자로 이동하여 &amp; 준수 센터의 **[계정을 차단 해제](https://protection.office.com/?hash=/restrictedusers)** 합니다. 완료되면 *1시간 이내*에 메시지를 다시 보낼 수 있습니다.
-
-3. 향후 계정 손상을 방지하는 데 도움이 되도록 [Office 365 보안 로드맵](https://docs.microsoft.com/office365/securitycompliance/security-roadmap)의 권장 사항을 따르세요.
-  
+이 서비스는 손상된 계정 및/또는 스팸 발신의 증거를 감지하여 사용자가 전자 메일을 보내지 못하도록 합니다. 예방 조치로 사용자를 위해 [Office 365에서 손상된 이메일 계정에 응답](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)의 단계를 따릅니다.
