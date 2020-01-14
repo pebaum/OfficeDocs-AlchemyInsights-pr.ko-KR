@@ -12,12 +12,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 1e8e6d1829d60695d40036765c880533c2dfcc5b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b89f0c0e1c698137720c60900eeba562877d0d8d
+ms.sourcegitcommit: 8b3ffd019dfcaff8d2dbde9eb5320f30c135aaa3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664758"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "41104663"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>무료 평가판에서 Office 365 구독 구매
 
@@ -25,7 +25,7 @@ Office 365 평가판을 사용해 봤으며 이제 구입할 준비가 되었습
   
  **평가판과 동일한 계획 구입**
   
-1. 관리 센터에서 **청구** \> [제품 & 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.
+1. 관리 센터에서 **청구** \> [제품 및 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동합니다.
 
 2. 구매할 구독을 찾습니다. **라이선스** 섹션에서 **구독 구매**를 선택 하 고 단계에 따라 체크 아웃 합니다.
 
@@ -36,3 +36,7 @@ Office 365 평가판을 사용해 봤으며 이제 구입할 준비가 되었습
 3. 구매할 구독을 찾고, **구매**를 선택 하 고, 단계에 따라 체크 아웃 합니다.
 
 자세한 내용은 [무료 평가판에서 비즈니스용 Office 365 구독 구매](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial)를 참조 하세요.
+
+**문제 해결**
+
+페이지를 로드하는 데 문제가 발생한 경우 다른 브라우저에서 웹 페이지를 열거나 Google Chrome의 시크릿 모드나 Microsoft Edge의 InPrivate 등의 개인 브라우저 창에서 페이지를 열어 보세요.
