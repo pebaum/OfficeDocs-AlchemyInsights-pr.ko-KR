@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 8ba296c6986c767939ef51076551f95719d11aa2
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 74151ed149c57ceebc841902796189f6638795a9
+ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752254"
+ms.lasthandoff: 01/28/2020
+ms.locfileid: "41571217"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>OneDrive를 클릭 하면 Delve로 리디렉션됩니다.
+
+자세한 [문제 해결 가이드](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)를 참조 하세요.
 
 이 문제를 해결 하려면 Office 365 관리자가 사용자에 게 내 사이트 사이트를 만들 수 있는 권한을 부여 해야 합니다. 이는 비즈니스용 OneDrive 페이지가 내 사이트에 만들어지기 때문입니다.
 
@@ -30,6 +32,6 @@ ms.locfileid: "36752254"
 
 3. 사용 권한을 필요로 하는 사용자를 내 사이트 사이트를 만들기 위해 추가 합니다. 기본적으로이 설정은 **외부 사용자를 제외한 모든 사람**으로 설정 됩니다.
 
-4. 사용자, 사용자 또는 그룹을 추가한 후에는 추가 된 사용자, 사용자 또는 그룹을 선택 하 고 **사용 권한** 섹션으로 스크롤한 다음 개인 사이트 만들기 옆에 있는 확인란을 선택 합니다. ** 팔 로우 한 콘텐츠)**
+4. 사용자, 사용자 또는 그룹을 추가한 후 추가 된 사용자, 사용자 또는 그룹을 선택 했는지 확인 하 고 **사용 권한** 섹션으로 스크롤한 다음 개인 **사이트 만들기 (개인 저장소, 뉴스 피드 및 팔 로우 된 콘텐츠에 필요 함)** 옆의 확인란을 선택 합니다.
 
 5. **확인**을 클릭 한 다음 사용자가 OneDrive 페이지를 탐색 하 여 사이트를 만듭니다.
