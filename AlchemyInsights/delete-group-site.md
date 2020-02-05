@@ -14,12 +14,12 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0ecb317a0dfb760e459b35b6bff86006c06dc0d6
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053051"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770501"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Office 365 그룹에 속하는 SharePoint 사이트 삭제
 
@@ -27,8 +27,8 @@ ms.locfileid: "40053051"
   
 중요:
 
-- 93 일 동안 삭제 된 사이트를 복구할 수 있습니다. 자세한 내용은 삭제 된 사이트 보기 및 복원을 참조 하세요. 삭제 된 그룹은 30 일 이내에 복원 해야 합니다.
+- 93 일 동안 삭제 된 사이트를 복구할 수 있습니다. 삭제 된 그룹은 30 일 이내에 복원 해야 합니다. SharePoint 관리 센터에서 삭제 된 사이트를 직접 [보고 복원](https://admin.microsoft.com/sharepoint) 합니다. **그룹 관리**를 선택 하 여 [삭제 된 그룹을 보고 복원한](https://outlook.office.com/people/group/deleted)다음 **삭제 됨**을 선택 합니다.
 - 사이트가 보존 정책의 일부인 경우 [보안 &amp; 준수 관리 센터](https://protection.office.com/?rfr=AdminCenter#/retention)에서 사이트를 제거할 때까지 해당 사이트를 삭제 하지 못할 수 있습니다. 자세한 내용은 [보존 정책 개요](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) 를 참조 하세요.
   
-[새 SharePoint 관리 센터에서 삭제 된 사이트를 보거나 복원](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)하려면 삭제 된 **사이트**를 선택 합니다. 삭제 된 사이트를 선택 하 고 복원 또는 삭제 (사이트를 영구적으로 삭제 함)를 선택 합니다. 활성 사이트를 삭제 하려면 **활성** 사이트를 선택 하 고 사이트를 선택한 다음 **삭제**를 선택 합니다. 자세한 내용은 [새 SharePoint 관리 센터에서 사이트 관리](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)를 참조 하세요.
+[삭제 한 사이트를 보고 복원](https://admin.microsoft.com/sharepoint)하려면 삭제 된 사이트를 선택 하 고 **복원** 또는 **삭제** (사이트를 영구적으로 삭제)를 선택 합니다. 사이트를 선택 하 고 **삭제**를 선택 하 여 SharePoint 관리 센터에서 직접 [활성 사이트를 삭제](https://admin.microsoft.com/sharepoint) 합니다. 자세한 내용은 [새 SharePoint 관리 센터에서 사이트 관리](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)를 참조 하세요.
   

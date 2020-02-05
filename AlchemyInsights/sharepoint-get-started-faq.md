@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051539"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771185"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online의 일반적인 문제 및 해결 방법
 
 다음은 SharePoint Online 문제에 대 한 몇 가지 자주 요청 되는 항목입니다.
+
+- **시작**하기: [SharePoint 보기 북](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) 을 사용 하 여 직장을 연결 하는 멋진 강력한 인트라넷을 구축 합니다. [예제](https://lookbook.microsoft.com/) 및 [디자인 지침](https://spdesign.azurewebsites.net/)보기를 참조 하세요. SharePoint Online에 대 한 전체 소개를 보려면 [Sharepoint Online 소개를](https://docs.microsoft.com/sharepoint/introduction) 참조 하세요.
 
 - **사용 권한**: [사용 권한 전략을 작성](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) 하 고 [사용 권한 수준을 이해](https://docs.microsoft.com/sharepoint/understanding-permission-levels)합니다.
 
@@ -33,4 +35,4 @@ ms.locfileid: "40051539"
 
 - **Modernize sharepoint**: [sharepoint의 최신 환경에 대 한 가이드](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) 를 검토 하 고 [클래식 sharepoint 사이트를 Modernize](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) 하 여 이동을 시작 합니다.
 
-- **시작**하기: 사이트 관리 전략을 사용 하 여 [SharePoint Online을 시작](https://docs.microsoft.com/sharepoint/introduction) 하는 방법을 알아봅니다.
+**참고:** SharePoint 문제에 대 한 좀 더 구체적인 답을 보려면 질문을 다시 표시 하 고 현재 보고 있거나 사용 중인 기능을 포함 합니다.

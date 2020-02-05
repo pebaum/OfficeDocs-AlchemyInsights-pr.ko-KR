@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 458990889d3c074820527982cbfa6e2d198d3e66
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b9009fdbdc2a5e7443151446daade1685d2f5d45
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052475"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770429"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>템플릿을 사용 하 여 SharePoint 사이트 만들기
 
-SharePoint 사이트 서식 파일은 특정 비즈니스 요구를 중심으로 디자인 된 미리 만들어진 정의입니다. 자세한 내용은 [서식 파일을 사용 하 여 여러 종류의 SharePoint 사이트 만들기](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4)를 참조 하세요.
+사이트를 서식 파일로 저장 하는 기능은 최신 통신 또는 팀 사이트에서는 지원 되지 않습니다. 서식 파일을 사용 하는 방법에 대 한 자세한 내용은 [저장 및 다운로드 하 여 SharePoint 사이트를 서식 파일로 업로드를](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template)참조 하세요.
 
 다음은 Sharepoint Online에서 사이트 또는 목록을 서식 파일로 저장 하는 방법에 대 한 몇 가지 일반적인 문제/해결 방법입니다. 
 

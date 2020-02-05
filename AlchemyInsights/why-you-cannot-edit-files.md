@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049415"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771149"
 ---
 # <a name="why-cant-i-edit-files"></a>파일을 편집할 수 없는 이유는 무엇 인가요?
 
-문서, 워크시트 또는 프레젠테이션을 편집용으로 잠 궜으 며 Windows 데스크톱 응용 프로그램에서 열 수 없는 경우 다른 사용자가 파일을 이미 편집 중이거나 파일을 체크 아웃 한 것일 수 있습니다. [파일을 편집 하지 못할 수](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)있는 몇 가지 이유를 간략하게 살펴보겠습니다.
+[파일을 편집 하지 못할 수](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)있는 몇 가지 이유를 간략하게 살펴봅니다.
 
 **체크 아웃, 필수** 또는 **유효성 검사** 열 또는 메타 데이터를 포함 하는 라이브러리가 있거나 라이브러리의 버전 설정에서 **항목을 승인할 수** 있는 사용자 **만** 이 **초안 항목 보안** 을 설정 하는 경우:
 
