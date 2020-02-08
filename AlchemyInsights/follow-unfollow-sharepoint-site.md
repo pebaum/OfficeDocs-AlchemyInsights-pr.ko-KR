@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611703"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855557"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="8359c-102">SharePoint 사이트에 대 한 팔 로우 또는 팔 로우 취소</span><span class="sxs-lookup"><span data-stu-id="8359c-102">Follow or un-follow a SharePoint site</span></span>
+# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="f652f-102">SharePoint 사이트에 대 한 팔 로우 또는 팔 로우 취소</span><span class="sxs-lookup"><span data-stu-id="f652f-102">Follow or un-follow a SharePoint site</span></span>
 
-<span data-ttu-id="8359c-103">SharePoint에서 관심을 갖는 사이트, 뉴스 및 콘텐츠를 찾아서 팔 로우 하는 방법에는 여러 가지가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="8359c-103">There are multiple ways to find and follow sites, news and content that interests you in SharePoint.</span></span> <span data-ttu-id="8359c-104">이렇게 하면 목록에서 정보를 쉽게 찾을 수 있으며 SharePoint에서 활동을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="8359c-104">This will allow you to find the information easily in your list, and allow you to see activity from SharePoint.</span></span>
+<span data-ttu-id="f652f-103">사용자에 게 SharePoint 리소스를 팔 로우 하거나 팔 로우 하는 동안 문제가 발생 하면 다음 단계를 완료 합니다.</span><span class="sxs-lookup"><span data-stu-id="f652f-103">If users are experiencing issues following or unfollowing SharePoint resources, complete these steps:</span></span>
 
-<span data-ttu-id="8359c-105">동영상을 시청 하 여 [사이트와 뉴스를 찾고 팔 로우](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c)합니다.</span><span class="sxs-lookup"><span data-stu-id="8359c-105">Watch the video to [Find and follow sites and news](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span></span>
-
-<span data-ttu-id="8359c-106">사이트, 뉴스 또는 콘텐츠를 팔 로우 하거나 취소할 수 없으며 결과가 예상과 더 중요 하지 않은 경우 문제가 단일 사용자 또는 조직 내의 모든 사용자와 관련이 있는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="8359c-106">If you are unable to follow or un-follow a site, news or content and feel the results aren't what is expected, see if the issue is related to a single user or all users within your organization.</span></span> <span data-ttu-id="8359c-107">모든 사용자가 문제를 발생 하는 경우 일시적인 서비스 문제가 있을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="8359c-107">If the issue is encountered by all users, there may be a temporary service issue.</span></span>
-
-<span data-ttu-id="8359c-108">[서비스 상태 대시보드](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) 를 통해 조직에 영향을 준 것이 있는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="8359c-108">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+* <span data-ttu-id="f652f-104">사용자에 게 로그 아웃 하 고 SharePoint에 다시 로그인 하도록 요청 하 고 동일한 단계에 따라 SharePoint 리소스의 팔 로우를 취소 합니다.</span><span class="sxs-lookup"><span data-stu-id="f652f-104">Ask the user to sign-out and sign back into SharePoint and try the same steps to follow/unfollow the SharePoint resource.</span></span>
+* <span data-ttu-id="f652f-105">문제가 특정 사이트 또는 모든 사이트에 있는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="f652f-105">Determine if the issue is with a specific site or all sites.</span></span> <span data-ttu-id="f652f-106">특정 사이트에서 문제가 발생 하는 경우 사이트 **설정 > 사이트 기능을 관리**하 여 콘텐츠를 > 하는 "다음 콘텐츠" 기능이 사이트에 대해 활성 상태 인지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="f652f-106">If the issue occurs with specific sites, ensure the “Following Content” feature is active for the site by going to **Site Settings > Manage Site Features > Following Content**.</span></span> <span data-ttu-id="f652f-107">기능이 활성으로 설정 된 경우 사이트에 대해이 기능을 비활성화 했다가 다시 활성화 해 봅니다.</span><span class="sxs-lookup"><span data-stu-id="f652f-107">If the feature is set to Active, try deactivating and activating the feature again for the site.</span></span>
+* <span data-ttu-id="f652f-108">사용자에 게 다른 인터넷 브라우저를 사용해 서 문제가 사용자의 브라우저와 관련이 있는지 확인 하도록 요청 합니다.</span><span class="sxs-lookup"><span data-stu-id="f652f-108">Ask the user to try a different Internet browser to see if the issue is specific to the user’s browser.</span></span>
+* <span data-ttu-id="f652f-109">모든 사용자와 사이트의 동일한 문제가 발생 하는 경우 [서비스 상태 대시보드](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) 를 확인 하 여 조직에 영향을 준 것이 있는지 살펴봅니다.</span><span class="sxs-lookup"><span data-stu-id="f652f-109">If all users and all sites are experiencing the same issue, check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
