@@ -9,16 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "2657"
 - "9000734"
-ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+- "2657"
+ms.openlocfilehash: 509bd0c686830c04ed27f97372411677c0a7f4a4
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627580"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042850"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Microsoft 팀에서 모임 정책 관리
+
+**참고: 정책 변경 내용이 적용 되는 데 최대 24 시간이 걸릴 수 있습니다.** 새로 만든 정책을 즉시 변경 하지 못할 수 있습니다. 4 시간을 기다린 후 새로 만든 정책을 다시 수정 해 보십시오.
 
 모임 정책은 조직의 사용자가 예약한 모임에 대해 모임 참가자가 사용할 수 있는 기능을 제어 하는 데 사용 됩니다. 모임 정책의 일부 기능은 아직 팀 관리 센터에서 구현 되지 않을 수 있습니다 (설명서에서 "출시 예정" 라는 레이블이 지정 되어 있음). 이 경우 또는 "지금은 정책을 업데이트할 수 없지만 나중에 다시 시도 합니다."와 같은 오류가 나타나면 PowerShell을 사용 하 여 팀 회의 정책을 만들거나 수정 하는 것이 좋습니다. 
 
@@ -30,4 +32,3 @@ ms.locfileid: "39627580"
     - 팀 회의 정책에 [비즈니스용 Skype PowerShell 모듈](https://www.microsoft.com/download/details.aspx?id=39366) 을 사용 해야 합니다. 
     - 자세한 내용은 [*-CsTeamsMeetingPolicy cmdlet 설명서](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) 를 참조 하십시오.
 
-**참고:** 정책 변경 내용을 사용자에 게 적용 하는 데 최대 24 시간이 걸릴 수 있습니다. 새로 만든 정책을 즉시 변경 하지 못할 수 있습니다. 4 시간을 기다린 후 새로 만든 정책을 다시 수정 해 보십시오. 여전히 문제가 있는 경우 PowerShell을 사용해 보세요.  
