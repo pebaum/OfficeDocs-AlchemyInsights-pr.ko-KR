@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 95721f9bb554dcf1c45c1e444b59ec431a7e27b2
-ms.sourcegitcommit: 9db3be25d088b8d4b2d476aeace79e653ca0a421
+ms.openlocfilehash: 0589f698958d4e26bba92f4feca455cf2fd7ecb5
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/17/2020
-ms.locfileid: "42093591"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158627"
 ---
 # <a name="connect-to-the-mscommerce-module"></a>MSCommerce 모듈에 연결
 
@@ -24,7 +24,7 @@ AllowSelfServicePurchase 정책을 보거나 설정 하려면 먼저 MSCommerce 
 
 MSCommerce 모듈에 연결 하려면 PowerShell 프롬프트 (PS C:\))에서 다음 명령을 입력 합니다.
 
-    Connect-MSCommerce
+`Connect-MSCommerce`
 
 이렇게 하면 로그인 대화 상자가 열립니다. 로그인 하려면 사용자 이름과 암호를 입력 합니다.
 
