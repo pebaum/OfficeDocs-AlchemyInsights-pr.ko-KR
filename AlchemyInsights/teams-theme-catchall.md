@@ -11,16 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 88e139e9d1179dd1afb14686a4c4e3ee5e211ebc
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
+ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626390"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42371528"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>팀의 일반적인 문제 및 해결 방법
 
 Microsoft 팀 문제에 대 한 보다 구체적인 답을 보려면 질문을 다시 표시 하 고, 현재 보고 있거나 사용 중인 기능을 포함 합니다.
+
+팀과의 WFH (원격 작업자) 지원에 도움이 필요한 경우 [Microsoft 팀을 사용 하 여 원격 작업자 지원 서비스](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams) 를 검토 하세요.
 
 다음은 몇 가지 추가 리소스입니다.
 
