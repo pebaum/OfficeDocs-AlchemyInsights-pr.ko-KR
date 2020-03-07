@@ -11,17 +11,19 @@ ms.custom:
 - "997"
 - "6500005"
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
-ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bac77a9b65dbcd57ee14a533e63ef95719356291
+ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354011"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42556665"
 ---
-# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>사용 하지 않고 팀에 등록 하 고 싶습니다.
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>무료 사용을 위해 팀 등록
 
-- Office 365 회사 또는 학교 계정을 사용 중인 경우이 무료 제안은 사용할 수 없습니다. 하지만 조직에서는 이미 팀을 사용 하 고 있을 수 있습니다. 그렇지 않은 경우 [Microsoft 팀](https://products.office.com/microsoft-teams/group-chat-software) 으로 이동 하 여 무료 평가판을 사용할 수 있는지 여부를 확인 합니다.
+두 가지 다른 프로그램을 통해 팀을 무료로 사용할 수 있습니다. 이 요청에 대 한 지원에 연락 하기 때문에 기존 Microsoft 365 테 넌 트가 이미 있으며,이는 이미 Microsoft 팀을 갖고 있음을 의미 합니다.
 
-- 교육 기관은이 무료 제품에 적합 하지 않습니다. 그러나 교사와 학생은 무료 버전의 Office 365를 가져올 수 있으며,이는 전체 버전의 Microsoft 팀을 포함 합니다. [Microsoft 팀에 대 한 Office 365 라이선스를](https://docs.microsoft.com/microsoftteams/office-365-licensing)참조 하세요.
+대부분의 경우 팀은 모든 사용자에 대해 기본적으로 설정 됩니다. 이 옵션이 설정 되 면 사용자는 [데스크톱](https://office.visualstudio.com/MAX/_workitems/edit/desktop) 및 [모바일](https://office.visualstudio.com/MAX/_workitems/edit/desktop) 클라이언트를 설치 하거나에서 [브라우저](https://docs.microsoft.com/en-us/MicrosoftTeams/get-clients#mobile-clients) 를 사용 하 여 팀을 실행할 수 있습니다 https://teams.microsoft.com.
 
-- 미국 정부 기관은이 무료 제공에 적합 하지 않습니다. 정부 조직에 대 한 Office 365 요금제 (무료 평가판 포함)에 대 한 자세한 내용은 [Microsoft 팀을 위한 office 365 라이선스](https://docs.microsoft.com/microsoftteams/office-365-licensing)를 참조 하세요.
+이에 대 한 예외는 .EDU (Microsoft 팀 교육)입니다. 이 경우에는 Microsoft 팀을 수동으로 사용 하도록 설정 해야 합니다. 이 작업을 수행 하려면 microsoft 365 관리 센터 **> 서비스 및 추가 기능 > Microsoft 팀**으로 이동 합니다. 새 팀 관리 센터를 사용 하는 경우 **서비스 및 추가 기능**을 찾으려면 **새 관리 센터** 를 해제 해야 합니다. 중요: 변경 내용을 적용 하려면 24 시간까지 기다려야 할 수 있습니다.
+
+ [팀과 함께 원격 작업자를 지원](https://docs.microsoft.com/en-us/MicrosoftTeams/support-remote-work-with-teams)하기 위한 지침을 모두 놓치지 마세요.
