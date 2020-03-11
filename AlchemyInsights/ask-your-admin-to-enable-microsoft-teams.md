@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962303"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573138"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="f920c-102">다 되었습니다!</span><span class="sxs-lookup"><span data-stu-id="f920c-102">You're missing out!</span></span> <span data-ttu-id="f920c-103">관리자에 게 Microsoft 팀을 사용 하도록 설정</span><span class="sxs-lookup"><span data-stu-id="f920c-103">Ask your admin to enable Microsoft Teams</span></span>
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="e0fdf-102">다 되었습니다!</span><span class="sxs-lookup"><span data-stu-id="e0fdf-102">You're missing out!</span></span> <span data-ttu-id="e0fdf-103">관리자에 게 Microsoft 팀을 사용 하도록 설정</span><span class="sxs-lookup"><span data-stu-id="e0fdf-103">Ask your admin to enable Microsoft Teams</span></span>
 
-<span data-ttu-id="f920c-104">교사 및 직원이 팀에 액세스할 수는 있지만 학생에 게 액세스 하지 못하거나 F1 사용이 허가 된 사용자가 팀에 액세스할 수 없습니까?</span><span class="sxs-lookup"><span data-stu-id="f920c-104">Are faculty and staff able to access Teams but students cannot, or are your F1 licensed users unable to access Teams?</span></span>
+<span data-ttu-id="e0fdf-104">.EDU 테 넌 트가 있는 경우 Microsoft 팀을 수동으로 사용 하도록 설정 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="e0fdf-104">If you have an EDU tenant, you need to enable Microsoft Teams manually.</span></span> <span data-ttu-id="e0fdf-105">이 작업을 수행 하려면 microsoft 365 관리 센터 > **서비스 및 추가 기능 > Microsoft 팀**으로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="e0fdf-105">To do this, go to the Microsoft 365 admin center > **Services and add-ins > Microsoft Teams**.</span></span> <span data-ttu-id="e0fdf-106">새 팀 관리 센터를 사용 하는 경우 **서비스 및 추가 기능**을 찾으려면 **새 관리 센터** 를 해제 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="e0fdf-106">If you're using the new Teams admin center, you'll have to turn off **Try the new admin center** to find **Services and add-ins**.</span></span> 
 
-<span data-ttu-id="f920c-105">팀은 학생 및 F1 라이선스에 대해 명시적으로 사용 하도록 설정 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="f920c-105">Teams must be explicitly enabled for students and F1 licenses.</span></span> <span data-ttu-id="f920c-106">[교육 팀 구성](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education)에서 학교 팀을 사용 하도록 설정 하는 방법에 대 한 자세한 지침을 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f920c-106">You can find more detailed instructions about how to enable Teams for your school in [Configure Teams for Education](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education).</span></span> 
+<span data-ttu-id="e0fdf-107">**중요**: 변경 내용을 적용 하려면 24 시간까지 기다려야 할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="e0fdf-107">**IMPORTANT**: You may have to wait up to 24 hours for your changes to take effect.</span></span>
