@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: adc5dba801236bfbcff30d3fa151f8d0463be3cd
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162918"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600606"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>Yammer 네트워크의 eDiscovery
 
@@ -29,5 +29,5 @@ ms.locfileid: "42162918"
 자세한 내용은 다음을
 
 - 기본 모드 Yammer의 경우: [기본 모드 개요](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)를 참조 하세요.
-- Yammer 네트워크용 eDiscovery [는: yammer 네트워크용 ediscovery에 대 한 개요](https://docs.microsoft.com/en-us/yammer/manage-security-and-compliance/overview-of-ediscovery)를 참조 하세요.
-- Office 365에서 eDiscovery는 [office 365에서 ediscovery](https://docs.microsoft.com/en-us/microsoft-365/compliance/ediscovery)를 참조 하세요.
+- Yammer 네트워크용 eDiscovery [는: yammer 네트워크용 ediscovery에 대 한 개요](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)를 참조 하세요.
+- Office 365에서 eDiscovery는 [office 365에서 ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)를 참조 하세요.

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274919"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599958"
 ---
 # <a name="teams-policies"></a>팀 정책
 
@@ -27,7 +27,7 @@ Microsoft 팀 설정은 정책에 따라 제어 됩니다. 변경을 수행 하�
 팀 정책은 다음 영역으로 구분 됩니다.
 
 - [팀 정책은](https://docs.microsoft.com/MicrosoftTeams/teams-policies) 개인 채널을 만들고 검색 하는 동안 개인 팀의 사용자 검색을 제어 합니다.  
-- [모임 정책은](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) 로비 제어를 포함 하 여 사용자가 팀 회의를 통해 수행할 수 있는 작업을 제어 합니다. 모든 사람을 허용 하도록 팀을 구성 하는 것과 같은 로비 문제에 대 한 도움말은 [제어 로비 설정 및 참여 수준](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby)를 참조 하세요.
+- [모임 정책은](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) 로비 제어를 포함 하 여 사용자가 팀 회의를 통해 수행할 수 있는 작업을 제어 합니다. 모든 사람을 허용 하도록 팀을 구성 하는 것과 같은 로비 문제에 대 한 도움말은 [제어 로비 설정 및 참여 수준](https://docs.microsoft.com/alchemyinsights/bypass-lobby)를 참조 하세요.
 - [메시징 정책은](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) 채팅을 설정 하거나 해제 하 고 채팅을 삭제 하 고, 읽음 확인을 요청 하 고, giphys 및 스티커를 사용 하 여 사용자가 채팅 및 메시지를 통해 수행할 수 있는 작업을 제어 합니다.
 - [앱 설치 정책은](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) 사용자가 사용자 지정 및 타사 앱을 비롯 하 여 어떤 앱을 사용할 수 있는지 제어 하는 데 사용 됩니다.  
 - 팀에 대 한 데이터 [보존 정책은](https://docs.microsoft.com/microsoftteams/retention-policies) Office 365 보안 및 준수 센터에서 찾을 수 있습니다.
