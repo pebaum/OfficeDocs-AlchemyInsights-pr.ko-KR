@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001670"
 - "3737"
-ms.openlocfilehash: 982079c674e387018dc9f262400b0fc44b4da9fd
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: 9b0764e6315dba48ad7634a0668468fcff8408f4
+ms.sourcegitcommit: 2561248cfa1a562504183d84e2252deb60e6588a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42559016"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42632673"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Microsoft 365에서 권한 관리 보호 사용
 
-Office 365 응용 프로그램 및 서비스의 IRM (정보 권한 관리) 기능을 사용 하려면 먼저 RMS (권한 관리 서비스)를 활성화 해야 합니다.
+Office 365 응용 프로그램 및 서비스의 IRM (정보 권한 관리) 기능을 사용 하려면 먼저 [RMS (권한 관리 서비스)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) 를 활성화 해야 합니다.
 
 1. **Microsoft 365 관리 센터**의 라이선스 요구 사항 및 정품 인증에 대 한 자세한 내용은 [Microsoft 365 관리 센터에서 권한 관리 보호를 활성화 하는 방법을](https://docs.microsoft.com/azure/information-protection/activate-office365)참조 하세요. **참고**: 전역 관리 계정이 필요 합니다.
 
