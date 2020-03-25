@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 8915d97852c5aa3be55a55ea008040e136e6016e
-ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
+ms.openlocfilehash: 01290defa0c12ba92707bf7368b371c14f2eae56
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42042886"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931304"
 ---
 # <a name="delete-a-site"></a>사이트 삭제
 
-사이트를 삭제 하면 [삭제 된 사이트로](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) 이동 되었다가 93 일 동안 보존 됩니다. 사이트를 삭제 하려면 [활성 사이트로](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true)이동 합니다. 
+사이트를 삭제 하면 삭제 된 사이트로 이동 되며, 93 일 동안 보존 됩니다. 사이트를 삭제 하려면 [활성 사이트로](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true)이동 합니다. 
 
 사이트를 삭제 하면 다음을 비롯 한 모든 내용이 삭제 됩니다.
 
