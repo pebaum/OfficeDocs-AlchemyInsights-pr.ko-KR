@@ -11,12 +11,12 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: 9d043e81b66cea1fcb985b0e1e79078409ba0b93
-ms.sourcegitcommit: f23c39009d988228213fdb2bb7350bf4a0194194
+ms.openlocfilehash: 68aefd820c681a9022828f67655e1c843692a30e
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/11/2020
-ms.locfileid: "41022203"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059778"
 ---
 # <a name="changing-public-folder-permissions"></a>공용 폴더 사용 권한 변경
 
@@ -28,9 +28,10 @@ ms.locfileid: "41022203"
 
 3. 여기에서 보안 그룹을 사용 권한에 할당 하 여 개별 공용 폴더에 대 한 사용 권한을 변경할 수 있습니다. 최종 사용자가 공용 폴더 권한을 변경 하려면 사용자에 게 해당 폴더에 대 한 소유자 권한이 있어야 합니다.
 
-> [!NOTE]
-> 공용 폴더에 대 한 사용 권한을 변경 하려고 할 때 발생할 수 있는 알려진 문제가 몇 가지 있습니다. 자세한 내용은 다음 문서를 참조 하세요.
->
-> [EAC의 공용 폴더 하위 폴더에 사용 권한을 적용할 수 없음](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
->
-> [공용 폴더에 액세스할 때 "로컬 포리스트에서 사서함을 찾을 수 없습니다." 오류](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
+공용 폴더 사용 권한 문제를 해결 하기 위해 [public folder 권한 문제를 진단 하 고 해결 하는 방법](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) 에 설명 된 절차를 따르세요.
+
+**참고**: 공용 폴더에 대 한 사용 권한을 변경 하려고 할 때 발생할 수 있는 알려진 문제가 몇 가지 있습니다. 자세한 내용은 다음 문서를 참조 하세요.
+
+- [EAC의 공용 폴더 하위 폴더에 사용 권한을 적용할 수 없음](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+
+- [공용 폴더에 액세스할 때 "로컬 포리스트에서 사서함을 찾을 수 없습니다." 오류](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
