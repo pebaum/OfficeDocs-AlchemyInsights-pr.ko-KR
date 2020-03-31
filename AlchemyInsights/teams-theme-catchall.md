@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856473"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030406"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Teams 공통 문제 및 해결 방법
+
+**중요**: Teams의 사용량이 크게 증가하여 Teams 라이선스를 사용자에게 할당할 경우 완전히 설정할 때까지 24시간 정도 걸릴 수 있습니다. 그런 다음, Teams 정책을 할당할 수 없으며 전화 및 오디오 회의와 같은 일부 Teams 기능에 액세스하지 못할 수 있습니다.
+
+**일반적인 문제 및 해결 방법**
 
 더 구체적인 해답을 보려면 현재 발생하는 오류나 사용하고 있는 Teams 기능을 포함하도록 질문을 다시 작성해 보세요.
 
