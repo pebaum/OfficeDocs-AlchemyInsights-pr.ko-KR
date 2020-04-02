@@ -1,5 +1,5 @@
 ---
-title: 지불 정보 업데이트
+title: 신용카드 정보 업데이트
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921820"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059886"
 ---
-# <a name="update-payment-details"></a>지불 정보 업데이트
+# <a name="update-credit-card-information"></a>신용카드 정보 업데이트
 
 1. Microsoft 365 관리 센터에서 **청구** \> [결제 방법](https://go.microsoft.com/fwlink/p/?linkid=2018806) 페이지로 이동합니다.
 
