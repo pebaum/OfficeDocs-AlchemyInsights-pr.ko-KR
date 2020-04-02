@@ -13,19 +13,17 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 136337c2791c69bf97ffd6a1498917015d348f8d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e061ad6b74b27e3f0d597586cb2c8e31b8fa5d23
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523877"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105245"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>웹용 Outlook에서 사서함을 찾을 수 없음 오류가 발생 했습니까?
 
 웹에서 Outlook을 사용 하는 경우 오류 **에 대해 사서함을 찾을 수** 없는 경우에는 웹에서 outlook에 연결 하는 데 사용한 계정에 Exchange Online 라이선스가 없으며, 따라서 해당 계정과 연결 된 사서함이 없습니다. 관리자는 다음 단계를 수행 하 여 사용자 계정에 라이선스를 할당할 수 있습니다.
 
-1. [Microsoft 365 관리 센터](https://portal.office.com/adminportal/home#/homepage) 를 열고 **활성 사용자**에서 **사용자 편집**을 선택 합니다.
+1. [Microsoft 365 관리 센터](https://portal.office.com/adminportal/home#/homepage) 를 열고 **사용자** 섹션 아래의 **활성 사용자** 로 이동한 다음 오류가 발생 한 사용자를 선택 합니다.
 
-2. **사용자 편집** 페이지가 열리면 해당 사용자를 선택 합니다. 사용자 속성 페이지가 열리면 **제품 라이선스**에 대 한 **편집** 을 클릭 합니다.
-
-3. **제품 라이선스** 페이지가 열리면 적절 한 **위치** 값을 선택 하 고 Exchange Online이 포함 된 라이선스 (세부 정보를 보려면 라이선스 확장)를 할당 합니다. 작업을 마쳤으면 **저장**을 클릭합니다.
+2. 열리는 사용자 페이지에서 **라이선스 및 앱** 섹션으로 이동 하 고, 적절 한 **위치** 값을 선택 하 고, Exchange Online이 포함 된 라이선스를 할당 합니다 (해당 세부 정보를 보려면 라이선스 확장). 작업이 완료 되 면 **변경 내용 저장**을 클릭 합니다.
