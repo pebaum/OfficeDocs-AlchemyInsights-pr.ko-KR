@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 66c9cb9f95ff83df9e50189971411d82484b7707
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034278"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43142998"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Teams 라이브 이벤트 시작
 
@@ -24,7 +24,7 @@ Microsoft Teams 라이브 이벤트는 대규모 온라인 사용자에게 스�
 
 라이브 이벤트를 만들려면 다음이 필요합니다.
 
-- [Office 365 Enterprise E1, E3 또는 E5 라이선스 또는 Office 365 A3 또는 A5 라이선스](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses).
+- [Office 365 Enterprise E1, E3 또는 E5 라이선스 또는 Office 365 A3 또는 A5 라이선스](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **참고**: 최근 Teams 사용량이 증가하여 Teams 라이선스를 사용자에게 할당할 경우 완전히 설정할 때까지 24시간 정도 걸릴 수 있습니다. 그런 다음, Teams 정책을 할당할 수 없으며 전화 및 오디오 회의와 같은 일부 Teams 기능에 액세스하지 못할 수 있습니다.
 
 - [Microsoft Teams 관리 센터에서 라이브 이벤트를 만들기 위한](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy) 권한
 
