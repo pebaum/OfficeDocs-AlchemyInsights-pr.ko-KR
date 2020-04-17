@@ -1,0 +1,35 @@
+---
+title: 라이선스가 작동하지 않음
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9002459"
+- "4764"
+ms.openlocfilehash: 2b82d6f19ff479ba4a3b1eb0cac168f38d2b2cd8
+ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.translationtype: HT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43530254"
+---
+# <a name="license-not-working"></a>라이선스가 작동하지 않음
+
+다음은 시도할 수 있는 몇 가지 유효성 검사입니다.
+
+- Office 365 라이선스 및 관련 앱이 작동하지 않는 경우 동기화 프로세스가 모두 완료될 때까지 24시간 이상을 확보해야 합니다. 
+
+- 제품 라이선스를 설정 및 해제하고 문제가 해결되는지 확인합니다. 
+
+- 할당된 라이선스가 보이지 않으면 사용자에게 라이선스가 할당되었는지 확인합니다. [사용자에게 라이선스 할당](https://docs.microsoft.com/en-us/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)을 참조하세요.
+
+- 구독이 만료되었는지 확인하고 필요한 경우 갱신합니다. [구독 다시 활성화](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)를 참조하세요. 
+
+- 대리점 또는 파트너로부터 라이선스를 구매한 경우 대리점 또는 파트너가 해당 라이선스를 인증하지 않았을 수 있습니다. [Office 365 파트너 또는 대리점 찾기](https://docs.microsoft.com//microsoft-365/admin/manage/find-your-partner-or-reseller)로 직접 문의하세요.
+
+- 구독을 활성화하는 동안 문제가 발생한 경우 [등록 프로세스를 계속 진행](https://go.microsoft.com/fwlink/?linkid=2126800)합니다.
