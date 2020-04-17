@@ -1,5 +1,5 @@
 ---
-title: Teams 범용 테마
+title: Microsoft Teams를 처음 사용하는 분
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,56 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: a46a455b3986993ada50fb807a99e8c99e4c4fbe
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
+ms.openlocfilehash: 48f26a50c7819dd225d9e9eed28f59db42236faf
+ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231461"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43509151"
 ---
-# <a name="teams-common-issues-and-resolutions"></a>Teams 공통 문제 및 해결 방법
+# <a name="new-to-microsoft-teams"></a>Microsoft Teams를 처음 사용하는 분
 
-**중요**: Teams의 사용량이 크게 증가하여 Teams 라이선스를 사용자에게 할당할 경우 완전히 설정할 때까지 24시간 정도 걸릴 수 있습니다. 그런 다음, Teams 정책을 할당할 수 없으며 전화 및 오디오 회의와 같은 일부 Teams 기능에 액세스하지 못할 수 있습니다.
-
-**일반적인 문제 및 해결 방법**
-
-**Teams의 새로운 기능?**  [Microsoft Teams 시작](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)을 확인하세요. Microsoft Teams IT 관리자 교육 비디오, 데크, 그리고 그 밖의 다양한 정보를 확인하세요.
+ [Microsoft Teams 시작](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)을 확인하세요. Microsoft Teams IT 관리자 교육 비디오, 데크, 그리고 그 밖의 다양한 정보를 확인하세요.
 
 COVID-19로 인해 원격 작업자(WFH)를 지원하도록 Teams를 팀을 배포할 때 도움이 필요한 경우 [Microsoft Teams를 사용하여 원격 작업자 지원](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)을 검토하세요. 또한 Microsoft 365 FastTrack 프로그램에서 배포 지원을 받을 수 있습니다. [FastTrack Center](https://www.microsoft.com/fasttrack)를 방문하여 요청을 제출하세요.
 
-모든 Teams 고객:
-
-- **Teams 게스트 액세스 사용:[Teams 게스트 액세스 검사 목록](https://docs.microsoft.com/microsoftteams/guest-access-checklist)** 을 검토하고 모든 단계를 완료했는지 확인합니다. 추가 리소스:
-    - [Microsoft Teams에서 게스트 액세스 이해](https://docs.microsoft.com/microsoftteams/guest-access)
-    - [설정 – Microsoft Teams 게스트 액세스 검사 목록](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
-    - [게스트가 팀에 참여하는 방법](https://docs.microsoft.com/microsoftteams/guest-joins)
-
-- **Teams 모임 및 전화 접속**: Microsoft Teams에서 오디오 회의를 켜거나 설정하는 데 도움이 필요한가요? 이 사용자가 최근 작성되었나요? 이 경우 **설정이 적용되려면** 2~24시간이 걸립니다. 
-
-사용자가 오디오 회의에 라이선스를 받았으며 기본 수신자 번호를 가지고 있는지 확인하려면 [Teams 일반적인 문제 및 해결 방법](https://docs.microsoft.com/microsoftteams/known-issues)의 Teams 모임 및 전화 접속을 참조하세요.
-
-모임에 대한 자세한 내용은 [Office 365의 통화 요금제](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)를 참조하거나 라이선스 관련 질문에 대한 도움말을 보려면 Microsoft 상거래 청구 팀에 문의하세요. 참고:
-
- - [Microsoft Teams에서의 모임 및 회의](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
- - [Office 365의 오디오 회의](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
-
-- **모임 정책**: 모임 정책은 조직에서 사용자가 예약한 모임 참가자가 사용할 수 있는 기능을 제어하는 데 사용됩니다. 정책을 만들고 변경한 후에 사용자를 정책에 할당할 수 있습니다. 
-    - **모임 정책**을 변경하거나 만들려면 [Teams 일반적인 문제 및 해결 방법](https://docs.microsoft.com/microsoftteams/known-issues)의 Teams 모임 및 전화 접속을 참조하세요. 
-  
-- **누락된 다이얼 패드 문제 해결:**  
-
-    - 사용자에게 [Teams 라이선스](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)가 할당되어 있는지 확인합니다.
-    - 사용자에게 [통화 요금제](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)가 할당되었는지 확인합니다.
-    - 사용자가 [Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)를 사용할 수 있도록 설정합니다.
-
-- **Teams 로그인 문제 해결:** 먼저 [Microsoft Teams 서비스가 정상](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)인지 확인합니다. 그런 다음, 자주 발생하는 오류 코드를 확인하고 [Microsoft Teams에 로그인하는 데 문제가 있는 이유](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)를 검토하세요.  [Microsoft Teams의 ID 모델 및 인증](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication)을 검토해야 할 수도 있습니다.
-
-- **Teams 예비 라이선스**  
-    - [Teams 예비 환경에 등록하는 방법](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-users-sign-up-for-the-teams-exploratory-experience) 
-    - [Teams 예비 환경 관리](https://docs.microsoft.com/microsoftteams/teams-exploratory#manage-the-teams-exploratory-experience) 
-
-- **비공개 채널:**
-    - [비공개 채널 만들기 및 구성원](https://docs.microsoft.com/microsoftteams/private-channels#private-channel-creation-and-membership) 
-    - [비공개 채널 구성원 및 설정 관리](https://docs.microsoft.com/microsoftteams/private-channels#manage-private-channel-membership-and-settings) 
-
-**참고**: 더 구체적인 해답을 보려면 현재 발생하는 오류나 사용하고 있는 Teams 기능을 포함하도록 질문을 다시 작성해 보세요.
+**중요**: Teams의 사용량이 크게 증가하여 Teams 라이선스를 사용자에게 할당할 경우 완전히 설정할 때까지 24시간 정도 걸릴 수 있습니다. 그런 다음, Teams 정책을 할당할 수 없으며 전화 및 오디오 회의와 같은 일부 Teams 기능에 액세스하지 못할 수 있습니다.
