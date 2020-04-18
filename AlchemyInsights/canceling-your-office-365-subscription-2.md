@@ -13,12 +13,12 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a3416ec86908d529fd5f2750344763de36363a08
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665478"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552603"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Office 365 구독을 취소 하 시겠습니까?
 
@@ -28,4 +28,8 @@ ms.locfileid: "36665478"
   
 또는 지원 엔지니어에 게 문의 하는 **데 도움이 필요** 하세요를 선택 합니다.
   
+**환불: 다음 청구 주기 내에 사용자에 게 모든 완료율이 반환 됩니다.** 
+
+**참고**: 취소 옵션이 표시 되지 않으면 구독을 클릭 하 여 세부 정보를 확인 하 고 **설정 & 작업**에서 **구독 취소** 옵션을 표시 해야 합니다. 
+
 자세한 내용은 [구독 취소](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)를 참조 하세요.

@@ -13,16 +13,14 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 6432d32a4424c13f38077b37aa5f689a573a876e
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: c634596b42e672f635bb50d080429c94fe2da258
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541794"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552891"
 ---
 # <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>SharePoint 마이그레이션 도구 문제 및 오류 문제 해결
-
-**중요**: 이 시기에는 SharePoint Online 및 OneDrive 서비스를 항상 사용할 수 있도록 하는 단계를 진행하고 있습니다. 자세한 내용은 [SharePoint Online 임시 기능 조정](https://aka.ms/ODSPAdjustments)을 참조하세요.
 
 SPMT (SharePoint 마이그레이션 도구)를 사용할 때 몇 가지 일반적인 문제와 오류가 발생할 수 있습니다. 자세한 내용을 보려면 아래 링크를 참조 하세요.
 

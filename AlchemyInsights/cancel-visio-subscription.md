@@ -12,12 +12,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 6641544379b47e5b6db25e4ae1d4c9bef8f03840
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: 0e38edf7f3e10486b0ce3313dfcb004d848ed1bf
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198913"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552818"
 ---
 # <a name="cancel-visio-subscription"></a>Visio 구독 취소
 
@@ -30,3 +30,9 @@ ms.locfileid: "43198913"
 3. 취소할 Visio 계획을 찾습니다.
 
 4. **구독 취소**를 클릭 합니다.
+
+**환불: 다음 청구 주기 내에 사용자에 게 모든 완료율이 반환 됩니다.** 
+
+**참고**: 취소 옵션이 표시 되지 않으면 구독을 클릭 하 여 세부 정보를 확인 하 고 **설정 & 작업**에서 **구독 취소** 옵션을 표시 해야 합니다. 
+
+자세한 내용은 [구독 취소](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)를 참조 하세요. 

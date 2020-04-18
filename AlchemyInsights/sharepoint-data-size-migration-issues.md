@@ -11,16 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: e3543815937c45323051171ea8be3c43e4ec7c89
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 7a801bb6ff5b5c1d48cbc99f27e5f398dd76db5f
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958652"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552927"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>데이터를 SharePoint Online으로 마이그레이션하는 동안 문제가 발생 합니다.
-
-**중요**:이 새로운 시간 동안 sharepoint Online 및 OneDrive 서비스가 고가용성 상태를 유지 하도록 하기 위한 단계를 수행 하 고 있습니다. 자세한 내용은 [Sharepoint Online 임시 기능 조정을](https://aka.ms/ODSPAdjustments) 방문 하세요.
 
 **100TB의 데이터 마이그레이션**
 
@@ -33,7 +31,3 @@ ms.locfileid: "42958652"
     - 예상 마이그레이션의 크기입니다.
     - 마이그레이션을 시작 하 고 완료할 예상 시간입니다.
     - 콘텐츠를 마이그레이션하는 위치 (예: SharePoint Server, Box, GDrive, 파일 공유 등)에 대해 설명 합니다.
-
-
-  
-
