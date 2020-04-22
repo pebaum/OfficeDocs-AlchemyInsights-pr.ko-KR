@@ -3,7 +3,7 @@ title: 청구서 이해 지원
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97b26cb0843233bea281cac2363ff4ccf1bec58e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523085"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710089"
 ---
-# <a name="help-understanding-your-bill"></a><span data-ttu-id="9743d-102">청구서 이해 지원</span><span class="sxs-lookup"><span data-stu-id="9743d-102">Help understanding your bill</span></span>
+# <a name="help-understanding-your-bill"></a><span data-ttu-id="46ff3-102">청구서 이해 지원</span><span class="sxs-lookup"><span data-stu-id="46ff3-102">Help understanding your bill</span></span>
 
-<span data-ttu-id="9743d-103">Office 365 비즈니스 에디션 구독에 대해 청구 되는 금액에 따라 라이선스 가격에 구매한 라이선스 수와 필요한 세금/수수료를 곱합니다.</span><span class="sxs-lookup"><span data-stu-id="9743d-103">The amount billed for your Office 365 for business subscription reflects the license price multiplied by the number of licenses purchased and any required taxes/fees.</span></span>
+<span data-ttu-id="46ff3-103">구독에 대 한 청구 금액에는 라이선스 가격에 구매한 라이선스 수와 모든 필수 세금/수수료를 곱한 내용이 반영 됩니다.</span><span class="sxs-lookup"><span data-stu-id="46ff3-103">The amount billed for your subscription reflects the license price multiplied by the number of licenses purchased and any required taxes/fees.</span></span>
   
-<span data-ttu-id="9743d-104">청구 금액이 예상 대로 다르면 다음과 같은 몇 가지 이유가 있을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9743d-104">If the amount billed is different then expected, there are a few reasons this may happen:</span></span>
+<span data-ttu-id="46ff3-104">청구 금액이 예상 대로 다르면 다음과 같은 몇 가지 이유가 있을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="46ff3-104">If the amount billed is different then expected, there are a few reasons this may happen:</span></span>
   
-- <span data-ttu-id="9743d-105">라이선스가 추가 되거나 구독에서 제거 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="9743d-105">Licenses were added or removed from your subscription.</span></span> <span data-ttu-id="9743d-106">라이선스가 변경 되 면 다음과 같은 송장에 반영 됩니다.</span><span class="sxs-lookup"><span data-stu-id="9743d-106">When licenses are changed mid-term, this is reflected on the following invoice.</span></span> <span data-ttu-id="9743d-107">이 변경 사항을 고려 하 여 이전 서비스 기간에 대 한 크레딧 및 청구서가 다시 청구 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9743d-107">You may see a credit and re-bill for the previous service period to account for this change.</span></span>
+- <span data-ttu-id="46ff3-105">라이선스가 추가 되거나 구독에서 제거 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="46ff3-105">Licenses were added or removed from your subscription.</span></span> <span data-ttu-id="46ff3-106">라이선스가 변경 되 면 다음과 같은 송장에 반영 됩니다.</span><span class="sxs-lookup"><span data-stu-id="46ff3-106">When licenses are changed mid-term, this is reflected on the following invoice.</span></span> <span data-ttu-id="46ff3-107">이러한 변경에 대해 크레딧을 확인하고 이전 서비스 기간에 대해 계정에 다시 청구할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="46ff3-107">You may see a credit and re-bill for the previous service period to account for this change.</span></span>
 
-- <span data-ttu-id="9743d-108">구독이 취소 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="9743d-108">The subscription was cancelled.</span></span> <span data-ttu-id="9743d-109">미해결 잔액을 제외한 모든 제작진을 취소 한 후 송장을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="9743d-109">You will receive an invoice after cancellation with any outstanding balance minus any credits.</span></span>
+- <span data-ttu-id="46ff3-108">구독이 취소되었습니다.</span><span class="sxs-lookup"><span data-stu-id="46ff3-108">The subscription was cancelled.</span></span> <span data-ttu-id="46ff3-109">취소 후 미결 잔액에서 크레딧을 뺀 송장을 받습니다.</span><span class="sxs-lookup"><span data-stu-id="46ff3-109">You will receive an invoice after cancellation with any outstanding balance minus any credits.</span></span>
 
-- <span data-ttu-id="9743d-110">새 용어 및 라이선스 가격이 변경 됨에 따라 구독이 갱신 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="9743d-110">Your subscription renewed for a new term and the license price changed.</span></span>
+- <span data-ttu-id="46ff3-110">구독이 변경된 새 기간 및 라이선스 가격으로 갱신되었습니다.</span><span class="sxs-lookup"><span data-stu-id="46ff3-110">Your subscription renewed for a new term and the license price changed.</span></span>
 
-<span data-ttu-id="9743d-111">송장에 대 한 자세한 내용은: [청구서 이해](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice) 를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="9743d-111">For more information about your invoice, see: [Understand your invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)</span></span>
+<span data-ttu-id="46ff3-111">송장에 대 한 자세한 내용은: [청구서 이해](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice) 를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="46ff3-111">For more information about your invoice, see: [Understand your invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)</span></span>

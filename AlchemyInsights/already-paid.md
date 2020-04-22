@@ -3,7 +3,7 @@ title: 이미 지불 되었습니까?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: ca67a737bb7a5210e4ff76b80a694ea4740fd5d8
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: e7ddb784b195767477962b94542cd292cb0c7ce1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386186"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708181"
 ---
-# <a name="already-paid"></a><span data-ttu-id="61d48-102">이미 지불 되었습니까?</span><span class="sxs-lookup"><span data-stu-id="61d48-102">Already paid?</span></span>
+# <a name="already-paid"></a><span data-ttu-id="4832b-102">이미 지불 되었습니까?</span><span class="sxs-lookup"><span data-stu-id="4832b-102">Already paid?</span></span>
 
-<span data-ttu-id="61d48-103">이미 결제를 보낸 경우에는 다음을 알려 드리겠습니다.</span><span class="sxs-lookup"><span data-stu-id="61d48-103">If you've already sent payment, you can let us know:</span></span>
+<span data-ttu-id="4832b-103">이미 결제를 보낸 경우에는 다음을 알려 드리겠습니다.</span><span class="sxs-lookup"><span data-stu-id="4832b-103">If you've already sent payment, you can let us know:</span></span>
   
-1. <span data-ttu-id="61d48-104">관리 센터에서 **청구** \> [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="61d48-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="4832b-104">관리 센터에서 **청구** \> [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="4832b-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="61d48-105">구독을 선택 하 고 **내 청구서** 섹션에서 **청구지 보기**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="61d48-105">Choose a subscription, and in the **My bill** section, choose **View Bill**.</span></span>
+2. <span data-ttu-id="4832b-105">구독을 선택 하 고 **내 청구서** 섹션에서 **청구지 보기**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="4832b-105">Choose a subscription, and in the **My bill** section, choose **View Bill**.</span></span>
 
-3. <span data-ttu-id="61d48-106">**청구서 정보** 페이지에서 **이미 지불 되었습니까?** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="61d48-106">On the **Bill details** page, choose **Already Paid?**</span></span> <span data-ttu-id="61d48-107">전송 된 지불액과 관련 된 정보를 입력 하 라는 메시지가 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="61d48-107">You'll be asked to enter information related to the payment that was sent.</span></span>
+3. <span data-ttu-id="4832b-106">**청구서 정보** 페이지에서 **이미 지불 되었습니까?** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="4832b-106">On the **Bill details** page, choose **Already Paid?**</span></span> <span data-ttu-id="4832b-107">전송 된 지불액과 관련 된 정보를 입력 하 라는 메시지가 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="4832b-107">You'll be asked to enter information related to the payment that was sent.</span></span>
 
-4. <span data-ttu-id="61d48-108">필요한 정보를 모두 입력 했으면 **보내기를**선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="61d48-108">When all required information has been entered, choose **Send**.</span></span>
+4. <span data-ttu-id="4832b-108">필요한 정보를 모두 입력 했으면 **보내기를**선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="4832b-108">When all required information has been entered, choose **Send**.</span></span>
