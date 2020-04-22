@@ -16,7 +16,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591535"
+ms.locfileid: "43599287"
 ---
 # <a name="onedrive-storage-plans"></a>OneDrive 저장소 플랜
 

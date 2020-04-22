@@ -10,16 +10,16 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: cb8123583b68e945ef878fdbaf211fd1d8205bb3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 977bd5887ef58b328463a9befcd6b47ac55f5a85
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050495"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687264"
 ---
 # <a name="access-services-retirement"></a>Access services 퇴직
 
-처음에 발표 된 것 처럼 3 월 2017 일에 온 것 처럼, 지난 해 전에 Access Services를 통한 통신은 Office 365에서 만료 되었습니다. 이 프로세스의 다음 단계는 SharePoint 목록을 기본 데이터 저장소로 사용 하는 Access 웹 데이터베이스를 제거 하는 것입니다.
+처음에 발표 된 것 처럼, 3 월 2017 일에 MC97576, 지난 해 액세스 서비스를 통한 통신은 곧 사용 중지 되었습니다. 이 프로세스의 다음 단계는 SharePoint 목록을 기본 데이터 저장소로 사용 하는 Access 웹 데이터베이스를 제거 하는 것입니다.
 
 **어떤 영향을 줍니까?**
 
