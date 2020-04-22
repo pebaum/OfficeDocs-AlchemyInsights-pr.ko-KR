@@ -3,7 +3,7 @@ title: 743 라이선스 없이 사용자 만들기
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "743"
 - "1200022"
 ms.assetid: a47ef0c1-5f44-4c5f-aa91-b681c0c17ebf
-ms.openlocfilehash: aa594ead2f48bd6b6597746588b1edc16e08a14a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 95f4a66817e9b8f133ec20305cf29c95fb0cb2ff
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740615"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705379"
 ---
-# <a name="create-mailboxes-that-dont-require-licenses"></a><span data-ttu-id="f70b2-102">라이선스가 필요 없는 사서함 만들기</span><span class="sxs-lookup"><span data-stu-id="f70b2-102">Create mailboxes that don't require licenses</span></span>
+# <a name="create-mailboxes-that-dont-require-licenses"></a><span data-ttu-id="a6f34-102">라이선스가 필요 없는 사서함 만들기</span><span class="sxs-lookup"><span data-stu-id="a6f34-102">Create mailboxes that don't require licenses</span></span>
 
-- <span data-ttu-id="f70b2-103">여러 사용자가 그룹 전자 메일 주소를 필요로 하는 경우에 [는 공유 사서함 만들기](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="f70b2-103">If you need a group email address for multiple people, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
+- <span data-ttu-id="a6f34-103">여러 사용자가 그룹 전자 메일 주소를 필요로 하는 경우에 [는 공유 사서함 만들기](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="a6f34-103">If you need a group email address for multiple people, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
 
-- <span data-ttu-id="f70b2-104">팀이 함께 작업 하 고 전자 메일 및 파일을 공유할 수 있도록 하려면 [Office 365 그룹에 대 한 자세한 정보](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="f70b2-104">To allow a team of people to work together and share email and files, see [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
+- <span data-ttu-id="a6f34-104">팀이 함께 작업 하 고 전자 메일 및 파일을 공유할 수 있도록 하려면 [Office 365 그룹에 대 한 자세한 정보](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="a6f34-104">To allow a team of people to work together and share email and files, see [Learn about Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
