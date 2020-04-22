@@ -1,5 +1,5 @@
 ---
-title: 비즈니스용 Office 365 구독 구매
+title: 무료 평가판에서 Microsoft 365 비즈니스에 대 한 구독 구입
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: a8f44428363a2e507003b524b98a94748bdf5505
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218186"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712213"
 ---
-# <a name="buy-a-subscription-to-office-365-for-business"></a>비즈니스용 Office 365 구독 구매
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>무료 평가판에서 Microsoft 365 구독 구입
 
-Office 365 평가판을 사용해 봤으며 이제 구입할 준비가 되었습니다. 평가판에서 Office 365을 구매할 때는 다음과 같은 두 가지 옵션을 사용할 수 있습니다.
+Microsoft 365를 사용해 보았지만 이제 구매할 준비가 되었습니다. 평가판에서 Microsoft 365을 구매할 때는 다음과 같은 두 가지 옵션을 사용할 수 있습니다.
   
  **평가판과 동일한 계획 구입**
   
@@ -35,7 +35,7 @@ Office 365 평가판을 사용해 봤으며 이제 구입할 준비가 되었습
 
 3. 구매할 구독을 찾고, **구매**를 선택 하 고, 단계에 따라 체크 아웃 합니다.
 
-자세한 내용은 [무료 평가판에서 비즈니스용 Office 365 구독 구매](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial)를 참조 하세요.
+자세한 내용은 [무료 평가판에서 비즈니스용 Microsoft 365 구독 구매](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial)를 참조 하세요.
 
 **문제 해결**
 

@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 1820cdb83a1adf36b4e7d0898ecdf8097eb6f0f3
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 565df0a05baa974a6cbac58ac6be8d78470dbc5d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627924"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715638"
 ---
 # <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Office 앱 "연결 된 office 라이선스를 찾을 수 없습니다." 메시지를 수정 합니다.
 
 이 메시지가 표시 되 면 다음을 시도해 보세요.
 
-1. 방화벽, 바이러스 백신 소프트웨어 및 프록시 설정을 확인 하 여 Office 앱에 대 한 인터넷 액세스를 차단 하 고 있지 않은지 확인 합니다. [Office 365 url 및 IP 주소 범위](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)를 참조 하세요.
+1. 방화벽, 바이러스 백신 소프트웨어 및 프록시 설정을 확인 하 여 Office 앱에 대 한 인터넷 액세스를 차단 하 고 있지 않은지 확인 합니다. [Microsoft 365 url 및 IP 주소 범위](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)를 참조 하세요.
 2. 영향을 받는 사용자의 Office 라이선스를 제거 하 고 [다시 할당](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) 합니다. 
 3. Office 앱을 열고 기존 사용자 계정에서 [로그 아웃](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) 합니다.
 4. Windows 설정 > **계정** > **전자 메일 & 계정**으로 이동 하 여 영향을 받는 계정을 제외한 모든 작업 계정을 제거 합니다.

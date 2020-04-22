@@ -1,9 +1,9 @@
 ---
-title: 2681 Office 365의 공격 시뮬레이터
+title: 2681 Microsoft 365의 공격 시뮬레이터
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 07d7622c00074f7bd0d567185824db448f1eeef3
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305337"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713472"
 ---
-# <a name="attack-simulator-in-office-365"></a>Office 365의 공격 시뮬레이터
+# <a name="attack-simulator-in-microsoft-365"></a>Microsoft 365의 공격 시뮬레이터
 
-- 공격 시뮬레이터가 누락 되었습니까? 공격 시뮬레이터에는 **office 365 Advanced Threat Protection 계획 2 (ATP 요금제 2)** 또는 **Office 365 Enterprise E5**가 필요 합니다. Attack 시뮬레이터는 Office 365 Advanced Threat Protection 계획 1 (ATP 계획 1), Office 365 Enterprise E3 또는 모든 Office 365 비즈니스 구독에 포함 되어 **있지 않습니다** .
+- 공격 시뮬레이터가 누락 되었습니까? 공격 시뮬레이터에는 **office 365 Advanced Threat Protection 계획 2 (ATP 요금제 2)** 또는 **Office 365 Enterprise E5**가 필요 합니다. Attack 시뮬레이터는 Office 365 Advanced Threat Protection 계획 1 (ATP 계획 1), Office 365 Enterprise E3 또는 기타 Microsoft 365 앱 구독에 포함 **되지** 않습니다.
 
 - 시뮬레이트된 공격을 시작 하는 데 사용 하는 계정에는 전역 관리자 또는 보안 관리자 권한 및 MFA (multi-factor authentication)가 필요 합니다. 공격 시뮬레이터 요구 사항에 대 한 자세한 내용은 [이 항목](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin)을 참조 하십시오.
 
@@ -38,4 +38,4 @@ ms.locfileid: "37305337"
 
 - 보고서: 시뮬레이트된 공격이 완료 되 면 **공격 세부 정보** 를 클릭 하 여 보고서를 볼 수 있습니다.
 
-- 자세한 지침 및 Attack 시뮬레이터의 새로운 기능은 [Office 365의 Attack 시뮬레이터](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)를 참조 하세요.
+- 자세한 지침 및 Attack 시뮬레이터의 새로운 기능은 [Microsoft 365의 Attack 시뮬레이터](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)를 참조 하세요.

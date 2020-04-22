@@ -3,7 +3,7 @@ title: 메일 사용이 가능한 공용 폴더에 대 한 전자 메일 배달 
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1956"
 - "3500007"
 ms.assetid: ''
-ms.openlocfilehash: f7b5e5a230d26870d5e95e8762b5874f73723c6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e261fe60843555fa45927b0a6b36e1ccf79fb028
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525121"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716358"
 ---
 # <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>메일 사용이 가능한 공용 폴더에 대 한 전자 메일 배달 문제 해결
 
-외부 보낸 사람이 메일 사용이 가능한 공용 폴더에 메시지를 보낼 수 없고 보낸 사람에 게 오류를 찾을 수 없는 경우 **(550 5.4.1)**, 공용 폴더에 대 한 전자 메일 도메인이 대신 내부 릴레이 도메인으로 구성 되었는지 확인 합니다. 신뢰할 수 있는 도메인:
+외부 보낸 사람이 메일 사용이 가능한 공용 폴더에 메시지를 보낼 수 없고 보낸 사람에 게 오류가 발생 하는 경우 **(550 5.4.1)**, 공용 폴더에 대 한 전자 메일 도메인이 신뢰할 수 있는 도메인이 아닌 내부 릴레이 도메인으로 구성 되어 있는지 확인 합니다.
 
 1. [EAC (Exchange 관리 센터)](https://docs.microsoft.com/Exchange/exchange-admin-center)를 엽니다.
 

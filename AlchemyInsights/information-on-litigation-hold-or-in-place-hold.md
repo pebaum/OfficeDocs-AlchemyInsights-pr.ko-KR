@@ -3,18 +3,18 @@ title: 소송 보존 또는 전체 보존에 대 한 정보
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ed8158c226d10926551514fa162f31ed7943464
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498961"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711025"
 ---
 # <a name="about-litigation-holds-and-in-place-holds"></a>소송 보존 및 원본 위치 유지 정보
 
@@ -22,7 +22,7 @@ ms.locfileid: "36498961"
     
 - 단일 사용자에 대해 **소송 보존을 사용 하도록 설정 하려면** [여기](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)에 나와 있는 단계를 수행 합니다. 소송 보존을 사용 하도록 설정 하면 사서함의 모든 콘텐츠가 보존 됩니다.
     
-- **단일 사용자에 대해 원본 위치 유지** 또는 **전체 조직의 모든 사서함**에 대 한 보류를 적용 하려면 [여기](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )에 설명 된 단계에 따라 Office 365 보안 및 준수 센터에서 보존 정책을 사용할 수 있습니다.
+- **단일 사용자에 대해 원본 위치 유지** 또는 **전체 조직의 모든 사서함**에 대 한 보류를 적용 하려면 [여기](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )에 설명 된 단계에 따라 Microsoft 365 보안 및 준수 센터에서 보존 정책을 사용할 수 있습니다.
     
     > [!NOTE]
     > 조직 전체 보존 정책의 경우 새 사용자가 보류에 자동으로 추가 됩니다. 

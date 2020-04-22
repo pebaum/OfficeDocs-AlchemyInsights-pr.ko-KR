@@ -3,7 +3,7 @@ title: 자동으로 새로 만들어진 보존 레이블
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 6e43edeedf443d8866817f604f6b41708e7284e6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054672"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713508"
 ---
 # <a name="new-retention-labels-created-automatically"></a>자동으로 새로 만들어진 보존 레이블
 
-보안 또는 준수 관리 센터의 **보존 레이블** 아래 조직에서 자동으로 작성 되는 [세 가지 새 Office 365 보존 레이블이](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) 표시 될 수 있습니다. 레이블 이름은 다음과 같습니다.
+보안 또는 준수 관리 센터의 **보존 레이블** 아래 조직에서 자동으로 [세 가지 새 보존 레이블이](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) 생성 될 수 있습니다. 레이블 이름은 다음과 같습니다.
 
 - 운영 프로시저
 - 비즈니스 일반

@@ -2,7 +2,7 @@
 title: Yammer에 대 한 액세스 사용 안 함
 ms.author: pebaum
 author: pebaum
-ms.date: 5/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ ms.custom:
 - "722"
 - "6000004"
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
-ms.openlocfilehash: 6e7947afed1223fa55a2aa5710573c03cd804416
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 297b4665fcce0821dd2dea7f4412724943ca6862
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740363"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715238"
 ---
 # <a name="disable-access-to-yammer"></a>Yammer에 대 한 액세스 사용 안 함
 
-Yammer 액세스를 사용 하지 않도록 설정 하는 솔루션은 Office 365 사용자의 Yammer 라이선스를 차단 하 고 할당 해제 하는 것입니다. 자세한 내용은 다음 문서를 참조 하세요.
+Yammer 액세스를 사용 하지 않도록 설정 하는 솔루션은 조직의 사용자에 대해 Yammer 라이선스를 차단 하거나 할당 해제 하는 것입니다. 자세한 내용은 다음 문서를 참조 하세요.
   
-- [Office 365 사용자에 대 한 Yammer 액세스 끄기](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)
+- [Yammer 액세스 해제](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)

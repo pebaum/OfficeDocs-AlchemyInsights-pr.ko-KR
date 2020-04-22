@@ -3,7 +3,6 @@ title: 공용 폴더 만들기
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +11,16 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631816"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715366"
 ---
 # <a name="creating-public-folders"></a>공용 폴더 만들기
 
-사용자가 Office 365에서 공용 폴더를 사용할 수 있으려면 먼저 공용 폴더 사서함을 하나 이상 만들어야 합니다. 만들 작업
+사용자가 공용 폴더를 사용 하려면 하나 이상의 공용 폴더 사서함을 만들어야 합니다. 만들 작업
   
 1. Microsoft 365 관리 센터에서 **관리 센터** \> **Exchange**로 이동 합니다.
 

@@ -3,7 +3,7 @@ title: 감사 로그에서 메시지 삭제 이벤트 확인
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: b358b7944b82182a8551d64701e6879a01816524
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539215"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716502"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>삭제 된 전자 메일 메시지에 대 한 감사 로그
 
 2019 년 1 월부터 Microsoft는 기본적으로 사서함 감사 로깅을 설정 하 고 있습니다. 그렇지 않고 특정 사용자에 대 한 메시지 삭제 이벤트를 검토 하려면 감사에 대 한 삭제 작업을 수동으로 사용 하도록 설정 해야 합니다. 조직 또는 특정 사용자에 대해 사서함 감사 로깅이 이미 사용 하도록 설정 된 경우에는 아래 단계를 수행 합니다.
 
-1. [Office 365 보안 & 준수 센터](https://protection.office.com/) 에 로그인 합니다.
+1. [Microsoft 365 보안 & 준수 센터](https://protection.office.com/) 에 로그인 합니다.
 
 2. **검색 및 조사** 를 클릭 하 고 **감사 로그 검색**을 선택 합니다.
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053483"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713292"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>관련 정보를 찾기 위한 콘텐츠 검색 도구
 
@@ -26,6 +26,6 @@ ms.locfileid: "40053483"
 
 [요구 사항 및 제한을](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search)검토 하 여 콘텐츠 검색에 대해 자세히 알아보고, [부분적으로 인덱싱된 항목](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) 및 기타 결과를 확인 합니다.
 
-콘텐츠 검색의 구성 설정 및 제한을 검토 한 후에는 [콘텐츠 검색</a> 을 사용 하 여 Office 365 조 직의 전자 메일, 문서 및 인스턴트 메시징 대화와 같은 원본 위치 항목을 검색](https://docs.microsoft.com/office365/securitycompliance/content-search)합니다 .를 참조 하세요.
+콘텐츠 검색의 구성 설정 및 제한을 검토 한 후 [콘텐츠 검색</a> 을 사용 하 여 조직의 전자 메일, 문서 및 인스턴트 메시징 대화와 같은 원본 위치 항목 검색](https://docs.microsoft.com/office365/securitycompliance/content-search)을 참조 하세요.
 
 자세한 내용은 [Office 365에서 콘텐츠 검색](https://docs.microsoft.com/office365/securitycompliance/search-for-content) 에 대 한 전체 콘텐츠 검색을 참조 하십시오.

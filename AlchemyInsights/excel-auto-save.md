@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2446"
 - "9000610"
-ms.openlocfilehash: 2def74d86b4c4a5e22879c568bff79b77515bccd
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 63573912b4beb290a0289c53ccd543271c19a76a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769165"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714228"
 ---
 # <a name="what-is-autosave"></a>자동 저장 이란?
 
-자동 저장은 작업을 수행 하는 동안 몇 초 마다 파일을 자동으로 저장 하는 Excel, Word 및 PowerPoint for Office 365 구독자에서 사용할 수 있는 기능입니다. 
+자동 저장은 작업을 수행 하는 동안 몇 초 마다 파일을 자동으로 저장 하는 Excel, Word 및 365 PowerPoint에서 사용할 수 있는 기능입니다. 
 
 자주 묻는 질문 [은 자동 저장 이란?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) 를 참조 하세요.

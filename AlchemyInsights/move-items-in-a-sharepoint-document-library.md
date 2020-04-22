@@ -3,7 +3,7 @@ title: SharePoint 문서 라이브러리에서 항목 이동
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 63d2115c6c167ade1d39f8cdeca08de1a2e12d17
-ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
+ms.openlocfilehash: 1f8ebd035511775dc355a5efd548b331fc6797c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38711726"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713580"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>SharePoint 문서 라이브러리에서 항목 이동
 
@@ -40,4 +40,4 @@ ms.locfileid: "38711726"
 자세한 내용은 다음을 참조하세요.
 
  - [SharePoint에서 파일 이동 또는 복사](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office 지원 문서)
- - [Office 365의 임의 폴더에서 파일 이동](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft 기술 커뮤니티 블로그 문서) 
+ - 365 Microsoft 기술 커뮤니티 블로그 문서 [에서 모든 폴더의 파일 이동](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) 

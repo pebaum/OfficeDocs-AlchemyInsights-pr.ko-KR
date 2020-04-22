@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 28e72f734d4b1c9abefa3d9c7cefad4eb95d7c93
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 11bbb2180c94f1c8d7a00fc944d35ee6f6dc4ddf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183092"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713256"
 ---
 # <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Office 앱 메시지 - 구독에 문제 발생
 
@@ -26,7 +26,7 @@ ms.locfileid: "43183092"
 
 - [Office 라이선스](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user)를 제거한 후 알림 표시된 사용자에게 다시 할당합니다. 
 
-- Office 앱을 열고 **파일 > 계정**으로 이동하여 모든 계정에서 로그아웃합니다. 유효한 라이선스가 있는 사용자 계정을 사용하여 다시 로그인합니다. 자세한 내용은 [Office의 계정](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9?ui=en-US&rs=en-GB&ad=GB)을 참조하세요.
+- Office 앱을 열고 **파일 > 계정**으로 이동하여 모든 계정에서 로그아웃합니다. 유효한 라이선스가 있는 사용자 계정을 사용하여 다시 로그인합니다. 자세한 내용은 [Office의 계정](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)을 참조하세요.
 
 - [정품 인증 문제 해결사](https://aka.ms/SARA-OfficeActivation-Alchemy)를 실행하고 컴퓨터를 다시 시작합니다.
 

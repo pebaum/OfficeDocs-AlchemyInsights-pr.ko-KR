@@ -1,9 +1,9 @@
 ---
-title: Office 365 구독 취소
+title: Microsoft 365 구독 취소
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 3aecd74ad35c7c9cfc799cc73434e57065f09fdf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7d1e37d00876c117f7c83f960c05a350ed8a982c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665518"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711565"
 ---
-# <a name="cancelling-your-office-365-subscription"></a>Office 365 구독을 취소 하 고 계십니까?
+# <a name="cancelling-your-microsoft-365-subscription"></a>Microsoft 365 구독을 취소 하 시겠습니까?
 
 죄송 합니다. 하지만 구독을 취소 하는 옵션은 다음과 같습니다.
   
