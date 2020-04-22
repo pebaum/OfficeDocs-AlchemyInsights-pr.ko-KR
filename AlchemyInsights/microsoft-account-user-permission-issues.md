@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 0f1e427801107109e31486a4d300f53084880caf
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3b863c5e9962dd29ca2ed41d113041d74830f615
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054816"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702744"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>문제 해결-디렉터리에서 사용자를 찾을 수 없음
 
@@ -23,7 +23,7 @@ ms.locfileid: "40054816"
 
 - 전자 메일 초대를 수락한 계정이 나중에 로그인 하는 데 사용 되는 것과 동일한 계정 인지 확인 합니다. 사용자가 초대를 수락 하 고 사이트에 로그인 하는 데 동일한 계정을 사용 하 고 있는지 확인 합니다. 
 
-자세한 내용은 [Office 365 로그인을 관리 하기 위해 Microsoft 계정의</a> 별칭을 관리 하는 방법을](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases)참조 하세요. 
+자세한 내용은 microsoft [계정을 365 관리 하기 위해 microsoft 계정의</a> 별칭을 관리](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases)하는 방법을 참조 하세요. 
 
 - 사용자에 게 오류를 수신 하는 각 사이트로 이동 합니다. 
 

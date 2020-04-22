@@ -2,7 +2,7 @@
 title: 정품 인증 문제 해결
 ms.author: jillz
 author: jillz
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: a9dfbdd5b8b1dc34eded716ac7162f7188e622df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495577"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676431"
 ---
 # <a name="activation-troubleshooting"></a>정품 인증 문제 해결
 
-**제어판** \> 의 **프로그램 및 기능**에서 Office를 검색 합니다. Microsoft Office 365 ProPlus 또는 Microsoft Office 365 Business가 표시 됩니다. 나열 된 Office 버전이 둘 이상 표시 되 면 사용 하지 않는 버전을 제거 합니다.
+**제어판** \> 의 **프로그램 및 기능**에서 Office를 검색 합니다. 비즈니스용 Microsoft 365 앱 또는 Microsoft 365 앱이 있는지 확인 해야 합니다. 둘 이상의 Office 버전이 표시되면 사용하지 않는 버전을 제거하세요.
   
 제어판을 사용 하 여 성공적으로 제거할 수 없는 경우 [지원 및 복구 도우미](https://aka.ms/SARA-OfficeUninstall-Alchemy) 를 사용 하 여 사용 하지 않는 버전을 제거 합니다.
   
-아직 Office가 사용이 허가 되지 않은 경우 **제어판** \> **프로그램 및 기능**으로 돌아갑니다. 나머지 Office 설치를 마우스 오른쪽 단추로 클릭 하 고 **수정** (또는 변경)을 선택한 다음 **온라인 복구**를 선택 합니다. 온라인 복구에 시간이 오래 걸릴 수 있습니다. 그런 다음 Office를 다시 시작 하 고 메시지가 표시 되 면 회사 또는 학교 계정을 사용 하 여 로그인 합니다.
+아직 Office가 사용이 허가 되지 않은 경우 **제어판** \> **프로그램 및 기능**으로 돌아갑니다. 나머지 Office 설치를 마우스 오른쪽 단추로 클릭 하 고 **수정** (또는 변경)을 선택한 다음 **온라인 복구**를 선택 합니다. 온라인 수리에 시간이 걸릴 수 있습니다. 그런 다음 메시지가 표시되면 Office를 다시 시작하고 회사 또는 학교 계정을 사용하여 로그인하세요.
   
 아직 Office가 사용이 허가 되지 않은 경우에는 영향을 받는 컴퓨터에서 [정품 인증 문제 해결사](https://aka.ms/SARA-OfficeActivation-Alchemy) 를 다운로드 한 다음 실행 하 여 정품 인증 문제를 해결 합니다.
   

@@ -3,7 +3,7 @@ title: DLP 정책 팁이 작동 하지 않음
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 6375fa8077529f36ae95d6632ad4d2db5625dc29
-ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
+ms.openlocfilehash: 7d31f6bcbd464b7428092b6fd6ff9f9582db2a8b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42977240"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704383"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP 정책 팁 문제
 
-**중요**:이 새로운 시간 동안 sharepoint Online 및 OneDrive 서비스가 고가용성 상태를 유지 하도록 하기 위한 단계를 수행 하 고 있습니다. 자세한 내용은 [Sharepoint Online 임시 기능 조정을](https://aka.ms/ODSPAdjustments) 방문 하세요.
+**중요**: 이 시기에는 SharePoint Online 및 OneDrive 서비스를 항상 사용할 수 있도록 하는 단계를 진행하고 있습니다. 자세한 내용은 [SharePoint Online 임시 기능 조정](https://aka.ms/ODSPAdjustments)을 참조하세요.
 
 **DLP 정책 팁**
 

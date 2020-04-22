@@ -3,7 +3,7 @@ title: 신용 카드 번호에 대 한 DLP 규칙이 작동 하지 않음
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 11/5/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: 40a4a1668039b70455e09ee662359c05235645e8
-ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
+ms.openlocfilehash: 80ff41b3e746f95278ccbf0df19eebb61f7f9ee0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42977204"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704207"
 ---
 # <a name="dlp-issues-with-credit-card-numbers"></a>신용 카드 번호 관련 DLP 문제
 
-**중요**:이 새로운 시간 동안 sharepoint Online 및 OneDrive 서비스가 고가용성 상태를 유지 하도록 하기 위한 단계를 수행 하 고 있습니다. 자세한 내용은 [Sharepoint Online 임시 기능 조정을](https://aka.ms/ODSPAdjustments) 방문 하세요.
+**중요**: 이 시기에는 SharePoint Online 및 OneDrive 서비스를 항상 사용할 수 있도록 하는 단계를 진행하고 있습니다. 자세한 내용은 [SharePoint Online 임시 기능 조정](https://aka.ms/ODSPAdjustments)을 참조하세요.
 
 **신용 카드 번호 관련 DLP 문제**
 

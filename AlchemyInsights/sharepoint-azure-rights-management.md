@@ -7,17 +7,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 4a04134c1e2e6569302756f3b6be213283638a0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8b5f22269cab0ed0984bcb33703b49e943ef2446
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40046749"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642258"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>SharePoint 파일에 대 한 IRM 보호
 
 
-SharePoint Online 내에서 IRM 보호는 목록 및 라이브러리 수준의 파일에 적용 됩니다. 조직에서 IRM 보호를 사용 하려면 먼저 권한 관리를 설정 해야 합니다. IRM은 azure Information Protection의 Azure 권한 관리 서비스에 의존 하 여 사용 제한을 암호화 및 할당 합니다. 일부 Office 365 계획에는 Azure 권한 관리 등이 포함 됩니다. 
+SharePoint Online 내에서 IRM 보호는 목록 및 라이브러리 수준의 파일에 적용 됩니다. 조직에서 IRM 보호를 사용 하려면 먼저 권한 관리를 설정 해야 합니다. IRM은 azure Information Protection의 Azure 권한 관리 서비스에 의존 하 여 사용 제한을 암호화 및 할당 합니다. 일부 Microsoft 365 구독에는 Azure 권한 관리 등이 포함 되어 있습니다. 
 
 자세한 내용은 다음을 참조하세요:
 

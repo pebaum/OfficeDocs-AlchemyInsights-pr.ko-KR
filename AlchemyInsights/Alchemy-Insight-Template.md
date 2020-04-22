@@ -3,7 +3,7 @@ title: 파일 이름과 동일
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
-ms.date: 4/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e2dcca1295e37007593b34c2d818ad1d1133e4a1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "35800051"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676539"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>필수 Alchemy 헤더 H1, H2's이 작동 하지 않습니다.
 Alchemy 작성을 위한 모범 사례 및 지침:

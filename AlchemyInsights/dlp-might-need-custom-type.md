@@ -3,7 +3,7 @@ title: DLP에 사용자 지정 형식이 필요할 수 있음
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,16 +13,16 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 87fcb5c3cc9ccd525265097b66d9d9b3a85c5feb
-ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
+ms.openlocfilehash: b83bb77383e2ae7e78c31f35c972182c54487c60
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42977276"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704495"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP에 사용자 지정 형식이 필요할 수 있음
 
-**중요**:이 새로운 시간 동안 sharepoint Online 및 OneDrive 서비스가 고가용성 상태를 유지 하도록 하기 위한 단계를 수행 하 고 있습니다. 자세한 내용은 [Sharepoint Online 임시 기능 조정을](https://aka.ms/ODSPAdjustments) 방문 하세요.
+**중요**: 이 시기에는 SharePoint Online 및 OneDrive 서비스를 항상 사용할 수 있도록 하는 단계를 진행하고 있습니다. 자세한 내용은 [SharePoint Online 임시 기능 조정](https://aka.ms/ODSPAdjustments)을 참조하세요.
 
 **DLP에는 사용자 지정 정보 유형이 필요할 수 있습니다.**
 

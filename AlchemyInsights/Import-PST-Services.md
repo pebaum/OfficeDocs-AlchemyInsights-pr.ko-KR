@@ -3,7 +3,7 @@ title: 1245-.PST-서비스
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,20 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496359"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687768"
 ---
-# <a name="office-365-import-service"></a>Office 365 가져오기 서비스
+# <a name="microsoft-365-import-service"></a>Microsoft 365 가져오기 서비스
 
-Office 365 가져오기 서비스를 사용 하면 여러 PST 파일을 Exchange Online 사서함으로 대량 가져올 수 있습니다.
+Microsoft 365 가져오기 서비스를 사용 하면 여러 PST 파일을 Exchange Online 사서함으로 대량 가져올 수 있습니다.
 
 가져오기 서비스에 액세스 하 고 가져오기 프로세스를 시작 하려면 다음을 수행 합니다.
 
-1. [보안 & 준수 센터로](https://protection.office.com) 이동한 후 Office 365 조직의 관리자 계정에 대 한 자격 증명을 사용 하 여 로그인 합니다.
+1. [보안 & 준수 센터로](https://protection.office.com) 이동 하 고 조직의 관리자 계정에 대 한 자격 증명을 사용 하 여 로그인 합니다.
 
 2. **보안 & 준수 센터**의 왼쪽 창에서 **데이터 거 버 넌 스 > 가져오기를**클릭 합니다.
 

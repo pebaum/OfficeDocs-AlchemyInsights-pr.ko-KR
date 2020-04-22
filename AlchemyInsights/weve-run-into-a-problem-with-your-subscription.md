@@ -1,5 +1,5 @@
 ---
-title: 구독 메시지에서 문제가 발생 한 Office 앱 수정
+title: 구독 메시지에서 문제가 발생 한 앱 수정
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3419"
 - "9001427"
-ms.openlocfilehash: e1ba8c1ef4d62b1e2f129d7e299745ed317927b1
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: dc83c4edd6d25606e8b8fb18fa0c6562bf833e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628212"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676863"
 ---
 # <a name="fixing-the-office-apps-weve-run-into-a-problem-with-your-subscription-message"></a>"구독에 문제가 있습니다." 라는 Office 앱 수정
 
 이 메시지가 표시 되 면 다음을 시도해 보세요.
 
-- 최근에 다른 Office 365 구독/요금제로 전환한 경우 office 365 요금제를 전환한 후 office에서 office를 다시 설치 하거나 업데이트 하는 ["계정 알림"](https://support.office.com/article/account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) 의 단계를 수행 합니다.
-- Office [오류 "계정 알림: office 365 구독에 문제가 발생](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)했습니다."를 참조 하세요. 
-- 영향을 받는 사용자에 게 [Office 라이선스](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) 를 제거 하 고 다시 할당 합니다. 
-- Office 앱을 열고 **파일** > **계정을**선택 하 고 모든 계정에서 로그 아웃 합니다. 유효한 라이선스가 있는 사용자 계정을 사용 하 여 다시 로그인 합니다. 자세한 내용은 [Office의 계정을](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9)참조 하세요.
-- [정품 인증 문제 해결사](https://aka.ms/SARA-OfficeActivation-Alchemy) 를 실행 하 고 컴퓨터를 다시 시작 합니다.
+- 최근에 다른 Microsoft 365 구독/요금제로 전환한 경우 Microsoft 365 구독을 전환 하 여 Office를 다시 설치 하거나 업데이트 [한 후에 "계정 알림"](https://support.office.com/article/account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) 의 단계를 수행 합니다.
+- [Office 오류 "계정 알림: Microsoft 365 구독에 문제가 발생](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)했습니다."를 참조 하세요. 
+- 영향을 받는 사용자에 게 [라이선스](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) 를 제거 하 고 다시 할당 합니다. 
+- Office 앱을 열고 **파일** > **계정을**선택 하 고 모든 계정에서 로그 아웃 합니다. 유효한 라이선스가 있는 사용자 계정을 사용 하 여 다시 로그인 합니다. 자세한 내용은 [Office의 계정](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9)을 참조하세요.
+- [정품 인증 문제 해결사](https://aka.ms/SARA-OfficeActivation-Alchemy)를 실행하고 컴퓨터를 다시 시작합니다.
 - 영향을 받는 컴퓨터에서 [Office 정품 인증 상태를 다시 설정](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)합니다.
 
-자세한 내용은 다음을 참조 하십시오. 
-- [Office 365 응용 프로그램을 열면 구독 알림이 나타난다](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+자세한 내용은 다음을 참조하십시오. 
+- [Microsoft 365 응용 프로그램을 열면 구독 알림이 나타난다](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 - [Office 정품 인증 문제 해결](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)

@@ -3,7 +3,7 @@ title: 선불 구독에 좌석 추가
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e2d9c25b12a11e933cf0ff40436c717172621af7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36660979"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671463"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>선불 구독에 좌석 추가
 
-선불 Office 365 라이선스는 25 자의 영숫자 코드로 발급 됩니다. 필요한 라이선스를 구매한 후 구독에 추가할 수 있습니다. 
+선불 라이선스는 25 자의 영숫자 코드로 발급 됩니다. 필요한 라이선스를 구매한 후 구독에 추가할 수 있습니다. 
 
 1. 관리 센터에서 **청구** > [제품 & 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.
 

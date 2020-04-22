@@ -3,7 +3,7 @@ title: Office 다운로드 및 설치
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
-ms.openlocfilehash: 0cf7d60fb0e2d5a64b8df07dbb07060de3e111a9
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4b9416019fb4170f37e2a9a0cf4ba04e06f4ee6d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36529493"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704009"
 ---
 # <a name="download-and-install-office"></a>Office 다운로드 및 설치
 
-**Business Essentials** 구독에는 Office 앱이 포함 되지 않습니다. Office를 다운로드 하려면 **business** 또는 **business Premium** 구독으로 업그레이드 해야 합니다. Office [365 비즈니스 요금제](https://products.office.com/compare-all-microsoft-office-products?tab=2) 를 사용 하 여 사용 가능한 구독을 확인할 수 있습니다.
+**Business Essentials** 구독에는 Office 앱이 포함 되지 않습니다. Office를 다운로드 하려면 **business** 또는 **business Premium** 구독으로 업그레이드 해야 합니다. Office에서 사용 가능한 구독 확인: [비즈니스를 위한 Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=2)
   
 

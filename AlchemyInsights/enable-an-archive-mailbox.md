@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43132617"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703685"
 ---
 # <a name="enable-an-archive-mailbox"></a>보관 사서함 사용
 
@@ -25,7 +25,7 @@ Office 365의 보관 사서함 ( *온라인 보관* 또는 원본 *위치 보관
   
 1. [https://protection.office.com](https://protection.office.com)으로 이동합니다.
 
-2. 관리자 계정을 사용 하 여 Office 365에 로그인 합니다.
+2. 관리자 계정을 사용 하 여 Microsoft 365에 로그인 합니다.
 
 3. 보안 &amp; 및 준수 센터의 왼쪽 창에서 **정보 거 버 넌 스** \> **보관**함을 선택 합니다.
 
@@ -51,6 +51,6 @@ Office 365의 보관 사서함 ( *온라인 보관* 또는 원본 *위치 보관
 
 자세한 내용은 다음을 참조하세요.
   
-- [Office 365에서 보관 사서함을 사용 하도록 설정](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [보관 사서함 사용](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Office 365에서 보관 및 삭제 정책 설정](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [보관 및 삭제 정책 설정](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

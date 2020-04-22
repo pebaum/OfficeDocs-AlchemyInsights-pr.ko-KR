@@ -2,18 +2,18 @@
 title: SharePoint 또는 OneDrive에서 액세스 제한
 ms.author: pebaum
 author: pebaum
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 242388af3ae8887616fc123f24502a8e5ac8dfbe
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 39aa8cd6e649eca4a1e196eeb589a825364d0977
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053771"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692771"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>SharePoint 또는 OneDrive에서 액세스 제한
 
@@ -31,7 +31,7 @@ SharePoint Online 및 비즈니스용 OneDrive에서는 액세스 권한이 있�
 
 - [관리되지 않는 장치에서 액세스 제어](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-Office 365의 SharePoint 또는 전역 관리자로 서, 관리 되지 않는 장치 (예를 들어, Intune에서 하이브리드 AD에 연결 되거나 호환 되지 않는)의 SharePoint 및 OneDrive 콘텐츠 액세스를 차단 하거나 제한할 수 있습니다.
+SharePoint 또는 전역 관리자로 서, 관리 되지 않는 장치 (예를 들어, Intune에서 하이브리드 AD에 연결 되거나 호환 되지 않는)에 대 한 SharePoint 및 OneDrive 콘텐츠 액세스를 차단 하거나 제한할 수 있습니다.
 
 **네트워크 위치 제한**
 
@@ -43,5 +43,5 @@ SharePoint Online 내에서는 사이트 모음을 잠글 수 있으므로 아�
 
 **사용자가 사이트 또는 하위 사이트를 만들지 못하도록 제한**
 
-SharePoint 관리자 또는 Office 365 전역 관리자는 사용자가 자신의 SharePoint 사이트를 만들고 관리 하 고, 만들 수 있는 사이트 종류를 결정 하 고, 사이트의 위치를 지정 하도록 할 수 있습니다. 자세한 내용은 [SharePoint Online에서 사이트 만들기 관리](https://docs.microsoft.com/sharepoint/manage-site-creation) 를 참조 하세요.
+SharePoint 관리자 또는 전역 관리자는 사용자가 자신의 SharePoint 사이트를 만들고 관리 하 고, 만들 수 있는 사이트 종류를 결정 하 고, 사이트의 위치를 지정 하도록 할 수 있습니다. 자세한 내용은 [SharePoint Online에서 사이트 만들기 관리](https://docs.microsoft.com/sharepoint/manage-site-creation) 를 참조 하세요.
 

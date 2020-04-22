@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: e7bfabe1555bb94e915f8544d460deecce6171be
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770357"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642150"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>SharePoint에서 그룹 연결 된 사이트를 만들 때의 문제
 
@@ -26,7 +26,7 @@ ms.locfileid: "41770357"
    - Powershell을 시작 하는 방법에 대 한 자세한 내용은 [SharePoint Online 관리 셸을 시작](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite)하기를 참조 하세요.
    - [Remove-spodeletedsite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell cmdlet을 사용 하 여 삭제 된 사이트에서 사이트를 제거 합니다. 그룹 사이트를 영구적으로 삭제 하려면 Powershell이 필요 합니다.
 
-1. 그룹에 연결 된 사이트를 만들고 경고 메시지가 표시 되 면 **다른 그룹의 별칭이 이미**있는 경우 [관리 센터에서 Office 365](https://admin.microsoft.com/AdminPortal/Home#/groups)의 기존 그룹을 확인 합니다. 이 문제를 해결 하려면 기존 그룹이 더 이상 필요 하지 않은 경우 삭제 하거나 다른 별칭을 할당 하 여 사이트를 만듭니다.
+1. 그룹 연결 사이트를 만들고 경고 메시지가 표시 되 면 **다른 그룹의 별칭이 이미**있는 경우 [Microsoft 365 관리 센터](https://admin.microsoft.com/AdminPortal/Home#/groups)에서 기존 그룹을 확인 합니다. 이 문제를 해결 하려면 기존 그룹이 더 이상 필요 하지 않은 경우 삭제 하거나 다른 별칭을 할당 하 여 사이트를 만듭니다.
 
 1. SharePoint에서 최신 그룹을 만들고 사용 하는 방법에는 여러 가지가 있습니다.
 

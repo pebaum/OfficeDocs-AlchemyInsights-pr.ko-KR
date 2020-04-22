@@ -3,7 +3,7 @@ title: 1800001 프로필 삭제
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 8/29/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: da0897bf834c7b96eb5e6035457ef664c486c7ae
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b3822a7b90048cb8f0447eeb80ca1c457a17918e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513221"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704839"
 ---
 # <a name="delete-a-profile"></a>프로필 삭제
 
@@ -31,7 +31,7 @@ ms.locfileid: "36513221"
 3. **메일** 대화 상자에서 삭제 하려는 프로필을 선택 하 고 **제거**를 클릭 합니다.
 
     > [!NOTE]
-    > 프로필을 삭제 하면 오프 라인 데이터가 제거 됨을 알리는 경고 메시지가 표시 될 수 있습니다. Outlook 데이터 파일 (.pst)에 저장 된 정보나 온라인 계정에 저장 된 모든 정보 (예: Outlook.com, Exchange 또는 Office 365 계정)는 손실 되지 않습니다.
+    > 프로필을 삭제 하면 오프 라인 데이터가 제거 됨을 알리는 경고 메시지가 표시 될 수 있습니다. Outlook 데이터 파일 (.pst)에 저장 된 정보나 온라인 계정에 저장 된 모든 정보 (예: Outlook.com, Exchange 또는 Microsoft 365 계정)는 손실 되지 않습니다.
   
 **Mac 용 outlook** 프로필 관리에 대해서는 [outlook for mac에서 프로필 또는 id 관리](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) 또는 다음 단계를 참조 하세요.
   

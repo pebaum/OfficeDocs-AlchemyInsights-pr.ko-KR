@@ -3,7 +3,7 @@ title: 독립 실행형 또는 기존 Office 설치를 사용 하 여 팀 배포
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
-ms.date: 08/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: 3318e1b17cc99e927e1011f7ca9eca8dec616d59
-ms.sourcegitcommit: 4600dd4fb577bf5f5482a24616c2d9a6b81e8052
+ms.openlocfilehash: 4b843407f05db207f3b676c03c7088d3d0ba062e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054236"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704639"
 ---
 # <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>독립 실행형 또는 기존 Office 설치를 사용 하 여 팀 배포
 
-Microsoft 팀은 이제 Office 365 ProPlus, Office 365 Business 및 Office for Mac을 ***새로 설치*** 하는 과정에 포함 됩니다. 자세한 내용은 [Microsoft 팀이 Office의 새 설치에 포함 될 때 시작 되는 시기](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus) 를 참조 하세요.
+Microsoft 팀은 이제 엔터프라이즈 용 Microsoft 365 앱, Microsoft 365 Apps 및 Mac 용 Office의 ***새 설치*** 과정에 포함 됩니다. 자세한 내용은 [Microsoft 팀이 Office의 새 설치에 포함 될 때 시작 되는 시기](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus) 를 참조 하세요.
 
-또한 월별 채널에서 버전 1906 부터는 기존 설치를 최신 버전으로 업데이트할 때 Windows를 실행 하는 장치에 대 한 Office 365 ProPlus (및 Office 365 Business)의 ***기존 설치에*** 팀이 추가 됩니다. 자세한 내용은 [Office의 기존 설치에 대 한](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus) 자세한 내용을 참조 하세요.
+또한 월별 채널에서 버전 1906 부터는 기존 설치를 최신 버전으로 업데이트할 때 Windows를 실행 하는 장치에 대 한 Microsoft 365 앱 (Microsoft 365 앱)의 ***기존 설치에*** 팀이 추가 됩니다. 자세한 내용은 [Office의 기존 설치에 대 한](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus) 자세한 내용을 참조 하세요.
 
 > [!NOTE]
 > 이 롤아웃 일정을 기다리지 않으려면 [다음 지침](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) 을 수행 하 여 사용자에 대 한 독립 실행형으로 팀을 배포 하거나 사용자가 직접 팀을 설치 하도록 할 수 있습니다 [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).

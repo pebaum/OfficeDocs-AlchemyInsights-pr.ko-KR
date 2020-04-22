@@ -12,12 +12,12 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 9408ea841ec142450c6a796b703021e0e2835543
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 72a0ea867e8ea6bc5fff80b6a8497195c15f82e7
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068291"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655504"
 ---
 # <a name="change-payment-method"></a>결제 방법 변경
 
@@ -29,4 +29,4 @@ Microsoft 365 관리 센터에서 구성 된 결제 방법을 확인 하 고 변
 
 3. 화면에 나오는 단계에 따라 변경을 완료 합니다.
 
-자세한 내용은 [Office 365 for business 결제 방법 변경](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method) 를 참조 하세요.
+자세한 내용은 [비즈니스에 대 한 Microsoft 365의 결제 방법 변경을](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method) 참조 하세요.
