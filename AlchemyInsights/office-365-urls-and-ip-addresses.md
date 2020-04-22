@@ -1,9 +1,9 @@
 ---
-title: Office 365 Url 및 IP 주소
+title: Microsoft 365 Url 및 IP 주소
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,16 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
-ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
+ms.openlocfilehash: 4a8de785b02e60f035d6a6f24e726f58fb15929c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37775321"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761604"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a>Office 365 URL 및 IP 주소 범위 
+# <a name="microsoft-365-urls-and-ip-address-ranges"></a>Microsoft 365 Url 및 IP 주소 범위
 
-Office 365에서는 *끝점*이라는 특정 IP 주소를 통해 인터넷에 연결 해야 합니다.
-연결할 수 있어야 하는 끝점 목록은 [Office 365 url 및 IP 주소 범위](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 를 참조 하세요. 
+Microsoft 365에서는 *끝점*이라는 특정 IP 주소를 통해 인터넷에 연결 해야 합니다.
+연결할 수 있어야 하는 끝점 목록은 [Microsoft 365 url 및 IP 주소 범위](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 를 참조 하세요. 
 
-Office 365 IP 주소 및 URL 웹 서비스를 통해 Office 365 네트워크 트래픽을 보다 잘 식별하고 차별화할 수 있으므로 변경 사항을 보다 쉽게 평가, 구성 하고 최신 상태로 유지할 수 있습니다. [Office 365 IP 주소 및 URL 웹 서비스를](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)참조 하세요.
+Microsoft 365 IP 주소 및 URL 웹 서비스를 사용 하면 Microsoft 365 네트워크 트래픽을 보다 쉽게 식별 하 고 차별화 하 여 변경 내용에 대 한 평가, 구성 및 최신 정보를 보다 간편 하 게 확인할 수 있습니다. [Office 365 IP 주소 및 URL 웹 서비스를](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)참조 하세요.

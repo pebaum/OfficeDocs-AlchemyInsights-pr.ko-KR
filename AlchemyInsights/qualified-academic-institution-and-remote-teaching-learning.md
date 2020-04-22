@@ -10,12 +10,12 @@ ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: 9097ce5af41c14cef3ed499b8b67877f5e1dad62
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: e2ca0e13aa569536d9d529aaa1eef05bb0fa49d2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42954004"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764698"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Microsoft의 적격 교육 기관 및 원격 교육 및 학습
 
@@ -31,4 +31,4 @@ Microsoft 교육용을 시작하려면이 [사이트](https://www.microsoft.com/
 
 [Office 365 Education에서 원격 교육 및 학습](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)을 참조하여 학교 설정, 수업 계획, 가상 모임 및 학생들과 콘텐츠 공유에 대한 최신 지침을 알아보세요.
 
-[원격 학습을 위한 Microsoft Teams 시작하기](https://docs.microsoft.com/ko-KR/MicrosoftTeams/remote-learning-edu)와 [원격 학습으로 전환하기](https://www.microsoft.com/education/remote-learning)에 대한 추가 IT 지침이 있습니다.
+[원격 학습을 위한 Microsoft Teams 시작하기](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)와 [원격 학습으로 전환하기](https://www.microsoft.com/education/remote-learning)에 대한 추가 IT 지침이 있습니다.

@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 33e94eac6a2982b8036e13d17bf60015f244f2cb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053231"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764878"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Outlook에서 전자 메일 메시지 암호화
 
-Office 365 메시지 암호화는 Azure Information Protection의 일부인 Azure RMS (Microsoft Azure Rights Management)를 기반으로 합니다. Azure 권한 관리 또는 Azure Information Protection이 구독에 포함 되어 있는 경우에는 권한 관리 서비스를 **수동으로 사용 하거나 활성화 하기 위해 작업을 수행할 필요가 없습니다** .
+Microsoft 365 메시지 암호화는 Azure Information Protection의 일부인 Azure RMS (Microsoft Azure Rights Management)를 기반으로 합니다. Azure 권한 관리 또는 Azure Information Protection이 구독에 포함 되어 있는 경우에는 권한 관리 서비스를 **수동으로 사용 하거나 활성화 하기 위해 작업을 수행할 필요가 없습니다** .
 
 고객 의견에 따라 더 이상 Exchange 메일 흐름 규칙을 사용 하 여 테 넌 트에 특정 유형의 중요 한 정보를 포함 하는 아웃 바운드 전자 메일을 기본적으로 자동 암호화 하지 않습니다. 대신이 yourselves를 수행 하는 방법에 대 한 자세한 지침을 제공 합니다. 중요 한 정보를 암호화 하는 전송 규칙을 만드는 방법에 대 한 자세한 내용은 [이 문서](https://aka.ms/OmeEtr)를 참조 하십시오.
 

@@ -3,7 +3,7 @@ title: 오류 30068-39 해결 방법
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 12/19/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: cec6d874d4d06ba5a3b693447dca329c2d55d997
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36743351"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43756961"
 ---
 # <a name="solutions-for-error-30068-39"></a>오류 30068-39 해결 방법
 
@@ -28,11 +28,11 @@ ms.locfileid: "36743351"
 
 - **Microsoft 간편 실행** [서비스가 사용 하지 않도록 설정 되어](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) 있고 사용 하지 않도록 설정 되어 있는지 확인 하 고 상태를 **수동** 또는 **자동**으로 변경 합니다.
 
-- [지원 및 복구 도우미](https://aka.ms/SARA-OfficeUninstall-Alchemy)를 다운로드 하 고 설치 합니다.
+- [Microsoft 지원 및 복구 도우미](https://aka.ms/SARA-OfficeUninstall-Alchemy)를 다운로드하고 설치합니다.
 
 1. 양식을 열면 **Office 제품 제거** 에서 제거 하려는 버전을 선택 하 고 **다음**을 선택 합니다.
 
-2. 화면을 계속 진행 하 고 메시지가 표시 되 면 컴퓨터를 다시 시작 합니다.
+2. 화면을 계속 진행하고 메시지가 표시되면 컴퓨터를 다시 시작합니다.
 
     다시 시작한 후에는 지원 및 복구 도우미가 자동으로 다시 열리므로 제거 프로세스를 완료 합니다.
 
