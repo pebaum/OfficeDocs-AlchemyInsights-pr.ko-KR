@@ -16,8 +16,8 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591535"
+ms.locfileid: "43599287"
 ---
-# <a name="onedrive-storage-plans"></a><span data-ttu-id="8dfb7-102">OneDrive 저장소 플랜</span><span class="sxs-lookup"><span data-stu-id="8dfb7-102">OneDrive storage plans</span></span>
+# <a name="onedrive-storage-plans"></a><span data-ttu-id="5de3c-102">OneDrive 저장소 플랜</span><span class="sxs-lookup"><span data-stu-id="5de3c-102">OneDrive storage plans</span></span>
 
-<span data-ttu-id="8dfb7-103">OneDrive 저장소 플랜에 대해 알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="8dfb7-103">Learn about OneDrive storage plans.</span></span> <span data-ttu-id="8dfb7-104">[자세한 정보](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28)</span><span class="sxs-lookup"><span data-stu-id="8dfb7-104">[Read more](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28).</span></span>
+<span data-ttu-id="5de3c-103">OneDrive 저장소 플랜에 대해 알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="5de3c-103">Learn about OneDrive storage plans.</span></span> <span data-ttu-id="5de3c-104">[자세한 정보](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28)</span><span class="sxs-lookup"><span data-stu-id="5de3c-104">[Read more](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28).</span></span>
