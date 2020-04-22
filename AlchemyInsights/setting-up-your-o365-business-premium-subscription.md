@@ -10,14 +10,14 @@ ms.assetid: a9192d32-8a5a-459d-808a-d18ce0e397da
 ms.custom:
 - "31"
 - "1600002"
-ms.openlocfilehash: 8fa6b04cef7a7c9df72c1b51462f80e489622f0b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5abc69c06b71d9984ebcbcf948112bf3553219ac
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666162"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767759"
 ---
-# <a name="setting-up-your-o365-business-premium-subscription"></a><span data-ttu-id="b5eea-102">O365 Business Premium 구독 설정</span><span class="sxs-lookup"><span data-stu-id="b5eea-102">Setting up your O365 Business Premium subscription</span></span>
+# <a name="setting-up-your-o365-business-premium-subscription"></a><span data-ttu-id="7a031-102">O365 Business Premium 구독 설정</span><span class="sxs-lookup"><span data-stu-id="7a031-102">Setting up your O365 Business Premium subscription</span></span>
 
-<span data-ttu-id="b5eea-103">Office 365 구독을 설정 하는 데 도움이 필요한 경우 [이 문서의](https://docs.microsoft.com/office365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) 단계에 따라 설치를 완료 합니다.</span><span class="sxs-lookup"><span data-stu-id="b5eea-103">If you need help setting up your Office 365 subscription, follow the steps in [this article](https://docs.microsoft.com/office365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) to get your setup completed.</span></span>
+<span data-ttu-id="7a031-103">Microsoft 365 구독을 설정 하는 데 도움이 필요한 경우 [이 문서의](https://docs.microsoft.com/office365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) 단계에 따라 설치를 완료 합니다.</span><span class="sxs-lookup"><span data-stu-id="7a031-103">If you need help setting up your Microsoft 365 subscription, follow the steps in [this article](https://docs.microsoft.com/office365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) to get your setup completed.</span></span>
   
