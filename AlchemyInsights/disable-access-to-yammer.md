@@ -2,7 +2,7 @@
 title: Yammer에 대 한 액세스 사용 안 함
 ms.author: pebaum
 author: pebaum
-ms.date: 5/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ ms.custom:
 - "722"
 - "6000004"
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
-ms.openlocfilehash: 6e7947afed1223fa55a2aa5710573c03cd804416
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 297b4665fcce0821dd2dea7f4412724943ca6862
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740363"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715238"
 ---
-# <a name="disable-access-to-yammer"></a><span data-ttu-id="4714f-102">Yammer에 대 한 액세스 사용 안 함</span><span class="sxs-lookup"><span data-stu-id="4714f-102">Disable access to Yammer</span></span>
+# <a name="disable-access-to-yammer"></a><span data-ttu-id="047d4-102">Yammer에 대 한 액세스 사용 안 함</span><span class="sxs-lookup"><span data-stu-id="047d4-102">Disable access to Yammer</span></span>
 
-<span data-ttu-id="4714f-103">Yammer 액세스를 사용 하지 않도록 설정 하는 솔루션은 Office 365 사용자의 Yammer 라이선스를 차단 하 고 할당 해제 하는 것입니다.</span><span class="sxs-lookup"><span data-stu-id="4714f-103">The solution to disable Yammer access is to block and unassign Yammer licenses for Office 365 users.</span></span> <span data-ttu-id="4714f-104">자세한 내용은 다음 문서를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="4714f-104">Please refer to the following article for more information.</span></span>
+<span data-ttu-id="047d4-103">Yammer 액세스를 사용 하지 않도록 설정 하는 솔루션은 조직의 사용자에 대해 Yammer 라이선스를 차단 하거나 할당 해제 하는 것입니다.</span><span class="sxs-lookup"><span data-stu-id="047d4-103">The solution to disable Yammer access is to block and unassign Yammer licenses for users in your organization.</span></span> <span data-ttu-id="047d4-104">자세한 내용은 다음 문서를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="047d4-104">Please refer to the following article for more information.</span></span>
   
-- [<span data-ttu-id="4714f-105">Office 365 사용자에 대 한 Yammer 액세스 끄기</span><span class="sxs-lookup"><span data-stu-id="4714f-105">Turn off Yammer access for Office 365 users</span></span>](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)
+- [<span data-ttu-id="047d4-105">Yammer 액세스 해제</span><span class="sxs-lookup"><span data-stu-id="047d4-105">Turn off Yammer access</span></span>](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)
