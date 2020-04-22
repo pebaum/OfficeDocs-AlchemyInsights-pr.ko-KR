@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: 21f80a7cc8b00ac56acdb05add1e1bfdfac9d827
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: a054735a0c139c90d76098297bb9984d37464d3b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286270"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706567"
 ---
 # <a name="change-strong-password-requirement"></a>강력한 암호 요구 사항 변경
 
@@ -26,6 +26,5 @@ PowerShell을 사용 하 여 다음 명령을 사용 하 여 특정 사용자에
 *Get-msoluser-UserPrincipalName <UserPrincipalName> – StrongPasswordRequired $false*
 
 - [암호 정책에 대 한 추가 정보](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
-- [PowerShell을 사용 하 여 Office 365에 연결 하는 방법](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
+- [PowerShell을 사용 하 여 Microsoft 365에 연결 하는 방법](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
 - [PowerShell Get-msoluser 명령에 대 한 추가 정보](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
-- [사용자 암호를 만료 기한 제한 없음으로 설정](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)

@@ -3,7 +3,7 @@ title: Outlook.com에서 전자 메일을 받을 수 없음
 ms.author: lpyfer
 author: lpyfer
 manager: joallard
-ms.date: 10/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "9000252"
 - "1842"
-ms.openlocfilehash: c63d93347db194cbe10d4bc6d806b7af6a6e0681
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 5271860c99cd4911cf3cce4a3dca6ec725dde86d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37698136"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710845"
 ---
 # <a name="unable-to-receive-email"></a>전자 메일을 받을 수 없음
 

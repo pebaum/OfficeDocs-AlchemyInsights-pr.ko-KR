@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 8ce41d007988f2a45f1ded385ae50ac3def97c1b
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: 569507318b499cdbcf2a1cd75e84046953f62212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100511"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706063"
 ---
 # <a name="conditional-access-policies"></a>조건부 액세스 정책
 
@@ -24,7 +24,7 @@ ms.locfileid: "43100511"
 
 [Azure AD 조건부 액세스](https://docs.microsoft.com/azure/active-directory/conditional-access/)에 대해 자세히 알아보세요.  
 
-**참고**: 2019년 10월 21일 이후에 테넌트를 생성했으며 MFA에 대한 메시지가 예기치 않게 표시될 경우 테넌트에서 [보안 기본값](http://aka.ms/securitydefaults)을 사용하도록 설정했을 수 있습니다.
+**참고**: 2019년 10월 21일 이후에 테넌트를 생성했으며 MFA에 대한 메시지가 예기치 않게 표시될 경우 테넌트에서 [보안 기본값](https://aka.ms/securitydefaults)을 사용하도록 설정했을 수 있습니다.
 
 **보안 기본값을 관리하려면**
 

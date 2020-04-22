@@ -2,18 +2,18 @@
 title: 익명 공유
 ms.author: pebaum
 author: pebaum
-ms.date: 9/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 8a007821fb44544512ae5b9bf22ee9aba16e618c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f503564af9ccdd3e27f328a3f94a52eb9871d17d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050387"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708061"
 ---
 # <a name="anonymous-sharing"></a>익명 공유
 
@@ -31,6 +31,6 @@ ms.locfileid: "40050387"
     
 - 어떤 사용자가이 링크를 사용 하 시겠습니까? **모든 사용자를 클릭 합니다.**
   
- **참고**: **누구나** Office 365 또는 OneDrive에 로그인 되어 있지 않더라도 모든 사용자가 문서 또는 폴더에 액세스 하는 데 사용할 수 있는 링크를 만듭니다. 이를 사용 하 여 회사 내부 또는 외부의 모든 사용자와 공유할 수 있습니다. 이 링크는 모든 사용자에 게 전달할 수도 있습니다. 
+ **참고**: **모든** 사용자가 Microsoft 365 또는 OneDrive에 로그인 되어 있지 않더라도 문서 또는 폴더에 액세스 하는 데 사용할 수 있는 링크를 만듭니다. 이를 사용 하 여 회사 내부 또는 외부의 모든 사용자와 공유할 수 있습니다. 이 링크는 모든 사용자에 게 전달할 수도 있습니다. 
     
 

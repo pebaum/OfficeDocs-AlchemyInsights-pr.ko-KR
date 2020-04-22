@@ -3,7 +3,7 @@ title: 청구 알림에 대한 대체 전자 메일 주소 변경
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 4cb14da2358c4c97814b881de63214fe97f0c2ee
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 63cdc58d6c0474c66295cc5c4547dd04b0f50ad7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36738743"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706531"
 ---
 # <a name="change-the-alternate-email-address-for-billing-notification"></a>청구 알림에 대한 대체 전자 메일 주소 변경
 
@@ -32,5 +32,5 @@ ms.locfileid: "36738743"
 
 4. **저장** 을 선택 하 여 작업을 완료 합니다.
 
-스크린샷이 포함된 자세한 내용과 단계별 지침은 [Office 365의 대금 청구 주소 변경](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses)을 참조하세요.
+화면 촬영에 대 한 자세한 내용 및 단계는 [청구 주소 변경을](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses)참조 하세요.
   

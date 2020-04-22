@@ -3,7 +3,7 @@ title: 마이그레이션 관리자를 통해 SharePoint Online으로 마이그�
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: 551d56473457727d082f53eac89d1475edae86af
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 0595ba72414dc1b94229706220715139f126c91a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964218"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707193"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>마이그레이션 관리자를 통해 SharePoint Online으로 마이그레이션
 

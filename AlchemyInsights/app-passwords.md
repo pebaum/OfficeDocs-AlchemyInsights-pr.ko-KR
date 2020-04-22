@@ -3,7 +3,7 @@ title: 500 앱 암호
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,20 +14,20 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 735e8f1db5107b502c5624689cb38abfbec04502
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f924f15a29864543c221265e734a5eec7aa2ba2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517793"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707845"
 ---
 # <a name="app-passwords"></a>앱 암호
 
-앱 암호는 앱 또는 장치에 Office 365 회사 또는 학교 계정에 액세스할 수 있는 권한을 부여 하는 코드입니다. 계정에 MFA (다단계 인증)가 필요 하 고 앱이 사용자의 계정에 연결 하는 경우 앱이 Office 365에 연결할 수 있도록 앱 암호를 생성 해야 합니다. 예를 들어, outlook 2016 및 이전 버전의 Outlook에는 앱 암호가 필요 합니다.
+앱 암호는 앱 또는 장치에 Microsoft 직장 또는 학교 계정에 액세스할 수 있는 권한을 부여 하는 코드입니다. 계정에 MFA (다단계 인증)가 필요 하 고 앱이 사용자의 계정에 연결 하는 경우 앱이 Microsoft에 연결할 수 있도록 앱 암호를 생성 해야 합니다. 예를 들어, outlook 2016 및 이전 버전의 Outlook에는 앱 암호가 필요 합니다.
 
- **참고**: 다음 단계를 수행 하기 전에 Office 365 관리자에 게 문의 하 여 사용자 계정에 MFA가 필요한 지 확인 합니다. 그렇지 않은 경우에는이 단계에서 설명 하는 옵션을 사용할 수 없습니다.
+ **참고**: 다음 단계를 수행 하기 전에 Microsoft 365 관리자에 게 문의 하 여 사용자 계정에 MFA가 필요한 지 확인 합니다. 그렇지 않은 경우에는이 단계에서 설명 하는 옵션을 사용할 수 없습니다.
 
-1. 회사 또는 학교 계정 및 암호를 사용 하 여 Office 365에 로그인 합니다.
+1. 회사 또는 학교 계정 및 암호를 사용 하 여 로그인 합니다.
 
 2. **지금 설정**을 선택 합니다.
 

@@ -3,7 +3,7 @@ title: 125 웹용 Outlook에서 잘못 된 라이선스 오류를 가져옵니�
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: d0f3fa354eb63c5a5f92d017694623c36fc6df30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9324726709423aeb290fcc1866ade5517f71c1ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523805"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708837"
 ---
 # <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>웹용 Outlook에서 잘못 된 라이선스 오류가 발생 하는 경우
 
-웹에서 Outlook을 사용 하는 경우에는 InvalidLicenseException, **** exchange Online 라이선스가 올바르게 할당 되지 않았거나 최근에 **실행**되지 않은 것으로 나타나는 오류가 발생 하는 것을 알 수 있습니다. 된. 관리자는 다음 단계를 수행 하 여 라이선스를 사용자에 게 할당할 수 있습니다.
+웹에서 Outlook을 사용 하는 경우에는 **InvalidLicenseException**, exchange Online 라이선스가 올바르게 할당 되지 않았거나 최근에 만료 되지 않은 **것으로 나타나는 오류가 발생** 하는 것을 알 수 있습니다. 관리자는 다음 단계를 수행 하 여 라이선스를 사용자에 게 할당할 수 있습니다.
   
 1. [Microsoft 365 관리 센터](https://portal.office.com/adminportal/home#/homepage) 를 열고 **활성 사용자**에서 **사용자 편집**을 선택 합니다.
 

@@ -3,7 +3,7 @@ title: VatID를 추가 하거나 편집 하는 방법
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/19/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: c7d998c56747799e139e8e2035cbccfe71cce14b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059742"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709629"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>VatID를 추가 하거나 편집 하는 방법
 
@@ -35,7 +35,7 @@ ms.locfileid: "43059742"
 
     완료 되 면 VAT는 다음 청구서에 청구 되지 않습니다.
 
-자세한 내용은 [어떤 세금에서 Office 365에 대해 부과할 것인가?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) 를 참조 하세요.
+자세한 내용은 [어떤 세금을 Microsoft 365에 대해 부과할 것인가?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) 를 참조 하세요.
 
 **추가 리소스**
 

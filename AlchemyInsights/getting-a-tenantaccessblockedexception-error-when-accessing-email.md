@@ -3,7 +3,7 @@ title: 127 전자 메일에 액세스할 때 TenantAccessBlockedException 오류
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523985"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708909"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>전자 메일에 액세스할 때 TenantAccessBlockedException 오류 발생 여부
 
-이 오류가 표시 되는 몇 가지 이유가 있습니다. 예를 들면 다음과 같습니다.
+이 오류가 표시 되는 몇 가지 이유가 있습니다. 예시:
 
 - Microsoft 365 관리 센터의 **청구** \> [제품 & 서비스](https://portal.office.com/adminportal/home#/subscriptions) 페이지에서 구독이 유효한 지 확인 합니다.
 

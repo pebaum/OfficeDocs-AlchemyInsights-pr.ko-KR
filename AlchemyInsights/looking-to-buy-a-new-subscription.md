@@ -3,7 +3,7 @@ title: 새 구독을 구입 하 시겠습니까?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 9aa692d149a6619564ec1bc5c1edc877ed8ff607
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9200f436bae0e10a15b3edeed1e4bec3c1b698b6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497485"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709449"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>새 구독을 구입 하 시겠습니까?
 
-비즈니스용 Office 365이 이미 있고 조직의 다른 구독을 구입 하려는 경우에는 **결제** \> [구매 서비스](https://go.microsoft.com/fwlink/p/?linkid=868433) 페이지로 이동 하 여 조직에서 사용할 수 있는 구독 목록을 확인 합니다.
+Microsoft 365 for business 구독이 이미 있고 조직의 다른 구독을 구입 하려는 경우에는 **결제** \> [구매 서비스](https://go.microsoft.com/fwlink/p/?linkid=868433) 페이지로 이동 하 여 조직에서 사용할 수 있는 구독 목록을 확인 합니다.
  
 1. 원하는 구독을 선택 하 고 **구입**을 선택 합니다.
 
@@ -32,8 +32,8 @@ ms.locfileid: "36497485"
 
  **추가 리소스:**
   
-- [비즈니스용 Office 365 사용자에게 라이선스 할당](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [비즈니스를 위해 Microsoft 365의 사용자에 게 라이선스 할당](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
     
 - [구독 취소](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
     
-- 구독 전환에 관심이 있는 경우 [다른 Office 365 for business 요금제로 전환을](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan) 참조 하세요.
+- 구독 전환에 관심이 있는 경우 [다른 Microsoft 365 for business 요금제로 전환을](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan) 참조 하십시오.

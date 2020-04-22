@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600366"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706099"
 ---
 # <a name="compliance-score"></a>준수 점수
 
@@ -33,7 +33,7 @@ Microsoft 준수 점수 (미리 보기)는 조직의 규정 준수 상황을 측
 
 **자세한 내용은**다음을
 
-- 규정 준수 점수에 대 한 액세스 권한 설정 [사용자에 게 Office 365 보안 & 준수 센터에](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)대 한 액세스 권한을 부여 합니다 .를 참조 하세요.
+- 규정 준수 점수에 대 한 액세스 권한 설정 [사용자에 게 Microsoft 365 보안 & 준수 센터에](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)대 한 액세스 권한을 부여 합니다 .를 참조 하세요.
 - 준수 점수의 개선 작업을 사용 하 여 [작업 준수 점수](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score)사용을 참조 하세요.
 - 준수 점수가 계산 되는 방식에는 [준수 점수 방법론](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)을 참조 하십시오.
 - 준수 점수와 준수 관리자 비교, [준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager)와의 관계를 참조 하세요.
