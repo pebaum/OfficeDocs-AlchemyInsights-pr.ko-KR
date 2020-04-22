@@ -2,7 +2,7 @@
 title: Office 배포 도구 사용
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: 874bb7883bca4f062e85963a6828a771cd2dad9b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531581"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726254"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>ODT (Office 배포 도구) 사용
 
 ODT (Office 배포 도구)를 사용 하 여 Office 365 버전의 Office를 배포 합니다. Office 배포 도구 (setup.exe)는 명령줄에서 실행 되며 구성 XML 파일을 사용 하 여 Office를 배포할 때 적용할 설정을 결정 합니다.
   
-1. [Microsoft 다운로드 센터](http://go.microsoft.com/fwlink/p/?LinkID=626065)에서 최신 버전의 Office 배포 도구를 다운로드 합니다.
+1. [Microsoft 다운로드 센터](https://go.microsoft.com/fwlink/p/?LinkID=626065)에서 최신 버전의 Office 배포 도구를 다운로드 합니다.
 
 2. [OCT (Office 사용자 지정 도구)](https://config.office.com) 를 사용 하 여 배포 기본 설정을 선택 하 고 구성 XML 파일을 만듭니다. 구성 파일을 내보내 setup.exe가 있는 동일한 폴더에 로컬로 배치 합니다.
 
@@ -42,4 +42,4 @@ ODT (Office 배포 도구)를 사용 하 여 Office 365 버전의 Office를 배�
 
     **참고:** Office를 설치 하려는 클라이언트 컴퓨터에서이 단계를 실행 해야 하며 해당 컴퓨터에 대 한 로컬 관리자 권한이 있어야 합니다.
 
-Office 365 ProPlus 배포 시나리오에서 Office 개발 도구를 사용 하는 방법에 대 한 자세한 내용은 [Office 배포 도구 개요](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)를 참조 하세요. Office 사용자 지정 도구를 사용 하는 방법에 대 한 자세한 내용은 [Office 사용자 지정 도구 개요](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)를 참조 하세요.
+Office 배포 도구 365를 사용 하 여 엔터프라이즈 배포 시나리오에 대 한 자세한 내용은 [office 배포 도구 개요](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)를 참조 하세요. Office 사용자 지정 도구를 사용 하는 방법에 대 한 자세한 내용은 [Office 사용자 지정 도구 개요](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)를 참조 하세요.

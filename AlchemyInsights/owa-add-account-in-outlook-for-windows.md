@@ -3,18 +3,18 @@ title: Windows 용 Outlook에 웹용 Outlook 계정 추가
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: f745546c991bae52046014dff836aeb54c779db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2ffcc8ba50b98b693b48e13bb398a44289de305f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510989"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743207"
 ---
 # <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Outlook에 웹 계정에 대 한 Outlook 추가
 
@@ -26,4 +26,4 @@ ms.locfileid: "36510989"
     - **Outlook 2013** 및 **outlook 2010**의 경우 사용자 이름, 전자 메일 주소 및 암호를 입력 하 고 **다음**을 클릭 합니다.
 1. 메시지가 표시 되 면 암호를 다시 입력 한 다음 **확인** > **마침을** 선택 하 여 Outlook에서 전자 메일 계정을 사용 합니다.
 
-자세한 내용은 [Outlook에 전자 메일 계정 추가](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b) 를 참조 하세요.
+자세한 내용은 [Outlook에 전자 메일 계정 추가](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)를 참조 하세요.

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 4d7d6fad670a877a0912b6c4a4bec0c5b3c6505e
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: 9bbc8b1ef7d9b0c910b19db47110ae046ae63e34
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279132"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720107"
 ---
 # <a name="update-my-profile-information-or-change-my-picture"></a>내 프로필 정보 업데이트 또는 내 사진 변경
 
@@ -26,7 +26,7 @@ Windows 용 Outlook 또는 OWA (웹에서 Outlook)에서 프로필을 업데이�
 
 **Windows 용 Outlook**: 
 
-- **파일** > **office 계정** > **사용자 정보** > **(office** 365 프로필 온라인으로 사용자에 게 제공) > **프로필 업데이트** 또는 카메라 아이콘을 클릭 하 여 사진 변경  
+- **파일** > **Office 계정** > **사용자 정보** > **(Microsoft** 365 프로필 온라인으로 제공) > **프로필을 업데이트** 하거나 카메라 아이콘을 클릭 하 여 사진을 변경할 수 있음  
   
 **웹에서 Outlook (OWA)**: 
 

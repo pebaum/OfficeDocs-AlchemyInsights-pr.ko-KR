@@ -3,7 +3,7 @@ title: Outlook.com에서 연락처 내보내기
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "279"
 - "8000020"
 ms.assetid: 37fc1455-7324-4c76-9a94-085a45e94c51
-ms.openlocfilehash: c396b6ed3ae72fa36f4c4d5d5de8f6f6c094140f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4796ada7092fc1a332e8444884239e14adb738d8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546637"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43723502"
 ---
 # <a name="export-your-contacts-in-outlookcom"></a>Outlook.com에서 연락처 내보내기
 

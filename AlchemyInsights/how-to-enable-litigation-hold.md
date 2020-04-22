@@ -3,7 +3,7 @@ title: 976-사용 권한 소송-보존
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
-ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
+ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37398633"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720738"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>사서함을 법적 보존 상태로 설정
 
@@ -26,4 +26,4 @@ ms.locfileid: "37398633"
 
 - 단일 사용자에 대해 소송 보존을 사용 하도록 설정 하려면 [다음 단계를 수행](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold)합니다. 소송 보존을 사용 하도록 설정 하면 사서함의 모든 콘텐츠가 보존 됩니다.
 
-- 조직의 모든 사서함에 콘텐츠를 보존 하기 위해 [조직 차원의 Office 365 보존 정책을](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)사용할 수 있습니다. 조직 전체 보존 정책의 경우 새 사용자가 정책에 자동으로 할당 됩니다.
+- 조직의 모든 사서함에 콘텐츠를 보존 하려면 [조직 전체 보존 정책을](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)사용할 수 있습니다. 조직 전체 보존 정책의 경우 새 사용자가 정책에 자동으로 할당 됩니다.

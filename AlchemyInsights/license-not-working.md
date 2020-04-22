@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "4764"
-ms.openlocfilehash: 2b82d6f19ff479ba4a3b1eb0cac168f38d2b2cd8
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 18361bf7f06775dfd481b1246707bacf25b48dea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530254"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719891"
 ---
 # <a name="license-not-working"></a>라이선스가 작동하지 않음
 
@@ -26,7 +26,7 @@ ms.locfileid: "43530254"
 
 - 제품 라이선스를 설정 및 해제하고 문제가 해결되는지 확인합니다. 
 
-- 할당된 라이선스가 보이지 않으면 사용자에게 라이선스가 할당되었는지 확인합니다. [사용자에게 라이선스 할당](https://docs.microsoft.com/en-us/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)을 참조하세요.
+- 할당된 라이선스가 보이지 않으면 사용자에게 라이선스가 할당되었는지 확인합니다. [사용자에게 라이선스 할당](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)을 참조하세요.
 
 - 구독이 만료되었는지 확인하고 필요한 경우 갱신합니다. [구독 다시 활성화](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)를 참조하세요. 
 

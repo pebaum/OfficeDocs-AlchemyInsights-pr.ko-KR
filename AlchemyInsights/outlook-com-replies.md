@@ -3,7 +3,7 @@ title: 9000240 Outlook.com 응답
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1825"
 - "9000240"
-ms.openlocfilehash: 8f15b4fc8c56e14a978b60d642b5abe54b677978
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0fece3194ab9a14b8fb21123b0b92c2a9aabba62
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535217"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743783"
 ---
 # <a name="replying-in-outlookcom"></a>Outlook.com에서 회신
 
@@ -30,12 +30,12 @@ ms.locfileid: "36535217"
 
 1. 이제  <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
 **설정** > **모든 Outlook 설정** > **메일** > **자동 회신** 을 보고 [자동 회신 설정을](https://outlook.live.com/mail/options/mail/automaticReplies)엽니다.
-2. **자동 회신 설정** /해제를 선택 합니다.
+2. **자동 회신 켜기** 토글을 선택합니다.
 3. **시간 간격 중에만 회신 보내기** 확인란을 선택 하면 다음을 수행할 수 있습니다.
     - 선택한 경우에만 회신을 보냅니다. 기간을 설정 하지 않으면 자동 회신을 끌 때까지 유지 됩니다.
     - 일정 차단
     - 새 초대를 자동으로 거절
-    - 이 기간 동안 모임 거절 및 취소
+    - 이 기간 동안 회의를 거절 및 취소합니다.
 4. 메시지 상자에 자리를 비운 동안 사용자에 게 보낼 메시지를 입력 합니다.
 5. 대화 상대 에게만 회신을 보내려면 **회신을 연락처에만 보내기** 확인란을 선택 합니다.
 6. **저장**을 선택합니다.

@@ -2,7 +2,7 @@
 title: Yammer 사용자 관리
 ms.author: pebaum
 author: pebaum
-ms.date: 5/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1a7d3aa3512732dd245856c3746aff7487080cab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734927"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762467"
 ---
 # <a name="managing-yammer-users"></a>Yammer 사용자 관리
 
-1. Office 365에서 Yammer 사용자를 관리 하는 방법에 대 한 자세한 내용은 [office 365에서 해당 수명 주기에 걸쳐 yammer 사용자 관리](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)를 참조 하세요. 여기에는 다음 정보가 포함 됩니다.
+1. Microsoft 365에서 Yammer 사용자를 관리 하는 방법에 대 한 자세한 내용은 [주기에서 yammer 사용자 관리](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)를 참조 하세요. 여기에는 다음 정보가 포함 됩니다.
 
   - 사용자 만들기
 
   - 사용자 삭제
 
-  - Office 365에서 Yammer 사용자 관리
+  - Microsoft 365에서 Yammer 사용자 관리
 
-2. Yammer 관리 콘솔에서 사용자를 관리 하는 방법에 대 한 정보는 [yammer 사용자 추가, 차단 또는 제거](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) 를 참조 하세요. 여기에는 다음이 포함됩니다.
+2. Yammer 관리 콘솔에서 사용자를 관리 하는 방법에 대 한 정보는 [yammer 사용자 추가, 차단 또는 제거](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) 를 참조 하세요. 여기에는 다음이 포함됩니다.
 
   - 사용자 초대 또는 제거
 

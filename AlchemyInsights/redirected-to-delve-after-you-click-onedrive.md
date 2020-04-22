@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 74151ed149c57ceebc841902796189f6638795a9
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: cbf3db148e16ba6631e9077f893a18d3e1b977af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571217"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722816"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>OneDrive를 클릭 하면 Delve로 리디렉션됩니다.
 
 자세한 [문제 해결 가이드](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)를 참조 하세요.
 
-이 문제를 해결 하려면 Office 365 관리자가 사용자에 게 내 사이트 사이트를 만들 수 있는 권한을 부여 해야 합니다. 이는 비즈니스용 OneDrive 페이지가 내 사이트에 만들어지기 때문입니다.
+이 문제를 해결 하려면 관리자가 사용자에 게 내 사이트 사이트를 만들 수 있는 권한을 부여 해야 합니다. 이는 비즈니스용 OneDrive 페이지가 내 사이트에 만들어지기 때문입니다.
 
 이 권한을 부여 하려면 다음 단계를 수행 합니다.
 

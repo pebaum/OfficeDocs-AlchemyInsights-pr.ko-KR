@@ -3,7 +3,7 @@ title: nk2-파일을 가져오는 방법
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,28 +13,28 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 83d30b2d62908db791f21ec5ed7fd5537e7a0944
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770252"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759338"
 ---
 # <a name="how-to-import-nk2-files"></a>Nk2 파일을 가져오는 방법 
 
-Microsoft Outlook 2013, Outlook 2016, Outlook 2019 또는 Outlook for Office 365을 처음 시작 하면 *profilename*파일에 저장 된 애칭 캐시를 기본 메시지 저장소의 숨겨진 메시지로 가져옵니다.
+Microsoft Outlook 2013, Outlook 2016, Outlook 2019 또는 Outlook for Microsoft 365을 처음 시작 하면 *profilename*파일에 저장 된 애칭 캐시를 기본 메시지 저장소의 숨겨진 메시지로 가져옵니다.
 
-Nk2 파일을 Outlook 2013, Outlook 2016, Outlook 2019 또는 Outlook for Office 365로 가져오려면 nk2 파일이 다음 폴더에 있는지 확인 하십시오.%appdata%\Microsoft\Outlook
+Nk2 파일을 Outlook 2013, Outlook 2016, Outlook 2019 또는 Microsoft 365 Outlook으로 가져오려면 nk2 파일이 다음 폴더에 있는지 확인 하십시오 .%appdata%\Microsoft\Outlook
 
 **참고**: nk2 파일의 이름은 현재 outlook 2013 또는 Outlook 2016 프로필과 이름이 같아야 합니다. 기본적으로 프로필 이름은 "Outlook"입니다. 프로필 이름을 확인 하려면 다음 단계를 수행 합니다. 
 1. **시작**, **제어판**을 차례로 클릭합니다.
 2. **메일**을 두 번 클릭 합니다.
 3. 메일 설정 대화 상자에서 **프로필 보기**를 선택 합니다.
-4. 실행 **시작** > **** 을 선택 합니다.
+4. 실행 **시작** > **Run**을 선택 합니다.
 5. **열기** 상자에 *outlook.exe/importnk2*를 입력 하 고 **확인**을 선택 합니다. 
 
 Nk2 파일을 가져온 후에는 파일의 내용이 사서함에 저장 된 기존 애칭 캐시에 병합 됩니다.
 
-**참고**: nk2 파일의 이름은 다음에 outlook 2013, outlook 2016, outlook 2019 또는 Outlook for Office 365을 시작할 때 .old 파일 이름 확장명으로 바뀝니다. Nk2 파일을 다시 가져오려면 먼저 .old 파일 이름 확장명을 제거 합니다.
+**참고**: nk2 파일의 이름은 다음에 outlook 2013, outlook 2016, outlook 2019 또는 Microsoft 365 outlook을 시작할 때 .old 파일 이름 확장명으로 바뀝니다. Nk2 파일을 다시 가져오려면 먼저 .old 파일 이름 확장명을 제거 합니다.
 
 자세한 내용은 [자동 완성 목록을 다른 컴퓨터에 가져오기 또는 복사](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%)를 참조 하세요.

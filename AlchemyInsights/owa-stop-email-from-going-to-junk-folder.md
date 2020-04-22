@@ -3,26 +3,26 @@ title: 웹용 Outlook에서 정크 메일 폴더로 이동 하지 못하도록 �
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 19873107de9450cd276253194c08cd0a84cd4a82
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c3dca146d1159ebee71c6806427700a4e8a69e15
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555743"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721952"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder-in-outlook-on-the-web"></a>웹용 Outlook에서 정크 메일 폴더로 이동 하는 메시지를 중지 합니다.
 
 정크 메일 폴더의 전자 메일 메시지가 정크 메일이 아니면 다음과 같이 진행 되는 것을 알 수 있습니다.
 
 1. 정크 메일 폴더를 열고 메시지를 선택 합니다. (*참고:* 정크 메일 폴더의 항목은 30 일 후에 삭제 됩니다.)
-1. 메시지 목록 위의 정크 **** > **메일 아님**을 선택 합니다.
+1. 메시지 목록 위의 정크 > **메일 아님** **을 선택 합니다**.
 
 보낸 사람의 메시지가 정크 메일 폴더로 이동 하지 않도록 하려면 수신 허용-보낸 사람 목록에 보낸 사람을 추가 합니다.
 

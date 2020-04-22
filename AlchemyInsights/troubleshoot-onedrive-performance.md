@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 5416da63851de8b0b45e1d5c0cef24b03db40e6e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 197a84c5f69f9e58460925049345263743fe78ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054960"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733204"
 ---
 # <a name="troubleshoot-onedrive-performance"></a>OneDrive 성능 문제 해결
 
@@ -22,7 +22,7 @@ ms.locfileid: "40054960"
 
 - [서비스 상태 대시보드](https://portal.office.com/adminportal/home?ref=/servicehealth)를 사용할 때 알려진 문제가 없는지 확인 합니다.
 
-- [필요할 때 파일을 사용 하도록 설정](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-US&rs=en-US&ad=US) 하 여 모든 파일을 다운로드 하거나 장치에서 저장소 공간을 사용 하지 않고 OneDrive에서 모든 사용자에 게 액세스할 수 있도록 합니다.
+- [필요할 때 파일을 사용 하도록 설정](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) 하 여 모든 파일을 다운로드 하거나 장치에서 저장소 공간을 사용 하지 않고 OneDrive에서 모든 사용자에 게 액세스할 수 있도록 합니다.
 
 - 네트워크 계획 및 성능에 대 한 모범 [사례를 검토](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) 합니다.
 

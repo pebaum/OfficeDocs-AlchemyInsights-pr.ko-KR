@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: d4ccaf4928fb041ec7914b95520c4e7ccdac208c
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 5c247ab69c272d2d296f9602fc5246a08164da5e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741213"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726218"
 ---
 # <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Ediscovery 내보내기용 Chromium 브라우저에 따라 Microsoft Edge 사용
 
-최근 변경 사항으로 인해 Microsoft Edge 브라우저에서는 더 이상 ClickOnce 지원 기능이 기본적으로 사용 되지 않도록 설정 됩니다. Microsoft Office 365 eDiscovery 내보내기 도구를 계속 사용 하려면 microsoft Internet Explorer를 사용 하거나 Microsoft Edge에서 ClickOnce 지원을 사용 하도록 설정 해야 합니다. 
+최근 변경 사항으로 인해 Microsoft Edge 브라우저에서는 더 이상 ClickOnce 지원 기능이 기본적으로 사용 되지 않도록 설정 됩니다. Microsoft 365 eDiscovery 내보내기 도구를 계속 사용 하려면 microsoft Internet Explorer를 사용 하거나 Microsoft Edge에서 ClickOnce 지원을 사용 하도록 설정 해야 합니다. 
 
 Chromium를 기반으로 Microsoft Edge에서 ClickOnce 지원을 사용 하도록 설정 하려면 다음을 수행 합니다. 
 1. Microsoft Edge 브라우저에서 edge://flags/을 한 번 클릭 하 여 #edge를 방문 합니다.

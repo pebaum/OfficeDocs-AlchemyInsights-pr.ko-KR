@@ -3,19 +3,19 @@ title: Office 365 Advanced Threat Protection 문제 해결
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: b4358fb55a1145833510c6063b520d822f2d1eaf
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c90c8e9cb23cba93883cc1148fcbca77c9e92408
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765207"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732408"
 ---
 # <a name="troubleshooting-office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection 문제 해결
 

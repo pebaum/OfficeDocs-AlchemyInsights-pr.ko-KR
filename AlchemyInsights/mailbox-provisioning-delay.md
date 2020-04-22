@@ -3,18 +3,18 @@ title: 사서함 프로 비전 지연
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 2/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: ef9b7663b8230366764e5ff7bfa176d5cea3f4a9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 03d5f0e5cf8bf0d74dcef488de2c1fbc12d82cf0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542419"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762683"
 ---
 # <a name="your-users-mailbox-is-being-created"></a>사용자의 사서함을 만들고 있습니다.
 
