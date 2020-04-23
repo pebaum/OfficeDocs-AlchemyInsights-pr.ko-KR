@@ -3,7 +3,7 @@ title: 646 AADConnect 구성 방법
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 316d7253494c55a9bc94797d493897c2ddec516c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 713cda26e55f07f0438cb9ebe5aa9da86c4ebb3a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541591"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722569"
 ---
 # <a name="configure-sync-features"></a>동기화 기능 구성
 

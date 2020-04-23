@@ -3,7 +3,7 @@ title: Outlook.com의 피싱 처리
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,12 +11,12 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 96445a7689a0760c3d9dcd8e99889749d07e569a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fe8d3b17aae386f04fae9c142eb608f504a380b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535811"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744925"
 ---
 # <a name="how-to-deal-with-a-phishing-email"></a>피싱 전자 메일을 처리 하는 방법
 
@@ -26,4 +26,4 @@ ms.locfileid: "36535811"
 
 *참고:* 메시지를 피싱 메일로 표시 하면 보낸 사람만 보고 합니다.나중에 보낸 사람이 메시지를 보내지 못하도록 차단 하지는 않습니다. 보낸 사람을 차단 하려면 수신 거부 목록에 보낸 사람을 추가 해야 합니다. 자세한 내용은 [수신 거부 또는 Outlook.com에서 보낸 사람 차단 해제](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)를 참조 하세요.
 
-Outlook.com 및 [advanced Outlook.com security에서 Office 365 구독자에 대 한](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy) [불건전, 피싱 또는 스푸핑 처리](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) 방법에 대해 알아봅니다.
+[Microsoft 365 구독자에 대 한 Outlook.com 및 advanced Outlook.com security](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy) [에서 불건전, 피싱 또는 스푸핑을 처리](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) 하는 방법에 대해 알아봅니다.

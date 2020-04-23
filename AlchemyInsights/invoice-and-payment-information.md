@@ -12,18 +12,18 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "485"
 - "1500018"
-ms.openlocfilehash: 4e902ea2e91e6ee44bce9f1a2a94410aab9c05d9
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: 5031c6218f8eee9e06e08fc902270ce299f12ed6
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195268"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783833"
 ---
 # <a name="invoice-and-payment-information"></a>송장 및 지불 정보
 
 **결제**
 
-Microsoft에서 직접 Office 365 구독을 구입 하는 경우 신용 또는 직불 카드로 결제 할 수 있습니다.  일부 국가/지역에서는 은행 계좌로 지불할 수도 있습니다.  [Office 365 비즈니스에 대 한 신용 카드 또는 기타 결제 옵션을 추가, 업데이트 또는 제거 하는](https://go.microsoft.com/fwlink/?linkid=2118133)방법에 대 한 정보를 확인 하 고 문제를 해결할 수 있습니다.  여기에는 신용 카드가 거절 되 고 결제 정보가 업데이트 될 때 발생 하는 문제 해결이 포함 됩니다.
+Microsoft에서 직접 Microsoft 365 비즈니스 구독을 구입 하는 경우 신용 카드 또는 직불 카드로 결제 할 수 있습니다.  일부 국가/지역에서는 은행 계좌로 지불할 수도 있습니다.  [비즈니스에 대 한 Microsoft 365의 신용 카드 또는 기타 결제 옵션을 추가, 업데이트 또는 제거](https://go.microsoft.com/fwlink/?linkid=2118133)하 여 이러한 결제 방법을 관리 하 고 문제를 해결 하는 방법을 확인할 수 있습니다.  여기에는 신용 카드가 거절 되 고 결제 정보가 업데이트 될 때 발생 하는 문제 해결이 포함 됩니다.
 
 **송장/청구서**
 
@@ -33,4 +33,4 @@ Microsoft에서 직접 Office 365 구독을 구입 하는 경우 신용 또는 �
 
 송장은 구매 중에 선택한 결제 빈도에 따라 매월 또는 매년 생성 됩니다.  매년 비용을 지불 하는 경우 구독에 라이선스를 추가 하거나 제거할 때 임시 단기 비용을 얻게 될 수 있습니다.
  
-- 자세한 내용은 [비즈니스용 Office 365에 대 한 청구서 이해](https://go.microsoft.com/fwlink/?linkid=2119101)를 참조 하세요.
+- 자세한 내용은 [비즈니스에 대 한 Microsoft 365의 청구서 이해](https://go.microsoft.com/fwlink/?linkid=2119101)를 참조 하세요.

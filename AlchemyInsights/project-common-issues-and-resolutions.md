@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: 4185077215ac3628103286ed58c396088410d868
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 61f2cb4d4d9158d8f9d90cd8a59d5a9ad109eb12
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600318"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789128"
 ---
 # <a name="project-common-issues-and-resolutions"></a>프로젝트 일반적인 문제 및 해결 방법
 
@@ -28,6 +28,6 @@ ms.locfileid: "42600318"
 
 3. **Project Online에서 PWA (Project Web App) 성능을 조정 합니다.** 가장 일반적인 Project Web App 설정 중 일부의 [성능 영향 및 장단점](https://docs.microsoft.com/projectonline/tune-project-online-performance) 을 검토 합니다.
 
-4. **Project 데스크톱 클라이언트를 사용 하 여 Project Online에 연결 합니다.** [Project Online 데스크톱 클라이언트](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 를 사용 하 여 Office 365 환경에서 project online에 연결 합니다. 
+4. **Project 데스크톱 클라이언트를 사용 하 여 Project Online에 연결 합니다.** [Project Online 데스크톱 클라이언트](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 를 사용 하 여 Microsoft 365 환경에서 project online에 연결 합니다. 
 
-5. **Project Professional 설치:** project professional을 project Online의 구독 버전 및 project 2019, 2016 또는 2013 구독 이외의 버전으로 [설치 하 고 사용](https://support.office.com/en-us/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?ui=en-US&rs=en-US&ad=US) 합니다.
+5. **Project Professional 설치:** project professional을 project Online의 구독 버전 및 project 2019, 2016 또는 2013 구독 이외의 버전으로 [설치 하 고 사용](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 합니다.

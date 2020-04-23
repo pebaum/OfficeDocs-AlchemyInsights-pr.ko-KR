@@ -2,18 +2,18 @@
 title: 액세스 거부 메시지 문제 해결
 ms.author: pebaum
 author: pebaum
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 05d12aee49b449e8a29e84021b41298fb9983859
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1930edcfd14acc48ea77b66e2793654a3e6332cc
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050711"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759806"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>액세스 거부 메시지 문제 해결
 
@@ -29,6 +29,6 @@ ms.locfileid: "40050711"
   
 액세스 요청을 보려고 할 때 "액세스 거부" 라는 메시지가 표시 되 면 사용자를 사이트 모음 관리자 또는 사이트 소유자 그룹의 구성원으로 추가 해야 합니다. 자세한 내용은 액세스가 [거부 됨 액세스 요청 목록을](https://go.microsoft.com/fwlink/?linkid=2004220)참조 하세요.
   
-사용자가 Active Directory에서 온-프레미스를 제거한 후 다시 추가 된 "액세스 거부" 메시지를 받은 경우 [사용자 계정이 Office 365와 동기화 되 면 액세스 거부](https://go.microsoft.com/fwlink/?linkid=2004318)를 참조 하세요.
+사용자가 Active Directory에서 온-프레미스를 제거한 후 다시 추가 된 "액세스 거부" 메시지를 받은 경우 [사용자 계정이 Microsoft 365와 동기화 되 면 액세스 거부](https://go.microsoft.com/fwlink/?linkid=2004318)를 참조 하세요.
   
 

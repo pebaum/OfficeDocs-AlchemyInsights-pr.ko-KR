@@ -12,12 +12,12 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 733625a79fe2da5436e9b14899121fd02132bf0e
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763799"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789164"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>다른 Microsoft 365 for business 구독으로 전환
 
@@ -27,7 +27,7 @@ ms.locfileid: "43763799"
 
 2. 업그레이드할 구독을 선택 합니다.
 
-3. [구독 정보 페이지](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702)에서 **업그레이드**를 선택 합니다.
+3. [구독 정보 페이지](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702)에서 **업그레이드**를 선택 합니다.  **업그레이드** 탭이 비어 있으면 지금은 업그레이드할 수 없는 이유에 대 한 설명이 표시 됩니다. 대신 [요금제를 수동으로 변경](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide)해야 합니다.
 
 4. 업그레이드할 계획을 찾은 다음 **upgrade (업그레이드** ) 단추를 선택 합니다.
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: ed6981629941e2f2ecc348effe98eaa6388a14d8
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279064"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758796"
 ---
 # <a name="products--services"></a>제품 & 서비스
 
@@ -24,7 +24,7 @@ ms.locfileid: "42279064"
 
 1. 각 구독에 대해 구매한 라이선스 수를 사용 중인 개수와 함께 관리 합니다.  **참고**: 사용 하지 않는 (사용자에 게 할당 되지 않은) 라이선스는 여전히 청구 됩니다.  사용 하지 않은 라이선스에 대 한 요금이 부과 되지 않도록 하려면 구매한 라이선스 수를 줄입니다. 구독에서 라이선스를 추가 하거나 제거 하는 방법에 대 한 자세한 내용은 [how to add or 줄임 a 라이선스](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)를 참조 하십시오.
 
-2. 구독의 갱신 또는 만료 날짜를 확인 합니다.  갱신 **/만료** 날짜 옆에 있는 **편집** 링크를 클릭 하 여 갱신이 관리 되도록 할 수 있습니다.  되풀이 되는 청구를 관리 하는 방법에 대 한 자세한 내용은 [비즈니스용 Office 365 갱신](https://go.microsoft.com/fwlink/?linkid=2119216) 을 참조 하세요.
+2. 구독의 갱신 또는 만료 날짜를 확인 합니다.  갱신 **/만료** 날짜 옆에 있는 **편집** 링크를 클릭 하 여 갱신이 관리 되도록 할 수 있습니다.  되풀이 되는 청구를 관리 하는 방법에 대 한 자세한 내용은 [Microsoft for business 365 갱신](https://go.microsoft.com/fwlink/?linkid=2119216) 을 참조 하세요.
 
 3. [만료 되었거나 사용 하지 않도록 설정 된 구독을 다시 활성화](https://go.microsoft.com/fwlink/?linkid=2117519)합니다.
 

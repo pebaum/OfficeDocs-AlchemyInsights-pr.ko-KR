@@ -3,7 +3,7 @@ title: SharePoint 대규모 목록
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 2/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "407"
 - "530001"
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
-ms.openlocfilehash: 222ad554de0d94dcfd4e34e9a2c6aa8ab4e6f81f
-ms.sourcegitcommit: d7e1b097d3866782f508527c797426dc56c6ba17
+ms.openlocfilehash: e85686788c60d365a00970e9ffe58e97512894a3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/14/2019
-ms.locfileid: "37488523"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767291"
 ---
 # <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>SharePoint에서 큰 목록 및 라이브러리에 대 한 작업
 
-SharePoint 목록 및 라이브러리에는 최대 3000만 개의 항목이 포함 될 수 있지만, 항목이 5000 개를 초과 하면 작업을 수행 하려고 할 때 목록 보기 임계값 오류가 표시 될 수 있습니다. 이 임계값은 서비스의 성능을 유지 하기 위한 것입니다. 변경할 수 없습니다. 이 임계값을 초과 하지 않도록 하려면 다음을 수행 합니다.
+SharePoint 목록 및 라이브러리에는 최대 3000만 개의 항목이 포함 될 수 있지만, 항목이 5000 개를 초과 하면 작업을 수행 하려고 할 때 목록 보기 임계값 오류가 표시 될 수 있습니다. 이 임계값은 서비스의 성능을 유지하기 위해 설정됩니다. 변경할 수 없습니다. 이 임계값을 초과 하지 않도록 하려면 다음을 수행 합니다.
 
 **최신 사용**
 
