@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7fda732dc49e4e01b2dc0fcbf0fcde83b4dcbab4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739643"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722382"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a><span data-ttu-id="21172-102">Office 365에서 다단계 인증 구성</span><span class="sxs-lookup"><span data-stu-id="21172-102">Configure multi-factor authentication in Office 365</span></span>
+# <a name="configure-multi-factor-authentication"></a><span data-ttu-id="07c27-102">다단계 인증 구성</span><span class="sxs-lookup"><span data-stu-id="07c27-102">Configure multi-factor authentication</span></span>
 
-<span data-ttu-id="21172-103">MFA를 구성 하려면 [Office 365 사용자를 위한 다단계 인증 설정을](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="21172-103">To configure MFA, see [Set up multi-factor authentication for Office 365 users](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span></span>
+<span data-ttu-id="07c27-103">MFA를 구성 하려면 [Set up multi-factor authentication](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="07c27-103">To configure MFA, see [Set up multi-factor authentication](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span></span>
 
-<span data-ttu-id="21172-104">MFA를 사용 하도록 설정 하 고 구성 하려면 Office 365 전역 관리자 여야 합니다.</span><span class="sxs-lookup"><span data-stu-id="21172-104">Note that you need to be an Office 365 global admin to enable and configure MFA.</span></span>
+<span data-ttu-id="07c27-104">MFA를 사용 하도록 설정 하 고 구성 하려면 전역 관리자 여야 합니다.</span><span class="sxs-lookup"><span data-stu-id="07c27-104">Note that you need to be a global admin to enable and configure MFA.</span></span>
