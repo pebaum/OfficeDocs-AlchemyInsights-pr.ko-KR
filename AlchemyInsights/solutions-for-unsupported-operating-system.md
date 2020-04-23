@@ -3,7 +3,7 @@ title: "' 지원 되지 않는 운영 체제 ' 솔루션"
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,18 +13,18 @@ ms.assetid: f8cf946c-89c7-4770-8f1f-d111e654e6cb
 ms.custom:
 - "906"
 - "2000023"
-ms.openlocfilehash: e76695475d2f1ebe8feb1e8f392d3fcb337e0d28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e4884f920545164f4574e57c86f02a0c20eee68e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501246"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724874"
 ---
 # <a name="solutions-for-unsupported-operating-system"></a>"지원 되지 않는 운영 체제"에 대 한 솔루션
 
-Office 365을 설치 하려고 하면 장치가 [시스템 요구 사항을](https://products.office.com/office-system-requirements)충족 하지 **않는 경우 지원 되지 않는 운영 체제** 오류 메시지가 표시 될 수 있습니다.
+Microsoft 365을 설치 하려고 하면 장치가 [시스템 요구 사항을](https://products.office.com/office-system-requirements)충족 하지 **않는 경우 지원 되지 않는 운영 체제** 오류 메시지가 표시 될 수 있습니다.
   
-Office 365에는 다음이 필요 합니다.
+Microsoft 365에는 다음이 필요 합니다.
   
 - PC: Windows 10, Windows 8.1, Windows 8, Windows 7 서비스 팩 1, Windows server 2016, windows server 2012 R2, Windows server 2012 또는 Windows server 2008 R2
 

@@ -3,7 +3,7 @@ title: 전자 메일로 청구서 사본 받기
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,14 +13,14 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2af1c5374c0cb08891f42f83e2a5e54ef17e914a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510089"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724956"
 ---
-# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>전자 메일로 Office 365 청구 내역 받기
+# <a name="receive-copy-of-your-billing-statement-in-email"></a>전자 메일로 청구서 사본 받기
 
 청구서 사본을 전자 메일 첨부 파일로 받도록 선택할 수 있습니다. 이 경우 다음 사항에 유의하세요.
   
@@ -30,6 +30,6 @@ ms.locfileid: "36510089"
 
 전자 메일로 청구 내역을 받으려면 다음을 수행 합니다.
   
-1. 관리 센터에서 **대금 청구** \> [알림](https://go.microsoft.com/fwlink/p/?linkid=853212) 페이지로 이동 합니다.
+1. 관리 센터에서 **청구** \> [대금 청구 알림](https://go.microsoft.com/fwlink/p/?linkid=853212) 페이지로 이동합니다.
 
 2. **청구서를 전자 메일 첨부 파일로 받음?** 에서 켜기/끄기를 **켜**둡니다 .로 전환 합니다. 언제든지 토글을 **해제**로 전환하여 청구서 전자 메일 수신을 중지할 수 있습니다.

@@ -2,7 +2,7 @@
 title: Office 제거
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,20 +13,20 @@ ms.custom:
 - "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: 아래 단계에서는 PC에서 Office를 제거 하는 방법을 설명 합니다.
-ms.openlocfilehash: a9d7b9b4239eeff76cb6934184224a2bcb5b98d3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1b7475b5a1f6f926bd854e41a5d14cfc22b752c9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558443"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43731334"
 ---
 # <a name="uninstall-office"></a>Office 제거
 
-[지원 및 복구 도우미](https://aka.ms/SARA-OfficeUninstall-Alchemy)를 다운로드 하 고 설치 합니다.
+[Microsoft 지원 및 복구 도우미](https://aka.ms/SARA-OfficeUninstall-Alchemy)를 다운로드하고 설치합니다.
   
 1. 양식을 열면 **Office 제품 제거** 에서 제거 하려는 버전을 선택 하 고 **다음**을 선택 합니다.
 
-2. 화면을 계속 진행 하 고 메시지가 표시 되 면 컴퓨터를 다시 시작 합니다.
+2. 화면을 계속 진행하고 메시지가 표시되면 컴퓨터를 다시 시작합니다.
 
     다시 시작한 후에는 지원 및 복구 도우미가 자동으로 다시 열리므로 제거 프로세스를 완료 합니다.
 
