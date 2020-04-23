@@ -10,17 +10,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002248"
-- "4540"
-ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+- "4352"
+ms.openlocfilehash: 5677d41c37f3114f40c2fae7cb0fd48c040813a6
 ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784805"
+ms.locfileid: "43789020"
 ---
-# <a name="remove-teams-dial-in-conferencing-number"></a>Teams 전화 접속 회의 번호 제거
+# <a name="teams-dial-in-conferencing-number-removal"></a>Teams 전화 접속 회의 번호 제거
 
-회의 브리지에서 전화 접속 회의 번호를 제거하는 데 도움이 필요한가요? 현재 등록을 해제하려는 번호가 기본 번호인가요? 이 경우 처음에는 회의 브리지의 기본 번호를 변경해야 합니다.
+회의 브리지에서 전화 접속 회의 번호를 제거하는 데 도움이 필요한가요? 현재 등록을 제거하려는 번호가 기본 번호인가요? 이 경우 처음에는 회의 브리지의 기본 번호를 변경해야 합니다.
 
 회의 브리지의 기본 전화 번호는 모임 내에서 참가자나 주최자가 아웃바운드 호출을 수행할 때 사용할 호출자 ID를 정의합니다.
 
@@ -28,7 +28,7 @@ ms.locfileid: "43784805"
 
 2. **Microsoft 365 관리 센터**로 이동합니다.
 
-3. **관리 센터 | Teams 및 Skype**로 이동합니다.
+3. **관리 센터 > Teams 및 Skype**로 이동합니다.
 
 4. **모임**으로 이동합니다.
 
@@ -36,10 +36,10 @@ ms.locfileid: "43784805"
 
 6. 기본값으로 구성할 서비스 유료 전화 번호를 강조 표시합니다.
 
-7. **기본값으로 설정**을 선택합니다.
+7. **기본값으로 설정**을 클릭합니다.
 
 자세한 내용은 [오디오 회의 브리지에서 전화 번호 변경](https://docs.microsoft.com/microsoftteams/change-the-phone-numbers-on-your-audio-conferencing-bridge)을 참조하세요.
 
-관련 리소스:
+**관련 리소스**
 
-- [오디오 모임 브리지의 설정 변경](https://docs.microsoft.com/microsoftteams/change-the-settings-for-an-audio-conferencing-bridge)
+[오디오 모임 브리지의 설정 변경](https://docs.microsoft.com/microsoftteams/change-the-settings-for-an-audio-conferencing-bridge)
