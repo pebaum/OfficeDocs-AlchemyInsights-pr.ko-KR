@@ -3,18 +3,18 @@ title: 8000036 Outlook.com에서 프로필 pic/이름 변경
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
-ms.openlocfilehash: e18742425546d9d455d56fdf400338a45361633b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d3e2f8c326bcac939ad7f6eadb8e3d5060620054
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36511355"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719382"
 ---
 # <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Outlook.com에서 내 프로필 사진 또는 이름 변경
 

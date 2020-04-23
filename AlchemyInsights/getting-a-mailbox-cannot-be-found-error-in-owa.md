@@ -3,7 +3,7 @@ title: 126 OWA에서 사서함 가져오기 오류를 찾을 수 없습니까?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: e061ad6b74b27e3f0d597586cb2c8e31b8fa5d23
-ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
+ms.openlocfilehash: 72556651c3431379953b05118c688a876eab0632
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43105245"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720810"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>웹용 Outlook에서 사서함을 찾을 수 없음 오류가 발생 했습니까?
 
