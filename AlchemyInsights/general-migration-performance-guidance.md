@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958544"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537747"
 ---
-# <a name="general-migration-performance-guidance"></a><span data-ttu-id="40ae1-102">일반 마이그레이션 성능 지침</span><span class="sxs-lookup"><span data-stu-id="40ae1-102">General migration performance guidance</span></span>
+# <a name="general-migration-performance-guidance"></a><span data-ttu-id="35a6e-102">일반 마이그레이션 성능 지침</span><span class="sxs-lookup"><span data-stu-id="35a6e-102">General migration performance guidance</span></span>
 
-<span data-ttu-id="40ae1-103">**중요**: 이 시기에는 SharePoint Online 및 OneDrive 서비스를 항상 사용할 수 있도록 하는 단계를 진행하고 있습니다. 자세한 내용은 [SharePoint Online 임시 기능 조정](https://aka.ms/ODSPAdjustments)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="40ae1-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
 
-<span data-ttu-id="40ae1-104">**마이그레이션 성능 지침**</span><span class="sxs-lookup"><span data-stu-id="40ae1-104">**Migration performance guidance**</span></span>
+<span data-ttu-id="35a6e-103">**중요**: 이 시기에는 SharePoint Online 및 OneDrive 서비스를 항상 사용할 수 있도록 하는 단계를 진행하고 있습니다. 자세한 내용은 [SharePoint Online 임시 기능 조정](https://aka.ms/ODSPAdjustments)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="35a6e-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
 
-<span data-ttu-id="40ae1-p101">이동 성능은 네트워크 기반 설비, 파일 크기, 이동 시간 및 쓰로틀링의 영향을 받을 수 있습니다. 이러한 점을 이해 시이동의 효율성을 계획하고 최대화하는데 도움이 됩니다.</span><span class="sxs-lookup"><span data-stu-id="40ae1-p101">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling. Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
+<span data-ttu-id="35a6e-104">**마이그레이션 옵션**</span><span class="sxs-lookup"><span data-stu-id="35a6e-104">**Migration options**</span></span>
 
-- [<span data-ttu-id="40ae1-107">일반 마이그레이션 성능 지침</span><span class="sxs-lookup"><span data-stu-id="40ae1-107">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+<span data-ttu-id="35a6e-105">이동해야 하는 파일의 크기와 수량에 따라 SharePoint Online으로 콘텐츠를 마이그레이션할 때 사용할 수있는 다양한 옵션이 있습니다. [여기](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online)에 있는 옵션 목록을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="35a6e-105">There are different options available to migrate content to SharePoint Online, depending on the size and quantity of files you need to move, please see a list of options [located here](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span></span>
+
+<span data-ttu-id="35a6e-106">콘텐츠 마이그레이션에 대한 자세한 내용을 보려면 아래 링크를 방문하세요.</span><span class="sxs-lookup"><span data-stu-id="35a6e-106">For more information on content migration, please visit the links below.</span></span>
+
+- [<span data-ttu-id="35a6e-107">Sharepoint 마이그레이션 도구</span><span class="sxs-lookup"><span data-stu-id="35a6e-107">Sharepoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [<span data-ttu-id="35a6e-108">마이그레이션 관리자 시작</span><span class="sxs-lookup"><span data-stu-id="35a6e-108">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [<span data-ttu-id="35a6e-109">Mover</span><span class="sxs-lookup"><span data-stu-id="35a6e-109">Mover</span></span>](https://mover.io/)
