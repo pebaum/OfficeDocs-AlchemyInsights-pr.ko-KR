@@ -3,7 +3,7 @@ title: 1221-가져오기-내보내기-outlook-전자 메일-연락처-일정
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545176"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724670"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a><span data-ttu-id="1955e-102">Outlook 전자 메일, 연락처 및 일정 항목 가져오기 및 내보내기</span><span class="sxs-lookup"><span data-stu-id="1955e-102">Import and export Outlook email, contacts, and calendar items</span></span>
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a><span data-ttu-id="087f7-102">Outlook 전자 메일, 연락처 및 일정 항목 내보내기와 가져오기</span><span class="sxs-lookup"><span data-stu-id="087f7-102">Import and export Outlook email, contacts, and calendar items</span></span>
 
-1. <span data-ttu-id="1955e-103">Outlook에서 **파일**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="1955e-103">In Outlook, click **File**.</span></span>
+1. <span data-ttu-id="087f7-103">Outlook에서 **파일**을 클릭합니다.</span><span class="sxs-lookup"><span data-stu-id="087f7-103">In Outlook, click **File**.</span></span>
 
-2. <span data-ttu-id="1955e-104">**& 내보내기 열기**를 클릭 한 다음 **가져오기/내보내기를**클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="1955e-104">Click **Open & Export**, and then click **Import/Export**.</span></span>
+2. <span data-ttu-id="087f7-104">**열기 및 내보내기**를 클릭한 다음 **가져오기/내보내기**를 클릭합니다.</span><span class="sxs-lookup"><span data-stu-id="087f7-104">Click **Open & Export**, and then click **Import/Export**.</span></span>
 
-    <span data-ttu-id="1955e-105">그러면 가져오기 및 내보내기 마법사가 시작 됩니다.</span><span class="sxs-lookup"><span data-stu-id="1955e-105">This starts the Import and Export wizard.</span></span>
+    <span data-ttu-id="087f7-105">그러면 가져오기 및 내보내기 마법사가 시작됩니다.</span><span class="sxs-lookup"><span data-stu-id="087f7-105">This starts the Import and Export wizard.</span></span>
 
-<span data-ttu-id="1955e-106">Outlook에 대 한 가져오기 및 내보내기 지침의 전체 집합은 [이 문서](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="1955e-106">For a complete set of import and export instructions for Outlook, see  [this article](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).</span></span>
+<span data-ttu-id="087f7-106">Outlook에 대 한 가져오기 및 내보내기 지침의 전체 집합은 [이 문서](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="087f7-106">For a complete set of import and export instructions for Outlook, see  [this article](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).</span></span>
 
-<span data-ttu-id="1955e-107">관리자 인 경우 여러 PST 파일을 Office 365 사서함으로 대량 가져오려면 [이 문서](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="1955e-107">If you're an administrator and want to bulk-import multiple PST files to Office 365 mailboxes, see [this article](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).</span></span>
+<span data-ttu-id="087f7-107">관리자 인 경우 여러 PST 파일을 Microsoft 365 사서함으로 대량 가져오려면 [이 문서](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="087f7-107">If you're an administrator and want to bulk-import multiple PST files to Microsoft 365 mailboxes, see [this article](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).</span></span>

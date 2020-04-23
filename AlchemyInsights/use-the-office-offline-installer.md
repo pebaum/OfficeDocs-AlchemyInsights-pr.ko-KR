@@ -2,7 +2,7 @@
 title: Office 오프 라인 설치 관리자 사용
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,16 +12,16 @@ ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 2e1bbddf91c623cad2e53b7c0d137f4d7de45143
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6d847149d4e1f39af3fa5d5fdd17f187463f6ea7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532281"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726326"
 ---
-# <a name="use-the-office-offline-installer"></a><span data-ttu-id="e478a-102">Office 오프 라인 설치 관리자 사용</span><span class="sxs-lookup"><span data-stu-id="e478a-102">Use the Office offline installer</span></span>
+# <a name="use-the-office-offline-installer"></a><span data-ttu-id="af502-102">Office 오프 라인 설치 관리자 사용</span><span class="sxs-lookup"><span data-stu-id="af502-102">Use the Office offline installer</span></span>
 
-<span data-ttu-id="e478a-103">설치 관리자 파일을 다운로드 하려면 인터넷에 연결 해야 하지만, 완료 된 후에 ODT (Office 배포 도구)를 사용 하 여 사용자 편의에 따라 PC에 Office를 오프 라인으로 설치할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="e478a-103">You need to be connected to the internet to download the installer files, but once that's done, you can then install Office offline on a PC at your convenience by using the Office Deployment Tool (ODT)</span></span>
+<span data-ttu-id="af502-103">설치 관리자 파일을 다운로드 하려면 인터넷에 연결 해야 하지만, 완료 된 후에 ODT (Office 배포 도구)를 사용 하 여 사용자 편의에 따라 PC에 Office를 오프 라인으로 설치할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="af502-103">You need to be connected to the internet to download the installer files, but once that's done, you can then install Office offline on a PC at your convenience by using the Office Deployment Tool (ODT)</span></span>
 
-<span data-ttu-id="e478a-104">ODT는 엔터프라이즈 환경을 위해 설계 되었으며 명령줄에서 실행 되므로 단계는 더 복잡 하지만 단일 장치에 설치 하는 경우에도 계속 해 서 작동 합니다.</span><span class="sxs-lookup"><span data-stu-id="e478a-104">The ODT is designed for enterprise environments and runs from the command line, so the steps are more complicated--but they'll still work for installation on a single device.</span></span> <span data-ttu-id="e478a-105">[Office 오프 라인 설치 관리자 사용을](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="e478a-105">See [Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="af502-104">ODT는 엔터프라이즈 환경을 위해 설계 되었으며 명령줄에서 실행 되므로 단계는 더 복잡 하지만 단일 장치에 설치 하는 경우에도 계속 해 서 작동 합니다.</span><span class="sxs-lookup"><span data-stu-id="af502-104">The ODT is designed for enterprise environments and runs from the command line, so the steps are more complicated--but they'll still work for installation on a single device.</span></span> <span data-ttu-id="af502-105">[Office 오프 라인 설치 관리자 사용을](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="af502-105">See [Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
