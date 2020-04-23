@@ -3,7 +3,7 @@ title: Exchange 관리 센터의 보존 정책이 작동 하지 않음
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 5d7b62546397c13b37540e8797b31123b2880280
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2fb22f872be0eefc3b4b78b18cd09baffa66cda
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551349"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742439"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Exchange 관리 센터의 보존 정책
 
@@ -25,7 +25,7 @@ ms.locfileid: "36551349"
   
  **근본 원인:**
   
-- **관리 되는 폴더 도우미가** 사용자 사서함을 처리 하지 않았기 때문일 수 있습니다. 관리 되는 폴더 도우미는 8 일 마다 한 번씩 클라우드 기반 조직의 모든 사서함을 처리 하려고 시도 합니다. 보존 태그를 변경 하거나 사서함에 다른 보존 정책을 적용 하는 경우 관리 되는 폴더 지원에서 사서함을 처리할 때까지 기다리거나, 관리 되는 폴더 도우미를 실행 하 여 특정 사서함별. 이 cmdlet을 실행 하는 것은 보존 정책이 나 보존 태그 설정을 테스트 하거나 문제를 해결 하는 데 유용 합니다. 자세한 내용을 보려면 [관리 되는 폴더 도우미 실행](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist)을 참조 하세요.
+- **관리 되는 폴더 도우미가** 사용자 사서함을 처리 하지 않았기 때문일 수 있습니다. 관리 되는 폴더 도우미는 8 일 마다 한 번씩 클라우드 기반 조직의 모든 사서함을 처리 하려고 시도 합니다. 보존 태그를 변경 하거나 사서함에 다른 보존 정책을 적용 하는 경우 관리 되는 폴더 지원에서 사서함을 처리할 때까지 기다리거나, 관리 되는 폴더 도우미를 실행 하 여 특정 사서함을 처리할 수 있습니다. 이 cmdlet을 실행 하는 것은 보존 정책이 나 보존 태그 설정을 테스트 하거나 문제를 해결 하는 데 유용 합니다. 자세한 내용을 보려면 [관리 되는 폴더 도우미 실행](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist)을 참조 하세요.
     
   - **해결 방법:** 다음 명령을 실행 하 여 특정 사서함에 대 한 관리 되는 폴더 도우미를 시작 합니다.
     
@@ -61,4 +61,4 @@ Exchange 관리 센터의 보존 정책에 대 한 자세한 내용은 다음 �
 - [보존 태그 및 보존 정책](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 - [사서함에 보존 정책 적용](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
 - [보존 태그 추가 또는 제거](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [사서함에 대 한 보류 유형을 식별 하는 방법](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
+- [사서함의 보류 유형을 식별하는 방법](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)

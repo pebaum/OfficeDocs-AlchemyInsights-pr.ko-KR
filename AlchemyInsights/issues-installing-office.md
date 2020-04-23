@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 73fc8b71cf06be1a4ea91e164c2c47fd19971056
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: 7ffbd796979d8e63682bcc9f5ec5e21e16f777b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43054030"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765815"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Office 설치 시 발생하는 문제에 대한 해결 방법
 
@@ -29,7 +29,7 @@ Office 오류를 해결하기 위한 해결 방법 중 하나를 시도해 보�
 - Office의 이전 추적 내역을 삭제하고 지원 및 복구 도우미(SaRA)를 사용하여 다시 설치합니다. 
 
     - [Microsoft 지원 및 복구 도우미](https://aka.ms/SARA-OfficeUninstall-Alchemy)를 다운로드하고 설치합니다. 파일이 열리면 **Office 제품 제거**에서 제거할 버전을 선택(해당 사항이 있는 경우)하고 **다음**을 클릭합니다. 화면을 계속 진행하고 메시지가 표시되면 컴퓨터를 다시 시작합니다. 다시 컴퓨터가 시작되면 SaRA가 자동으로 다시 열리면서 제거 프로세스를 완료합니다.
-    - SaRA를 사용하여 [Office를 다시 설치](http://aka.ms/sara-officeinstall)합니다. **참고**: SaRA를 사용하여 Visio 또는 Project를 설정하는 경우 [Visio 설치](https://aka.ms/SaRA-VisioSetupScenario) 또는 [Project 설치](https://aka.ms/SaRA-ProjectSetupScenario)를 사용하세요.  
+    - SaRA를 사용하여 [Office를 다시 설치](https://aka.ms/sara-officeinstall)합니다. **참고**: SaRA를 사용하여 Visio 또는 Project를 설정하는 경우 [Visio 설치](https://aka.ms/SaRA-VisioSetupScenario) 또는 [Project 설치](https://aka.ms/SaRA-ProjectSetupScenario)를 사용하세요.  
 
 - [Office 오프라인 설치 관리자](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)를 사용하여 Office를 설치합니다.
 

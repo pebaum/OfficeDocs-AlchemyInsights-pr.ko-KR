@@ -3,18 +3,18 @@ title: Outlook.com 설정
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 71e5fd3ed79619425bb797d70b1c0d872063365d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053267"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743567"
 ---
 # <a name="settings-in-outlookcom"></a>Outlook.com의 설정
 
@@ -30,7 +30,7 @@ ms.locfileid: "40053267"
     
     - 단일 사용 암호가 같은 전자 메일 주소로 전송 됩니다. 브라우저 창에 코드를 입력 하 고 **계속** 을 선택 하 여 메시지를 읽습니다.
 
-- 다른 Office 365 조직의 메시지를 암호화할 수 없는 경우이 [문서](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)에 지정 된 해결 방법을 따르세요.
+- 다른 조직의 메시지를 암호화할 수 없는 경우이 [문서](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)에 지정 된 해결 단계를 따르세요.
 
 - 받는 사람의 사서함이 **Yahoo 또는 Gmail**에 있는 경우이 [문서](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)에 나와</span> 있는 지침을 따르세요.
 

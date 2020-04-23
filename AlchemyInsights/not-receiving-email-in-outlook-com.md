@@ -3,19 +3,19 @@ title: 8000037 Outlook.com에서 전자 메일을 받지 못할 수 있습니다
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/16/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: f4a005bc2a0938d1d0a79f904164716e8a36fcf1
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4d2fd6d68c88407740729aecd9e4d63f5b0d712b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36538567"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761748"
 ---
 # <a name="not-receiving-mail-in-outlookcom"></a>Outlook.com에서 메일을 받지 않음
 

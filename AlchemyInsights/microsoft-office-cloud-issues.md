@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: c734b2707003a17e6ac88f32ca28adc4e96e139a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8bc63bd52b1d6a9a7913f025c9dc3390ffbb023f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054780"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762359"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>클라우드 서비스에서 문제가 발생 했습니까?
 
@@ -23,5 +23,5 @@ ms.locfileid: "40054780"
 
 **알림 정책**
 
-서비스 인시던트가 발생하면 Microsoft는 고객을 위해 시기 적절하고 대상이 지정된 정확한 커뮤니케이션이 필요한 상황이라는 것을 알게 됩니다. Microsoft는 Office 365 관리 포털에서 SHD (테 넌 트 관련 [서비스 상태 대시보드)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) 를 업데이트 하 여 office 365 관리자에 게 알립니다. 서비스 인시던트 업데이트는 시간별 흐름에 제공 되거나, 다른 흐름을 필요로 하는 경우에는 SHD 통신 게시에 명시 됩니다. 자세한 내용은 [How to 365 Check Service Health를](https://docs.microsoft.com/office365/enterprise/view-service-health)참조 하십시오.
+서비스 인시던트가 발생하면 Microsoft는 고객을 위해 시기 적절하고 대상이 지정된 정확한 커뮤니케이션이 필요한 상황이라는 것을 알게 됩니다. Microsoft는 Microsoft 365 관리 포털에서 테 넌 트 관련 [SHD (서비스 상태 대시보드)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) 를 업데이트 하 여 관리자에 게 알립니다. 서비스 인시던트 업데이트는 시간별 흐름에 제공 되거나, 다른 흐름을 필요로 하는 경우에는 SHD 통신 게시에 명시 됩니다. 자세한 내용은 [How to 365 Check Services Health를](https://docs.microsoft.com/office365/enterprise/view-service-health)참조 하십시오.
 

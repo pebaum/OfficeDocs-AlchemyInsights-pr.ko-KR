@@ -3,7 +3,7 @@ title: 1488-eDiscovery-및 콘텐츠 검색 수행
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555239"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764734"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>콘텐츠 검색 및 eDiscovery 검색을 수행 하는 방법
 
-보안 & 준수 센터의 콘텐츠 검색 도구를 사용 하 여 비즈니스용 Skype의 Exchange 사서함, SharePoint 사이트 및 OneDrive 계정에 있는 문서 및 인스턴트 메시징 대화에서 신속 하 게 전자 메일을 찾을 수 있습니다. 또한 콘텐츠 검색 도구를 사용 하 여 Microsoft 팀 및 Office 365 그룹과 같은 Office 365 공동 작업 도구에서 전자 메일, 문서 및 인스턴트 메시징 대화를 검색할 수 있습니다.
+보안 & 준수 센터의 콘텐츠 검색 도구를 사용 하 여 비즈니스용 Skype의 Exchange 사서함, SharePoint 사이트 및 OneDrive 계정에 있는 문서 및 인스턴트 메시징 대화에서 신속 하 게 전자 메일을 찾을 수 있습니다. 또한 콘텐츠 검색 도구를 사용 하 여 Microsoft 팀 및 Office 365 그룹과 같은 Microsoft 365 공동 작업 도구에서 전자 메일, 문서 및 인스턴트 메시징 대화를 검색할 수 있습니다.
 
 **콘텐츠 검색을 수행 하려면**
 
 1. [보안 & 준수 센터로](https://protection.office.com) 이동 하 여 로그인 합니다.
 2. **검색 > 콘텐츠 검색**을 클릭 합니다.
-3. 새 **** 검색을 클릭 하 여 새 검색을 만듭니다.
+3. 새 **검색을 클릭 하** 여 새 검색을 만듭니다.
 4. 키워드 및 콘텐츠 위치를 포함 하 여 필요한 검색 조건을 입력 합니다.  
 5. **저장 & 실행** 을 클릭 하 여 검색의 이름을 지정한 다음 시작한 다음 결과를 미리 봅니다.
 

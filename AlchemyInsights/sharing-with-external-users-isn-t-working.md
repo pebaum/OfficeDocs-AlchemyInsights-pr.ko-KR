@@ -3,7 +3,7 @@ title: 외부 사용자와의 공유가 작동 하지 않음
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/18/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: d4c8fc75ff8db2319b88a20bea9b3ee661f2e36e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36502237"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767255"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>외부 사용자와 SharePoint 콘텐츠를 공유 하는 문제 해결
 
@@ -34,7 +34,7 @@ ms.locfileid: "36502237"
     
 Office 365 그룹 또는 커뮤니케이션 사이트에 속하는 팀 사이트의 경우:
   
-- 조직 차원의 설정에서 로그인이 필요 하지 않은 링크를 사용 하 여 파일을 공유할 수 있는 경우를 제외 하 고 이러한 새 사이트 유형은 조직 전체 설정과 동일한 공유 설정을 갖습니다. 이 경우 사이트는 로그인 하는 신규 및 기존 외부 사용자와의 공유를 허용 합니다. 특정 사이트에 대 한 설정을 변경 하려면 새 SharePoint 관리 센터 또는 PowerShell을 사용 합니다. [자세한 정보](https://go.microsoft.com/fwlink/?linkid=871863).
+- 조직 차원의 설정에서 로그인이 필요 하지 않은 링크를 사용 하 여 파일을 공유할 수 있는 경우를 제외 하 고 이러한 새 사이트 유형은 조직 전체 설정과 동일한 공유 설정을 갖습니다. 이 경우 사이트는 로그인 하는 신규 및 기존 외부 사용자와의 공유를 허용 합니다. 특정 사이트에 대 한 설정을 변경 하려면 새 SharePoint 관리 센터 또는 PowerShell을 사용 합니다. [자세히 알아보기](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
 > 모든 사이트에 대 한 외부 공유 설정은 조직 차원의 설정 보다 더 제한적으로 사용할 수 있지만 조직 전체 설정 보다는 허용이 더 이상 가능 하지 않습니다. 

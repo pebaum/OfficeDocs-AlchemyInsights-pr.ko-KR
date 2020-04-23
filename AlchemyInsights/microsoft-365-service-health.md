@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 93b8c19afb7efb9dc3901e5b51217179a4e9e731
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e50c5091caeb0e85a55eeaf0b4776fabeccf2f20
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600498"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762395"
 ---
 # <a name="microsoft-365-service-health"></a>Microsoft 365 서비스 상태
 
@@ -29,4 +29,4 @@ ms.locfileid: "42600498"
 
 - **기록을** 선택 하 여 조직의 서비스 상태 기록을 검토 합니다. 
 
-자세한 내용은 [How to 365 check service health를](https://docs.microsoft.com/office365/enterprise/view-service-health)참조 하십시오. 
+자세한 내용은 [How to 365 check services health를](https://docs.microsoft.com/office365/enterprise/view-service-health)참조 하십시오. 

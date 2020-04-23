@@ -2,18 +2,18 @@
 title: 액세스 거부 메시지 문제 해결
 ms.author: pebaum
 author: pebaum
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 913324524e4b04ee7eb552bcc4efad1b493ab319
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a1541aa401efbc03e8a6104ba435c7fdf20a977a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051827"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742149"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>액세스 거부 메시지 문제 해결
 
@@ -21,7 +21,7 @@ Sharepoint Online 사이트를 찾아보는 동안 액세스 거부 메시지가
 
 **사용자 추가 및 라이선스를 허가 합니다.**
 
-[비즈니스용 Office 365에서 사용자에 게 라이선스를 할당](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)했는지 확인 합니다.
+[비즈니스용 Microsoft 365에서 사용자에 게 라이선스를 할당](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)해야 합니다.
 
 **사용 권한 할당**
 

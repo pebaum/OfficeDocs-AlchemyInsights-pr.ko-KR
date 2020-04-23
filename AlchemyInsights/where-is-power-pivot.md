@@ -14,12 +14,12 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 326f07ae2cf677822e7c7d31eba4e0dc3a6506a4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769849"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765203"
 ---
 # <a name="where-is-power-pivot"></a>파워 피벗은 어디에 있나요?
 
@@ -33,7 +33,7 @@ Power Pivot이 표시 되지 않는 이유에는 다음 세 가지가 있습니�
   
 Power Pivot을 지 원하는 Excel 버전에서 작업 하는 경우에는 추가 기능이 사용 하도록 설정 되어 있는지 확인 하세요.
   
-1. **파일** \> **** 옵션 \> **추가 기능**을 선택 합니다.
+1. **파일** \> **Options** 옵션 \> **추가 기능**을 선택 합니다.
 
 2. **관리** 드롭다운 상자에서 **COM 추가 기능** 을 선택 하 고 **이동을**클릭 합니다.
 
@@ -41,4 +41,4 @@ Power Pivot을 지 원하는 Excel 버전에서 작업 하는 경우에는 추�
 
 **여러 구독 또는 계정이 있는 경우**
   
-다른 사용자 계정에 다른 Office 365 구독을 할당 했을 수 있습니다. Power Pivot을 지 원하는 Excel 버전을 사용 하 여 계정에 로그인 했는지 확인 합니다. [지원 되는 버전](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)목록을 확인 하 고 지침에 따라 [다른 Office 계정 간을 전환](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)합니다.
+서로 다른 사용자 계정에 서로 다른 Microsoft 365 구독을 할당 했을 수 있습니다. Power Pivot을 지 원하는 Excel 버전을 사용 하 여 계정에 로그인 했는지 확인 합니다. [지원 되는 버전](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)목록을 확인 하 고 지침에 따라 [다른 Office 계정 간을 전환](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)합니다.

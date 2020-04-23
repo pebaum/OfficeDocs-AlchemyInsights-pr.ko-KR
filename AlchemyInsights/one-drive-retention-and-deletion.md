@@ -2,7 +2,7 @@
 title: OneDrive 보존 및 삭제
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5fd6685d02d8178dd524dcc295af1021b17d61b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053339"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761340"
 ---
 # <a name="onedrive-retention-and-deletion"></a>OneDrive 보존 및 삭제
 
@@ -25,7 +25,7 @@ ms.locfileid: "40053339"
 
 - 자세한 내용은 다음 [문서](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) 를 참조 하세요.
     - 다른 사용자에 게 삭제 된 사용자의 OneDrive에 대 한 액세스 권한을 부여 하는 방법
-    - 조직의 사용자 Office 365 계정을 삭제 하면 사용자의 OneDrive가 어떻게 변경 됩니다.
+    - 조직의 사용자 Microsoft 365 계정을 삭제할 때 사용자의 OneDrive가 어떻게 발생 하는지 설명 합니다.
     - 자동 액세스 위임을 구성 하는 방법
     - OneDrive 삭제 프로세스의 작동 방식
 
