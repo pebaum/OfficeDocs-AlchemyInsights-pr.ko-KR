@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001505"
 - "3562"
-ms.openlocfilehash: ef896e79e46c7ef766234fadb57642b8a9736859
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: b515b75d1694488d034e773f3d2ad4d4ab58af96
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599922"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766931"
 ---
-# <a name="sync-warning-last-synced-more-than-3-days-ago"></a><span data-ttu-id="dc812-102">동기화 경고: 마지막으로 3 일 보다 오래 동기화 됨</span><span class="sxs-lookup"><span data-stu-id="dc812-102">Sync warning: last synced more than 3 days ago</span></span>
+# <a name="sync-warning-last-synced-more-than-3-days-ago"></a><span data-ttu-id="5fa03-102">동기화 경고: 마지막으로 3 일 보다 오래 동기화 됨</span><span class="sxs-lookup"><span data-stu-id="5fa03-102">Sync warning: last synced more than 3 days ago</span></span>
 
-<span data-ttu-id="dc812-103">문제 해결에 대 한 자세한 내용은 [Office 365의 디렉터리 동기화 문제 해결](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="dc812-103">For additional troubleshooting, see [Fixing problems with directory synchronization for Office 365](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).</span></span>
+<span data-ttu-id="5fa03-103">문제 해결에 대 한 자세한 내용은 [디렉터리 동기화 문제 수정을](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization)참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="5fa03-103">For additional troubleshooting, see [Fixing problems with directory synchronization](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).</span></span>
 
-<span data-ttu-id="dc812-104">Office [365에서 디렉터리 동기화 상태 보기](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status)의 지침에 따라 office 관리 포털에서 동기화 상태를 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dc812-104">You can check sync status in the Office admin portal by following the instructions in [View directory synchronization status in Office 365](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).</span></span>
+<span data-ttu-id="5fa03-104">[디렉터리 동기화 상태 보기](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status)의 지침에 따라 Office 관리 포털에서 동기화 상태를 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5fa03-104">You can check sync status in the Office admin portal by following the instructions in [View directory synchronization status](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).</span></span>
 

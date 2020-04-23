@@ -12,15 +12,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: 150a64e110a6e2e013952d97d811f0e791803d39
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: e14042fa80be802e646db4e30cd3d5b69b81a1d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059814"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765537"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a><span data-ttu-id="4ae8a-102">SaRA을 사용 하 여 Outlook 인증 문제 진단 및 해결</span><span class="sxs-lookup"><span data-stu-id="4ae8a-102">Use SaRA to diagnose and resolve Outlook authentication issues</span></span>
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a><span data-ttu-id="668b8-102">SaRA를 사용하여 Outlook 인증 문제 진단 및 해결</span><span class="sxs-lookup"><span data-stu-id="668b8-102">Use SaRA to diagnose and resolve Outlook authentication issues</span></span>
 
-<span data-ttu-id="4ae8a-103">**참고**: 조직에 대해 [보안 기본값](http://aka.ms/securitydefaults) 을 사용할 수 있는지 여부를 확인 하세요.</span><span class="sxs-lookup"><span data-stu-id="4ae8a-103">**Note**: Please check to see whether [security defaults](http://aka.ms/securitydefaults) is enabled for your organization.</span></span> <span data-ttu-id="4ae8a-104">테 넌 트를 10 월 21 2019 일 이후에 만든 경우 Outlook에서 암호를 입력 하 라는 메시지가 반복적으로 발생 하는 경우 테 넌 트에서 **보안 기본값** 을 사용 하도록 설정 했을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="4ae8a-104">If your tenant was created after October 21st, 2019 and your Outlook is repeatedly asking you for a password, you may have **security defaults** enabled in your tenant.</span></span>
+<span data-ttu-id="668b8-103">**참고**: 조직에 대해 [보안 기본값](https://aka.ms/securitydefaults) 을 사용할 수 있는지 여부를 확인 하세요.</span><span class="sxs-lookup"><span data-stu-id="668b8-103">**Note**: Please check to see whether [security defaults](https://aka.ms/securitydefaults) is enabled for your organization.</span></span> <span data-ttu-id="668b8-104">테 넌 트를 10 월 21 2019 일 이후에 만든 경우 Outlook에서 암호를 입력 하 라는 메시지가 반복적으로 발생 하는 경우 테 넌 트에서 **보안 기본값** 을 사용 하도록 설정 했을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="668b8-104">If your tenant was created after October 21st, 2019 and your Outlook is repeatedly asking you for a password, you may have **security defaults** enabled in your tenant.</span></span>
 
-<span data-ttu-id="4ae8a-105">Outlook을 사용 하 여 영향을 받는 컴퓨터에서 [암호 진단을 요청](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) 하는 것이 좋습니다.</span><span class="sxs-lookup"><span data-stu-id="4ae8a-105">We highly recommend you use the [Outlook keeps asking for my password](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostic on the affected machine to troubleshoot issues where Outlook continually prompts for a password.</span></span> <span data-ttu-id="4ae8a-106">이 [SaRA](https://diagnostics.office.com/#/) 진단은 자동 검사를 수행 하 고 검색 된 문제를 해결 하는 데 사용할 수 있는 가능한 솔루션을 반환 합니다.</span><span class="sxs-lookup"><span data-stu-id="4ae8a-106">This [SaRA](https://diagnostics.office.com/#/) diagnostic does automated checks and returns possible solutions for you to use to address any detected issues.</span></span>
+<span data-ttu-id="668b8-105">Outlook을 사용 하 여 영향을 받는 컴퓨터에서 [암호 진단을 요청](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) 하는 것이 좋습니다.</span><span class="sxs-lookup"><span data-stu-id="668b8-105">We highly recommend you use the [Outlook keeps asking for my password](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostic on the affected machine to troubleshoot issues where Outlook continually prompts for a password.</span></span> <span data-ttu-id="668b8-106">이 [SaRA](https://diagnostics.office.com/#/) 진단은 자동 검사를 수행 하 고 검색 된 문제를 해결 하는 데 사용할 수 있는 가능한 솔루션을 반환 합니다.</span><span class="sxs-lookup"><span data-stu-id="668b8-106">This [SaRA](https://diagnostics.office.com/#/) diagnostic does automated checks and returns possible solutions for you to use to address any detected issues.</span></span>
