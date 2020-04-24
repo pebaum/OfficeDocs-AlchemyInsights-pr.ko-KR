@@ -1,21 +1,21 @@
 ---
-title: Bing 및 Office 365 ProPlus에서 Microsoft 검색
+title: Bing에서 Microsoft Search 및 엔터프라이즈용 Microsoft 365 앱
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: 3998259957ca49fa8d93d3f5d8be5ac12497d8d1
-ms.sourcegitcommit: 3530e3818d5bac438ed8e402b394a7ef3b4c72de
+ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "41551164"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762323"
 ---
-# <a name="microsoft-search-in-bing-and-office-365-proplus"></a>Bing 및 Office 365 ProPlus에서 Microsoft 검색
+# <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Bing에서 Microsoft Search 및 엔터프라이즈용 Microsoft 365 앱
 
-Office 365 ProPlus 버전 2002부터는 Bing에서의 Microsoft Search용 확장 기능이 설치되어 특정 위치의 장치에서만 Bing을 Chrome 웹 브라우저의 기본 검색 엔진으로 만들 수 있습니다.
+엔터프라이즈용 Microsoft 365 앱 버전 2002부터는 Bing에서의 Microsoft Search용 확장 기능이 설치되어 특정 위치의 장치에서만 Bing을 Chrome 웹 브라우저의 기본 검색 엔진으로 만들 수 있습니다.
 
 **확장이 설치되지 않도록 하려면 [이 단계를 수행](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed)합니다.**
 
