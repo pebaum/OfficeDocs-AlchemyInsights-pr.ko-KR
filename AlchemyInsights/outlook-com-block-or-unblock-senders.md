@@ -3,7 +3,7 @@ title: Outlook.com에서 보낸 사람 차단 또는 차단 해제
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
+ms.date: 04/23/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,21 +15,20 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 67bd05e8d2effa325e152ca568748d4cd92930cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b6a80faa0542f3f68ac431e4ccd7b59894e8eeb9
+ms.sourcegitcommit: 86881d80c859e68bdf9d301a2df6ca9d75e086a0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717770"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43793961"
 ---
 # <a name="block-or-unblock-senders"></a>보낸 사람 차단 또는 차단 해제
 
-차단 된 보낸 사람에 있는 전자 메일 주소 또는 도메인의 메시지가 Outlook 정크 메일 폴더로 직접 이동 합니다. 30 일 후에 정크 메일 폴더에서 전자 메일이 자동으로 제거 되며 복구할 수 없습니다. 제거할 항목을 선택 합니다.
+수신 거부 목록에 있는 전자 메일 주소 또는 도메인의 메시지는 Outlook.com 사서함에 제공 되지 않습니다.
 
 **받은 편지함에서:**
 
 - 메시지 목록에서 메시지를 선택 하 고 **정크** > **블록**을 선택 합니다.
-- **참고:** 정크 메일 폴더에 이미 있는 항목을 차단 하면 해당 항목이 삭제 되지 않습니다.
 
 **다음 설정:**
 
@@ -40,4 +39,4 @@ ms.locfileid: "43717770"
 
 보낸 사람의 차단을 해제 하려면 차단 해제 하려는 전자 메일 주소 또는 도메인 옆의 휴지통 아이콘을 선택 합니다.
 
-자세한 내용은 [정크 메일로 표시 또는 Outlook.com에서 보낸 사람 차단](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)를 참조 하세요.
+자세한 내용은 [차단 된 보낸 사람 또는 전자 메일을 정크 메일로 표시](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)를 참조 하세요.
