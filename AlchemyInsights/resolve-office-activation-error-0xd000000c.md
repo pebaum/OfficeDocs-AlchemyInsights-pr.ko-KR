@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4487"
-ms.openlocfilehash: 0f583f8d4cf0706e1210d5b844dc566c7ae58d98
-ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
+ms.openlocfilehash: d40c8c07bb80c20b0f09521df334fdb99d96ac04
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43116544"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722626"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Office 정품 인증 오류 0xD000000C 해결
 
-- 설치하려는 Mac에서 인터넷이 작동하는지 확인합니다. 인터넷 브라우저를 열고 www.microsoft.com으로 이동하여 이 작업을 수행할 수 있습니다. 페이지가 로드되면 인터넷 연결이 작동하는 것입니다.
+- 설치하려는 Mac에서 인터넷이 작동하는지 확인합니다. 인터넷 브라우저를 열고 [Microsoft](https://www.microsoft.com)로 이동하여 이 작업을 수행할 수 있습니다. 페이지가 로드되면 인터넷 연결이 작동하는 것입니다.
 
 - 모든 Office 앱을 종료합니다.
 

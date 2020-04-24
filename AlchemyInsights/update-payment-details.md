@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059886"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720071"
 ---
 # <a name="update-credit-card-information"></a>신용카드 정보 업데이트
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059886"
 
 페이지를 로드하는 데 문제가 발생한 경우 다른 브라우저에서 웹 페이지를 열거나 Google Chrome의 시크릿 모드나 Microsoft Edge의 InPrivate 등의 개인 브라우저 창에서 페이지를 열어 보세요. 
 
-자세한 내용은 [비즈니스용 Office 365에서 신용 카드 또는 은행 계좌 추가, 업데이트 또는 제거](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) 및 [신용 카드 및 은행 계좌 문제 해결](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)을 참조하세요.
+자세한 내용은 [비즈니스용 Microsoft 365에서 신용 카드 또는 은행 계좌 추가, 업데이트 또는 제거](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) 및 [신용 카드 및 은행 계좌 문제 해결](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)을 참조하세요.

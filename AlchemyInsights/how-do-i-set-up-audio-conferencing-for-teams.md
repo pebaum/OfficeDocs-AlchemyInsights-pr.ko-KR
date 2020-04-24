@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692401"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709945"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – 오디오 회의
 
-Microsoft Teams에서 오디오 회의를 켜거나 설정하는 데 도움이 필요한가요? 이 사용자가 최근 작성되었나요?  이 경우 설정이 적용되려면 2~24시간이 걸립니다.    
+Microsoft Teams에서 오디오 회의를 켜거나 설정하는 데 도움이 필요한가요? 이 사용자가 최근 작성되었나요?  이 경우 설정이 적용되려면 2~24시간이 걸립니다.
 
 사용자에게 오디오 회의를 사용할 수 있는 라이선스가 부여되었는지와 기본 유료 전화 번호가 있는지 확인하려면 다음을 수행합니다.
 
@@ -39,4 +39,4 @@ Microsoft Teams에서 오디오 회의를 켜거나 설정하는 데 도움이 �
 
 7. 해당 사용자를 선택하고 사용자에게 **기본 유료 전화 번호**가 있는지 확인합니다.
 
-자세한 내용은 [Office 365의 통화 플랜](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)을 참조하거나 Microsoft Commerce Billing 팀에 문의하여 라이선스 관련 질문에 대한 도움을 받을 수 있습니다.
+자세한 내용은 [통화 플랜](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)을 참조하거나 Microsoft Commerce Billing 팀에 문의하여 라이선스 관련 질문에 대한 도움을 받을 수 있습니다.

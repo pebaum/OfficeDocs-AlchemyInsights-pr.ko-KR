@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745439"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719310"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>계정이 손상된 경우 권장 조치
 
-[비디오: 손상된 Office 365 계정 문제 해결](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[비디오: 손상된 계정 수정](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. 즉시 [계정 암호를 재설정](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)합니다. 전자 메일을 통해 최종 사용자에게 새 암호를 알리지 마십시오.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745439"
 
 5. 계정이 더 이상 해킹당하지 않는다고 확신할 때까지 [관리 역할 그룹](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles)에서 사용자 계정을 제거하십시오.
 
-향후 데이터 유출 또는 계정 해킹 가능성을 최소화하려면 [Office 365 보안 로드맵](https://docs.microsoft.com//office365/securitycompliance/security-roadmap)을 읽는 것이 좋습니다.
+향후 데이터 침해 또는 계정 손상 가능성을 최소화하려면 [ 365 보안 로드맵](https://docs.microsoft.com//office365/securitycompliance/security-roadmap)을 읽는 것이 좋습니다.
   

@@ -12,16 +12,16 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 3a940182e831c03e040e5bb2dd9c73adcfd2c7b0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 623222ee0cfe9cd5798e341149b439e887a998e4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735467"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759158"
 ---
 # <a name="how-to-install-office"></a>Office 설치 방법
 
-Office 클라이언트 앱을 설치하려면 Office 365 Business Premium, Office 365 Business 또는 Office 365 Education과 같은 비즈니스 구독이 있어야 합니다.
+Office 클라이언트 앱을 설치하려면 Microsoft 365 Business Premium Standard, 비즈니스용 Microsoft 365 앱 또는 Office 365 Education과 같은 비즈니스 구독이 있어야 합니다.
   
 *참고: [Office Home and Business](https://products.office.com/home-and-business)는 [가정용 Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) 제품이며 비즈니스 구독의 일부로 포함되지 않습니다. Visio 또는 Project에 대한 자세한 지침은 [Visio 설치](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) 또는 [프로젝트 설치](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)* 를 참조하십시오.
 
