@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856803"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739442"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>교육용 고객에 대한 Teams 공통 문제
 
@@ -45,12 +45,12 @@ ms.locfileid: "42856803"
     6. 비즈니스용 Skype 관리 센터에서 **오디오 회의**를 클릭한 다음, **사용자**를 클릭합니다.
     7. 해당 사용자를 선택하고 사용자에게 기본 유료 전화 번호가 있는지 확인합니다.
 
-    자세한 내용은 [Office 365의 통화 요금제](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)를 참조하거나 라이선스 관련 질문에 대한 도움말을 보려면 Microsoft 상거래 청구 팀에 문의하세요.
+    자세한 내용은 [통화 플랜](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)을 참조하거나 Microsoft 상거래 청구 팀에 문의하여 라이선스 관련 질문에 대한 도움을 받을 수 있습니다.
 
     추가 리소스
 
     - [Microsoft Teams에서의 모임 및 회의](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Office 365의 오디오 회의](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [오디오 회의](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **모임 정책**: 모임 정책은 조직에서 사용자가 예약한 모임 참가자가 사용할 수 있는 기능을 제어하는 데 사용됩니다. 정책을 만들고 변경하고 사용자를 정책에 할당할 수 있습니다.
 

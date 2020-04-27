@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: aeeb2e1e76fe602d2767b422797452fd1155fdd5
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509507"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788888"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>사용자 사서함에 대한 자동 회신 설정
 
 **메서드 1**
 
-1. Office 365 포털에 로그인
+1. Microsoft 365 포털에 로그인합니다.
 
 2. **사용자> 활성 사용자**(또는 공유 사서함에서 설정한 경우 **그룹> 공유 사서함**)로 이동하세요.
 
@@ -32,7 +32,7 @@ ms.locfileid: "43509507"
 
 **메서드 2**
 
-1. 관리자 자격 증명을 사용하여 Office 365 관리 포털에 로그인합니다.
+1. 관리자 자격 증명을 사용하여 Microsoft 365 관리 포털에 로그인합니다.
 
 2. **관리 센터**를 확장하고 **Exchange**를 클릭합니다.
 

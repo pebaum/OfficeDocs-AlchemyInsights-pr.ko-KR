@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500021"
 - "4689"
-ms.openlocfilehash: c31415c4191ebcf50acc8095de3ba6cf31661aa9
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 19366565b8ecef5e89a2deb9fa1b4ff2476246cf
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191106"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789452"
 ---
 # <a name="transfer-licenses-between-tenants"></a>테넌트 간 라이선스 전송
 
-두 조직(테넌트) 간에 Office 365 라이선스를 전송할 수 없습니다. 
+2개의 조직(테넌트) 간에 라이선스를 전송할 수 없습니다. 
 
 - 라이선스를 전송할 테넌트를 더 이상 사용하지 않을거면 [구독을 취소](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions)하고 [새(대상) 테넌트를 구매](https://products.office.com/compare-all-microsoft-office-products-b?rtc=1&activetab=tab:primaryr2)합니다.
 

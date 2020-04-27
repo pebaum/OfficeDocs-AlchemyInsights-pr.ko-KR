@@ -1,5 +1,5 @@
 ---
-title: Office 365 Education 요금제 구입
+title: Microsoft 365 Education 플랜 구입
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 7773c955d8f6887f87a3c3741fa29a08e41541e0
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195236"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789380"
 ---
-# <a name="purchase-office-365-education-plans"></a>Office 365 Education 요금제 구입
+# <a name="purchase-microsoft-365-education-plans"></a>Microsoft 365 Education 플랜 구입
 
-Office 365 Education을 구입할 수 있도록 승인받았습니다.  구입하려면 다음과 같이 하세요.
+Microsoft 365 Education을 구입할 수 있도록 승인받았습니다.  구입하려면 다음과 같이 하세요.
 
 1. **[청구 > 서비스 구매](https://portal.office.com/AdminPortal/Home#/catalog)** 로 이동
 
@@ -35,6 +35,6 @@ Office 365 Education을 구입할 수 있도록 승인받았습니다.  구입�
 
 **원격 교육 및 학습**
 
-- [Office 365 Education에서 원격 교육 및 학습](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)을 참조하여 학교 설정, 수업 계획, 가상 모임 및 학생들과 콘텐츠 공유에 대한 최신 지침을 알아보세요.
+- [Microsoft 365 Education에서 원격 교육 및 학습](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)을 참조하여 학교 설정, 수업 계획, 가상 모임 및 학생들과 콘텐츠 공유에 대한 최신 지침을 알아보세요.
 
 - [원격 학습을 위한 Microsoft Teams 시작하기](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)와 [원격 학습으로 전환하기](https://www.microsoft.com/education/remote-learning)에 대한 추가 IT 지침이 있습니다.

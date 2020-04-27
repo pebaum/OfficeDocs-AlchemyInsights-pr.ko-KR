@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: fab71b234088b54a684f43dca5533dd0332da48d
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 9f72e8d263c0cef611e2fe19964141d68633e8a3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739067"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765851"
 ---
 # <a name="issue-with-skype-for-business"></a>비즈니스용 Skype에 문제가 있나요?
 
@@ -23,7 +23,7 @@ ms.locfileid: "36739067"
   
 {HealthCheckString}
   
-DNS(도메인) 설정의 NS, CNAME 또는 SRV 레코드가 비즈니스용 Skype에 대해 제대로 구성되지 않았습니다. 자세한 지침은 [DNS 호스팅 공급자에 상관없이 Office 365용 DNS 레코드 만들기](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)를 참조하세요.
+DNS(도메인) 설정의 NS, CNAME 또는 SRV 레코드가 비즈니스용 Skype에 대해 제대로 구성되지 않았습니다. 자세한 지침은 [DNS 호스팅 공급자에 상관없이 DNS 레코드 만들기](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)를 참조하세요.
   
 수정하려면 Microsoft 365 관리 센터의 [도메인](https://admin.microsoft.com/adminportal/home#/Domains) 페이지로 이동하여 도움을 받을 수 있습니다.
   

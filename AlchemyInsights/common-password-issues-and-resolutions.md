@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002325"
 - "4514"
-ms.openlocfilehash: 72f5eed00e11139c445b631236e4bee2fff33238
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: bc5ce953272fb13540c340cec1ab8143af398d51
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028007"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788816"
 ---
 # <a name="common-password-issues-and-resolutions"></a>일반적인 암호 문제 및 해결 방법
 
@@ -28,10 +28,10 @@ ms.locfileid: "43028007"
 
 - [브라우저에서 암호가 계속 캐시될 경우 잊어버린 관리자 암호를 다시 설정합니다](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide#reset-my-office-365-tenant-admin-password).
 
-- **셀프 서비스 암호 재설정**: [Office 365에서 사용자가 암호를 직접 재설정할 수 있도록 지원](https://portal.office.com/adminportal/home#/SettingsMultiPivot/:/Settings/L1/SelfServiceReset) - 또는 자세한 지침은 [사용자가 암호를 직접 재설정할 수 있도록 허용](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords)을 참조하세요.
+- **셀프 서비스 암호 재설정**: [Microsoft 365 및 Azure에서 사용자가 암호를 직접 재설정할 수 있도록 지원](https://portal.office.com/adminportal/home#/SettingsMultiPivot/:/Settings/L1/SelfServiceReset) - 또는 자세한 지침은 [사용자가 암호를 직접 재설정할 수 있도록 허용](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords)을 참조하세요.
 
 - [셀프 서비스 암호 재설정 연락처 정보 업데이트](https://go.microsoft.com/fwlink/?linkid=849451) - SSPR은 기본적으로 관리자가 사용할 수 있도록 설정되어 있습니다. 
 
 - **암호 만료 정책 설정**: **설정 > 설정 > 보안 및 개인 정보 > [암호 만료 정책](https://admin.microsoft.com/AdminPortal/Home#/SettingsMultiPivot/:/Settings/L1/PasswordPolicy)**
 
-추가 암호 재설정 시나리오를 위해 [Office 365 비즈니스 암호를 재설정](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)하거나 보다 구체적인 문제 설명을 입력해 보세요.
+추가 암호 재설정 시나리오를 위해 [Microsoft 365 비즈니스 암호를 재설정](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)하거나 보다 구체적인 문제 설명을 입력해 보세요.

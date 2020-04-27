@@ -1,5 +1,5 @@
 ---
-title: Office 365 구독 활성화
+title: Microsoft 365 구독 활성화
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191071"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784013"
 ---
-# <a name="activate-your-office-365-subscription"></a>Office 365 구독 활성화
+# <a name="activate-your-subscription"></a>구독 활성화
 
 **구독 활성화**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191071"
 
 **구독 다시 활성화**
 
-구독이 만료되거나 Microsoft에서 비활성화한 경우 또는 구독 기간 중간에 취소한 경우 Office 365 관리 센터에서 구독을 다시 활성화할 수 있습니다.
+구독이 만료되었거나 Microsoft에서 비활성화한 경우 또는 구독 기간 중에 취소한 경우 Microsoft 365 관리 센터에서 구독을 다시 활성화할 수 있습니다.
 
-- Office 365 관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동하거나 **청구 > 구독**을 클릭합니다.
+- Microsoft 365 관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동합니다(또는 **청구 > 구독** 클릭).
 
 - 다시 활성화할 구독을 선택한 다음 **다시 활성화**를 클릭합니다. 가능한 작업으로 **다시 활성화**가 표시되지 않으면 [지원에 연락](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)하여 구독을 다시 활성화하세요.
 
@@ -42,6 +42,6 @@ ms.locfileid: "43191071"
 
 **제품 키로 새 구독 활성화**
 
-- 제품 키를 사용하여 새 Office 365 구독을 활성화하려면 [여기에서](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db) 시작합니다.
+- 제품 키를 사용하여 새 Microsoft 365 구독을 활성화하려면 [여기](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)에서 시작합니다.
 
-- Office 365 제품 키를 입력하고 화면의 지시에 따라 구독을 활성화합니다. 활성화하는 데 문제가 있으면 [일반적인 제품 키 오류 및 해결 방법](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions) 목록을 확인하세요.
+- Microsoft 365 제품 키를 입력하고 화면의 지시에 따라 구독을 활성화합니다. 활성화하는 데 문제가 있으면 [일반적인 제품 키 오류 및 해결 방법](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions) 목록을 확인하세요.
