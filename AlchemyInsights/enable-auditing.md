@@ -12,12 +12,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703649"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908422"
 ---
 # <a name="enable-and-search-the-audit-log"></a>감사 로그 사용 및 검색
 
@@ -31,7 +31,7 @@ Microsoft 365 감사 로그를 검색 하려면 [다음 단계](https://docs.mic
 
 - 사서함 감사는 Microsoft 365에서 기본적으로 사용 됩니다. 자세한 내용은 [이 문서](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)를 참조 하세요.
 
-- Office 365 Exchange Online의 그룹 사서함 및 공용 폴더 사서함은 감사 로깅을 지원 하지 않습니다.
+- Exchange Online의 Microsoft 365 그룹 사서함 및 공용 폴더 사서함은 감사 로깅을 지원 하지 않습니다.
 
 **SharePoint 및 OneDrive**
 

@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: e84a5b04d6fc805deaa47cb10c91081f37411e5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7dbc69bced9ca800d3f95081b77dda5e49662579
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737879"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43910938"
 ---
 # <a name="add-external-users-to-a-distribution-group"></a>메일 그룹에 외부 사용자 추가
 
@@ -34,11 +34,11 @@ DG (메일 그룹)에 외부 연락처를 추가 하는 과정은 두 단계로 
     
     3. **구성원** 탭에서 **모두 보기 및 구성원 관리**를 선택 합니다. 
     
-    4. **구성원 추가**를 선택 합니다.
+    4. **구성원 추가**를 선택합니다.
     
     5. 이전 단계에서 만든 메일 연락처를 선택한 다음 **저장**을 선택 합니다.
     
 이러한 단계를 수행한 후에 외부 사용자가 DG로 전자 메일을 보내거나 보내지 못하는 경우에는 내부 사용자의 전자 메일만 허용 하도록 DG가 표시 될 수 있습니다. 이 구성을 확인 하 고 [여기에 나와](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online)있는 지침을 따라 문제를 해결할 수 있습니다.
   
- **참고:** 그룹 유형이 "Office 365 group" ("메일 그룹")이 아닌 경우에는 이러한 지침이 적용 되지 않습니다. 이 경우 외부 사용자를 Outlook에서 그룹에 직접 추가할 수 있습니다. [이 문서](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)에서는 Office 365 그룹 게스트와 외부 게스트 추가에 대 한 지침을 볼 수 있습니다.
+ **참고:** 그룹 유형이 "메일 그룹" 대신 "Microsoft 365 group" 인 경우에는 이러한 지침이 적용 되지 않습니다. 이 경우 외부 사용자를 Outlook에서 그룹에 직접 추가할 수 있습니다. [이 문서](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)에서는 Microsoft 365 그룹 게스트와 외부 게스트를 추가 하는 방법에 대 한 자세한 정보를 확인할 수 있습니다.
   

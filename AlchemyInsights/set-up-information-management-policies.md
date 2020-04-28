@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
-ms.openlocfilehash: cef833cfe39cc7f7fc01f19019f56f7675d24733
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 329f8273b287f2b8d137098d29933afa4ce6188f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767543"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912756"
 ---
 # <a name="set-up-information-management-policies"></a>정보 관리 정책 설정
 
 1. SharePoint 사이트에 하위 사이트가 있는 경우 최상위 사이트로 이동 합니다.
     
-2. **설정을**클릭 한 다음 **사이트 설정을**클릭 합니다. 사이트가 Office 365 그룹에 연결 된 사이트인 경우 **설정을**클릭 하 고 **사이트 콘텐츠**를 클릭 한 다음 **사이트 설정을**클릭 합니다.
+2. **설정을**클릭 한 다음 **사이트 설정을**클릭 합니다. 사이트가 Microsoft 365 그룹 연결 사이트인 경우 **설정을**클릭 하 고 **사이트 콘텐츠**를 클릭 한 다음 **사이트 설정을**클릭 합니다.
     
 3. **사이트 모음 관리**에서 **사이트 모음 기능**을 클릭합니다.
     

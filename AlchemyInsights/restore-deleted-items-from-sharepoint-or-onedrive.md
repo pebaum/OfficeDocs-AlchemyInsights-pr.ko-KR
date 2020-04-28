@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1a1c72078f6357332f48d369e482ab20cb82f868
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742521"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912553"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>SharePoint 또는 OneDrive에서 삭제 된 항목 복원
 
@@ -34,6 +34,6 @@ SharePoint 사이트에서 파일, 폴더, 라이브러리, 목록 및 목록 �
   
 [삭제 된 사이트 모음 복원](https://go.microsoft.com/fwlink/?linkid=867660) (Microsoft 365의 전역 또는 SharePoint admins) 
   
-Office 365 그룹에 속하는 사이트의 경우에는 그룹을 복원 하 여 사이트를 복원 해야 합니다. [삭제 된 Office 365 그룹 복원](https://go.microsoft.com/fwlink/?linkid=867802) 참조 (전역 관리자) 
+Microsoft 365 그룹에 속하는 사이트의 경우에는 그룹을 복원 하 여 사이트를 복원 해야 합니다. [삭제 된 Microsoft 365 그룹 복원](https://go.microsoft.com/fwlink/?linkid=867802) 참조 (전역 관리자) 
   
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721800"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912409"
 ---
 # <a name="manage-access-requests"></a>액세스 요청 관리
 
@@ -26,7 +26,7 @@ ms.locfileid: "43721800"
     
 2. **사용자 및 사용 권한**에서 **액세스 요청 및 초대**를 클릭합니다. 이 표시 되지 않으면 액세스 요청이 수행 되지 않은 것입니다.
     
-3. 사용자에 게 사용 권한을 개별적으로 부여 하려면 **승인** 또는 **거절**을 클릭 합니다. 특정 사용 권한 수준을 선택 하려면 먼저 사용자 이름 옆에 있는 줄임표 (...)를 클릭 합니다. 또는 사이트에 대 한 사용 권한이 있는 그룹에 사용자를 추가 합니다. 커뮤니케이션 사이트 및 클래식 팀 사이트의 경우 사이트 설정 페이지에서이 작업을 수행할 수 있습니다. Office 365 그룹에 속하는 사이트의 경우 그룹에 사용자를 추가할 수 있습니다.
+3. 사용자에 게 사용 권한을 개별적으로 부여 하려면 **승인** 또는 **거절**을 클릭 합니다. 특정 사용 권한 수준을 선택 하려면 먼저 사용자 이름 옆에 있는 줄임표 (...)를 클릭 합니다. 또는 사이트에 대 한 사용 권한이 있는 그룹에 사용자를 추가 합니다. 커뮤니케이션 사이트 및 클래식 팀 사이트의 경우 사이트 설정 페이지에서이 작업을 수행할 수 있습니다. Microsoft 365 그룹에 속하는 사이트의 경우 그룹에 사용자를 추가할 수 있습니다.
     
     [액세스 요청 관리](https://go.microsoft.com/fwlink/?linkid=2008747)
     

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642150"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912972"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>SharePoint에서 그룹 연결 된 사이트를 만들 때의 문제
 
@@ -30,5 +30,5 @@ ms.locfileid: "43642150"
 
 1. SharePoint에서 최신 그룹을 만들고 사용 하는 방법에는 여러 가지가 있습니다.
 
-   - 기존 사이트를 Office 365 그룹에 연결할 수 있습니다. 자세한 내용은 [Connect a Office 365 group Using SharePoint 사용자 인터페이스](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)를 참조 하세요.
-   - Office 365 그룹 연결 사이트를 만들려면 [팀 사이트](https://admin.microsoft.com/sharepoint)를 만들어야 합니다.
+   - 기존 사이트를 Microsoft 365 그룹에 연결할 수 있습니다. 자세한 내용은 [SharePoint 사용자 인터페이스를 사용 하 여 a Microsoft 365 그룹 연결](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)을 참조 하십시오.
+   - Microsoft 365 그룹 연결 사이트를 만들려면 [팀 사이트](https://admin.microsoft.com/sharepoint)를 만들어야 합니다.

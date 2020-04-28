@@ -11,12 +11,12 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: b9659f657555411ffd87a63bc099708b49d46300
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ab54d84f921f9cd2aa895e8a9684c638bde69838
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762143"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912228"
 ---
 # <a name="migrate-public-folder-data-to-microsoft-365"></a>Microsoft 365로 공용 폴더 데이터 마이그레이션
 
@@ -28,5 +28,5 @@ Microsoft 365로 가져올 공용 폴더가 많지 않은 경우 데이터를에
 
 - [Exchange 2013, Exchange 2016 또는 Exchange 2019 공용 폴더 마이그레이션](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-또한 [공용 폴더를 Office 365 그룹으로 마이그레이션하](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups)는 옵션도 있습니다.
+또한 [공용 폴더를 Microsoft 365 그룹으로 마이그레이션하](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups)는 옵션도 있습니다.
   

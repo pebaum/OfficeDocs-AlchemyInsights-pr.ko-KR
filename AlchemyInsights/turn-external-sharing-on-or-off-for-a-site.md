@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: 031807336e93fbf1862af01bbd78d14d048ac6b3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 733f470e606bb6bf4b4efbfa863b1258699fc311
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732002"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912936"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>SharePoint 사이트에 대해 외부 공유 설정 또는 해제
 
@@ -26,7 +26,7 @@ ms.locfileid: "43732002"
     
 2. 사이트 또는 사이트를 선택 하 고 리본 메뉴에서 **공유**를 클릭 합니다.
     
-기본적으로 조직 전체 설정에서 로그인이 필요 하지 않은 링크를 사용 하 여 파일을 공유할 수 있는 경우가 아니면 사용자가 만드는 새 사이트 (Office 365 그룹 및 통신 사이트에 속하는 팀 사이트 모두)가 조직 전체 설정과 동일 합니다. 이 경우 사이트는 로그인 하는 신규 및 기존 외부 사용자와의 공유를 허용 합니다. 특정 사이트에 대 한 설정을 변경 하려면 새 SharePoint 관리 센터를 사용 합니다.
+기본적으로 조직 전체 설정에서 로그인이 필요 하지 않은 링크를 사용 하 여 파일을 공유할 수 있는 경우를 제외 하 고 사용자가 만드는 새 사이트 (Microsoft 365 그룹 및 통신 사이트에 속하는 팀 사이트 모두)는 조직 전체 설정과 동일한 공유 설정을 갖습니다. 이 경우 사이트는 로그인 하는 신규 및 기존 외부 사용자와의 공유를 허용 합니다. 특정 사이트에 대 한 설정을 변경 하려면 새 SharePoint 관리 센터를 사용 합니다.
   
 > [!NOTE]
 > 모든 사이트에 대 한 외부 공유 설정은 조직 차원의 설정 보다 더 제한적으로 사용할 수 있지만 조직 전체 설정 보다는 허용이 더 이상 가능 하지 않습니다. 

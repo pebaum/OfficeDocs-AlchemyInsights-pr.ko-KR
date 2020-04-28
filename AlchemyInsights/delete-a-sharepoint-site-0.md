@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: aa881dd6618f6912b854929db625f4cbaeb048d7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 612410700b00f02e524ada86d505883fb0f2d0fe
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705019"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911586"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Office 365 그룹에 속하는 사이트 삭제
+# <a name="delete-sites-that-belong-to-an-microsoft-365-group"></a>Microsoft 365 그룹에 속하는 사이트 삭제
 
-사용자가 SharePoint Home에서 새 팀 사이트를 만들거나 새 SharePoint 관리 센터에서 새 팀 사이트를 만드는 경우 해당 Office 365 그룹이 자동으로 만들어집니다. Office 365 그룹 연결 팀 사이트는 Microsoft 팀에서 Office 365 그룹 또는 팀을 만들 때도 만들어집니다. Office 365 그룹에 속하는 SharePoint 사이트를 삭제 하려면 Office 365 그룹 자체를 삭제 해야 합니다. 
+사용자가 SharePoint Home에서 새 팀 사이트를 만들거나 새 SharePoint 관리 센터에서 새 팀 사이트를 만드는 경우 해당 Microsoft 365 그룹이 자동으로 만들어집니다. Microsoft 365 그룹에 연결 된 팀 사이트는 microsoft 365 그룹 또는 Microsoft 팀에서 팀을 만드는 경우에도 만들어집니다. Microsoft 365 그룹에 속하는 SharePoint 사이트를 삭제 하려면 Microsoft 365 그룹 자체를 삭제 해야 합니다. 
   
 1. [Microsoft 365 관리 센터의 그룹 페이지로](https://portal.office.com/adminportal/home#/groups)이동 합니다.
     

@@ -1,5 +1,5 @@
 ---
-title: '팀 업그레이드 연기 '
+title: 팀 업그레이드 연기
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: 37263aefe56b673429eb773719413688b72457e7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: fcf724e335bd6a7cb4801d9b2789447befc06ff7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43785345"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912517"
 ---
 # <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Microsoft 기반 팀 업그레이드를 연기 하는 방법
+
+**중요**: 지원 진단을 사용 하 여이 문제를 해결할 수는 있지만 새 관리 센터를 사용 하 고 있지 않은 것 같습니다. 새 관리 센터를 사용 하려면 **새 관리 센터** 를 표시 하는 오른쪽 위 단추를 오른쪽 위로 밀어 둡니다. 새 관리 센터를 사용 하 여 **도움이 필요 하신가요?** widget을 클릭 하 고 "팀 업그레이드 연기"를 입력 한 다음 화면의 지시에 따라 진단 프로그램을 실행 합니다.
 
 비즈니스용 Skype에서 microsoft 팀으로 Microsoft 연동 자동 업그레이드에 대 한 통신을 받은 경우, 자동 업그레이드를 나중 날짜로 연기 하려면 전역 관리자가 [팀 관리 포털](https://admin.teams.microsoft.com/dashboard) 에 로그인 하 고 Microsoft 팀 업그레이드에서 **상태 새로 고침** 단추를 선택한 후 **연기** 단추를 선택 합니다. Microsoft 팀에 대 한 테 넌 트의 자동 업그레이드에 대 한 새 날짜를 보려면 팀 관리 포털 페이지를 새로 고칩니다.
 

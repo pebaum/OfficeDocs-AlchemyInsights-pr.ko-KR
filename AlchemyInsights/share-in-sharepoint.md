@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 0498f7e6b4b0989f043afbb7573af54b5206a11a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: daab5cfbcb52a1e946a5bd228897a2dc5e3ebe7e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742373"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911694"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>SharePoint Online에서 공유 하는 방법
 
@@ -24,7 +24,7 @@ ms.locfileid: "43742373"
   
 1. 웹 브라우저에서 사이트를 엽니다.
     
-2. 사이트가 Office 365 그룹에 속하는 경우 오른쪽 위에 있는 설정 아이콘을 클릭 한 다음 **사이트 사용 권한을**클릭 합니다. **초대 사용자**를 클릭 한 다음 Office 365 그룹에 구성원을 추가 하거나 사이트를 공유 하도록 선택 합니다. 
+2. 사이트가 Microsoft 365 그룹에 속하는 경우 오른쪽 위에 있는 설정 아이콘을 클릭 한 다음 **사이트 사용 권한을**클릭 합니다. **초대 사용자**를 클릭 한 다음 Microsoft 365 그룹에 구성원을 추가 하거나 사이트를 공유 하도록 선택 합니다. 
     
     커뮤니케이션 사이트의 경우 오른쪽 위에 있는 **사이트 공유** 를 클릭 하 고 사용자 이름을 입력 한 후에 사용 권한 수준 (읽기, 편집 또는 모든 권한)을 선택 합니다. 
     

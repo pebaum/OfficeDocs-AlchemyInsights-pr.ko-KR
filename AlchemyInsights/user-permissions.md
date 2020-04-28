@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710521"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912900"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>SharePoint 및 OneDrive의 사용자 사용 권한
 
@@ -27,7 +27,7 @@ ms.locfileid: "43710521"
   
 1. 웹 브라우저에서 사이트를 엽니다.
     
-2. 사이트가 Office 365 그룹에 속하는 경우 오른쪽 위에 있는 설정 아이콘을 클릭 한 다음 **사이트 사용 권한을**클릭 합니다. **초대 사용자**를 클릭 한 다음 Office 365 그룹에 구성원을 추가 하거나 사이트를 공유 하도록 선택 합니다. 
+2. 사이트가 Microsoft 365 그룹에 속하는 경우 오른쪽 위에 있는 설정 아이콘을 클릭 한 다음 **사이트 사용 권한을**클릭 합니다. **초대 사용자**를 클릭 한 다음 Microsoft 365 그룹에 구성원을 추가 하거나 사이트를 공유 하도록 선택 합니다. 
     
     커뮤니케이션 사이트의 경우 오른쪽 위에 있는 **사이트 공유** 를 클릭 하 고 사용자 이름을 입력 한 후에 사용 권한 수준 (읽기, 편집 또는 모든 권한)을 선택 합니다. 
     

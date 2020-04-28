@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 8ee45688c5ffb4b02295e7a4df655c6e3a8dd6fe
-ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
+ms.openlocfilehash: b886dca3123bc2c437f4235c8d8ced7a5cc36a40
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573219"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912792"
 ---
 # <a name="modernize-your-sharepoint-sites"></a>SharePoint 사이트 Modernize
 
@@ -24,6 +24,6 @@ ms.locfileid: "42573219"
 
 * 사이트 페이지 및 목록 및 라이브러리 페이지에 대 한 최신 사용자 인터페이스의 사용을 최대화 하려면 Modernize the [user interface](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface)를 참조 하십시오.
 * 최신 사용자 인터페이스를 사용할 때 목록 및 라이브러리의 차단을 해제 하는 방법에 대 한 자세한 내용은 [최신 목록 및 라이브러리의 사용 극대화](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)를 참조 하세요.
-* Office 365 그룹에 연결 하 고 그룹 연결을 수행 하는 방법에 대 한 자세한 내용은 [Connect To office 365 group](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)를 참조 하십시오.
+* Microsoft 365 그룹에 연결 하 고 그룹 연결을 수행 하는 방법에 대 한 자세한 내용은 [microsoft 365 그룹에 연결](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)을 참조 하십시오.
 
 **중요**: 이미 최신 보기로 페이지를 표시 해야 하는 경우에는 해당 페이지로 이동 하 여 url을 복사한 다음 지원 티켓 정보의 일부로 url을 제공 하세요.
