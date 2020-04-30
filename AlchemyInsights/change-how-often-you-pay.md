@@ -14,13 +14,20 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
+ms.sourcegitcommit: 7755f288fcc718571367cf1960962b19a82bac4f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706833"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43939661"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="ef211-102">지불 빈도 변경</span><span class="sxs-lookup"><span data-stu-id="ef211-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="ddb27-102">지불 빈도 변경</span><span class="sxs-lookup"><span data-stu-id="ddb27-102">Change how often you pay</span></span>
 
- <span data-ttu-id="ef211-103">**결제 빈도를 변경 하 시겠습니까?**</span><span class="sxs-lookup"><span data-stu-id="ef211-103">**Want to change your payment frequency?**</span></span> <span data-ttu-id="ef211-104">Microsoft 365 비즈니스 에디션 구독에 대 한 요금을 지불 하는 빈도를 연간에서 매월 또는 매월 이상 변경 하려는 경우이 작업을 지원할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ef211-104">If you want to change how frequently you pay for your Microsoft 365 for business subscription, either from annual to monthly or monthly to annual, we can help you with that.</span></span> <span data-ttu-id="ef211-105">새 결제 빈도로 동일한 구독을 구입 하 고 이전 구독을 취소 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="ef211-105">You'll need to purchase the same subscription with the new payment frequency and cancel the old subscription.</span></span> <span data-ttu-id="ef211-106">지원 엔지니어에 게 문의 하려면 "전화를 받을 수 있습니다." 옵션을 사용 하세요.</span><span class="sxs-lookup"><span data-stu-id="ef211-106">Please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="ddb27-103">구독에 대 한 비용 청구 및 비용을 지불 하는 빈도를 변경 하려면 Microsoft 365 관리 센터에서 다음 단계를 완료 합니다.</span><span class="sxs-lookup"><span data-stu-id="ddb27-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span> 
+1. <span data-ttu-id="ddb27-104">**청구 > [제품 및 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054)** 로 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="ddb27-104">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
+2. <span data-ttu-id="ddb27-105">변경 하려는 구독을 찾습니다.</span><span class="sxs-lookup"><span data-stu-id="ddb27-105">Find the subscription you want to change.</span></span> <span data-ttu-id="ddb27-106">**청구** 섹션에서 **매월 결제** 또는 **매년 청구**옆에 있는 **편집**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="ddb27-106">In the **Billing** section, next to **Billed monthly** or **Billed annually**, click **Edit**.</span></span> 
+3. <span data-ttu-id="ddb27-107">대금을 청구할 빈도에 대 한 옵션을 선택 하 고 **변경을**클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="ddb27-107">Choose the option for how often you want to be billed, then click **Change**.</span></span>
+
+<span data-ttu-id="ddb27-108">**참고**: 매월 또는 연간 대금 청구만 옵션입니다.</span><span class="sxs-lookup"><span data-stu-id="ddb27-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+
+<span data-ttu-id="ddb27-109">자세한 내용은 [결제 빈도 변경을](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide)참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="ddb27-109">For more info, see [Change your payment frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).</span></span>
