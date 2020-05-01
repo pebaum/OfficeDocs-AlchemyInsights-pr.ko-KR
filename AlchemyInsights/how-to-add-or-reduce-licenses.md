@@ -1,5 +1,5 @@
 ---
-title: 라이선스를 추가 하거나 줄이는 방법
+title: 구독에 대 한 라이선스 추가 또는 제거
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: bf92bc9d6bfc8d7a07bff02d18fda7a8800247d4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e97658ab8fff504c8adccfa7e68cce0b613aee53
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709593"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957840"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>라이선스를 추가 하거나 줄이는 방법
+# <a name="add-or-remove-licenses-for-your-subscription"></a>구독에 대 한 라이선스 추가 또는 제거
 
 라이선스를 추가/제거 하는 방법은 다음과 같습니다.
   
@@ -41,6 +41,6 @@ ms.locfileid: "43709593"
   
 - [구독 라이선스 관리-구매 또는 제거](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Office 365 비즈니스 에디션 취소](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Microsoft 365 for business 취소](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [비즈니스용 Office 365 구독 구입](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [다른 Microsoft 365 for business 구독 구입](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
