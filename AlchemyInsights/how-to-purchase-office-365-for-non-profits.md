@@ -1,5 +1,5 @@
 ---
-title: 비영리 사람을 위해 Office 365를 구매 하는 방법
+title: 비영리 통화에 대 한 Microsoft 365 (검토 중)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763547"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005228"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>비영리 사람을 위해 Office 365를 구매 하는 방법
+# <a name="microsoft-365-for-nonprofits---under-review"></a>비영리 통화에 대 한 Microsoft 365 (검토 중)
 
-Microsoft 자격이 있는 비영리 단체의 자격이 검토 중에 발생 합니다. 평가판이 만료 되기 전에 자격이 결정 되는 것을 알리는 알림을 받을 수 있습니다. [여기](https://eligibilityweb.azurewebsites.net/)에서 응용 프로그램의 상태를 추적할 수 있습니다.
+Microsoft 자격이 있는 비영리 단체의 자격이 **검토**중에 발생 합니다. 제출 당시에 자격 증명을 **48 시간** 을 결정 하는 알림을 받을 수 있습니다. 서비스 요청을 열기 전에 최소 **48 시간** 까지 허용 하 여이 알림을 받을 수 있습니다. 
+
+자세한 내용은 [비 수익에 대 한 Microsoft 365](https://www.microsoft.com/nonprofits/microsoft-365)을 참조 하세요. 

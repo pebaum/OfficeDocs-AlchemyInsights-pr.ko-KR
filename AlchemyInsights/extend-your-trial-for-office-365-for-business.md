@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 46dd8532d920c33d2bd82c1cea752944b3a99866
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702888"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005336"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>비즈니스에 대 한 Microsoft 365 평가판 연장
 
-다른 30 일 기간 동안 평가판을 연장할 수 있습니다. 연장은 한 번만 가능합니다.
+30 일 동안 평가판을 연장할 수 있습니다. 평가판이 30 일 추가 [유예 기간 동안](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)진행 됩니다. 평가판을 확장 하려면 다음 단계를 수행 합니다.
   
 1. 관리 센터에서 **청구** \> [제품 & 서비스로](https://portal.office.com/adminportal/home#/subscriptions)이동 합니다.
 

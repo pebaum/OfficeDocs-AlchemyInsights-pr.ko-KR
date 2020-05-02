@@ -1,5 +1,5 @@
 ---
-title: 비영리 사람을 위해 Office 365를 구매 하는 방법
+title: 수익이 없는 경우 Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: a529d4cb278c0c732a603acea11310e47f90ec57
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: facb44c932a2a610df3c4714c102a666bdf9aa20
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763619"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005300"
 ---
-# <a name="how-to-purchase-office-365-for-nonprofits"></a>비영리에 대해 Office 365를 구매 하는 방법
+# <a name="microsoft-365-for-nonprofits---declined"></a>수익이 없는 경우 Microsoft 365
 
 요청을 검토 했으며이 조직이 Microsoft 자격이 있는 비영리 조직으로 적합 하지 않다고 결정 했습니다.
   

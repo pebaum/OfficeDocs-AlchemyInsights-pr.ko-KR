@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724562"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005264"
 ---
-# <a name="inbox-rules"></a>받은 편지함 규칙
+# <a name="inbox-rules-in-outlook-desktop"></a>Outlook 데스크톱의 받은 편지함 규칙
 
-사서함에서 받은 편지함 규칙을 사용 하는 방법에 대 한 자세한 내용은 다음을 참조 하십시오.
+1. **파일 > 규칙 관리 & 경고** 를 이동 하 여 **규칙 및 알림** 대화 상자를 엽니다.
+2. **전자 메일 규칙** 탭에서 **새 규칙**을 클릭 합니다.
+3. **1 단계의**서식 파일 중 하나를 선택 합니다. 새 규칙에서 시작 하려면 내가 받은 메시지에 **규칙 적용**을 선택 합니다.
+4. **2 단계: 규칙 설명 편집 상자**에서 밑줄이 그어진 옵션을 클릭 하 여 설정 합니다. 예를 들어 1 단계에서 **특정인이 보낸 메시지에 플래그** 를 지정 하도록 선택한 경우 **사용자 또는 공용 그룹** 을 클릭 하 고 플래그를 지정할 보낸 사람 메시지를 선택 합니다. 그런 다음 지금 **추가 작업** 을 클릭 하 여 플래그 및 추가 작업 날짜를 선택 합니다.
+5. **다음**을 클릭합니다.
 
-- [PC 용 Outlook에서 규칙을 사용 하 여 전자 메일 메시지 관리](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [웹용 Outlook에서 받은 편지함 규칙을 사용 하 여 메시지 관리](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-또한 Exchange Online PowerShell에서 받은 편지함 규칙을 관리할 수 있습니다. 자세한 내용은 [Get-disable-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (보기), [disable-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (만들기), [제거-Disable-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (삭제), [설정-disable-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (기존 수정), [disable-Disable-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (기존 항목 사용 안 함) 및 [enable-disable-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (사용 하지 않도록 설정)을 참조 하십시오.
+받은 편지함 규칙을 사용 하는 방법에 대 한 자세한 내용은 [규칙을 사용 하 여 전자 메일 메시지 관리](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59)를 참조 하세요.
