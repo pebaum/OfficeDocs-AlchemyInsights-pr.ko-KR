@@ -11,12 +11,12 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d941bce524dc797d5dcbb7213bded6919fd01b7d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726254"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010873"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>ODT (Office 배포 도구) 사용
 
@@ -42,4 +42,4 @@ ODT (Office 배포 도구)를 사용 하 여 Office 365 버전의 Office를 배�
 
     **참고:** Office를 설치 하려는 클라이언트 컴퓨터에서이 단계를 실행 해야 하며 해당 컴퓨터에 대 한 로컬 관리자 권한이 있어야 합니다.
 
-Office 배포 도구 365를 사용 하 여 엔터프라이즈 배포 시나리오에 대 한 자세한 내용은 [office 배포 도구 개요](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)를 참조 하세요. Office 사용자 지정 도구를 사용 하는 방법에 대 한 자세한 내용은 [Office 사용자 지정 도구 개요](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)를 참조 하세요.
+Office 배포 도구 365를 사용 하 여 엔터프라이즈 배포 시나리오에 대 한 자세한 내용은 [office 배포 도구 개요](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)를 참조 하세요. Office 사용자 지정 도구를 사용 하는 방법에 대 한 자세한 내용은 [Office 사용자 지정 도구 개요](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)를 참조 하세요.

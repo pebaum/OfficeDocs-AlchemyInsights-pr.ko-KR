@@ -10,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7252efdc0f55b8923e685ec89f9b3c63882aa6b0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6e952513679c9ac66f8de2b43d6d243cf17ff789
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763223"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010620"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>터미널 서버에 Office 설치
 
@@ -23,7 +23,7 @@ ms.locfileid: "43763223"
   
 - Office 365 Enterprise E3 또는 Enterprise e 3과 같은 microsoft 365 앱 for enterprise를 포함 하는 Microsoft 365 구독이 있어야 합니다. Microsoft 365 비즈니스용 business 및 Microsoft 365 Apps Premium 요금제에는 Microsoft 365 앱 for enterprise가 포함 되어 있지 않습니다.
 
-- [공유 컴퓨터 활성화](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)를 사용 하도록 설정 해야 합니다.
+- [공유 컴퓨터 활성화](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)를 사용 하도록 설정 해야 합니다.
 
 Microsoft 365 관리 센터에서 RDS에 Microsoft 365 앱을 설치 하려면 ***기본 설치 설정을 사용 하는***경우에는 다음 단계를 수행 합니다.
 
@@ -48,9 +48,9 @@ Microsoft 365 관리 센터에서 RDS에 Microsoft 365 앱을 설치 하려면 *
 
 3. 레지스트리 편집기에서 HKEY_LOCAL_MACHINE \SOFTWARE\Microsoft \Office\ClickToRun\Configuration.에 설정 1을 사용 하 여 **Sharedcomputerlicensing** 의 문자열 값을 추가 합니다.
 
-7. RDS 서버에서 ***최종 사용자로 로그인*** 하 고 [Microsoft 365 for enterprise 앱에 대해 공유 컴퓨터 활성화가 사용 하도록 설정 되어 있는지 확인](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)합니다.
+7. RDS 서버에서 ***최종 사용자로 로그인*** 하 고 [Microsoft 365 for enterprise 앱에 대해 공유 컴퓨터 활성화가 사용 하도록 설정 되어 있는지 확인](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)합니다.
 
-Office 배포 도구를 사용 하 여 필수 구성 요소, 설치 지침 및 사용자 지정 설치에 대 한 지침에 대 한 자세한 내용은 [Deploy Microsoft 365 Apps for enterprise for a Remote 데스크톱 Services](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)를 참조 하세요.
+Office 배포 도구를 사용 하 여 필수 구성 요소, 설치 지침 및 사용자 지정 설치에 대 한 지침에 대 한 자세한 내용은 [Deploy Microsoft 365 Apps for enterprise for a Remote 데스크톱 Services](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)를 참조 하세요.
   
-공유 컴퓨터 활성화와 관련 된 오류를 해결 하려면 [엔터프라이즈에 대 한 Microsoft 365 앱에 대 한 공유 컴퓨터 활성화의 문제 해결](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)을 참조 하십시오.
+공유 컴퓨터 활성화와 관련 된 오류를 해결 하려면 [엔터프라이즈에 대 한 Microsoft 365 앱에 대 한 공유 컴퓨터 활성화의 문제 해결](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)을 참조 하십시오.
   

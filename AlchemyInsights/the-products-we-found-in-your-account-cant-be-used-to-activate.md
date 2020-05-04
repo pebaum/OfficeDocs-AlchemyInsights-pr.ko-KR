@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3418"
 - "9001424"
-ms.openlocfilehash: 5a1184201e5d9bd58837cb28072da0bf972e16dc
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0500e998a457c074517b098e95acbd698c4e6b08
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766823"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010574"
 ---
 # <a name="fixing-the-office-apps-the-products-we-found-in-your-account-cant-be-used-to-activate-message"></a>"계정에서 찾은 제품을 사용 하 여 정품 인증을 받을 수 없습니다." 라는 Office 앱 수정 "메시지
 
@@ -29,8 +29,8 @@ ms.locfileid: "43766823"
 - [정품 인증 문제 해결사](https://aka.ms/SARA-OfficeActivation-Alchemy)를 실행하고 컴퓨터를 다시 시작합니다.
 - 영향을 받는 컴퓨터에서 [Office 정품 인증 상태를 다시 설정](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)합니다.
 
-공유 컴퓨터 시나리오의 경우 [Microsoft 365 앱 엔터프라이즈에 대 한 공유 컴퓨터 정품 인증과 관련 된 문제 해결](https://docs.microsoft.com/deployoffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)을 참조 하세요.
+공유 컴퓨터 시나리오의 경우 [Microsoft 365 앱 엔터프라이즈에 대 한 공유 컴퓨터 정품 인증과 관련 된 문제 해결](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation)을 참조 하세요.
 
 자세한 내용은 다음을 참조하세요. 
-- [Microsoft 365 응용 프로그램을 열면 구독 알림이 나타난다](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+- [Microsoft 365 응용 프로그램을 열면 구독 알림이 나타남](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 - [Office 정품 인증 문제 해결](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
