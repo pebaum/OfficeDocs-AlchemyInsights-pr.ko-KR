@@ -13,13 +13,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: eeff05f8dff1fec44b1eba9a7977309c66ba45fc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: de9c053dfaa3842c6539a324324a31fd53a8c761
+ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716214"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44021540"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a>볼륨 라이선스 엔터프라이즈 계약이 잘못 된 계정에서 활성화 됨
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>볼륨 라이선스 엔터프라이즈 계약이 잘못 된 계정에서 활성화 되었거나 계정 간에 라이선스를 전송 하는 경우
 
-볼륨 라이선스를 통해 구매한 구독을 찾은 경우 잘못 된 테 넌 트에서 엔터프라이즈 계약을 활성화 한 경우 "사용자에 게 전화를 드리겠습니다." 옵션을 사용 하 여 지원 엔지니어에 게 문의 하세요.
+볼륨 라이선스를 통해 구매한 구독을 찾은 **경우 엔터프라이즈 계약이** **잘못 된 테 넌 트**에서 활성화 되었거나, 한 테 넌 트에서 다른 사용자에 게 라이선스를 **전송** 하려는 경우 [Microsoft 볼륨 라이선스 서비스 센터](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center)에 문의 하세요.
