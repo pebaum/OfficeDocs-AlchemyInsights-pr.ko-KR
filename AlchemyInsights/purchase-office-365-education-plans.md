@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Education 플랜 구입
+title: 교육용 Microsoft 365 - 승인됨
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 915d625dbf8726787e9bcd45e0cf7b025e90ead9
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789380"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005408"
 ---
-# <a name="purchase-microsoft-365-education-plans"></a>Microsoft 365 Education 플랜 구입
+# <a name="microsoft-365-for-education---approved"></a>교육용 Microsoft 365 - 승인됨
 
 Microsoft 365 Education을 구입할 수 있도록 승인받았습니다.  구입하려면 다음과 같이 하세요.
 
@@ -28,6 +28,8 @@ Microsoft 365 Education을 구입할 수 있도록 승인받았습니다.  구�
 2. **Education Plans**(교육 요금제) 아래의 목록에서 선택합니다.
 
 3. 구입할 구독을 마우스로 가리키고 **지금 구입**을 클릭합니다.
+
+4. [Microsoft 365 Education 테넌트 설정](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
 
 **Teams 설정**
 
