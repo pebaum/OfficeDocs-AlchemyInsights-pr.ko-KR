@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 5741edef38f15bfa546aba3a2868c4621da4934e
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 19871ba1cb6d12be3c0eab462adcbe0840afeebe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417726"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061785"
 ---
 # <a name="billing-and-payment"></a>대금 청구 및 지불
 
@@ -34,13 +34,13 @@ ms.locfileid: "42417726"
 
 새 카드를 추가 했지만 이전 신용 카드에 대 한 거부 표시가 여전히 남아 있으면 새 카드를 구독에 연결 해야 할 수 있습니다.
 
-1. **청구** > [제품 & 서비스로](https://go.microsoft.com/fwlink/p/?linkid=842054)이동 합니다.
+1. **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **대금 청구** > 로 이동 합니다.
 
-2. 새 카드나 은행 계좌에 지불 하려는 구독을 선택 합니다. **청구** 섹션 아래의 결제 방법 옆에 있는 **편집**을 클릭 합니다.
+2. 새 카드 또는 은행 계좌로 결제하려는 구독을 선택합니다. **청구** 섹션에서 결제 방법 옆에 있는 **편집**을 클릭합니다.
 
-3. 현재 결제 방법 옆의 **변경을** 클릭 합니다.
+3. 현재 결제 방법 옆에 **변경**을 클릭합니다.
 
-4. 드롭다운 메뉴에서 대체 결제 방법을 선택 하거나 새 결제 방법을 추가 합니다.
+4. 드롭다운 메뉴에서 대체 결제 방법을 선택하거나 새 결제 방법을 추가합니다.
 
 [결제 방법 추가, 업데이트 또는 제거](https://go.microsoft.com/fwlink/?linkid=2118133)를 참조 하세요.
 

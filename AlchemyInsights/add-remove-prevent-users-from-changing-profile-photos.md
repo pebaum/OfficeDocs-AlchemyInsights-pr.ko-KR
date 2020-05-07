@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 2b709313a1b88e2c3e0f99ad9f445910f0ca0fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671499"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062002"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>사용자가 프로필 사진을 변경 하지 못하도록 추가, 제거 또는 차단
 
@@ -24,6 +24,6 @@ ms.locfileid: "43671499"
 
 - **프로필 사진 제거:** 프로필 사진은 [Azure Active Directory 사용자 관리](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) 의 관리자 또는 Microsoft 팀 사용자 프로필의 사용자가 제거할 수 있습니다.
 
-- **차단 프로필 사진 변경 내용:** 문서에 대 한 Outlook Web App 정책을 추가 [하거나 microsoft 365 프로필 사진을 변경 하기 위한 사용 권한을 제한 하](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d)여 모든 microsoft 365 *에 대해 사진 변경 내용을 차단할 수 있습니다.
+- **차단 프로필 사진 변경 내용:** 문서에 대 한 Outlook Web App 정책을 추가 [하거나 microsoft 365 프로필 사진을 변경 하기 위한 사용 권한을 제한 하](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d)여 모든 microsoft 365 *에 대해 사진 변경 내용을 차단할 수 있습니다.
 
 * Microsoft 팀에서는 현재 Outlook Web App 정책을 지원 하지 않으므로 이전에는 2020에서이 기능에 대 한 지원을 추가할 수 있습니다.

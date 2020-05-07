@@ -3,7 +3,7 @@ title: 송장 별 결제
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "492"
 - "1500024"
 ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
-ms.openlocfilehash: f9f9090eeb2770a8ccb82b3c34a46f2446fc4c55
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e4291e4c16b1edb68efd97ca7fbb4ae03685fa37
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555311"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062398"
 ---
 # <a name="pay-by-invoice"></a>송장 별 결제
 
-Office 365 구독 요금이 특정 금액(이 금액은 서비스 위치에 따라 다름)을 초과할 경우 수표 또는 EFT를 사용하여 송장으로 결제하는 옵션을 선택할 수 있습니다. 고액의 송장 결제에는 신용 검사가 필요할 수 있습니다. 신용 검사가 필요한 경우 구독을 구매할 때 알림을 받습니다. 연락에 동의한 경우 신용 승인 신청에 대한 자세한 정보가 포함된 전자 메일을 받습니다. 신용 검사는 보통 영업일 기준 2일 이내에 완료됩니다.
+Microsoft 365 구독 비용이 특정 금액 (이 값은 서비스 위치에 따라 다름)을 초과 하는 경우에는 EFT를 사용 하 여 송장으로 결제 옵션을 사용할 수 있습니다. 고액의 송장 결제에는 신용 검사가 필요할 수 있습니다. 신용 검사가 필요한 경우 구독을 구매할 때 알림을 받습니다. 연락에 동의한 경우 신용 승인 신청에 대한 자세한 정보가 포함된 전자 메일을 받습니다. 신용 검사는 보통 영업일 기준 2일 이내에 완료됩니다.
   
-구독을 송장으로 결제하는 경우 청구서를 확인할 수 있다는 내용의 전자 메일을 받습니다. 이 전자 메일은 청구서 사본을 포함하지 않습니다. 그러나 [전자 메일로 청구서 복사본을 받도록](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email)선택할 수도 있습니다. 청구서에는 결제 옵션에 대한 세부 정보가 포함됩니다. 구독을 구매할 때 PO(구매 주문) 번호를 입력한 경우 해당 번호가 청구서에 표시됩니다. 청구서를 확인하는 방법에 대한 자세한 내용은 [비즈니스용 Office 365 청구서 또는 송장 보기](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)를 참조하세요.
+구독을 송장으로 결제하는 경우 청구서를 확인할 수 있다는 내용의 전자 메일을 받습니다. 이 전자 메일은 청구서 사본을 포함하지 않습니다. 그러나 [전자 메일로 청구서 사본을 받도록](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email) 선택할 수도 있습니다. 청구서에는 결제 옵션에 대한 세부 정보가 포함됩니다. 구독을 구매할 때 PO(구매 주문) 번호를 입력한 경우 해당 번호가 청구서에 표시됩니다. 청구서를 확인하는 방법에 대한 자세한 내용은 [청구서 또는 송장 보기](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)를 참조하세요.
   
-송장에서 지불 하는 방법에 대 한 자세한 내용은 [Office 365 비즈니스 구독에 대 한 결제](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription)를 참조 하세요.
+송장 지불에 대해 자세히 알아보려면 [구독에 대 한 결제](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)를 참조 하세요.
   
-결제 방법 변경에 [대 한 자세한 내용은 Office 365 For Business 결제 방법 변경을](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)참조 하세요.
+결제 방법 변경에 대 한 자세한 내용은 [결제 방법 변경을](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)참조 하세요.

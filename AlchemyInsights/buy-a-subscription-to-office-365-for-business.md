@@ -12,12 +12,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 07505ce77b392f5b22ae2a2cf0519d4eadda9d02
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712213"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061749"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>무료 평가판에서 Microsoft 365 구독 구입
 
@@ -25,7 +25,7 @@ Microsoft 365를 사용해 보았지만 이제 구매할 준비가 되었습니�
   
  **평가판과 동일한 계획 구입**
   
-1. 관리 센터에서 **청구** \> [제품 및 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동합니다.
+1. 관리 센터에서 **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** \> 페이지로 이동 합니다.
 
 2. 구매할 구독을 찾습니다. **라이선스** 섹션에서 **구독 구매**를 선택 하 고 단계에 따라 체크 아웃 합니다.
 

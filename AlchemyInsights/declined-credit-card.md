@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705091"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062290"
 ---
 # <a name="declined-credit-card"></a>거절 한 신용 카드
 
-신용 카드로 결제하려다가 신용 카드가 거부된 경우에는 결제를 처리하지 못했다는 내용의 전자 메일을 받습니다. 신용 카드 [정보](https://go.microsoft.com/fwlink/p/?linkid=842054) -카드 번호, 만료 날짜, 신용 카드의 이름, 주소 (구/군/시, 시/도, 우편 번호 등)가 신용 카드 및 신용 카드 명세서와 정확히 일치 하는지 확인 합니다. [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지의 결제 **잔액** 옵션을 사용 하 여 신용 카드 정보를 업데이트 하 고 즉시 지불을 제출할 수 있습니다. 
+신용 카드로 결제하려다가 신용 카드가 거부된 경우에는 결제를 처리하지 못했다는 내용의 전자 메일을 받습니다. 신용 카드 [정보](https://go.microsoft.com/fwlink/p/?linkid=842054) -카드 번호, 만료 날짜, 신용 카드의 이름, 주소 (구/군/시, 시/도, 우편 번호 등)가 신용 카드 및 신용 카드 명세서와 정확히 일치 하는지 확인 합니다. 신용 카드 정보를 업데이트 하 고 **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** 페이지의 요금 **분배** 옵션을 사용 하 여 결제를 즉시 제출할 수 있습니다. 
 
 자세한 내용은 "신용 카드의 만료 및 지불 기한이 끝난 경우"를 참조 하세요. [Microsoft 365 for business 구독에 대 한 결제](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
   
