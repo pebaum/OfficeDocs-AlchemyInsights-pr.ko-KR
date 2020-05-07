@@ -13,18 +13,18 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 386d399ddddc553862649b548a58ff42abd0923d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: abe3f6950fa9e35eb3154832ebdaffd42bd5dc50
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711529"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44059083"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Microsoft 365 구독을 취소 하 시겠습니까?
 
 죄송 합니다.
   
-조직 데이터를 기반으로 모든 현재 구독이 25 명 미만인 것으로 예상 됩니다. 온라인으로 구독을 취소 하려면 **청구** \> [제품 & 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다. **& 작업 설정** 섹션에서 **구독 취소**를 선택 합니다.
+조직 데이터를 기반으로 모든 현재 구독이 25 명 미만인 것으로 예상 됩니다. 온라인에서 구독을 취소 하려면 **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** \> 페이지로 이동 합니다. **& 작업 설정** 섹션에서 **구독 취소**를 선택 합니다.
   
 **환불: 다음 청구 주기 내에 사용자에 게 모든 완료율이 반환 됩니다.** 
 
