@@ -12,12 +12,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 210510bf13ef3838d8f005b51222034039876426
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711421"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086680"
 ---
 # <a name="canceling-your-subscription"></a>구독 취소
 
@@ -25,9 +25,9 @@ ms.locfileid: "43711421"
   
 - 평가판 고객의 경우에는 취소할 작업이 없습니다. 결제 방법을 제공 하지 않으면 평가판 구독이 자동으로 만료 됩니다.
 
-- 할당 된 라이선스가 25 개 미만이 면 온라인에서 구독을 취소할 수 있습니다. **청구** \> [제품 & 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다. **& 작업 설정** 섹션에서 **구독 취소**를 선택 합니다.
+- 할당 된 라이선스가 25 개 미만이 면 온라인에서 구독을 취소할 수 있습니다. **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** \> 페이지로 이동 합니다. **& 작업 설정** 섹션에서 **구독 취소**를 선택 합니다.
 
-- 라이선스가 25 개를 초과 하는 경우에는 25 개 보다 적을 때까지 사용자를 제거 하거나 "사용자에 게 전화를 걸 수 있습니다." 옵션을 사용 하 여 지원 엔지니어와 의견을 보내주시기 바랍니다.
+- 라이선스를 25 개 넘게 할당 한 경우에는 25 개 미만으로 사용자를 제거할 수 있습니다.
   
 **환불: 다음 청구 주기 내에 사용자에 게 모든 완료율이 반환 됩니다.** 
 

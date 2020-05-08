@@ -13,16 +13,16 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 83fd98202d57c2ffceac4fcac8a928626d0ca203
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666783"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062903"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>선불 Microsoft 365 갱신
 
-1. 관리 센터에서 **청구** \> [제품 및 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동합니다.
+1. 관리 센터에서 **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** \> 페이지로 이동 합니다.
 
 2. 확장 하려는 구독을 찾습니다. **청구** 섹션에서 **종료 날짜 확장**을 선택 합니다.
 

@@ -13,18 +13,18 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0ac7d1077319ab8b9aeef281b880a766b3cd98f2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 083e5298aba0ddd3b5d87cf482fdd949a2ee34da
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741833"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063263"
 ---
 # <a name="subscription-recurring-billing"></a>구독 되풀이 대금 청구
 
 매월 또는 매년 구독 비용이 청구 되는 시기를 확인 하려면 (되풀이 되는 **청구** 를 설정 해야 하는 경우) 또는 만료 ( **되풀이** 비용이 해제 되 면):
   
-1. 관리 센터에서 **청구** \> [제품 및 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동합니다.
+1. 관리 센터에서 **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** \> 페이지로 이동 합니다.
 
 2. 보다 자세히 알고자 하는 구독의 경우 **대금 청구**에서 **갱신 설정** 또는 **만료** 예정 날짜를 참조 하세요.
 

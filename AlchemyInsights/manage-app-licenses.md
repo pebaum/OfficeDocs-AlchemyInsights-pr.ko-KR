@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: c7656c23142f9dcf649f0cf6294d105603b109eb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cac8564d4939d498b2bd0e40a971b3c4d4ed09da
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762647"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063875"
 ---
 # <a name="manage-app-licenses"></a>앱 라이선스 관리
 
 ## <a name="to-change-license-quantity"></a>라이선스 수량을 변경 하려면
 
-1. **청구** > [제품 & 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동한 다음 **앱** 탭을 선택 합니다.
+1. **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **대금 청구** > 페이지로 이동한 다음 **앱** 탭을 선택 합니다.
 
 2. 관리 하려는 앱을 찾아 선택 합니다.  
 
@@ -33,7 +33,7 @@ ms.locfileid: "43762647"
 
 ## <a name="to-assign-app-licenses"></a>앱 라이선스를 할당 하려면
 
-1. **청구** > [제품 & 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동한 다음 **앱** 탭을 선택 합니다.
+1. **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **대금 청구** > 페이지로 이동한 다음 **앱** 탭을 선택 합니다.
 
 2. 관리 하려는 앱을 찾아 선택 합니다.  
 

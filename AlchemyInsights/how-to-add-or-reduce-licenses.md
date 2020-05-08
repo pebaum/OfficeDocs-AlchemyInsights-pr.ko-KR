@@ -12,18 +12,18 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: e97658ab8fff504c8adccfa7e68cce0b613aee53
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: e02e5e835446626152c8dd98207898de52ae6933
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957840"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063803"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>구독에 대 한 라이선스 추가 또는 제거
 
 라이선스를 추가/제거 하는 방법은 다음과 같습니다.
   
-1. **청구 > [구독](https://portal.office.com/adminportal/home#/subscriptions)** 으로 이동 합니다.
+1. 관리 센터에서 **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** \> 페이지로 이동 합니다.
 
 2. 라이선스를 추가/제거할 구독을 선택 합니다.
 
@@ -37,7 +37,7 @@ ms.locfileid: "43957840"
 
 라이선스를 할당 하는 방법에 대 한 자세한 내용은 [사용자에 게 라이선스 할당](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)을 참조 하세요.
 
- **리소스**
+**리소스**
   
 - [구독 라이선스 관리-구매 또는 제거](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 

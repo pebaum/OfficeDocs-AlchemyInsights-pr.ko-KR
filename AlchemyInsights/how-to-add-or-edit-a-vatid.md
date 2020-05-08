@@ -12,20 +12,20 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: c7d998c56747799e139e8e2035cbccfe71cce14b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66ce0cfed20990a7a6bc6307360a8bc7d91822c8
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709629"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063587"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>VatID를 추가 하거나 편집 하는 방법
 
-**참고**: 미국에서 영국 등의 vat (계산 부가 가능한 세금)를 사용 하는 국가에서는 Microsoft 송장 사용자를 위해 vat를 계산 하 고 금액을 송장에 적용 합니다. 자세한 내용은 유럽 위원회에서 게시 한 [Vies 고 지](https://go.microsoft.com/fwlink/?LinkID=841741) 사항을 참조 하세요.
+**참고**: 미국에서 영국 등의 vat (계산 부가 가능한 세금)를 사용 하는 국가에서는 Microsoft 송장 사용자를 위해 vat를 계산 하 고 금액을 송장에 적용 합니다. 자세한 내용은 유럽 위원회에서 게시 한 [Vies 고 지](https://go.microsoft.com/fwlink/p/?LinkID=841741) 사항을 참조 하세요.
 
 **VatID 추가 또는 편집**
 
-1. Microsoft 365 관리 센터에서 **청구** \> [제품 & 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.
+1. Microsoft 365 관리 센터에서 [제품](https://go.microsoft.com/fwlink/p/?linkid=842054) **대금 청구** \> 페이지로 이동 합니다.
 
 2. 업데이트 하려는 구독의 구독 카드를 찾습니다.
 

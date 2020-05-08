@@ -12,18 +12,18 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 733625a79fe2da5436e9b14899121fd02132bf0e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 039a60a6a4eece841fc494f619f13f1021b8906a
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789164"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064363"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>다른 Microsoft 365 for business 구독으로 전환
 
 비즈니스가 변경 되거나 더 많은 기능이 필요한 경우 새 요금제로 업그레이드할 수 있습니다.
   
-1. 관리 센터에서 **청구 \> [제품 & 서비스로](https://go.microsoft.com/fwlink/p/?linkid=842054)** 이동 합니다.
+1. 관리 센터에서 **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** \> 페이지로 이동 합니다.
 
 2. 업그레이드할 구독을 선택 합니다.
 

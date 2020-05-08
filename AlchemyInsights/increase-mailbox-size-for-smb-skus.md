@@ -11,25 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 1f4832ee74470ec2cb0f61fcc50ac559d3767791
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 74bbfc03335ece92c09805f419a5d9544e8c7506
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714084"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064291"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>사서함 크기를 늘리도록 요금제 전환
+# <a name="upgrade-plans-to-increase-mailbox-size"></a>사서함 크기를 늘리도록 업그레이드 계획
 
 사서함 크기가 50 인 경우 [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) 또는 [office 365 enterprise](https://products.office.com/business/office-365-enterprise-e5-business-software)e 3로 전환 하 여 사서함 크기를 100로 높일 수 있습니다. 다른 구독으로 전환 하는 단계는 다음과 같습니다.
   
-1. Microsoft 365 관리 센터에서 [구독](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 하거나 **대금 청구** \> **구독**을 선택 합니다.
-    
-2. 사용할 수 있는 새 요금제 목록을 보려면 **요금제 전환을** 선택 합니다. 
-    
-3. 계획을 선택 하 여 월별 새 총 비용을 확인할 수 있습니다. **키 정보**를 확인 하 고 **다음** 을 선택 하 여 체크 아웃 합니다. 
-    
-4. 체크 아웃이 끝나면 Microsoft 365에서 스위치를 완료 하는 데 몇 분 정도 걸립니다. 바로 새 구독 사용을 시작할 수 있습니다.
-    
-자세한 내용은 [다른 Microsoft 365 구독으로 전환을](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)참조 하세요.
-  
+1. Microsoft 365 관리 센터에서[제품](https://go.microsoft.com/fwlink/p/?linkid=842054) **대금 청구** > 페이지로 이동 합니다.
 
+2. 업그레이드할 구독을 선택한 다음 **업그레이드** 탭을 선택 하 여 사용 가능한 새 계획 목록을 확인 합니다.
+
+3. 계획을 선택 하 여 월별 새 총 비용을 확인할 수 있습니다. **키 정보**를 확인 하 고 **다음** 을 선택 하 여 체크 아웃 합니다.
+
+4. 체크 아웃이 끝나면 Microsoft 365에서 스위치를 완료 하는 데 몇 분 정도 걸립니다. 바로 새 구독 사용을 시작할 수 있습니다.
+
+자세한 내용은 [다른 요금제로 업그레이드를](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)참조 하세요.

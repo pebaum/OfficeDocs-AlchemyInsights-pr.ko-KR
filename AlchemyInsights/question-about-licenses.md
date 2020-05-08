@@ -12,18 +12,18 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 0d3d788d913137d1083326ee5b69ce4ce5d4178d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 03fb25b88b06f85ea4d2dfe53b123ce77c39aaf4
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698280"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062686"
 ---
 # <a name="questions-about-your-microsoft-365-license"></a>Microsoft 365 라이선스에 대 한 질문
 
 구매한 라이선스의 수 또는 구독에서 할당 된 라이선스 수를 확인 하려면 다음을 수행 합니다.
   
-1. 관리 센터에서 **청구** \> [제품 및 서비스](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동합니다.
+1. 관리 센터에서 **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** \> 페이지로 이동 합니다.
 
 2. 더 자세히 알고 싶은 구독을 찾습니다. 비용을 지불 하는 라이선스의 수와 할당할 수 있는 횟수를 확인할 수 있습니다.
 

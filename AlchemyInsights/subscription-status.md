@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: b9ced670e412949b67a114c54f6ccf9b8e56656b
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: cc0a7c708aafc7c6c9680deefd6cbf65991a4d18
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417705"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063227"
 ---
 # <a name="subscription-status"></a>구독 상태
 
-구독 상태는 Microsoft 365 관리 센터의 제품 및 서비스 페이지에서 찾을 수 있습니다.
+구독 상태는 Microsoft 365 관리 센터의 **제품** 페이지에서 찾을 수 있습니다.
 
-1. **청구** > [제품 & 서비스로](https://go.microsoft.com/fwlink/p/?linkid=842054)이동 합니다.
+1. **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **대금 청구** > 로 이동 합니다.
 
 2. 구독의 상태에 문제가 있는 경우 구독 세부 정보의 청구 섹션에서 "만료" 또는 "사용 안 함" 상태를 확인 하거나 알림 신청 옆에 빨간색 경고 아이콘을 표시 합니다.
 
@@ -30,11 +30,11 @@ ms.locfileid: "42417705"
 
 **만료 날짜**
 
-1. **청구** > [제품 & 서비스로](https://go.microsoft.com/fwlink/p/?linkid=842054)이동 합니다.
+1. **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **대금 청구** > 로 이동 합니다.
 
 2. 보기에 따라 만료 날짜는 **날짜** 를 표시 하는 가장 오른쪽 열에 표시 되거나 **만료**예정 옆에 있는 구독 세부 정보의 **청구** 섹션에 나타납니다.
 
 **라이선스**
 
-구입 하 고 사용 중인 라이선스의 수는 [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지의 구독에 나열 되어 있습니다.
+구입 하 고 사용 중인 라이선스의 수는 **제품** 페이지의 구독에 나열 됩니다.
 
