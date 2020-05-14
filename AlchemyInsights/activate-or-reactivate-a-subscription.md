@@ -13,10 +13,10 @@ ms.custom:
 - "1500028"
 - "482"
 ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062110"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>구독 활성화 또는 다시 활성화
@@ -33,7 +33,7 @@ ms.locfileid: "44062110"
 
 구독 만료, Microsoft에 의해 사용 하지 않도록 설정 된 경우 또는 구독 기간 중에 사용자가 취소 한 경우에는 관리 센터에서 다시 활성화할 수 있습니다.
   
-1. Microsoft 365 관리 센터에서[제품](https://go.microsoft.com/fwlink/p/?linkid=842054) **대금 청구** > 페이지로 이동 합니다.
+1. Microsoft 365 관리 센터에서 제품 **대금 청구**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.
 
 2. 다시 활성화할 구독을 선택한 다음 **다시 활성화**를 선택 합니다. 가능한 작업으로 **다시 활성화**가 표시되지 않으면 [지원에 연락](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)하여 구독을 다시 활성화하세요.
 

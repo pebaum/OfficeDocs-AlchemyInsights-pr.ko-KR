@@ -14,17 +14,17 @@ ms.custom:
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
 ms.openlocfilehash: 903e4a83a00b2ab8d6068b3bc7ee88a73e6d5cdc
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063839"
 ---
 # <a name="manage-recurring-billing"></a>되풀이 되는 대금 청구 관리
 
 Microsoft 365 관리 센터에서 되풀이 되는 대금 청구를 설정 하거나 해제할 수 있습니다.
   
-1. 관리 센터에서 **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** \> 페이지로 이동 합니다.
+1. 관리 센터에서 **Billing** \> **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** 청구 페이지로 이동 합니다.
 
 2. **청구**에서 **갱신 켜기** 또는 **만료 설정**옆에 있는 **편집**을 선택 합니다.
 

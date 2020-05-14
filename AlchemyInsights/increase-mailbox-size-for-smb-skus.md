@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
 ms.openlocfilehash: 74bbfc03335ece92c09805f419a5d9544e8c7506
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064291"
 ---
 # <a name="upgrade-plans-to-increase-mailbox-size"></a>사서함 크기를 늘리도록 업그레이드 계획
 
 사서함 크기가 50 인 경우 [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) 또는 [office 365 enterprise](https://products.office.com/business/office-365-enterprise-e5-business-software)e 3로 전환 하 여 사서함 크기를 100로 높일 수 있습니다. 다른 구독으로 전환 하는 단계는 다음과 같습니다.
   
-1. Microsoft 365 관리 센터에서[제품](https://go.microsoft.com/fwlink/p/?linkid=842054) **대금 청구** > 페이지로 이동 합니다.
+1. Microsoft 365 관리 센터에서 제품 **대금 청구**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.
 
 2. 업그레이드할 구독을 선택한 다음 **업그레이드** 탭을 선택 하 여 사용 가능한 새 계획 목록을 확인 합니다.
 

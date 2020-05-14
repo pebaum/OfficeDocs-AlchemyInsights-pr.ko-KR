@@ -14,17 +14,17 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 4a91b71d297edd9331d955ece8c11c2d1eb86d29
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44061966"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>선불 구독에 좌석 추가
 
 선불 라이선스는 25 자의 영숫자 코드로 발급 됩니다. 필요한 라이선스를 구매한 후 구독에 추가할 수 있습니다. 
 
-1. 관리 센터에서**[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** > 페이지로 이동 합니다.
+1. 관리 센터에서 **Billing**  >  **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** 청구 페이지로 이동 합니다.
 
 2. 라이선스를 추가 하려는 구독을 찾습니다. **라이선스** 섹션에서 **라이선스 추가**를 선택 합니다.
 

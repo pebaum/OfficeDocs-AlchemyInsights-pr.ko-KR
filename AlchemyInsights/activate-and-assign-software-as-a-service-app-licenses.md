@@ -12,17 +12,17 @@ ms.custom:
 - "9000563"
 - "2422"
 ms.openlocfilehash: f75fe2a4d6ceb094dcf490b6c2a21b4c8254c4ce
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062146"
 ---
 # <a name="activate-and-assign-software-as-a-service-app-licenses"></a>소프트웨어 as-서비스 앱 라이선스 정품 인증 및 할당 
 
 ## <a name="to-activate-apps"></a>앱을 활성화 하려면
 
-1. 관리 센터에서**[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** > 페이지로 이동한 다음 **앱** 탭을 선택 합니다.
+1. 관리 센터에서 **Billing**  >  **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** 청구 페이지로 이동한 다음 **앱** 탭을 선택 합니다.
 
 2. 관리 하려는 앱을 찾아 선택 합니다.
 
@@ -30,7 +30,7 @@ ms.locfileid: "44062146"
 
 ## <a name="to-assign-app-licenses"></a>앱 라이선스를 할당 하려면
 
-1. 관리 센터에서**[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** > 페이지로 이동한 다음 **앱** 탭을 선택 합니다.
+1. 관리 센터에서 **Billing**  >  **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** 청구 페이지로 이동한 다음 **앱** 탭을 선택 합니다.
 
 2. 관리 하려는 앱을 찾아 선택 합니다.  
 

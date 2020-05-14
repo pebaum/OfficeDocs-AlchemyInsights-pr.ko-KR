@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
 ms.openlocfilehash: adee1c5d1ffc23f54580549ab666ee8fac579263
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063047"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>비즈니스용 OneDrive에서 저장소를 늘리는 방법
@@ -27,6 +27,6 @@ ms.locfileid: "44063047"
   
 비즈니스용 OneDrive에서 저장소를 향상 시키려면 **비즈니스용 Onedrive 계획 2** 또는 **Office 365 Enterprise**e 3이 포함 된 구독을 선택 합니다. 
   
-요금제를 변경 하려면 Microsoft 365 관리 센터에서 **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **대금 청구** \> 페이지로 이동 하 여 변경할 구독을 선택한 다음 **업그레이드** 탭을 선택 합니다.
+요금제를 변경 하려면 Microsoft 365 관리 센터에서 제품 **대금 청구** 페이지로 이동 하 여 \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** 변경할 구독을 선택한 다음 **업그레이드** 탭을 선택 합니다.
   
 요금제 및 비즈니스용 OneDrive 저장소를 전환 하는 방법에 대 한 자세한 내용은 [다른 Microsoft 365 for business 요금제](https://go.microsoft.com/fwlink/?LinkId=2031117) 및 [비즈니스용 onedrive 서비스 설명을](https://go.microsoft.com/fwlink/p/?LinkId-2031122)참조 하세요.

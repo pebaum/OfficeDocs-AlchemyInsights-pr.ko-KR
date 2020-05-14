@@ -13,10 +13,10 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 39512e97c9fba1e15a2c88ce7bc1de8a15c65cc0
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058758"
 ---
 # <a name="change-app-license-quantity"></a>앱 라이선스 수량 변경
@@ -25,7 +25,7 @@ ms.locfileid: "44058758"
 
 ## <a name="to-change-license-quantity"></a>라이선스 수량을 변경 하려면
 
-1. **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **대금 청구** > 페이지로 이동한 다음 **앱** 탭을 선택 합니다.
+1. 제품 **대금 청구**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** 페이지로 이동한 다음 **앱** 탭을 선택 합니다.
 
 2. 관리 하려는 앱을 찾아 선택 합니다.  
 
@@ -35,7 +35,7 @@ ms.locfileid: "44058758"
 
 ## <a name="to-assign-app-licenses"></a>앱 라이선스를 할당 하려면
 
-1. **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **대금 청구** > 페이지로 이동한 다음 **앱** 탭을 선택 합니다.
+1. 제품 **대금 청구**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** 페이지로 이동한 다음 **앱** 탭을 선택 합니다.
 
 2. 관리 하려는 앱을 찾아 선택 합니다.  
 

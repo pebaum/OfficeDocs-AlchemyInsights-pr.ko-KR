@@ -13,17 +13,17 @@ ms.custom:
 - "652"
 - "2000017"
 ms.openlocfilehash: 0362ef42344aba57eca276a9fafb5e847dd9996f
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063911"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Microsoft 365 비즈니스용 앱 구독에 대 한 라이선스를 구입 하는 방법
 
 사용자에 게 라이선스를 할당할 때 라이선스를 추가로 구입 해야 할 수도 있습니다. 이렇게 하려면 다음을 실행합니다.
   
-1. 관리 센터에서 **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** \> 페이지로 이동 합니다.
+1. 관리 센터에서 **Billing** \> **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** 청구 페이지로 이동 합니다.
 
 2. 라이선스를 추가할 구독을 찾은 다음 **라이선스 추가/제거**를 선택 합니다.
 

@@ -13,10 +13,10 @@ ms.custom:
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
 ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064235"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>사서함 크기를 늘리도록 구독 전환
@@ -25,7 +25,7 @@ ms.locfileid: "44064235"
   
 사서함 크기가 50 이면 [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) 또는 [office 365 enterprise](https://products.office.com/business/office-365-enterprise-e5-business-software)e 3로 전환 하 여 100 gb로 늘릴 수 있습니다. 다른 구독으로 전환 하는 단계는 다음과 같습니다.
   
-1. Microsoft 365 관리 센터에서 **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **대금 청구** \> 페이지로 이동 합니다.
+1. Microsoft 365 관리 센터에서 제품 **대금 청구** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** 페이지로 이동 합니다.
 
 2. 업그레이드할 구독을 선택 합니다.
 

@@ -13,10 +13,10 @@ ms.custom:
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
 ms.openlocfilehash: 66ce0cfed20990a7a6bc6307360a8bc7d91822c8
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063587"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>VatID를 추가 하거나 편집 하는 방법
@@ -25,7 +25,7 @@ ms.locfileid: "44063587"
 
 **VatID 추가 또는 편집**
 
-1. Microsoft 365 관리 센터에서 [제품](https://go.microsoft.com/fwlink/p/?linkid=842054) **대금 청구** \> 페이지로 이동 합니다.
+1. Microsoft 365 관리 센터에서 제품 **대금 청구** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) 페이지로 이동 합니다.
 
 2. 업데이트 하려는 구독의 구독 카드를 찾습니다.
 

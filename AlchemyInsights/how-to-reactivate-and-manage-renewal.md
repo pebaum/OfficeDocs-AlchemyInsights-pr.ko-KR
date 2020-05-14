@@ -14,17 +14,17 @@ ms.custom:
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
 ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064091"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>되풀이 되는 대금 청구를 다시 활성화 하 고 관리 하는 방법
 
 만료 된 구독을 보유 하 고 있는 것 같습니다. 이를 다시 활성화 하려면 방법은 다음과 같습니다.
   
-1. 관리 센터에서 **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** \> 페이지로 이동 합니다.
+1. 관리 센터에서 **Billing** \> **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** 청구 페이지로 이동 합니다.
 
 2. 다시 활성화하려는 구독을 찾습니다. **청구** 섹션에서 **다시 활성화**를 선택 합니다.
 
@@ -36,7 +36,7 @@ ms.locfileid: "44064091"
 
 월별 또는 연간 대금 청구를 관리 하려면 되풀이 되는 **대금 청구** 를 설정 하거나 해제 합니다.
   
-1. 관리 센터에서 **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** \> 페이지로 이동 합니다.
+1. 관리 센터에서 **Billing** \> **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** 청구 페이지로 이동 합니다.
 
 2. 되풀이 청구를 관리할 구독을 선택합니다.
 

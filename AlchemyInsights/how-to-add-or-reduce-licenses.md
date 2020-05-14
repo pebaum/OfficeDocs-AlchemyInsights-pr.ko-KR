@@ -13,17 +13,17 @@ ms.custom:
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
 ms.openlocfilehash: e02e5e835446626152c8dd98207898de52ae6933
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063803"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>구독에 대 한 라이선스 추가 또는 제거
 
 라이선스를 추가/제거 하는 방법은 다음과 같습니다.
   
-1. 관리 센터에서 **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** \> 페이지로 이동 합니다.
+1. 관리 센터에서 **Billing** \> **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** 청구 페이지로 이동 합니다.
 
 2. 라이선스를 추가/제거할 구독을 선택 합니다.
 

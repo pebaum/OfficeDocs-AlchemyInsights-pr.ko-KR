@@ -12,10 +12,10 @@ ms.custom:
 - "9001519"
 - "3576"
 ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062470"
 ---
 # <a name="find-and-activate-my-product-key"></a>제품 키 찾기 및 정품 인증
@@ -32,7 +32,7 @@ ms.locfileid: "44062470"
 
 **참고**: 제품 키를 사용 하 여 만료 날짜를 연장 하거나 기존 Microsoft 365 Business Premium Standard 구독에 라이선스를 추가 하려면 동일한 Microsoft 365 구독에 대해 사용 되지 않는 새 키가 있어야 합니다.  이미 회수 된 키는 다시 사용할 수 없으므로 원래 Microsoft 365 제품 키를 입력 하는 것은 작동 하지 않습니다.
 
-1. 관리 센터에서**[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** > 페이지로 이동 합니다.
+1. 관리 센터에서 **Billing**  >  **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** 청구 페이지로 이동 합니다.
 
 2. 만료 날짜를 연장 하거나 라이선스를 추가 하려는 구독을 찾습니다.  [종료 날짜 확장](https://go.microsoft.com/fwlink/p/?linkid=842054) 또는 [라이선스 추가](https://go.microsoft.com/fwlink/p/?linkid=842054)를 클릭 합니다.
 

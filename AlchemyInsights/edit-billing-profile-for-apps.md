@@ -13,17 +13,17 @@ ms.custom:
 - "9000564"
 - "2423"
 ms.openlocfilehash: 98b8092e6c22039703dfbeafb9a8194b688d0afe
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062542"
 ---
 # <a name="edit-billing-profile-for-apps"></a>앱에 대 한 청구 프로필 편집
 
 ## <a name="to-change-the-billing-profile-on-apps"></a>앱에서 대금 청구 프로필을 변경 하려면
 
-1. **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **대금 청구** > 페이지로 이동한 다음 **앱** 탭을 선택 합니다.
+1. 제품 **대금 청구**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** 페이지로 이동한 다음 **앱** 탭을 선택 합니다.
 
 2. 관리 하려는 앱을 찾아 선택 합니다.  
 
@@ -31,6 +31,6 @@ ms.locfileid: "44062542"
 
 ## <a name="edit-billing-profiles"></a>청구 프로필 편집
 
-1. **청구** > **[금액 & 지불](https://go.microsoft.com/fwlink/p/?linkid=848039)** 페이지로 이동한 다음 **대금 청구 프로필**을 선택 합니다.
+1. **청구**  >  **[금액 & 지불](https://go.microsoft.com/fwlink/p/?linkid=848039)** 페이지로 이동한 다음 **대금 청구 프로필**을 선택 합니다.
 
 2. 목록에서 편집할 청구 프로필을 선택 합니다.

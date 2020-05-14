@@ -15,17 +15,17 @@ ms.custom:
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
 ms.openlocfilehash: 7de2ebb0226b51003a6f9caf36899122b1177ddd
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063515"
 ---
 # <a name="how-to-purchase-education-offer"></a>교육 서비스를 구매 하는 방법
 
 Office 365 Education을 구입할 수 있도록 승인받았습니다. 구입하려면 다음과 같이 하세요.
   
-1. 관리 센터에서 **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** **청구** \> 페이지로 이동 합니다.
+1. 관리 센터에서 **Billing** \> **[제품](https://go.microsoft.com/fwlink/p/?linkid=842054)** 청구 페이지로 이동 합니다.
 
 2. **학생 또는 교직원**에 대 한 평가판을 선택 합니다.
 
