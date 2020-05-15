@@ -12,19 +12,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720702"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235303"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Outlook에서 누락 된 메시지, 연락처 또는 일정 항목을 찾고 복구 하는 방법
 
-- 영향을 받는 컴퓨터에서 [전자 메일 메시지 보내기, 받기 또는 찾기 문제가](https://aka.ms/SaRA-OutlookSendReceive) 있는 경우를 사용할 수 있습니다. 이 도구는 다양 한 문제를 확인 하 고 가능한 해결 방법을 제안 합니다.
+1. Outlook에서 전자 메일 폴더 목록으로 이동한 다음 **삭제 된 항목**을 선택 합니다. **중요**: **지운** 편지함 폴더가 표시 되지 않고 **휴지통** 폴더가 표시 되지 않는 경우에는 사용자의 계정에서 더 이상 **지운** 편지함 폴더에 있는 항목의 복구를 지원 하지 않습니다.
 
-- [계정이 손상되었는지 여부를 판단합니다](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). 손상 되 면 [손상 된 전자 메일 계정에 응답 하](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) 는 단계를 수행 합니다.
+2. **홈** 메뉴에서 **삭제 된 항목을 서버에서 복구**를 클릭 합니다. **중요**: 메뉴에서 **서버에서 삭제 된 항목 복구** 명령을 사용할 수 없는 경우 계정에서는 더 이상 **지운** 편지함 폴더에 없는 항목의 복구를 지원 하지 않습니다.
 
-- [빠른 검색을 사용 하 여 메시지 또는 항목 찾기](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+3. 복구할 항목을 선택 하 고 **선택한 항목 복원을**클릭 한 다음 **확인**을 클릭 합니다.
 
-- [Windows용 Outlook에서 삭제된 항목 복구](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+**복구 된 항목은 어디로 이동 하나요?** 복구 가능한 항목 폴더에서 항목을 복구 하면 **지운** 편지함 폴더로 이동 됩니다. 항목을 복구한 후에는 **지운** 편지함 폴더에서 찾은 다음 다른 폴더로 이동할 수 있습니다.
+
+**영향을 받는 컴퓨터에서** [전자 메일 메시지 보내기, 받기 또는 찾기 문제가 있는 경우](https://aka.ms/SaRA-OutlookSendReceive) 에도 사용할 수 있습니다. 이 도구는 다양 한 문제를 확인 하 고 가능한 해결 방법을 제안 합니다.
