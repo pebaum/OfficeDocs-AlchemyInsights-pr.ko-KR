@@ -12,19 +12,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720702"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235303"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a><span data-ttu-id="77509-102">Outlook에서 누락 된 메시지, 연락처 또는 일정 항목을 찾고 복구 하는 방법</span><span class="sxs-lookup"><span data-stu-id="77509-102">How to find and recover missing messages, contacts, or calendar items in Outlook</span></span>
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a><span data-ttu-id="5c7fc-102">Outlook에서 누락 된 메시지, 연락처 또는 일정 항목을 찾고 복구 하는 방법</span><span class="sxs-lookup"><span data-stu-id="5c7fc-102">How to find and recover missing messages, contacts, or calendar items in Outlook</span></span>
 
-- <span data-ttu-id="77509-103">영향을 받는 컴퓨터에서 [전자 메일 메시지 보내기, 받기 또는 찾기 문제가](https://aka.ms/SaRA-OutlookSendReceive) 있는 경우를 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="77509-103">You can use the [I'm having problems sending, receiving, or finding email messages tool](https://aka.ms/SaRA-OutlookSendReceive) on the affected machine.</span></span> <span data-ttu-id="77509-104">이 도구는 다양 한 문제를 확인 하 고 가능한 해결 방법을 제안 합니다.</span><span class="sxs-lookup"><span data-stu-id="77509-104">This tool will check for a number of issues and will suggest possible solutions.</span></span>
+1. <span data-ttu-id="5c7fc-103">Outlook에서 전자 메일 폴더 목록으로 이동한 다음 **삭제 된 항목**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="5c7fc-103">In Outlook, go to your email folder list, and then select **Deleted Items**.</span></span> <span data-ttu-id="5c7fc-104">**중요**: **지운** 편지함 폴더가 표시 되지 않고 **휴지통** 폴더가 표시 되지 않는 경우에는 사용자의 계정에서 더 이상 **지운** 편지함 폴더에 있는 항목의 복구를 지원 하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="5c7fc-104">**Important**: If you don't see the **Deleted Items** folder, but instead see the **Trash** folder, your account doesn't support recovering an item that's no longer in your **Deleted Items** folder.</span></span>
 
-- <span data-ttu-id="77509-105">[계정이 손상되었는지 여부를 판단합니다](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised).</span><span class="sxs-lookup"><span data-stu-id="77509-105">[Determine if the account is compromised](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised).</span></span> <span data-ttu-id="77509-106">손상 되 면 [손상 된 전자 메일 계정에 응답 하](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) 는 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="77509-106">If compromised, follow the steps in [Responding to a compromised email account.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)</span></span>
+2. <span data-ttu-id="5c7fc-105">**홈** 메뉴에서 **삭제 된 항목을 서버에서 복구**를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="5c7fc-105">On the **Home** menu, click **Recover Deleted Items From Server**.</span></span> <span data-ttu-id="5c7fc-106">**중요**: 메뉴에서 **서버에서 삭제 된 항목 복구** 명령을 사용할 수 없는 경우 계정에서는 더 이상 **지운** 편지함 폴더에 없는 항목의 복구를 지원 하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="5c7fc-106">**Important**: If there is no **Recover Deleted Items From Server** command on the menu, your account doesn't support recovering an item that's no longer in your **Deleted Items** folder.</span></span>
 
-- [<span data-ttu-id="77509-107">빠른 검색을 사용 하 여 메시지 또는 항목 찾기</span><span class="sxs-lookup"><span data-stu-id="77509-107">Find the message or item using Instant Search</span></span>](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+3. <span data-ttu-id="5c7fc-107">복구할 항목을 선택 하 고 **선택한 항목 복원을**클릭 한 다음 **확인**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="5c7fc-107">Select the items that you want to recover, click **Restore Selected Items**, and then click **OK**.</span></span>
 
-- [<span data-ttu-id="77509-108">Windows용 Outlook에서 삭제된 항목 복구</span><span class="sxs-lookup"><span data-stu-id="77509-108">Recover deleted items in Outlook for Windows</span></span>](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+<span data-ttu-id="5c7fc-108">**복구 된 항목은 어디로 이동 하나요?**</span><span class="sxs-lookup"><span data-stu-id="5c7fc-108">**Where do recovered items go?**</span></span> <span data-ttu-id="5c7fc-109">복구 가능한 항목 폴더에서 항목을 복구 하면 **지운** 편지함 폴더로 이동 됩니다.</span><span class="sxs-lookup"><span data-stu-id="5c7fc-109">When you recover items from the Recoverable Items folder, they are moved to the **Deleted Items** folder.</span></span> <span data-ttu-id="5c7fc-110">항목을 복구한 후에는 **지운** 편지함 폴더에서 찾은 다음 다른 폴더로 이동할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5c7fc-110">After you recover an item, you can find it in your **Deleted Items** folder and then you can move it to another folder.</span></span>
+
+<span data-ttu-id="5c7fc-111">**영향을 받는 컴퓨터에서** [전자 메일 메시지 보내기, 받기 또는 찾기 문제가 있는 경우](https://aka.ms/SaRA-OutlookSendReceive) 에도 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5c7fc-111">You can also use the [I'm having problems sending, receiving, or finding email messages tool](https://aka.ms/SaRA-OutlookSendReceive) **on the affected machine**.</span></span> <span data-ttu-id="5c7fc-112">이 도구는 다양 한 문제를 확인 하 고 가능한 해결 방법을 제안 합니다.</span><span class="sxs-lookup"><span data-stu-id="5c7fc-112">This tool will check for a number of issues and will suggest possible solutions.</span></span>
