@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742053"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343099"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint 경고 알림이 배달 되지 않음
 
@@ -33,15 +33,6 @@ ms.locfileid: "43742053"
 
 - 메일 그룹에 알림을 보낼 수는 없으므로 보안 및 O365 그룹만 지원 됩니다.
 - 경고 전자 메일 템플릿은 사용자 지정할 수 없습니다. 이러한 사항을 구현 하려면 Microsoft FLOW 또는 SharePoint Designer 워크플로를 사용 해야 합니다.
-
-추가 정보:
-
-- **알림 설정**: 알림 설정에 대 한 자세한 내용은 [SharePoint에서 파일 또는 폴더가 변경 될 때 알림을 받으려면 알림 만들기](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918)를 참조 하십시오.
-- **경고 문제 해결**: 경고 문제 해결에 대 한 자세한 내용은 [사용자가 SharePoint Online 알림 알림을 받지 않도록](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications)합니다 .를 참조 하십시오.
-- **Advanced O365 준수 경고 정책**: 이러한 경고를 설정 하는 방법에 대 한 자세한 내용은 [준수 경고 정책을](https://docs.microsoft.com/office365/securitycompliance/alert-policies)참조 하세요.
-- **SharePoint 및 OneDrive 감사 로그**: 이러한 이벤트를 검색 하는 방법에 대 한 자세한 내용은 [Search the Audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)을 참조 하십시오.
-- **Advanced Threat Protection에서 보내는 경고**: [SharePoint 및 OneDrive에 대 한 ATP](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)를 참조 하세요.
-- **데이터 손실 방지 정책에 의해 전송 된 경고**: [DLP 정책에 대 한 전자 메일 알림을](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)참조 하세요.
 
 ## <a name="related-topics"></a>관련 항목
 

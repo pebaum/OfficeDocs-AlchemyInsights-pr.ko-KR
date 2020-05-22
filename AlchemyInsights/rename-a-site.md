@@ -10,18 +10,22 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: e72d1b0f4c9f45ee214747efa9502b2341bde8e7
-ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
+ms.openlocfilehash: 71e5388df7a36652e3da9163d82dbb2be86823e3
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42891719"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343114"
 ---
 # <a name="rename-a-sharepoint-site"></a>SharePoint 사이트 이름 바꾸기
 
-[이 문서](https://docs.microsoft.com/sharepoint/change-site-address) 에 나와 있는 단계에 따라 사이트의 이름 (예:에서 https://contoso.sharepoint.com/sites/sample1 )을 변경 합니다 https://contoso.sharepoint.com/sites/sample2.
+사이트 URL 변경/이름 바꾸기 단계는 [사이트 주소 변경](https://docs.microsoft.com/sharepoint/change-site-address)에 설명 되어 있습니다. 예를 들어로 변경할 수 https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 있습니다.
 
-**참고:** SharePoint Online URL의 도메인 이름 (URL의 contoso 부분)은 변경할 수 없습니다. 
+이름을 바꾸는 동안 알려진 오류 [는 SharePoint 사이트 주소의 이름을 바꿀 때 오류](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)를 참조 하십시오.
+
+이름을 바꾼 후 알려진 효과에 대 한 자세한 내용은 [사이트 주소 변경의 결과](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address)를 참조 하세요.
+
+**참고:** SharePoint Online URL에서는 위의 예에서 URL의 "contoso" 부분에 있는 도메인 이름을 변경할 수 없습니다. 
 
 자세한 내용은 다음을 참조하세요.
 
