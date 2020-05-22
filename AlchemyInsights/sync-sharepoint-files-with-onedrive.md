@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767039"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343178"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>SharePoint Online의 "탐색기에서 열기" 문제 해결
 
@@ -28,9 +28,6 @@ ms.locfileid: "43767039"
 - [탐색기에서 열기를 사용하여 라이브러리 파일 복사 또는 이동](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **참고:**
+>- 탐색기에서 열기는 Internet Explorer 10 또는 11에서만 지원됩니다. 탐색기에서 열기는 Microsoft Edge가 포함된 Windows, Google Chrome, Mozilla Firefox, 또는 Mac 플랫폼에서 작동하지 않습니다. 이러한 이유로, 탐색기 보기 옵션은 회색으로 표시될 수 있습니다.
 >
 >- 탐색기에서 열기 단추는 새 라이브러리 환경에 표시되지 않습니다. 오른쪽 위의 **보기** 드롭다운(현재 보기에 따라 드롭다운 이름이 변경됨)을 클릭한 다음, **파일 탐색기에서 보기**를 선택합니다.
->
->- 탐색기에서 열기는 Internet Explorer 10 또는 11에서만 지원됩니다. 탐색기에서 열기는 Microsoft Edge가 포함된 Windows, Google Chrome, Mozilla Firefox, 또는 Mac 플랫폼에서 작동하지 않습니다. 이러한 이유로, 탐색기 보기 옵션은 회색으로 표시될 수 있습니다.
-
-
