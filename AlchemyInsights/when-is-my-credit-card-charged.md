@@ -13,12 +13,12 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 44751ea0b8036875750e5e22ef300623c2590f97
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765275"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418078"
 ---
 # <a name="when-is-my-credit-card-charged"></a>신용 카드 요금이 부과 되는 시기
 
@@ -26,4 +26,4 @@ ms.locfileid: "43765275"
   
 생성 되는 송장 1 일 이내에 되풀이 비용이 발생 합니다.
   
-충전에 실패 하는 경우 시스템은 다음 몇 주 동안의 균형을 계속 해 서 조정 합니다. 언제 든 지 결제 정보를 업데이트 하 여 다음 충전 시도가 성공 하는지 확인할 수 있습니다. 자세한 내용은 [비즈니스용 Microsoft 365에서 신용 카드 또는 은행 계좌 추가, 업데이트 또는 제거](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)를 참조 하세요.
+충전에 실패 하는 경우 시스템은 다음 몇 주 동안의 균형을 계속 해 서 조정 합니다. 언제 든 지 결제 정보를 업데이트 하 여 다음 충전 시도가 성공 하는지 확인할 수 있습니다. 자세한 내용은 [결제 방법 관리](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)를 참조 하세요.

@@ -13,12 +13,12 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c3968ef0ac4926fae3e8a0f988c464471f740a94
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062290"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417610"
 ---
 # <a name="declined-credit-card"></a>거절 한 신용 카드
 
@@ -28,4 +28,4 @@ ms.locfileid: "44062290"
   
 "거부"되었다는 메시지가 계속 표시되면 해당 은행에 문의하세요. 신용 카드가 활성화되지 않았을 수 있습니다. 예를 들어 최근에 만료 날짜가 업데이트된 신용 카드를 우편으로 받은 경우 신용 카드를 활성화해야 할 수 있습니다. 또한 해당 은행에서 신용 카드가 온라인 거래, 국제 거래 또는 반복 거래에 대해 승인되지 않았는지 여부를 알려줄 수 있습니다.  
   
-자세한 내용은 [신용 카드 및 은행 계좌 문제 해결](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)을 참조 하세요.
+자세한 내용은 [결제 방법 관리](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)를 참조 하세요.
