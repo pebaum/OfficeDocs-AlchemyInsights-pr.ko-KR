@@ -11,26 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 695d449a876c22ff441da2367ef67aaea470eb66
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 11d44e7f6616f936723f7609e9219fd529ee68e6
+ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763007"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44474431"
 ---
-# <a name="issues-signing-in-to-office-apps"></a>Office 앱에 로그인 하는 문제
+# <a name="issues-signing-into-microsoft-365-apps"></a>Microsoft 365 앱에 로그인 하는 문제
 
-Office 앱의 로그인 문제를 해결 하려면 다음을 시도 합니다.
+Microsoft 365 앱의 로그인 문제를 해결 하려면 영향을 받는 컴퓨터에서 다음 옵션을 사용해 보세요.  
 
-- Windows 설정을 사용 하 여 영향을 받는 계정을 제외한 모든 작업 계정을 제거 하 여 **회사 또는 학교 액세스**> 합니다.
-- Windows Credential Manager를 사용 하 여 [Office 자격 증명을 지웁니다](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) .<br/>
-    **참고:** Office 2016의 레지스트리 경로가 16.0로 변경 되었습니다. (예: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Office 앱을 열고 **파일** > **계정** > **로그 아웃**을 선택 합니다. 유효한 라이선스가 있는 사용자 계정을 사용 하 여 로그인 합니다. 자세한 내용은 [Office의 계정](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)을 참조하세요.
-- Mac의 경우 [Mac용 Office 2016 앱에 로그인 할 수 없습니다](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)를 참조하세요.
-- Office 2013을 사용 하 여 Microsoft 365에 연결 하는 동안 오류가 발생 하면 Office 클라이언트에 대 한 최신 인증을 사용 하도록 설정 합니다.
+- Windows의 경우 [일반적인 로그인 문제 해결에 대 한 권장 사항을](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues) 참조 하세요.
+- Mac의 경우 [Office 2016 For mac app에 로그인 할 수 없음](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail) 을 참조 하세요.
 
-자세한 내용은 다음을 참조하세요.
-- [Microsoft 365, Azure 또는 Intune에 로그인 할 수 없음](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
-- [Office 2016 빌드 16.0.7967 Windows 10에서 업데이트 후 로그인 시 연결 문제가 발생 합니다.](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
-- ["Office에서 조직의 다른 계정이 이미이 컴퓨터에 로그인 되어 있습니다." 라는 문제가 발생 합니다.](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
-- [ADFS를 사용할 때 Office 최신 인증의 로그인 문제 해결](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)
+**참고:** 로그인 또는 정품 인증 문제를 해결 하기 위해 ADAL (최신 인증) 또는 WAM (웹 계정 관리)를 사용 하지 않도록 설정 **하지 않는 것이 좋습니다**. Office 2013을 사용 하 여 Microsoft 365에 연결 하는 동안 오류가 발생 하는 경우 Office 클라이언트에 대 한 [최신 인증을 사용 하도록 설정](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) 했는지 확인 합니다.
+
+문제 해결 작업에 대 한 자세한 내용은 다음을 참조 하십시오.
+
+[Windows 10에서 Office 2016 빌드 16.0.7967로 업데이트한 후 로그인 시 연결 문제](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
+
+[Office 365, Azure 또는 Intune과 같은 조직 계정에 로그인 할 수 없음](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+
+[Office 365, Azure 또는 Intune에 로그인 할 수 없는 비 브라우저 앱 문제를 해결 하는 방법](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
+
+[Office에서 자격 증명을 입력 하 라는 메시지가 반복 해 서 표시](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
