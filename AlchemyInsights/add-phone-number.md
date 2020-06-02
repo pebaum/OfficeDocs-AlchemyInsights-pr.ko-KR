@@ -11,13 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4363"
-ms.openlocfilehash: c2b9f9668e5dc8b85d3448a2207d090afa374708
-ms.sourcegitcommit: 1739ead7594cbdaf256cb9f7a31da8f521a33725
+ms.openlocfilehash: 6626a811f0ff216f0f719a6988c2c5760f3e7803
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42937996"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417970"
 ---
 # <a name="add-phone-number"></a>전화번호 추가
 
-전화를 걸고 받을 수 있도록 조직에서 사용자를 설정하려면 먼저 사용자의 [전화번호를 받아야](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview) 합니다. 전화 시스템 설정을 완료하는 단계별 프로세스를 제공했습니다. [조직에서 전화 시스템 설정](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)을 확인하세요. 
+- 전화를 걸고 받을 수 있도록 조직에서 사용자를 설정하려면 먼저 사용자의 [전화번호를 받아야](https://docs.microsoft.com/MicrosoftTeams/manage-phone-numbers-for-your-organization/) 합니다.
+
+- Microsoft에서 어떤 음성 서비스를 제공하는지, 나에게 어떤 기능이 필요한지 잘 모르겠나요? [Microsoft Teams의 클라우드 음성](https://docs.microsoft.com/MicrosoftTeams/cloud-voice-landing-page)을 참조하세요.
+
+- [모임 초대에 전화번호를 추가](https://docs.microsoft.com/MicrosoftTeams/set-the-phone-numbers-included-on-invites-in-teams)해야 하나요?
